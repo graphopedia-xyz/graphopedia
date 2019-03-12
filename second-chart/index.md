@@ -1,7 +1,6 @@
 ---
-title: My second Blog post
-date: '2018-12-02'
-tags: ['javascript','react']
+title: My second chart
+tags: ['javascript','react','infographics']
 ---
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry.

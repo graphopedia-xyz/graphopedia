@@ -1,7 +1,5 @@
 ---
-title: My first Blog post
-date: '2018-12-02'
-image: "time.jpg"
+title: My first chart
 tags: ['javascript','react','gatsby']
 ---
 
