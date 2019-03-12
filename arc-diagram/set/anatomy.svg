@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="730px" viewBox="0 0 1200 730" enable-background="new 0 0 1200 730" xml:space="preserve">
+<g>
+	<polyline fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" points="974,723 758.067,723 627.157,592.09 	"/>
+	<path fill="none" stroke="#7581BA" stroke-width="28" stroke-miterlimit="10" d="M601.171,564.242
+		c0-150.383-121.91-272.293-272.293-272.293S56.586,413.859,56.586,564.242"/>
+	<path fill="none" stroke="#7581BA" stroke-width="28" stroke-miterlimit="10" d="M1143.414,564.242
+		c0-300.119-243.295-543.414-543.414-543.414S56.586,264.123,56.586,564.242"/>
+	<circle fill="#464A90" cx="56.586" cy="564.242" r="54.586"/>
+	<circle fill="#464A90" cx="600" cy="564.242" r="54.586"/>
+	<circle fill="#464A90" cx="1143.414" cy="564.242" r="54.586"/>
+	<g>
+		<text transform="matrix(1 0 0 1 727.8074 455.5312)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">arc-links</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 797.616 688.2695)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">nodes</text>
+	</g>
+</g>
+</svg>

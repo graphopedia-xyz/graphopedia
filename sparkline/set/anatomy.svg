@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="215px" viewBox="0 0 1200 215" enable-background="new 0 0 1200 215" xml:space="preserve">
+<g>
+	<circle fill="#464A90" cx="865.297" cy="144.105" r="49.055"/>
+	<path fill="none" stroke="#464A90" stroke-width="28.0312" stroke-miterlimit="10" d="M257.815,200l42.858-13.439
+		c50.667-15.887,94.75-47.903,125.533-91.17l0,0c15.893-22.338,41.613-35.605,69.028-35.605h0c24.94,0,48.613,10.99,64.709,30.04
+		l66.669,78.905c30.485,36.08,85.782,37.017,117.472,1.991l39.03-43.139c10.474-11.576,27.599-14.288,41.136-6.514"/>
+	<rect x="1005" y="122" fill="#AFAFAF" width="193" height="56"/>
+	<rect x="2" y="122" fill="#AFAFAF" width="193" height="56"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1028.2539 54.3591)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65.4062px">value</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 20.6875 54.3591)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65.4062px">index</text>
+	</g>
+</g>
+</svg>

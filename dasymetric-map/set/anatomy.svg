@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1040px" viewBox="0 0 1200 1040" enable-background="new 0 0 1200 1040" xml:space="preserve">
+<g>
+	<text transform="matrix(1 0 0 1 380.4746 1014.0938)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">population density</text>
+</g>
+<polygon fill="#FFFFFF" stroke="#C8CDEB" stroke-width="19.713" stroke-miterlimit="10" points="1079.493,306.327 976.436,331.624 
+	932.042,282.428 742.508,272.17 587.811,130.016 571.444,79.882 423.321,13.178 306.333,74.703 321.723,152.036 191.572,202.418 
+	120.386,190.7 25.928,263.414 13.318,533.609 54.022,616.606 132.509,629.526 179.609,742 595.128,746.076 623.667,777.702 
+	688.858,825.833 791.361,789.996 772.791,725.955 860.608,559.77 928.766,564.258 1178.751,497.699 1119.923,438.602 
+	1128.147,395.121 "/>
+<rect x="2" y="957" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -955 1038)" fill="#939FD5" width="79" height="79"/>
+<rect x="123" y="957" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -834 1159)" fill="#7581BA" width="79" height="79"/>
+<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="247" y1="997" x2="346" y2="997"/>
+<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="1024" y1="607" x2="1024" y2="508"/>
+<g>
+	<text transform="matrix(1 0 0 1 856.0508 688.5562)"><tspan x="0" y="0" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">population</tspan><tspan x="0" y="78" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">density = 0</tspan></text>
+</g>
+<rect x="256" y="521" fill="#939FD5" width="118" height="59"/>
+<rect x="315" y="521" fill="#939FD5" width="59" height="59"/>
+<rect x="551" y="639" fill="#939FD5" width="59" height="59"/>
+<rect x="715" y="312" fill="#7581BA" width="59" height="59"/>
+<polygon fill="#939FD5" points="597,252 538,252 538,311 597,311 656,311 656,252 "/>
+<rect x="715" y="371" fill="#939FD5" width="59" height="59"/>
+<rect x="774" y="371" fill="#7581BA" width="59" height="59"/>
+<polygon fill="#939FD5" points="833,312 774,312 774,371 833,371 892,371 892,312 "/>
+<rect x="138" y="462" fill="#939FD5" width="59" height="59"/>
+<rect x="630" y="580" fill="#7581BA" width="59" height="59"/>
+<rect x="226" y="312" fill="#7581BA" width="59" height="59"/>
+<rect x="285" y="312" fill="#939FD5" width="59" height="59"/>
+<rect x="167" y="252" fill="#7581BA" width="59" height="59"/>
+<g>
+	<rect x="197" y="521" fill="#7581BA" width="59" height="59"/>
+	<polygon fill="#7581BA" points="433,521 374,521 374,580 315,580 256,580 256,639 315,639 315,698 374,698 374,639 433,639 
+		433,698 492,698 551,698 551,639 551,580 492,580 492,521 	"/>
+	<rect x="492" y="462" fill="#7581BA" width="59" height="59"/>
+</g>
+</svg>

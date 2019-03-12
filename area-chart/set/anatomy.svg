@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1115px" viewBox="0 0 1200 1115" enable-background="new 0 0 1200 1115" xml:space="preserve">
+<polygon fill="#A3AEE3" points="98.358,922.229 270.277,578.68 440.139,748.685 609.702,238.914 779.56,408.822 950.302,920.312 "/>
+<g>
+	<text transform="matrix(1 0 0 1 942.5098 1111.8438)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">intervals</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 134.8848 52.7383)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">value scale</text>
+</g>
+<g>
+	<g>
+		<polyline fill="none" stroke="#464A90" stroke-width="16" stroke-miterlimit="10" points="91,44.187 91,928 1155.813,928 		"/>
+		<g>
+			<polygon fill="#464A90" points="63.077,52.357 91,4 118.923,52.357 			"/>
+		</g>
+		<g>
+			<polygon fill="#464A90" points="1147.643,955.923 1196,928 1147.643,900.077 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 256.6465 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 10.0527 766.2461)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 422.2676 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">2</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 595.498 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">3</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 935.502 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">5</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 759.8262 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">4</text>
+</g>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="59" y1="579" x2="124" y2="579"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="59" y1="409" x2="124" y2="409"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="59" y1="239" x2="124" y2="239"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="59" y1="749" x2="124" y2="749"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="270" y1="959" x2="270" y2="894"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="440" y1="961" x2="440" y2="895"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="610" y1="961" x2="610" y2="895"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="780" y1="959" x2="780" y2="894"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="950" y1="959" x2="950" y2="894"/>
+<g>
+	<text transform="matrix(1 0 0 1 4.5098 597.0273)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">2</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 4.5645 427.9102)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">3</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1.9277 254.7266)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">4</text>
+</g>
+<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="780" y1="881" x2="780" y2="413"/>
+<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="610" y1="881" x2="610" y2="239"/>
+<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="440" y1="881" x2="440" y2="747"/>
+<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="270" y1="881" x2="270" y2="573"/>
+<line fill="none" stroke="#AFAFAF" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="553" y1="409" x2="138" y2="409"/>
+<g>
+	<path fill="#AFAFAF" d="M553,241h-24v-4h24V241z M593,241h-24v-4h24V241z M511,241h-24v-4h24V241z M469,241h-24v-4h24V241z
+		 M427,241h-24v-4h24V241z M385,241h-24v-4h24V241z M343,241h-24v-4h24V241z M301,241h-24v-4h24V241z M259,241h-24v-4h24V241z
+		 M217,241h-24v-4h24V241z M175,241h-24v-4h24V241z"/>
+</g>
+<g>
+	<path fill="#C5CCED" d="M427,751h-24v-4h24V751z M385,751h-24v-4h24V751z M343,751h-24v-4h24V751z M301,751h-24v-4h24V751z
+		 M259,751h-24v-4h24V751z M217,751h-24v-4h24V751z"/>
+</g>
+<g>
+	<path fill="#AFAFAF" d="M259,581h-24v-4h24V581z M217,581h-24v-4h24V581z M175,581h-24v-4h24V581z"/>
+</g>
+<g>
+	<path fill="#AFAFAF" d="M175,751h-24v-4h24V751z"/>
+</g>
+<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="773" y1="409" x2="553" y2="409"/>
+<circle fill="#464A90" cx="779.56" cy="408.822" r="15.885"/>
+<circle fill="#464A90" cx="609.702" cy="238.964" r="15.885"/>
+<circle fill="#464A90" cx="439.844" cy="748.538" r="15.885"/>
+<circle fill="#464A90" cx="269.986" cy="578.68" r="15.885"/>
+</svg>

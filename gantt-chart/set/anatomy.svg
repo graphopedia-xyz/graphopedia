@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1200px" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 112.7056 1177.6844)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">category 1</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 540.9126 82.4872)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">dependency link</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1.0005 1009.0594)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">activity labels</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 869.3501 187.9872)"><tspan x="0" y="0" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">current day</tspan><tspan x="60.271" y="78" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">marker</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 530.2056 1009.0575)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">activity bar</text>
+	</g>
+	<rect x="6.137" y="341.974" fill="#EDEDED" width="1189.786" height="129.936"/>
+	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="451" y1="865" x2="451" y2="343"/>
+	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="600" y1="865" x2="600" y2="343"/>
+	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1196" y1="602" x2="6" y2="602"/>
+	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1196" y1="732" x2="6" y2="732"/>
+	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="749" y1="865" x2="749" y2="343"/>
+	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="898" y1="865" x2="898" y2="343"/>
+	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1047" y1="865" x2="1047" y2="343"/>
+	
+		<line fill="none" stroke="#CCCCCC" stroke-width="4.6544" stroke-miterlimit="10" x1="1195.923" y1="865.209" x2="1195.923" y2="343.332"/>
+	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1196" y1="472" x2="6" y2="472"/>
+	<polygon fill="none" stroke="#CCCCCC" stroke-width="4.6544" stroke-miterlimit="10" points="1195.923,862.881 6.137,862.881 
+		6.137,341.587 1195.528,341.587 	"/>
+	<g>
+		<text transform="matrix(1 0 0 1 34.356 561.5106)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65px">activity A</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 34.356 697.3895)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65px">activity B</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 34.356 831.4657)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65px">activity C</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 508.5923 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">1</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 34.354 426.6766)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65px">day</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 655.7192 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">2</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 801.1704 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">3</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 954.7661 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">4</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1104.8716 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">5</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4.1001 191.0946)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">time scale</text>
+	</g>
+	<rect x="4" y="1124" fill="#7581BA" width="74" height="74"/>
+	<g>
+		<text transform="matrix(1 0 0 1 642.8267 1177.6844)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">category 2</text>
+	</g>
+	<rect x="534" y="1124" fill="#464A90" width="74" height="74"/>
+	<rect x="455" y="502" fill="#C7C7C7" stroke="#7581BA" stroke-width="12.0171" stroke-miterlimit="10" width="289" height="70"/>
+	<rect x="604" y="762" fill="#7581BA" stroke="#7581BA" stroke-width="13.9482" stroke-miterlimit="10" width="140" height="69"/>
+	<rect x="460.195" y="502.358" fill="#7581BA" width="141.998" height="69.235"/>
+	<rect x="753" y="633" fill="none" stroke="#464A90" stroke-width="11.9806" stroke-miterlimit="10" width="438" height="69"/>
+	<rect x="758.117" y="632.488" fill="#464A90" width="293.229" height="69.235"/>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#464A90" stroke-width="9.3088" stroke-miterlimit="10" x1="1046.981" y1="282.824" x2="1046.981" y2="299.115"/>
+			
+				<line fill="none" stroke="#464A90" stroke-width="9.3088" stroke-miterlimit="10" stroke-dasharray="31.6127,27.0966" x1="1046.981" y1="326.211" x2="1046.981" y2="899.756"/>
+			
+				<line fill="none" stroke="#464A90" stroke-width="9.3088" stroke-miterlimit="10" x1="1046.981" y1="913.304" x2="1046.981" y2="929.595"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#464A90" stroke-width="8" stroke-miterlimit="10" points="750,537 801,537 801,604.184 			"/>
+			<g>
+				<polygon fill="#464A90" points="785.842,599.749 801,626 816.158,599.749 				"/>
+			</g>
+		</g>
+	</g>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="203" y1="955" x2="203" y2="885"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="679" y1="932" x2="679" y2="848"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="79" y1="362" x2="79" y2="213"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="776" y1="105" x2="776" y2="532"/>
+	
+		<line fill="none" stroke="#464A90" stroke-width="9.3088" stroke-miterlimit="10" x1="1046.982" y1="287.479" x2="1046.982" y2="343.332"/>
+	<circle fill="#AFAFAF" cx="775.571" cy="536.975" r="13.963"/>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1122px" viewBox="0 0 1200 1122" enable-background="new 0 0 1200 1122" xml:space="preserve">
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 588.0167 51.5449)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">dots</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 536.3976 1107.2754)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">map</text>
+	</g>
+	<polygon fill="#C8CDEB" points="1101.138,454.032 995.379,479.992 949.821,429.505 755.315,418.979 596.56,273.096 
+		579.765,259.023 427.756,190.568 307.7,253.707 323.494,295.694 189.929,347.397 116.876,335.371 19.94,409.992 3,687.275 
+		48.772,772.448 129.317,785.708 177.652,901.131 604.07,905.314 633.357,937.769 700.258,987.163 805.449,950.386 786.392,884.665 
+		876.513,714.121 946.458,718.727 1198,650.423 1142.629,589.776 1151.069,545.154 	"/>
+	<line fill="none" stroke="#7581BA" stroke-width="8" stroke-miterlimit="10" x1="654" y1="87" x2="654" y2="622"/>
+	<polyline fill="none" stroke="#7581BA" stroke-width="8" stroke-miterlimit="10" points="359,482 359,139 948,139 948,528 	"/>
+	<circle fill="#464A90" cx="652.937" cy="622.057" r="28.031"/>
+	<circle fill="#464A90" cx="358.609" cy="481.901" r="28.031"/>
+	<circle fill="#464A90" cx="947.265" cy="528.62" r="28.031"/>
+	<polyline fill="none" stroke="#7581BA" stroke-width="8" stroke-miterlimit="10" points="1194,935 1194,1042 6,1042 6,935 	"/>
+</g>
+</svg>

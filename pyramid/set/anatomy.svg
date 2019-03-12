@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1122px" viewBox="0 0 1200 1122" enable-background="new 0 0 1200 1122" xml:space="preserve">
+<g>
+	<polygon fill="#C8CDEB" points="509.086,374.455 879.52,374.455 798.585,212.584 590.021,212.584 	"/>
+	<polygon fill="#AFB8E3" points="404.805,583.018 983.801,583.018 902.867,421.148 485.74,421.148 	"/>
+	<polygon fill="#7581BA" points="196.241,1000.145 1192.365,1000.145 1111.43,838.275 277.176,838.275 	"/>
+	<polygon fill="#939FD5" points="300.523,791.581 1088.083,791.581 1007.148,629.711 381.458,629.711 	"/>
+	<polygon fill="#CFD3EB" points="613.368,165.891 775.238,165.891 694.303,4.021 	"/>
+	<g>
+		<text transform="matrix(1 0 0 1 943.0659 168.8428)"><tspan x="0" y="0" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65.003px">segment</tspan><tspan x="73.414" y="78.004" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65.003px">height</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 516.4805 1119.1787)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">bottom base</text>
+	</g>
+	<polyline fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" points="1192,1018 1192,1048 193,1048 193,1018 	
+		"/>
+	<polyline fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" points="831,214 922,214 922,370 905,370 	"/>
+	<g>
+		<text transform="matrix(1 0 0 1 0 692.499)"><tspan x="0" y="0" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65.003px">segment</tspan><tspan x="0" y="78.004" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65.003px">spacing</tspan></text>
+	</g>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="252" y1="815" x2="4" y2="815"/>
+	<g>
+		<text transform="matrix(1 0 0 1 673.2891 131.8486)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65.003px">a</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 673.2891 318.7334)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65.003px">B</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 673.2891 525.3486)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65.003px">C</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 673.2891 735.4482)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65.003px">D</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 673.2891 940.9033)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65.003px">E</text>
+	</g>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="922" y1="289" x2="1192" y2="289"/>
+</g>
+</svg>

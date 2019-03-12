@@ -1,0 +1,46 @@
+---
+layout: post
+
+title: Population Pyramid
+
+image:
+  featured: population-pyramid.png
+  main: change-this.png
+  anatomy: change-this.png
+  
+tags:
+  - lorem
+  - dolor
+  - sit-amet
+
+related:
+  - title: Lorem Ipsum
+    link: sunburst-chart
+    image: sunburst-chart.png
+  - title: Dolor Sit Amet
+    link: venn-diagram
+    image: venn-diagram.png
+
+tools:
+  - name:   Adioma Sample
+    link:   https://adioma.com
+
+  - name:   Tableau Sample
+    link:   https://www.tableau.com
+
+examples:
+  - title:  <cite>13 Coordinated Population Projection for Germany</cite> by Federal Office of Statistics of Germany
+    link:   https://service.destatis.de/bevoelkerungspyramide/
+
+  - title:  Example2 Of This Graph
+    link:   https://adioma.com/@mark
+
+---
+Alternative name: dual histogram
+
+The population pyramid is a pair of histograms positioned back to back symmetrically. The symmetry give the advantage of visual comparison between the lengths of bars on both sides.
+
+### Origin
+
+Sources:
+1.[The Grammar of Graphics by Leland Wilkinson](https://marcell.memoryoftheworld.org/Leland%20Wilkinson/The%20Grammar%20of%20Graphics%20(2658)/The%20Grammar%20of%20Graphics%20-%20Leland%20Wilkinson.pdf)

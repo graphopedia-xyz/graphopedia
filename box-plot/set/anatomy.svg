@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1200px" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<g>
+	<rect x="364" y="601" fill="#7581BA" width="149" height="224"/>
+	<rect x="364" y="302" fill="#A3AEE3" width="149" height="299"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="513" y1="153.5" x2="364" y2="153.499"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="513" y1="1050" x2="364" y2="1049.999"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="513" y1="602" x2="363.999" y2="602"/>
+	<rect x="365" y="303" fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" width="149" height="522"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="438.5" y1="298" x2="438.501" y2="149"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="439" y1="1049" x2="439.001" y2="825"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1.4277 54.0459)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">scale</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 774.7148 172.1748)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">upper extreme</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 774.7148 1067.5381)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">lower extreme</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 493.4922 1176.8701)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">outlier/single data point</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 774.7148 321.4014)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">upper quartile</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 774.7148 619.874)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">median</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 774.7148 843.3467)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">lower quartile </text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 774.7148 956.6631)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">whisker</text>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#464A90" stroke-width="16" stroke-miterlimit="10" x1="208" y1="43.187" x2="208" y2="1198"/>
+			<g>
+				<polygon fill="#464A90" points="180.077,51.357 208,3 235.923,51.357 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 109.3027 767.0928)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46px">30</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 127.9609 1198.3584)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46px">0</text>
+	</g>
+	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="180" y1="601" x2="237" y2="601"/>
+	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="180" y1="452" x2="237" y2="452"/>
+	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="180" y1="303" x2="237" y2="303"/>
+	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="180" y1="751" x2="237" y2="751"/>
+	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="180" y1="1049" x2="237" y2="1049"/>
+	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="180" y1="900" x2="237" y2="900"/>
+	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="180" y1="1196" x2="237" y2="1196"/>
+	<g>
+		<text transform="matrix(1 0 0 1 104.5449 617.7607)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46px">40</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 109.3027 1065.6436)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46px">10</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 104.5449 916.3076)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46px">20</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 104.5918 472.5693)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46px">50</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 102.3281 323.8779)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46px">60</text>
+	</g>
+	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="180" y1="153" x2="237" y2="153"/>
+	<g>
+		<text transform="matrix(1 0 0 1 102.3281 174.6045)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46px">70</text>
+	</g>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="560" y1="153" x2="747" y2="153"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="560" y1="303" x2="747" y2="303"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="560" y1="601" x2="747" y2="601"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="560" y1="825" x2="747" y2="825"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="486" y1="937" x2="747" y2="937"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="560" y1="1049" x2="747" y2="1049"/>
+	<circle fill="#464A90" cx="438.845" cy="1159.435" r="18.66"/>
+</g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1162px" viewBox="0 0 1200 1162" enable-background="new 0 0 1200 1162" xml:space="preserve">
+<g>
+	<path fill="#939FD5" d="M1099.891,650.012L1198,537.887l-98.109-112.125H618.688c72.131,0,130.812-58.681,130.812-130.812V220.2
+		h56.062L693.438,122.09L581.312,220.2h56.062v74.75c0,10.304-8.383,18.688-18.688,18.688H451h-89.266H2l74.75,242.938L2,799.512
+		h373.75h74.75v112.125h-74.75l149.5,130.812l149.5-130.812H600V799.512c0-82.266-66.794-149.223-149-149.494v-0.006H1099.891z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 2 52.0137)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">arrows point to flow direction</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 737.4316 748.123)"><tspan x="0" y="0" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">line width =</tspan><tspan x="0" y="78" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">flow amount</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2.584 1159.3398)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.7188px">flow A + flow B + flow C = 100%</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 264.209 748.2148)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.7188px">flow C = 35%</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 806.1465 556.668)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.7188px">flow B = 40%</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 399.6934 379.1367)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.7188px">flow A = 25%</text>
+	</g>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="189" y1="1099" x2="189" y2="823"/>
+</g>
+</svg>

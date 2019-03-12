@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1024px" viewBox="0 0 1200 1024" enable-background="new 0 0 1200 1024" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#AFAFAF" d="M39,877h-4v-23h4V877z M39,837h-4v-23h4V837z M39,798h-4v-23h4V798z M39,758h-4v-23h4V758z M39,718h-4v-23
+			h4V718z M39,679h-4v-23h4V679z M39,639h-4v-23h4V639z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="#AFAFAF" d="M374,877h-4v-23h4V877z M374,837h-4v-23h4V837z M374,798h-4v-23h4V798z M374,758h-4v-23h4V758z M374,718
+			h-4v-23h4V718z M374,679h-4v-23h4V679z M374,639h-4v-23h4V639z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="#AFAFAF" d="M955,877h-4v-23h4V877z M955,837h-4v-23h4V837z M955,798h-4v-23h4V798z M955,758h-4v-23h4V758z"/>
+	</g>
+</g>
+<rect x="973" y="158" fill="#AFAFAF" width="225" height="94"/>
+<rect x="973" y="397" fill="#AFAFAF" width="225" height="94"/>
+<rect x="973" y="678" fill="#AFAFAF" width="225" height="94"/>
+<g>
+	<text transform="matrix(1 0 0 1 994.9835 950.3682)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">height</text>
+</g>
+<polyline fill="none" stroke="#7581BA" stroke-width="28" stroke-miterlimit="10" points="956,205 37,205 37,580 374,580 "/>
+<polyline fill="none" stroke="#7581BA" stroke-width="28" stroke-miterlimit="10" points="955,725 373,725 373,444 955,444 "/>
+<rect x="139.21" y="139.069" fill="#A3AEE3" width="131.182" height="131.182"/>
+<rect x="139" y="513" fill="#A3AEE3" width="132" height="132"/>
+<rect x="599" y="378" fill="#A3AEE3" width="132" height="132"/>
+<rect x="599" y="659" fill="#A3AEE3" width="132" height="132"/>
+<g>
+	<text transform="matrix(1 0 0 1 182.6788 228.9678)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65px">A</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 182.7531 603.7764)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65px">B</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 627.3038 466.251)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65px">B1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 622.6202 747.3545)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65px">B2</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1.9991 1021.3037)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.8508px">49</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 354.9445 1021.3037)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.8508px">31</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 941.7531 1021.3037)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.8508px">0</text>
+</g>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="37" y1="965" x2="37" y2="898"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="373" y1="965" x2="373" y2="898"/>
+<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="953" y1="965" x2="953" y2="898"/>
+<line fill="none" stroke="#464A90" stroke-width="16" stroke-miterlimit="10" x1="37" y1="931" x2="953" y2="931"/>
+<g>
+	<text transform="matrix(1 0 0 1 1015.2843 51.5889)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">label</text>
+</g>
+<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="1086" y1="146" x2="1086" y2="66"/>
+</svg>

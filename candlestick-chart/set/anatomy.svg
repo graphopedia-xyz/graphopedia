@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1184px" viewBox="0 0 1200 1184" enable-background="new 0 0 1200 1184" xml:space="preserve">
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 25.4814 52.1885)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">high</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 785.4697 134.1377)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">upper shadow</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 785.4697 529.3799)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">real body</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 783.5283 1050.8916)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">lower shadow</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 12.9697 233.9424)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">open</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 -0.999 897.9541)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">close</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 48.1768 1182.3369)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">low</text>
+	</g>
+	<rect x="453.754" y="207.751" fill="#7581BA" width="148.981" height="677.399"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="603" y1="29" x2="454" y2="28.999"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="603" y1="1164" x2="454" y2="1163.999"/>
+	<rect x="454" y="212" fill="none" stroke="#464A90" stroke-width="18.0046" stroke-miterlimit="10" width="149" height="673"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="528" y1="208" x2="528.001" y2="24"/>
+	<line fill="none" stroke="#464A90" stroke-width="18" stroke-miterlimit="10" x1="528" y1="1164" x2="528.001" y2="885"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="193" y1="29" x2="398" y2="29"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="584" y1="117" x2="752" y2="117"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="584" y1="1034" x2="752" y2="1034"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="663" y1="513" x2="752" y2="513"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="193" y1="215" x2="398" y2="215"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="193" y1="1164" x2="398" y2="1164"/>
+	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="193" y1="885" x2="398" y2="885"/>
+</g>
+</svg>
