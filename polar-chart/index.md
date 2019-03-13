@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  Polar Are Chart 
+title:  Polar Area Chart 
 
 image:
   featured: polar-chart.png
