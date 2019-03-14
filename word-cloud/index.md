@@ -14,26 +14,20 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Bubble chart
+    link: bubble-chart
+    image: bubble-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Wordle
+    link:   http://www.wordle.net/create
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   WordClouds
+    link:   https://www.wordclouds.com/
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
-
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Good Relationships</cite> by David McCandless
+    link:   https://informationisbeautiful.net/visualizations/good-relationtips-most-commonly-given-relationship-advice/
 
 ---
 Alternative name: tag cloud

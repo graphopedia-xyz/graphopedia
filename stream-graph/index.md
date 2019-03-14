@@ -14,26 +14,27 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Area chart
+    link: area-chart
+    image: area-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   D3
+    link:   https://beta.observablehq.com/@mbostock/streamgraph-transitions
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   R 
+    link:   https://hrbrmstr.github.io/streamgraph/
+  
+  - name:   PlotDB 
+    link:   https://plotdb.com/chart/1038/
+    
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Growth of Subreddits</cite> by Nathan Yau
+    link:   https://flowingdata.com/2018/10/30/subreddit-comments/
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>A Visual History of Which Countries Have Dominated the Summer Olympics </cite> by The New York Times
+    link:   https://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html?mtrref=undefined&gwh=A81CA2E76FFBB330BC0A04EE77767241&gwt=pay
 
 ---
 Alternative name:
@@ -45,4 +46,4 @@ A stream graph is a type of stacked area chart which is shown relative to a cent
 
 Sources: 
 1. [Stacked Graphs – Geometry & Aesthetics by Lee Byron](https://ieeexplore.ieee.org/document/4658136)
-2. [The Ebb and Flow of Movies: Box Office Receipts 1986 — 2008] (https://archive.nytimes.com/screenshots/www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.jpg)
+2. [The Ebb and Flow of Movies: Box Office Receipts 1986 — 2008](https://archive.nytimes.com/screenshots/www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.jpg)

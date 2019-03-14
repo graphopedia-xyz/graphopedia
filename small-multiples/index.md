@@ -14,19 +14,14 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Sparkline
+    link: sparkline
+    image: sparkline.png
+
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
-
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   Adobe Illustrator
+    link:   https://helpx.adobe.com/illustrator/using/graphs.html
 
 examples:
   - title:  <cite>Interchange Choreography</cite> by Nicholas Rougeux

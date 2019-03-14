@@ -14,26 +14,23 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Alluvial diagram
+    link: alluvial-diagram
+    image: alluvial-diagram.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   D3
+    link:   https://syntagmatic.github.io/parallel-coordinates/
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   Plotly
+    link:   https://plot.ly/r/parallel-coordinates-plot/
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Womens Heptathlon Rio 2016</cite> by The Guardian
+    link:   https://www.theguardian.com/sport/ng-interactive/2016/aug/14/how-nafissatou-thiam-beat-the-odds-to-claim-the-heptathlon-gold-in-rio
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>The Most Valuable Brands</cite> by Valerio Pellegrini
+    link:   https://www.behance.net/gallery/27306035/100-MOST-VALUABLE-BRANDS-201015-Corriere-della-Sera
 
 ---
 Parallel coordinates is type of graph for visualizing many variables while tracing the relationship between them. The fundamental idea of parallel coordinates is to place coordinate axes in parallel, and to present a data point as a connection line between coordinate values<sup>1</sup>. In the parallel coordinates plot, each variable has its own axis and all the axes are parallel to each other. Each axis may have a different scale. Values are displayed as a series of lines that are connected between all the axes.

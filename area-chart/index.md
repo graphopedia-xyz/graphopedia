@@ -7,6 +7,8 @@ image:
   featured: area-chart.png
   main: area-chart.png
   anatomy: area-chart.png
+  
+tags:
 
 related:
   - title: Line Graph
@@ -49,10 +51,15 @@ examples:
     link:   https://en.wikipedia.org/wiki/Area_chart#/media/File:1786_Playfair_-_25_Interest_of_the_national_Debt_from_the_Revolution.jpg
 
   - title:  Internet Users by Region
-    link:  https://ourworldindata.org/wp-content/uploads/2018/09/Internet-users-by-world-region.png
+    link:   https://ourworldindata.org/wp-content/uploads/2018/09/Internet-users-by-world-region.png
     
   - title:  The American Time Survey - How Different Groups Spend their Day
-    link:  https://flowingdata.com/2009/08/10/how-people-in-america-spend-their-day/
+    link:   https://flowingdata.com/2009/08/10/how-people-in-america-spend-their-day/
+    
+  - title:  <cite>Thirty Years of Atlantic Hurricanes</cite> by Axios
+    link:   https://www.axios.com/thirty-years-of-atlantic-hurricanes-1513305322-8b3c056a-ff13-49dc-a95d-961481119907.html
+    
+    
 
 ---
 
@@ -63,7 +70,6 @@ Generally, area charts are not used to show a specific value but rather emphasiz
 
 William Playfair first an area chart  in 1786 in his book *The Commercial and Political Atlas*.
 
-Sources:
+Source
 
 1. [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)
-2. 

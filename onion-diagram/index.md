@@ -14,23 +14,18 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Pyramid chart
+    link: pyramid
+    image: pyramid.png
 
 tools:
-  - name:   Adioma Sample
+  - name:   PowerPoint
     link:   https://adioma.com
 
-  - name:   Tableau Sample
+  - name:   Apple Keynote
     link:   https://www.tableau.com
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
 
   - title:  <cite>U.S. Immigration by Origin at Birth, 1830-2015</cite> by Pedro Cruz and John Wihbey for the National Geographic
     link:   https://www.nationalgeographic.com/culture/2018/07/graphic-united-states-immigration-origins-rings-tree-culture/

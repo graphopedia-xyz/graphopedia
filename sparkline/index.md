@@ -14,26 +14,21 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Small multiples
+    link: small-multiples
+    image: small-multiples.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Adobe Illustrator
+    link:   https://helpx.adobe.com/illustrator/using/graphs.html
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Four Decades of State Unemployment Rates in Small Multiples</cite> by Matt Stiles
+    link:   http://thedailyviz.com/2016/12/14/four-decades-of-state-unemployment-rates-in-small-multiples-part-2/
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Life expectancy at birth</cite> by Nathan Yau
+    link:   https://flowingdata.com/2017/01/24/one-dataset-visualized-25-ways/02-time-series-sparklines-2/
 
 ---
 Alternative name: inline chart

@@ -37,15 +37,15 @@ tools:
   - name:   High Charts
     link:   https://www.highcharts.com
 
-  - name:   
+  - name:   R
     link:   http://www.r-graph-gallery.com/83-histogram-with-colored-tail/
 
 examples:
-  - title:  Example histogram using Fisher's famous Iris data set
-    link:   https://en.wikipedia.org/wiki/Histogram#/media/File:Iris_Petal_Length_Histogram.svg
+  - title:  <cite>Searching for Peace in Old Age</cite> by Hyperakt
+    link:   http://www.hyperakt.com/items/corriere-infographic/
 
-  - title:  Histogram plotted in Protovis
-    link:   http://mbostock.github.io/protovis/ex/histogram.html
+  - title:  <cite>The Pianogram</cite> by Joseph Yuen
+    link:   http://joeycloud.net/v/pianogram/
 
 ---
 A histogram is a graphic representation of the distribution of data. It is an estimate of the probability distribution of a continuous variable/ It is similar to a density plot and a bar chart. Unlike a density plot, a histogram shows discrete values. Unlike a bar chart, a histogram only shows one variable. The vertical axis in a histogram always shows frequency, not another variable as would be the case in a bar chart.

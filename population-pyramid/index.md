@@ -32,8 +32,8 @@ examples:
   - title:  <cite>13 Coordinated Population Projection for Germany</cite> by Federal Office of Statistics of Germany
     link:   https://service.destatis.de/bevoelkerungspyramide/
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Population of the United States</cite> via Nathan Yau
+    link:   https://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/#jp-carousel-41583
 
 ---
 Alternative name: dual histogram

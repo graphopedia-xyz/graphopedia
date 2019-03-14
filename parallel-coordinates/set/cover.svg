@@ -1,129 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1268px" height="558px" viewBox="0 0 1268 558" enable-background="new 0 0 1268 558" xml:space="preserve">
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1268 418" enable-background="new 0 0 1268 418" xml:space="preserve">
+<g id="Layer_1">
+	<g>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="831" y1="118.8" x2="846" y2="118.8"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="831" y1="46.1" x2="846" y2="46.1"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="831" y1="191.4" x2="846" y2="191.4"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="831" y1="264.1" x2="846" y2="264.1"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="831" y1="336.7" x2="846" y2="336.7"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="831" y1="409.1" x2="846" y2="409.1"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="838.5" y1="409.1" x2="838.5" y2="46.1"/>
+	</g>
+	<g>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="426.7" y1="118.8" x2="441.7" y2="118.8"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="426.7" y1="46.1" x2="441.7" y2="46.1"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="426.7" y1="191.4" x2="441.7" y2="191.4"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="426.7" y1="264.1" x2="441.7" y2="264.1"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="426.7" y1="336.7" x2="441.7" y2="336.7"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="426.7" y1="409.1" x2="441.7" y2="409.1"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="434.2" y1="409.1" x2="434.2" y2="46.1"/>
+	</g>
+	<g>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1225.6" y1="118.8" x2="1233.6" y2="118.8"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1233.6" y1="191.4" x2="1225.6" y2="191.4"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1233.6" y1="264.1" x2="1225.6" y2="264.1"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1233.6" y1="336.7" x2="1225.6" y2="336.7"/>
+		<polyline fill="none" stroke="#C4C4C4" stroke-miterlimit="10" points="1233.1,409.1 1225.6,409.1 1225.6,46.1 1233.1,46.1 		"/>
+		<text transform="matrix(1 0 0 1 1236.3334 52.9336)"><tspan x="0" y="0" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">100</tspan><tspan x="0" y="72" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">80</tspan><tspan x="0" y="144" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">60</tspan><tspan x="0" y="216" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">40</tspan><tspan x="0" y="288" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">20</tspan><tspan x="0" y="360" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">0</tspan></text>
+	</g>
+	<g>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="35.7" y1="118.8" x2="43.7" y2="118.8"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="43.7" y1="191.4" x2="35.7" y2="191.4"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="43.7" y1="264.1" x2="35.7" y2="264.1"/>
+		<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="43.7" y1="336.7" x2="35.7" y2="336.7"/>
+		<polyline fill="none" stroke="#C4C4C4" stroke-miterlimit="10" points="35.7,409.1 43.2,409.1 43.2,46.1 35.7,46.1 		"/>
+		<text transform="matrix(1 0 0 1 2.0479 52.9336)"><tspan x="0" y="0" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">100</tspan><tspan x="9.9" y="72" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">80</tspan><tspan x="9.9" y="144" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">60</tspan><tspan x="9.9" y="216" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">40</tspan><tspan x="9.9" y="288" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">20</tspan><tspan x="19.7" y="360" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="20px">0</tspan></text>
+	</g>
+	<polyline fill="none" stroke="#A4A6C9" stroke-width="2" stroke-miterlimit="10" points="43.2,81.5 434.2,233.3 838.5,118.8 
+		1225.6,191.4 	"/>
+	<polyline fill="none" stroke="#DDB997" stroke-width="2" stroke-miterlimit="10" points="43.7,336.7 434.2,395.7 838.5,228.3 
+		1225.6,312.4 	"/>
+	<polyline fill="none" stroke="#C4B7BD" stroke-width="2" stroke-miterlimit="10" points="43.7,191.4 434.2,90.3 838.5,315.7 
+		1225.6,377.2 	"/>
+	<polyline fill="none" stroke="#B4AEC3" stroke-width="2" stroke-miterlimit="10" points="43.7,264.1 434.2,336.7 838.5,191.4 
+		1225.6,118.8 	"/>
+	<polyline fill="none" stroke="#F3D0AA" stroke-width="2" stroke-miterlimit="10" points="43.7,153 434.2,46.1 838.5,85.7 
+		1225.6,46.1 	"/>
+	<polyline fill="none" stroke="#E3C8B0" stroke-width="2" stroke-miterlimit="10" points="43.2,219.8 434.2,191.4 838.5,363.7 
+		1225.6,264.1 	"/>
+	<polyline fill="none" stroke="#D3BFB6" stroke-width="2" stroke-miterlimit="10" points="41.7,220.5 434.2,263.6 838.5,172.3 
+		1225.6,284.3 	"/>
+	<rect x="901.3" y="380.3" fill="#FFFFFF" width="35.2" height="23.7"/>
+	<circle fill="#F3D0AA" cx="434.2" cy="46.1" r="3.5"/>
+	<circle fill="#F3D0AA" cx="838.5" cy="85.8" r="3.5"/>
+	<circle fill="#F3D0AA" cx="1225.6" cy="46.1" r="3.5"/>
+	<circle fill="#B4AEC3" cx="1225.6" cy="118.6" r="3.5"/>
+	<circle fill="#B4AEC3" cx="838.5" cy="191.4" r="3.5"/>
+	<circle fill="#B4AEC3" cx="434.2" cy="336.7" r="3.5"/>
+	<circle fill="#B4AEC3" cx="43.7" cy="264.1" r="3.5"/>
+	<circle fill="#EBE0D4" cx="43.2" cy="336.7" r="3.5"/>
+	<circle fill="#EBE0D4" cx="434.2" cy="395.7" r="3.5"/>
+	<circle fill="#EBE0D4" cx="838.5" cy="228.3" r="3.5"/>
+	<circle fill="#EBE0D4" cx="1225.6" cy="312.4" r="3.5"/>
+	<circle fill="#D3BFB6" cx="1225.6" cy="284.3" r="3.5"/>
+	<circle fill="#E3C8B0" cx="1225.6" cy="264.1" r="3.5"/>
+	<circle fill="#E3C8B0" cx="838.5" cy="363.7" r="3.5"/>
+	<circle fill="#E3C8B0" cx="434.2" cy="191.4" r="3.5"/>
+	<circle fill="#D3BFB6" cx="838.5" cy="172.3" r="3.5"/>
+	<circle fill="#D3BFB6" cx="434.2" cy="264.1" r="3.5"/>
+	<circle fill="#D3BFB6" cx="43.7" cy="220.5" r="3.5"/>
+	<circle fill="#C4B7BD" cx="43.7" cy="191.4" r="3.5"/>
+	<circle fill="#C4B7BD" cx="434.2" cy="90.3" r="3.5"/>
+	<circle fill="#C4B7BD" cx="838.5" cy="315.5" r="3.5"/>
+	<circle fill="#C4B7BD" cx="1225.6" cy="377.2" r="3.5"/>
+	<circle fill="#F3D0AA" cx="43.2" cy="153" r="3.5"/>
+	<circle fill="#A4A6C9" cx="43.2" cy="81.3" r="3.5"/>
+	<circle fill="#A4A6C9" cx="434.2" cy="233.2" r="3.5"/>
+	<circle fill="#A4A6C9" cx="838.5" cy="118.8" r="3.5"/>
+	<circle fill="#A4A6C9" cx="1225.6" cy="191.4" r="3.5"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1216.2251 22.293)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="26px">Apr</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 818.8313 22.293)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="26px">Mar</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 415.1027 22.293)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="26px">Feb</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 19.1265 22.293)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="26px">Jan</text>
+	</g>
+</g>
 <g id="Layer_2">
 </g>
-<g>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="62.5" y1="549" x2="62.5" y2="48"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="48.5" x2="55" y2="48.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="55" y1="98.5" x2="63" y2="98.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="148.5" x2="55" y2="148.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="198.5" x2="55" y2="198.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="248.5" x2="55" y2="248.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="298.5" x2="55" y2="298.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="348.5" x2="55" y2="348.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="398.5" x2="55" y2="398.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="448.5" x2="55" y2="448.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="498.5" x2="55" y2="498.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="63" y1="548.5" x2="55" y2="548.5"/>
-	<g>
-		<text transform="matrix(1 0 0 1 21.3813 55.2872)"><tspan x="0" y="0" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">100</tspan><tspan x="9.873" y="50" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">90</tspan><tspan x="9.873" y="100" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">80</tspan><tspan x="9.873" y="150" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">70</tspan><tspan x="9.873" y="200" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">60</tspan><tspan x="9.873" y="250" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">50</tspan><tspan x="9.873" y="300" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">40</tspan><tspan x="9.873" y="350" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">30</tspan><tspan x="9.873" y="400" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">20</tspan><tspan x="9.873" y="450" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">10</tspan><tspan x="19.746" y="500" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">0</tspan></text>
-	</g>
+<g id="Layer_3">
 </g>
-<g>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="353.75" y1="549" x2="353.75" y2="48"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="48.5" x2="346.25" y2="48.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="98.5" x2="346.25" y2="98.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="148.5" x2="346.25" y2="148.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="198.5" x2="346.25" y2="198.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="248.5" x2="346.25" y2="248.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="298.5" x2="346.25" y2="298.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="348.5" x2="346.25" y2="348.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="398.5" x2="346.25" y2="398.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="448.5" x2="346.25" y2="448.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="498.5" x2="346.25" y2="498.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="354.25" y1="548.5" x2="346.25" y2="548.5"/>
-	<g>
-		<text transform="matrix(1 0 0 1 312.6315 55.2872)"><tspan x="0" y="0" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">100</tspan><tspan x="9.873" y="50" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">90</tspan><tspan x="9.873" y="100" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">80</tspan><tspan x="9.873" y="150" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">70</tspan><tspan x="9.873" y="200" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">60</tspan><tspan x="9.873" y="250" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">50</tspan><tspan x="9.873" y="300" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">40</tspan><tspan x="9.873" y="350" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">30</tspan><tspan x="9.873" y="400" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">20</tspan><tspan x="9.873" y="450" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">10</tspan><tspan x="19.746" y="500" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">0</tspan></text>
-	</g>
-</g>
-<g>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645" y1="549" x2="645" y2="48"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="48.5" x2="637.5" y2="48.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="98.5" x2="637.5" y2="98.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="148.5" x2="637.5" y2="148.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="198.5" x2="637.5" y2="198.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="248.5" x2="637.5" y2="248.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="298.5" x2="637.5" y2="298.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="348.5" x2="637.5" y2="348.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="398.5" x2="637.5" y2="398.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="448.5" x2="637.5" y2="448.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="498.5" x2="637.5" y2="498.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="645.5" y1="548.5" x2="637.5" y2="548.5"/>
-	<g>
-		<text transform="matrix(1 0 0 1 603.8815 55.2872)"><tspan x="0" y="0" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">100</tspan><tspan x="9.873" y="50" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">90</tspan><tspan x="9.873" y="100" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">80</tspan><tspan x="9.873" y="150" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">70</tspan><tspan x="9.873" y="200" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">60</tspan><tspan x="9.873" y="250" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">50</tspan><tspan x="9.873" y="300" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">40</tspan><tspan x="9.873" y="350" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">30</tspan><tspan x="9.873" y="400" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">20</tspan><tspan x="9.873" y="450" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">10</tspan><tspan x="19.746" y="500" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">0</tspan></text>
-	</g>
-</g>
-<g>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.25" y1="549" x2="936.25" y2="48"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="48.5" x2="928.75" y2="48.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="98.5" x2="928.75" y2="98.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="148.5" x2="928.75" y2="148.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="198.5" x2="928.75" y2="198.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="248.5" x2="928.75" y2="248.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="298.5" x2="928.75" y2="298.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="348.5" x2="928.75" y2="348.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="398.5" x2="928.75" y2="398.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="448.5" x2="928.75" y2="448.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="498.5" x2="928.75" y2="498.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="936.75" y1="548.5" x2="928.75" y2="548.5"/>
-	<g>
-		<text transform="matrix(1 0 0 1 895.1313 55.2872)"><tspan x="0" y="0" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">100</tspan><tspan x="9.873" y="50" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">90</tspan><tspan x="9.873" y="100" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">80</tspan><tspan x="9.873" y="150" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">70</tspan><tspan x="9.873" y="200" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">60</tspan><tspan x="9.873" y="250" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">50</tspan><tspan x="9.873" y="300" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">40</tspan><tspan x="9.873" y="350" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">30</tspan><tspan x="9.873" y="400" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">20</tspan><tspan x="9.873" y="450" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">10</tspan><tspan x="19.746" y="500" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">0</tspan></text>
-	</g>
-</g>
-<g>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1227.5" y1="549" x2="1227.5" y2="48"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="48.5" x2="1220" y2="48.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="98.5" x2="1220" y2="98.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="148.5" x2="1220" y2="148.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="198.5" x2="1220" y2="198.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="248.5" x2="1220" y2="248.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="298.5" x2="1220" y2="298.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="348.5" x2="1220" y2="348.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="398.5" x2="1220" y2="398.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="448.5" x2="1220" y2="448.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="498.5" x2="1220" y2="498.5"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1228" y1="548.5" x2="1220" y2="548.5"/>
-	<g>
-		<text transform="matrix(1 0 0 1 1186.3813 55.2872)"><tspan x="0" y="0" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">100</tspan><tspan x="9.873" y="50" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">90</tspan><tspan x="9.873" y="100" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">80</tspan><tspan x="9.873" y="150" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">70</tspan><tspan x="9.873" y="200" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">60</tspan><tspan x="9.873" y="250" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">50</tspan><tspan x="9.873" y="300" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">40</tspan><tspan x="9.873" y="350" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">30</tspan><tspan x="9.873" y="400" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">20</tspan><tspan x="9.873" y="450" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">10</tspan><tspan x="19.746" y="500" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="20px">0</tspan></text>
-	</g>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 2 24.2423)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Buildings</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 260.4938 24.2421)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Transportation</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 553.0752 24.2424)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Clean Electricity</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 869.9457 24.2421)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Innovation</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 1153.7859 24.2419)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Composite</text>
-</g>
-<polyline fill="none" stroke="#A4A6C9" stroke-width="3" stroke-miterlimit="10" points="63,98.5 354.25,198.5 645.5,98.5 
-	936.75,298.5 1228,248.5 "/>
-<polyline fill="none" stroke="#EBE0D4" stroke-width="3" stroke-miterlimit="10" points="63,348.5 354.25,448.5 645.5,198.5 
-	936.75,448.5 1228,498.5 "/>
-<polyline fill="none" stroke="#C4B7BD" stroke-width="3" stroke-miterlimit="10" points="63,198.5 354.25,98.5 645.5,348.5 
-	936.75,348.5 1228,448.5 "/>
-<polyline fill="none" stroke="#9C96AD" stroke-width="3" stroke-miterlimit="10" points="63,448.5 354.25,498.5 645.5,398.5 
-	936.75,498.5 1228,398.5 "/>
-<polyline fill="none" stroke="#B29780" stroke-width="3" stroke-miterlimit="10" points="63,498.5 354.25,474 645.5,298.5 
-	936.75,398.5 1228,348.5 "/>
-<polyline fill="none" stroke="#B4AEC3" stroke-width="3" stroke-miterlimit="10" points="63,273.5 354.25,348.5 645.5,148.5 
-	936.75,70.5 1228,148.5 "/>
-<polyline fill="none" stroke="#F3D0AA" stroke-width="3" stroke-miterlimit="10" points="63,171.869 354.25,48.5 645,126.345 
-	936.75,148.5 1227.5,212.896 "/>
-<polyline fill="none" stroke="#E3C8B0" stroke-width="3" stroke-miterlimit="10" points="62.5,222.896 354.25,148.5 645,373.425 
-	936,273.5 1228,48.5 "/>
-<path fill="none" stroke="#6C5F82" stroke-width="3" stroke-miterlimit="10" d="M63,398.5L354.25,474L645.5,248.5l290.75,224.374
-	c0,0,292.136-152.171,291.25-151.708"/>
-<polyline fill="none" stroke="#D3BFB6" stroke-width="3" stroke-miterlimit="10" points="62.5,222.896 354.25,248.5 
-	646.352,167.648 936.25,330 1227.5,267 "/>
-<polyline fill="none" stroke="#C4C4C4" stroke-width="3" stroke-miterlimit="10" points="63,448.5 354.25,529.918 645,474.692 
-	936.25,537 1227.5,524 "/>
 </svg>

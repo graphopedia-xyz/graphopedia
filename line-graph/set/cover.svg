@@ -1,74 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1268px" height="558px" viewBox="0 0 1268 558" enable-background="new 0 0 1268 558" xml:space="preserve">
-<g>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="50" y1="436.171" x2="1264" y2="436.171"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="50" y1="351.171" x2="1264" y2="351.171"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="50" y1="266.171" x2="1264" y2="266.171"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="50" y1="181.171" x2="1264" y2="181.171"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="50" y1="96.171" x2="1264" y2="96.171"/>
-	<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="50" y1="11.171" x2="1264" y2="11.171"/>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1268 418" enable-background="new 0 0 1268 418" xml:space="preserve">
+<g id="Layer_1">
+	<g>
+		<polygon fill="#AEA5BF" points="1266,343.8 1242.8,338.9 1243.5,337.1 1266,341.8 		"/>
+	</g>
+	<g>
+		<polygon fill="#D7CFE0" points="1266,347.9 1243,347.5 1243.3,345.5 1266,345.9 		"/>
+	</g>
+	<g>
+		<polygon fill="#F7E1CB" points="1266,225.4 1243.4,223 1242.9,221 1266,223.4 		"/>
+	</g>
+	<polyline fill="none" stroke="#F7D2AD" stroke-width="2" stroke-miterlimit="10" points="55.2,331 174,224 292.8,244 411.6,200 
+		530.4,76.4 649.4,25.9 768,81.8 886.8,71 1005.6,132.6 1124.4,252.9 1243.2,222 	"/>
+	<polyline fill="none" stroke="#C6BFCF" stroke-width="2" stroke-miterlimit="10" points="1243.2,346.5 1124.4,327.5 1005.6,231 
+		886.8,248.5 768,178.5 649.2,190.6 530.4,160.5 411.6,248.8 292.8,167 174,313.8 55.6,348.7 	"/>
+	<polyline fill="none" stroke="#968BAF" stroke-width="2" stroke-miterlimit="10" points="1243.2,338 1124.4,291 1005.6,322 
+		886.8,313.2 768,258 649.2,306.3 529.9,331 411.6,305.2 292.8,336.3 174,352.9 55.6,364.1 	"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="163.3" y1="388.3" x2="163.3" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="271.3" y1="388.3" x2="271.3" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="487.3" y1="388.3" x2="487.3" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="811.2" y1="388.3" x2="811.2" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1027.2" y1="388.3" x2="1027.2" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="379.3" y1="388.3" x2="379.3" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="595.2" y1="388.3" x2="595.2" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="703.2" y1="388.3" x2="703.2" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="919.2" y1="388.3" x2="919.2" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1135.2" y1="388.3" x2="1135.2" y2="378.9"/>
+			<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1243.2" y1="388.3" x2="1243.2" y2="378.9"/>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#C4C4C4" stroke-miterlimit="10" points="55.3,2 55.3,379.1 1266.1,379.1 			"/>
+			<g>
+				<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="45.7" y1="10" x2="55.7" y2="10"/>
+				<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="45.7" y1="305" x2="55.7" y2="305"/>
+				<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="45.7" y1="231" x2="55.7" y2="231"/>
+				<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="45.7" y1="158" x2="55.7" y2="158"/>
+				<line fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="45.7" y1="84" x2="55.7" y2="84"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 576.0095 411.4878)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">2014</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 791.1489 411.4878)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">2016</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1007.1489 411.4878)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">2018</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 359.9412 411.4878)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">2012</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 143.9408 411.4878)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">2010</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1222.6692 411.4878)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">2020</text>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 8.1044 16.573)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">100</text>
+	</g>
+	<text transform="matrix(1 0 0 1 17.4844 236.1504)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">40</text>
+	<text transform="matrix(1 0 0 1 17.4844 164.1504)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">60</text>
+	<text transform="matrix(1 0 0 1 17.4844 90.1504)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">80</text>
+	<text transform="matrix(1 0 0 1 17.4844 308.5732)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="19px">20</text>
 </g>
-<g>
-	<text transform="matrix(1 0 0 1 2.1245 20.9805)"><tspan x="0" y="0" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">120</tspan><tspan x="0" y="83" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">100</tspan><tspan x="12.835" y="166" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">80</tspan><tspan x="12.835" y="249" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">60</tspan><tspan x="12.835" y="332" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">40</tspan><tspan x="12.835" y="415" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">20</tspan><tspan x="25.67" y="498" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">0</tspan></text>
+<g id="Layer_2">
 </g>
-<line fill="none" stroke="#6C5F82" stroke-width="2" stroke-miterlimit="10" x1="50" y1="521.171" x2="1264" y2="521.171"/>
-<polyline fill="none" stroke="#F3D0AA" stroke-width="3" stroke-miterlimit="10" points="97.438,436.171 221.375,307 
-	346.667,351.667 471.588,266.171 597.416,37.123 722.542,11.171 847.938,165.563 973.25,135 1099,351 1224.008,436.171 "/>
-<polyline fill="none" stroke="#A3B1D6" stroke-width="3" stroke-miterlimit="10" points="1224.008,485 1098.625,436.312 
-	973.312,316.188 848.355,351.171 597.295,266.361 472,351.085 346.75,222.488 221.333,422.667 96,484.101 "/>
-<polyline fill="none" stroke="#6C5F82" stroke-width="3" stroke-miterlimit="10" points="1224.008,459.103 972.798,485.267 
-	722.5,396 597.333,479.5 472,435.667 221.356,485.34 96,501.44 "/>
-<g>
-	<text transform="matrix(1 0 0 1 75.8228 550.1702)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Jan</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 201.2575 550.1705)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Feb</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 325.6447 550.1705)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Mar</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 453.3011 550.1704)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Apr</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 575.1109 550.1707)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">May</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 703.3196 550.1705)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Jun</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 832.1436 550.1704)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Jul</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 952.9506 550.1702)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Aug</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 1079.4771 550.1705)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Sep</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 1206.568 550.1704)" fill="#B3B3B3" font-family="'RobotoCondensed-Regular'" font-size="26px">Oct</text>
-</g>
-<g display="none">
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1224.008" y1="1034.833" x2="1224.008" y2="-179.167"/>
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="1098.674" y1="1034.833" x2="1098.674" y2="-179.167"/>
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="973.34" y1="1034.833" x2="973.34" y2="-179.167"/>
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="848.005" y1="1034.833" x2="848.005" y2="-179.167"/>
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="722.671" y1="1034.833" x2="722.671" y2="-179.167"/>
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="597.337" y1="1034.833" x2="597.337" y2="-179.167"/>
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="472.003" y1="1034.833" x2="472.003" y2="-179.167"/>
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="346.669" y1="1034.833" x2="346.669" y2="-179.167"/>
-	
-		<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="221.335" y1="1034.833" x2="221.335" y2="-179.167"/>
-	<line display="inline" fill="none" stroke="#C4C4C4" stroke-miterlimit="10" x1="96" y1="1034.833" x2="96" y2="-179.167"/>
+<g id="Layer_3">
 </g>
 </svg>

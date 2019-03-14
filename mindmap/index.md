@@ -17,26 +17,23 @@ tags:
   - elit
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Radial tree
+    link: radial-tree-diagram
+    image: radial-tree-diagram.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Mindmeister
+    link:   https://www.mindmeister.com/
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   Omnigraffle
+    link:   https://www.omnigroup.com/omnigraffle/
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>The Tree of Knowledge Obfuscation</cite>
+    link:   https://i0.wp.com/theethicalskeptic.com/wp-content/uploads/2017/07/Tree-of-Knowledge-Obfuscation.png?ssl=1
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>A diagram of self-Awareness</cite> by David Matton
+    link:   https://cargocollective.com/davidmatton/Mind-Map-Infographic
 
 ---
 Alternative name: concept map, spider diagram

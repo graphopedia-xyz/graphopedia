@@ -35,6 +35,11 @@ examples:
   - title:  <cite>Supercenters, Hamburgers, and Coffee. Using density-equalizing cartograms to display the distribution of Walmarts, McDonalds, and Starbucks in the US</cite>by Steph Abegg
     link:   http://www.stephabegg.com/home/projects/cartograms
 
+  - title:  <cite>Mapping the Spread of Obesity</cite>by Nathan Yau
+    link:   https://flowingdata.com/2016/09/26/the-spread-of-obesity/
+    
+    
+
 ---
 
 A cartogram is a type of map that substitutes land area with time, population or any other variable, thus distorting the geometry of the map.

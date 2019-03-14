@@ -5,7 +5,7 @@ title:  Grid Table
 
 image:
   featured: grid-table.png
-  main: change-this.png
+  main: grid-table.svg
   anatomy: change-this.png
   
 tags:

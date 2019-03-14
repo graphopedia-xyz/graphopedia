@@ -14,26 +14,23 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Radial tree
+    link: radial-tree
+    image: radial-tree.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Treebolic
+    link:   http://treebolic.sourceforge.net/en/index.html
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   Graphviz
+    link:   http://www.graphviz.org/
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>The orbital plane of Kantian biblical exegesis</cite> by Valerio Pellegrini
+    link:   https://www.behance.net/gallery/2138432/CERCHI-CONCENTRICI-Kant-Data-Visualization
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Charles Dickens</cite> by Valerio Pellegrini
+    link:   https://www.behance.net/gallery/2984617/CHARLES-DICKENS-La-Lettura-10-Corriere-della-Sera
 
 ---
 The hyperbolic tree is a method of visualizing a hierarchy as a tree positioned on a hyperbolic plane and mapping this plane onto a circular display region. The hyperbolic tree has its root initially in the center, but the display can be transformed to bring other nodes into focus. Hyperbolic trees are often used to display webinformation.

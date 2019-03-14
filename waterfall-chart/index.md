@@ -14,16 +14,13 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Bar Chart
+    link: bar-chart
+    image: bar-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Microsoft Excel
+    link:   https://support.office.com/en-us/article/create-a-waterfall-chart-8de1ece4-ff21-4d37-acd7-546f5527f185
 
   - name:   Tableau Sample
     link:   https://www.tableau.com
@@ -31,9 +28,6 @@ tools:
 examples:
   - title:  <cite>Doing Business Subnational - Step Graph</cite>
     link:   https://www.chezvoila.com/portfolio/#/dbstepgraph/
-
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
 
 ---
 

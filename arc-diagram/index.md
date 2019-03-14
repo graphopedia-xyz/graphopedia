@@ -7,6 +7,8 @@ image:
   featured: arc-diagram.png
   main: arc-diagram.svg
 
+tags:
+
 related:
   - title: Hive Plot
     link: hive-plot
@@ -20,12 +22,14 @@ related:
     link: sankey-chart
     image: sankey-chart.png
 
+
 tools:
   - name:   D3.js
     link:   https://d3js.org/
     
   - name:   D3 code example by Robert Gove
     link:   https://bl.ocks.org/rpgove/53bb49d6ed762139f33bdaea1f3a9e1c
+
 
 
 examples:

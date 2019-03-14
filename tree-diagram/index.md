@@ -15,31 +15,34 @@ tags:
   - elit
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Flow map
+    link: flow-map
+    image: flow-map.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   JS Charting
+    link:   https://jscharting.com/Samples/Javascript_OrgSimpleStyling_Chart
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   Zoom Charts
+    link:   https://demo.zoomcharts.com/net-chart/examples/layout/layout-hierarchy
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
-
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>The Tree of Life</cite>
+    link:   https://www.evogeneao.com/learn/tree-of-life
+    
+  - title:  <cite>The World Religions Tree<cite> by The 40 Foundation
+    link:   http://silenced.co/wp-content/uploads/2014/10/religions_tree.jpg
 
 ---
-Alternative names: tree chart, tree structure
+Alternative names: tree chart, tree structure, org chart
 
 Tree diagrams represent a series of independent events or conditional probabilities. Each node represents an event. Each parent node precedes its child nodes in sequence and its sibling nodes represents events of the same importance or occurring at the same time. The chart is named for its resemblance to a tree even those the most common tree diagrams direct the tree upside down or to the side.
+
+#### Use Cases
+Tree diagrams are used to show hierarchies without numeric values attached to any of the members. There non-numeric types of charts include:
+1. Organization charts - showing the organizational structure of a company or an institution
+2. Family trees - showing the ancestors or descendants
+3. Classification - showing a taxonomy of categories in a given field
 
 Sources:
 

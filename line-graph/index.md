@@ -16,26 +16,31 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Density plot
+    link: density-plot
+    image: density-plot.png
+  - title: Area chart
+    link: area-chart
+    image: area-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Adobe Illustrator
+    link:   https://helpx.adobe.com/illustrator/using/graphs.html
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   Microsoft PowerPoint
+    link:   https://office.live.com/start/PowerPoint.aspx
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>How the Recession Reshaped the Economy in 255 Charts</cite>
+    link:   https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>The Immigration Effect</cite>
+    link:   https://projects.propublica.org/graphics/gdp
+    
+  - title:  <cite>Alone Time</cite>
+    link:   https://flowingdata.com/2017/06/26/alone-time/
+    
+    
 
 ---
 A line chart shows information as a series of data points connected by straight lines.  Line charts differ from scatter plots in that the points are ordered, usually along the horizontal axis. A line chart is often used to visualize a trend in data over intervals of time. In this case it is called a time series. A line chart should be used when showing a change in data at equal time intervals.

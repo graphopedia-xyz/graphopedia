@@ -14,26 +14,24 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Arc diagram
+    link: arc-diagram
+    image: arc-diagram.png
 
 tools:
   - name:   D3.js
     link:   https://bost.ocks.org/mike/hive/
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
-
+  - name:   Python tutorial
+    link:   https://github.com/hallamlab/HivePanelExplorer/wiki/Hive-Panel-Explorer-Beginner's-Guide
+    
+  - name:   HiveGraph
+    link:   http://wodaklab.org/hivegraph/graph
+    
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Genes of Interest<cite> by Martin Krzywinski
+    link:   http://www.hiveplot.com/img/web-title-large.png
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
 
 ---
 The hive plot is a visualization method for drawing networks where nodes are mapped to and positioned on radially positioned linear axes.

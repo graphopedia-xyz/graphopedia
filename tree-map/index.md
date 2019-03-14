@@ -14,34 +14,34 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
+  - title: Sunburst chart
     link: sunburst-chart
     image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Microsoft Excel
+    link:   https://support.office.com/en-us/article/create-a-treemap-chart-in-office-dfe86d28-a610-4ef5-9b30-362d5c624b68
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   RawGraphs
+    link:   https://rawgraphs.io/learning/how-to-make-a-treemap/
 
 examples:
   - title:  <cite>Jobs Charted by State and Salary</cite> by Nathan Yau
     link:   https://flowingdata.com/2014/07/02/jobs-charted-by-state-and-salary/
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>The Billion Dollar-o-Gram</cite> by David McCandless
+    link:   https://informationisbeautiful.net/visualizations/the-billion-dollar-o-gram-2009/
+    
 
 ---
 Alternative name: 
 
 Treemap is a type of chart that displays hierarchical data using nested figures, usually rectangles. Any tree map can also be represented as a tree diagram. Each parent node on a tree diagram is represented as a larger rectangle that contains a smaller rectangle that is a child node. This recursive construction allows the tree map to visualize hierarchical data with any number of levels.
 
+
 ### Origin
 This idea was invented by professor Ben Shneiderman at the University of Maryland Human – Computer Interaction Lab in the early 1990s.
+
 
 ### Variations
 **Voronoi Treemaps** based on Voronoi diagram calculations. 

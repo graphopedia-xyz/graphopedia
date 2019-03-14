@@ -22,11 +22,11 @@ related:
     image: venn-diagram.png
 
 tools:
-  - name:   Adioma Sample
+  - name:   Adioma
     link:   https://adioma.com
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   TimeGraphics
+    link:   https://time.graphics
 
 examples:
   - title:  Internet Users by Region
@@ -43,5 +43,5 @@ A timeline a a type of charts that displays events in chronological order. Timel
 
 Sources:
 
-1. [Grafton, Anthony; Rosenberg, Daniel (2010), Cartographies of Time: A History of the Timeline, Princeton Architectural Press, p. 272,]
+1. [Grafton, Anthony; Rosenberg, Daniel (2010), Cartographies of Time: A History of the Timeline, Princeton Architectural Press, p. 272,](https://books.google.com/books?id=DqWqKVzipToC&printsec=frontcover&source=gbs_book_other_versions)
 2. [Information Graphics A Comprehensive Illustrated Reference, p 917](https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false)

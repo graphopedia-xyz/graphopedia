@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  Polar Area Chart 
+title:  Polar Are Chart 
 
 image:
   featured: polar-chart.png
@@ -14,29 +14,26 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Pie chart
+    link: pie-chart
+    image: pie-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Chart js
+    link:   https://www.chartjs.org/docs/latest/charts/polar.html
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   Plotly
+    link:   https://plot.ly/r/polar-chart/
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Number of Electoral Votes</cite> by Alex Bordens
+    link:   http://alexbordens.com/img/pdf/election-results.pdf
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Who is Your President</cite> by Michela Lazzaroni
+    link:   https://www.behance.net/gallery/50527775/Who-is-your-President-La-Lettura-278-dataviz
 
 ---
-Alternative names: coxcomb chart, polar area diagram, Nightnighgale chart
+Alternative names: coxcomb chart, polar area diagram, Nightingale chart, Nightingale rose graph, windrose chart
 
 The polar area chart is a type of pie chart in which all sectors have equal angles but they differ in how far each sector extends from the center of the circle. The polar area chart is used to plot cyclic phenomena, for example, the amount of rain each month would be plotted as 12 sectors at 30 degrees each. The radius of each sector is proportional to the square root of the death count for the month. The area of a sector represents the number of deaths in a month. The polar area chart is famously developed by English nurse Florence Nightingale.
 

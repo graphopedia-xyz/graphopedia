@@ -19,18 +19,18 @@ related:
     image: sunburst-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Adobe Illustrator
+    link:   https://helpx.adobe.com/illustrator/using/graphs.html
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   Powerpoint
+    link:   https://products.office.com/en/powerpoint
 
 examples:
   - title:  <cite>The Elements of Value Pyramid</cite> by Nik Schulz for Harvard Business Review
     link:   https://hbr.org/2016/09/the-elements-of-value
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Pyramid of Capitalist System</cite>
+    link:   https://en.wikipedia.org/wiki/Pyramid_of_Capitalist_System#/media/File:Pyramid_of_Capitalist_System.jpg
 
 ---
 Alternative names: pyramid diagram

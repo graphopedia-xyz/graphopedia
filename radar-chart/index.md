@@ -14,33 +14,28 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Parallel coordinates
+    link: parallel-coordinates
+    image: parallel-coordinates.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Adobe Illustrator
+    link:   https://helpx.adobe.com/illustrator/using/graphs.html
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   AmCharts
+    link:   http://www.amcharts.com/demos/radar-chart/
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Who Are the Teachers</cite> by Benedetta Signaroldi
+    link:   https://www.behance.net/gallery/19469225/Who-are-our-teachers-La-Lettura
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Media Economy Report</cite> by Bureau Oberhaeuser
+    link:   https://www.behance.net/gallery/9349555/IPG-Media-Economy-Report-Vol3
 
 ---
 Alternative names: spider chart, star chart, star plot, cobweb chart, Kiviat diagram
 
 A radar chart is a graphical method of showing multivariate data from three or more variables (because the simplest shape is a triangle) represented on radial axes. The radar chart consists of a sequence spokes positioned at the same angle from each other (equi-angular). Each spoke represents one of the variables. The values are presented as dots on the axes, with the length showing the value. A line is drawn connecting the data values which makes up a star or polygon shape. This feature makes the comparison of variables at a glance possible. However, the polar chart is limited to showing only general trends, outliers, and commonality
-
-### Origin
 
 
 Source:

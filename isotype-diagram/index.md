@@ -14,26 +14,26 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Tape diagram
+    link: tape-diagram
+    image: tape-diagram.png
+  - title: Bar chart
+    link: bar-chart
+    image: bar-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Icon Array
+    link:   http://www.iconarray.com/
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   jChart
+    link:   http://support.softwarefx.com/jChartFX/article/2501514#!2502352
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Otto Neurath Isotype employment statistics</cite> via Francesco Franchi
+    link:   https://www.flickr.com/photos/ffranchi/6789532156/
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Weekly Earnings of Men and Women 1940</cite>
+    link:   http://www.fulltable.com/iso/images01/15.jpg
 
 ---
 Isotype is a method of showing numbers by repeating identical pictographs that refers to objects and concepts. These pictographs are standardized and abstracted symbols that are combined following a set of rules.

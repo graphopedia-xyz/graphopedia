@@ -14,26 +14,27 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Bubble chart
+    link: bubble-chart
+    image: bubble-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   Adobe Illustrator
+    link:   https://helpx.adobe.com/illustrator/using/graphs.html
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   PowerPoint
+    link:   https://products.office.com/en/powerpoint
+  
+  - name:   Apple Numbers
+    link:   https://support.apple.com/kb/PH17003?locale=en_US&viewlocale=en_US
+    
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Divorce and Occupation</cite> by Nathan Yau
+    link:   https://flowingdata.com/2017/07/25/divorce-and-occupation/
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Cuisine ingredients</cite> by Nathan Yau
+    link:   https://flowingdata.com/2018/09/18/cuisine-ingredients/
 
 ---
 Alternative names: scatter graph, scatter chart, scattergram, or scatter diagram

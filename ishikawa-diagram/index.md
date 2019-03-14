@@ -14,37 +14,21 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Decision tree
+    link: decision-tree
+    image: decision-tree.png
 
 tools:
-  - name:   D3.js
+  - name:   Microsoft PowerPoint
     link:   https://bl.ocks.org/mbostock/3886208
 
-  - name:   Protovis
-    link:   http://mbostock.github.io/protovis/ex/area.html
+  - name:   Real Time Board
+    link:   https://realtimeboard.com/templates/fishbone-diagram/
 
-  - name:   Google Charts
-    link:   https://developers.google.com/chart/
+  - name:   Cacoo
+    link:   https://cacoo.com/templates/fishbone-diagram-software
 
-  - name:   Microsoft Excel
-    link:   https://office.microsoft.com
 
-  - name:   Apple Numbers
-    link:   https://www.apple.com/numbers
-
-  - name:   Google Docs
-    link:   https://docs.google.com
-
-  - name:   High Charts
-    link:   https://www.highcharts.com
-
-  - name:   Adobe Illustrator
-    link:   http://www.adobe.com/Illustrator
 
 examples:
   - title:  Example of Stacked Bar Chart built in D3.js

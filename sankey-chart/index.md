@@ -14,12 +14,9 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Alluvial diagram
+    link: alluvial-diagram
+    image: alluvial-diagram.png
 
 tools:
   - name:   Adioma Sample
@@ -29,11 +26,11 @@ tools:
     link:   https://www.tableau.com
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>Europe Migration Crisis</cite> 
+    link:   http://graphics.thomsonreuters.com/15/migrants/index.html#section-asylum
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>Map of Russian campaign of 1812 of Napoleon</cite>by Charles Minard
+    link:   https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/media/File:Minard.png
 
 ---
 

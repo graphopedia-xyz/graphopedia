@@ -14,26 +14,26 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Tree map
+    link: tree-map
+    image: tree-map.png
+  - title: Bubble chart
+    link: bubble-chart
+    image: bubble-chart.png
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
+  - name:   D3
+    link:   https://www.jasondavies.com/mekko/
 
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   FusionCharts
+    link:   https://www.fusioncharts.com/dev/chart-guide/standard-charts/marimekko-chart
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>How many years we lose to the air we breathe</cite>
+    link:   https://www.washingtonpost.com/graphics/2018/national/health-science/lost-years/?noredirect=on&utm_term=.bd1237ceb18d
 
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
+  - title:  <cite>How Different Income Groups Spend Money</cite>
+    link:   https://flowingdata.com/2018/02/08/how-different-income-groups-spend-money/
 
 ---
 Alternative name: mosaic plot, Marimekko diagram, mosaic graph, Mekko chart

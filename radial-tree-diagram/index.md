@@ -14,23 +14,18 @@ tags:
   - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
+  - title: Hyperbolic tree
+    link: hyperbolic-tree
+    image: hyperbolic-tree.png
+
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
-
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
+  - name:   D3
+    link:   https://beta.observablehq.com/@mbostock/d3-radial-tidy-tree
 
 examples:
-  - title:  Example1
-    link:   https://adioma.com/@anna
+  - title:  <cite>The Cognitive Bias Codex</cite> by John Manoogian III
+    link:   https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg
 
   - title:  Headache causes
     link:   http://www.fastcodesign.com/1665355/infographic-of-the-day-the-insane-choices-you-face-at-the-drugstore

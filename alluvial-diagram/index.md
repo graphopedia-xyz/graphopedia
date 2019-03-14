@@ -27,7 +27,7 @@ tools:
   - name:   Plotly
     link:   https://plot.ly/javascript/sankey-diagram/
 
-  - name:   How to Make an Alluvial Diagram in RAWGraphs
+  - name:   RAWGraphs
     link:   https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/
     
   - name:   D3 Sankey Diagram
@@ -45,7 +45,8 @@ examples:
 
 ---
 
-The <dfn>alluvial diagram</dfn> is a type of network diagram that shows the change of flow structure over time as well as its magnituge at any point in time. The alluvial diagram is a type of Sankey diagram, the difference between the two being that an alluvial diagram allows for re-clustering of nodes at any point in time. 
+<dfn>Alluvial diagram</dfn> is a type of network diagram that shows the change of flow structure over time as well as its magnituge at any point in time. Alluvial diagram is similar to Sankey diagram in that both show the amount of flow between nodes using the width of the line. The difference between the two being is that an alluvial diagram allows for re-clustering of nodes.
+Alluvial diagram is a variant of a [Parallel Coordinates Plot](/parallel-coordinates) but for categorical variables. Variables are assigned to vertical axes that are parallel. Values are represented with blocks on each axis. Observations are represented with alluvia (sing. “alluvium”) spanning across all the axes. 
 
 The blocks in an alluvial diagram represent clusters of nodes. The stream lines between the blocks represent changes in the composition of these clusters over time. The height of a block represents the size of the cluster and the height of a stream line shows the size of the component.
 
