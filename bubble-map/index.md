@@ -39,6 +39,7 @@ examples:
     link:   https://archive.nytimes.com/www.nytimes.com/interactive/2011/05/01/weekinreview/01safe.html?_r=0
 
 ---
+Alternative names: proportional symbol map, graduated symbol map
 
 A bubble map shows numeric values associated with locations on a geographic map using scaled circles. A bubble map is a type of proportional symbol map. The value is the area of each circle, not the diameter or the radius, following the same principle as in a bubble chart. The underlying map is divided into regions, with a single circle per region.
 

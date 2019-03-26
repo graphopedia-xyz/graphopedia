@@ -62,7 +62,7 @@ A <dfn>bubble chart</dfn> is a type of [scatter plot](/scatter-plot) that repres
 
 
 
-Bubble charts are useful for showing <em>correlation<em>.[^1] The independent variable is usually shown on the horizontal axis and the dependent variable on the vertical axis.
+Bubble charts are useful for showing *correlation*.[^1] The independent variable is usually shown on the horizontal axis and the dependent variable on the vertical axis.
 
 Importantly, bubble size always means the circle area, not diameter or radius. Since the human eye cannot easily interpret the size of a circle into a number, bubble charts are not used in cases where readers need to see the precise numbers. <sup>3</sup>
 
@@ -75,24 +75,15 @@ Clusters, outliers, and overall trends reveal themselves well on a bubble chart.
 The [first bubble chart](https://en.wikipedia.org/wiki/Pie_chart#/media/File:Playfair_piecharts.jpg) appeared in William Playfair's <cite>Commercial and Political Atlas</cite> published in 1786.
 
 
-### When to Use It
+### Purpose
 The main advantage of bubble charts is their ability to show large trends in your data. The overall shape created by the bubbles reveals the data trends, similar to a [scatter plot](/scatter-plot).
-
 
 A known problem of bubble charts, as well as all types of information graphics that use circles, is that circle sizes are difficult to compare. For this reason, bubble charts are not used for comparing precise values but to show a general trend in the data and the outliers. [^4]
 
+Another disadvantage of bubble charts is their lack of means of representing negative values or zero. Like scatter plots, they can become cluttered. Over-plotting is another issue with bubble charts that comes up when a lor of values are concentrated in one area of the chart or when there are simple too many data points. Making the circles partially transparent can solve this problem for overlap of two to three circles.
 
-Another disadvantage of bubble charts is their lack of means of representing negative values or zero. Like scatter plots, they can become cluttered. Over-plotting is another issue with bubble charts that comes up when a lor of values are concentrated in one area of the chart or when there are simple too many data points. Making the circles partially transparent can solves this problem for overlap of two to three circles.
-
-### Alternative Charts
-
-An alternative to bubble charts is the [Marimekko chart](marimekko-chart). Because in a Marimekko chart we are comparing areas of rectangles, we can read precise values off the chart as well as quickly approximate with how the shapes compare in size.
-
-Another alternative for bubble charts with groups can be a [tree map](tree-map).
-
-
-### How To Use It
-You can use a bubble chart if you have at least 3 variables, also called <em>data series</em>. 
+### Usage
+You can use a bubble chart if you have at least 3 variables, also called *data series*. 
 
 For example, we can show the connection between life expectancy with the state of the economy in their country and the population size. The steps of making a bubble chart for this data would look like this:
 
@@ -109,6 +100,14 @@ The use of circle area makes creating bubble charts by hand difficult. For examp
 
 Bubble charts can be created using templates in MS PowerPoint, MS Excel, Apple Keynote and Apple Numbers. These common programs already have pre-built tools that create bubble charts. 
 An interactive bubble chart can be created on Gapminder, which is free desktop software used by Hans Rosling.
+
+
+### Alternative Charts
+
+An alternative to bubble charts is the [Marimekko chart](marimekko-chart). Because in a Marimekko chart we are comparing areas of rectangles, we can read precise values off the chart as well as quickly approximate with how the shapes compare in size.
+
+Another alternative for bubble charts with groups can be a [tree map](tree-map).
+
 
 ### Variations
 
