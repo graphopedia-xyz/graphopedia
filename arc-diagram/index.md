@@ -53,12 +53,25 @@ The main purpose of a arc diagram lies in revealing the connections between a se
 
 And arc diagram consists of nodes, arcs, and an axis.
 
-The nodes can be spaced along the axis either equidistantly based only on design considerations or based on data, for example, representing time that elapsed between events represented by nodes.[^]
+The nodes can be spaced along the axis either equidistantly based only on design considerations or based on data, for example, representing time that elapsed between events or geo-spatial distance represented by nodes.[^7]
+The order in which nodes appear on the axis is called <dfn>node seriation</dfn>. Node seriation can be already present in the data if it is already sorted by time or distance. Otherwise, there is an option of artificially sorting data following one of the principles of information architecture, for example alphabetically.
+
+Arcs can have a direction and a weight. Directional arcs can be either uni- or bi-directional. Arc weight shows
+the strength of connections between nodes. Weighted arcs tend to reveal clusters of connections between nearby nodes.
+
 ###Usage
-Arc diagrams are usually drawn on a horizontal line with the arcs facing upward[^6]. Although an arc diagram is not as effective at conveying the overall structure of data as a two-dimensional layout would be, it is possible to order the nodes in a way that reveals the clusters. Sorting the nodes in a way that shows the underlying cluster structure is called seriation[^7].
+Arc diagrams are usually drawn on a horizontal line with the arcs facing upward[^8]. Although an arc diagram is not as effective at conveying the overall structure of data as a two-dimensional layout would be, it is possible to order the nodes in a way that reveals the clusters.
+Arc connections are usually designed as semi-circles or bezier
+curves, the latter being move space saving. Color and transparency can serve as visual encoding.
+
+Arc diagrams can be integrated with other charts, for example a bar chart or a bubble chart in which each bar or circle represents the number of connections in a node.
+
+Arcs can be located on one or both sides of the axis.
 
 ###Alternatives
-###Variations
+[Hive plot](/hive-plot) - hive plots are essentially arc diagrams with multiple axes. When there is a need to display connections between different categories of nodes, the hive plot can be an alternative to constructing multiple arc diagrams.
+Network diagram - functionally the same as an arc diagram, network diagrams use two-dimentional space which makes them easier to perceive as long as they are uncluttered.
+
 Sources:
 
 [^1]: ["Arc Diagrams: Visualizing Structure in Strings", IBM Research](http://ieg.ifs.tuwien.ac.at/~aigner/teaching/ws06/infovis_ue/papers/arcdiagram_01173155.pdf)
