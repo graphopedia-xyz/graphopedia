@@ -36,9 +36,9 @@ examples:
     link:   https://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/#jp-carousel-41583
 
 ---
-Alternative name: dual histogram
+Alternative name: dual histogram. The population pyramid is a pair of histograms positioned back to back symmetrically. The symmetry give the advantage of visual comparison between the lengths of bars on both sides.
 
-The population pyramid is a pair of histograms positioned back to back symmetrically. The symmetry give the advantage of visual comparison between the lengths of bars on both sides.
+<!--more-->
 
 ### Origin
 

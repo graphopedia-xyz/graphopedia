@@ -33,7 +33,10 @@ examples:
     link:   https://www.behance.net/gallery/27306035/100-MOST-VALUABLE-BRANDS-201015-Corriere-della-Sera
 
 ---
+
 Parallel coordinates is type of graph for visualizing many variables while tracing the relationship between them. The fundamental idea of parallel coordinates is to place coordinate axes in parallel, and to present a data point as a connection line between coordinate values<sup>1</sup>. In the parallel coordinates plot, each variable has its own axis and all the axes are parallel to each other. Each axis may have a different scale. Values are displayed as a series of lines that are connected between all the axes.
+
+<!--more-->
 
 ### Origin
 Parallel coordinates plot was first used by American geographer Henry Gannetts in 1880 when he ranked the U.S. states by economic performance such as manufacturing, taxation, and education.<sup>2</sup>

@@ -44,6 +44,8 @@ examples:
 
 A cartogram is a type of map that substitutes land area with time, population or any other variable, thus distorting the geometry of the map.
 
+<!--more-->
+
 ### Origin
 Candlestick charts were first described by a wealthy Japanese rice trader Munehisa Homma, who wrote 160 rules describing various patterns of trading.
 

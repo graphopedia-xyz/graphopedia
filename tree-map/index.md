@@ -31,13 +31,12 @@ examples:
 
   - title:  <cite>The Billion Dollar-o-Gram</cite> by David McCandless
     link:   https://informationisbeautiful.net/visualizations/the-billion-dollar-o-gram-2009/
-    
 
 ---
-Alternative name: 
 
 Treemap is a type of chart that displays hierarchical data using nested figures, usually rectangles. Any tree map can also be represented as a tree diagram. Each parent node on a tree diagram is represented as a larger rectangle that contains a smaller rectangle that is a child node. This recursive construction allows the tree map to visualize hierarchical data with any number of levels.
 
+<!--more-->
 
 ### Origin
 This idea was invented by professor Ben Shneiderman at the University of Maryland Human – Computer Interaction Lab in the early 1990s.

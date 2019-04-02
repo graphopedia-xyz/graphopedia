@@ -31,9 +31,9 @@ examples:
     link:   https://flowingdata.com/2017/01/24/one-dataset-visualized-25-ways/02-time-series-sparklines-2/
 
 ---
-Alternative name: inline chart
+Alternative name: inline chart. A sparkline is a small chart without axes or coordinates, usually intended to be shown inline with text or as part of small multiples. The purpose of a sparkline is showing variation in a value, such as price. Most commonly, sparklines are line charts. However,the term "sparkline" can also means any embedded contextual information graphic, such as a histogram without scale and axes, for example.
 
-A sparkline is a small chart without axes or coordinates, usually intended to be shown inline with text or as part of small multiples. The purpose of a sparkline is showing variation in a value, such as price. Most commonly, sparklines are line charts. However,the term "sparkline" can also means any embedded contextual information graphic, such as a histogram without scale and axes, for example.
+<!--more-->
 
 ### Origin
 

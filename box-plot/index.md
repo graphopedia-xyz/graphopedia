@@ -38,7 +38,9 @@ examples:
 ---
 
 A box plot is a type of graph that shows the 5-number summary of a group of data which consists of the minimum and maximum range values, the upper and lower quartiles, and the median. The middle band always represents
-the median. The ends of the whiskers can represent different different types of values. Here are the possibilities:
+the median. The ends of the whiskers can represent different different types of values. 
+<!--more--> 
+Here are the possibilities:
 - minimum and maximum of all data
 - one standard deviation above and below the mean
 - the 9th percentile and the 91st percentile

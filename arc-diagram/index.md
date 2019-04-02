@@ -47,6 +47,8 @@ examples:
 An arc diagram shows connections between any two nodes out of multiple nodes positioned on a single axis.[^1] The number of arc connections that come out of a single node is usually represented as a bubble that is sized proportionally to the total number of connections come in and going out[^2]. In practice, an arc diagram usually does not show all possible connected pairs because of the resulting clutter, but rather it shows a subset of connections.
 In visualizations made for the web, showing more than about a hundred nodes is impractical.
 
+<!--more-->
+
 In 1964, mathematician Thomas Saaty proposed the first version of the arc diagram for the purpose of showing intersecting numbers.[^3] In 2001, the arc diagram was popularized by Martin Wattenberg who diagrammed pieces of music in his project *The Shape of Song*.[^4]
 ###Purpose
 The main purpose of a arc diagram lies in revealing the connections between a set of values adn the clusters that they might form.

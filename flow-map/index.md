@@ -36,7 +36,10 @@ examples:
     link:   https://www.laphamsquarterly.org/medicine/maps/contagion
 
 ---
+
 The flow maps is a combination of a maps and a flow chart or a Sankey diagram that shows the movement of objects from one location to another. This type of chart is often used to show migration, trade, and data transfers between locations.
+
+<!--more-->
 
 Source:
 1. [Flow Map Layout](http://graphics.stanford.edu/papers/flow_map_layout/)

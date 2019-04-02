@@ -50,10 +50,11 @@ examples:
   - title:  <cite>The Complexity of the Climate Change Flow</cite> by DensityDesign Lab
     link:   https://www.flickr.com/photos/densitydesign/31613433722/in/album-72157677740884236/
 
-
 ---
 
 <dfn>Alluvial diagram</dfn> is a type of network diagram that shows changes of flow over time. Alluvial diagrams are a type of Sankey diagram. Both show the amount of flow between nodes using the width of the line. The difference between the two is that the alluvial diagram shows clusters arranged by time or stages.
+
+<!--more-->
 
 The alluvial diagram was first described in 2010[^1] and defined as showing "changes in the clustering structure from one time period to the next are represented by the mergers and divergences that occur in the ribbons linking the blocks". In other words, in alluvial diagrams, lines can both split and merge back into the flow. Importantly, the clusters have to be displayed in temporal order[^3].
 

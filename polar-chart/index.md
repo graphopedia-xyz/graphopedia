@@ -33,9 +33,10 @@ examples:
     link:   https://www.behance.net/gallery/50527775/Who-is-your-President-La-Lettura-278-dataviz
 
 ---
-Alternative names: coxcomb chart, polar area diagram, Nightingale chart, Nightingale rose graph, windrose chart
 
-The polar area chart is a type of pie chart in which all sectors have equal angles but they differ in how far each sector extends from the center of the circle. The polar area chart is used to plot cyclic phenomena, for example, the amount of rain each month would be plotted as 12 sectors at 30 degrees each. The radius of each sector is proportional to the square root of the death count for the month. The area of a sector represents the number of deaths in a month. The polar area chart is famously developed by English nurse Florence Nightingale.
+Alternative names: coxcomb chart, polar area diagram, Nightingale chart, Nightingale rose graph, windrose chart. The polar area chart is a type of pie chart in which all sectors have equal angles but they differ in how far each sector extends from the center of the circle. The polar area chart is used to plot cyclic phenomena, for example, the amount of rain each month would be plotted as 12 sectors at 30 degrees each. The radius of each sector is proportional to the square root of the death count for the month. The area of a sector represents the number of deaths in a month. The polar area chart is famously developed by English nurse Florence Nightingale.
+
+<!--more-->
 
 ### Origin
 

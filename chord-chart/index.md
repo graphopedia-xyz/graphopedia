@@ -45,9 +45,9 @@ examples:
     link:   https://blog.euromonitor.com/the-patterns-of-world-trade/
 
 ---
-Alternative names: Chord diagram, Radial Network Diagram
+Alternative names: Chord diagram, Radial Network Diagram. The chord chart shows flows between nodes in a network. The flows are represented by arcs the width of which represents values that describe the connection between any two nodes.
 
-The chord chart shows flows between nodes in a network. The flows are represented by arcs the width of which represents values that describe the connection between any two nodes.
+<!--more-->
 
 ### Origin 
 The chord diagram was first used by The New York Times in [this genome chart](https://archive.nytimes.com/www.nytimes.com/imagepages/2007/01/22/science/20070123_SCI_ILLO.html); however, the use of chord diagrams has since extended beyond genomics.

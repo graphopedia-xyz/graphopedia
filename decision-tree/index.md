@@ -36,10 +36,9 @@ examples:
     link:   https://winefolly.com/update/how-to-choose-wine/
 
 ---
-Alternative name: flow chart
+Alternative name: flow chart. Decision trees is a type of flowchart where each internal node represents a question about an attribute, each branch represents the outcome of the test, and each leaf node represents a class label (the decision taken). The path connectors from root to leaf represent classification rules. 
 
-Decision trees is a type of flowchart where each internal node represents a question about an attribute, each branch represents the outcome of the test, and each leaf node represents a class label (the decision taken). The path connectors from root to leaf represent classification rules. 
-
+<!--more-->
 
 A decision tree consists of three types of nodes:
 - Decision node – represented by squares

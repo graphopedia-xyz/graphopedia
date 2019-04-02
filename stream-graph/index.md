@@ -37,9 +37,10 @@ examples:
     link:   https://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html?mtrref=undefined&gwh=A81CA2E76FFBB330BC0A04EE77767241&gwt=pay
 
 ---
-Alternative name:
 
-A stream graph is a type of stacked area chart which is shown relative to a central axis.
+Alternative name: A stream graph is a type of stacked area chart which is shown relative to a central axis.
+
+<!--more-->
 
 ### Origin
 

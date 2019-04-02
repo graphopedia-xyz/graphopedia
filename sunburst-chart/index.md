@@ -41,9 +41,9 @@ examples:
 
 
 ---
-Alternative name: ring chart, multi-level pie chart, radial treemap, nested pie chart, stacked pie chart
+Alternative name: ring chart, multi-level pie chart, radial treemap, nested pie chart, stacked pie chart. The <dfn>sunburst chart</dfn> is a type of tree map in a radial layout for displaying hierarchical data. Each level of the hierarchy is shown as a concentric circle with the outermost circle as the bottom of the hierarchy. The highest level of the hierarchy is the center of the sunburst chart. Any sunburst chart can be presented as a tree map or as a tree diagram.
 
-The <dfn>sunburst chart</dfn> is a type of tree map in a radial layout for displaying hierarchical data. Each level of the hierarchy is shown as a concentric circle with the outermost circle as the bottom of the hierarchy. The highest level of the hierarchy is the center of the sunburst chart. Any sunburst chart can be presented as a tree map or as a tree diagram.
+<!--more-->
 
 ### Use cases
 

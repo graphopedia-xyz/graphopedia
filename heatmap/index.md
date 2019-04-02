@@ -40,10 +40,11 @@ examples:
   - title:  <cite>Utilization of Squares by Chess Masters</cite> by Seth Kadish
     link:  https://66.media.tumblr.com/87f255cd0024b050c7546f0c595eb1d4/tumblr_n21vkezveA1s3dn7vo1_1280.png
 
-
 ---
 
 The heatmap is a visualization technique that represents individual values or their ranges through color.
+
+<!--more-->
 
 Sources:
 
