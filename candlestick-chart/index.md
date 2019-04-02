@@ -47,6 +47,8 @@ Candlestick chart are similar to box plots in that both show maximum and minimum
 ### Origin
 Candlestick charts were first described by a wealthy Japanese rice trader Munehisa Homma, who wrote 160 rules describing various patterns of trading.
 
+<!--more-->
+
 Source:
 1. [Candlestick Charting Explained: Timeless Techniques for Trading Stocks and Futures](http://wordpress1.rm7mills.com/notasaham/wp-content/uploads/sites/3/2017/08/Candlestick-Charting-Explained-Gregory-Morris.pdf)
 2. [Japanese Candlestick Charting Techniques by Steve Nison](https://www.forexfactory.com/attachment.php/2269015?attachmentid=2269015&d=1492350521)

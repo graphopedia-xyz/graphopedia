@@ -41,10 +41,10 @@ examples:
 
 ---
 
-
 A Euler diagram shows relationships between one or more sets. The sets are represented as simple shapes, usually circles or rectangles. Their intersections are labeled to emphasize the overlap of sets. 
-
 Unlike Venn diagrams that must show all possible relations between different sets, the Euler diagram shows only relevant relationships.
+
+<!--more-->
 
 ### Origin
 "Eulerian circles" appeared in the 18th century and are attributed to Swiss mathematician Leonhard Euler.

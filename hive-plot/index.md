@@ -36,6 +36,8 @@ examples:
 ---
 The hive plot is a visualization method for drawing networks where nodes are mapped to and positioned on radially positioned linear axes.
 
+<!--more-->
+
 ### Origin
 The hive plot was first introduced in 2011 by bioinformatics data scientist Martin Krzywinski.
 

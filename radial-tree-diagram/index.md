@@ -31,9 +31,9 @@ examples:
     link:   http://www.fastcodesign.com/1665355/infographic-of-the-day-the-insane-choices-you-face-at-the-drugstore
 
 ---
-Alternative name: radial map
+Alternative name: radial map. A radial tree is a type of a tree structure used in information graphics expands radially outward. It is one of many ways of display a tree. The chart starts at the center in the highest-order node that typically has numerous child nodes. Each child node is positioned in the next outer orbit from its parent. A radial tree has an advantage over a linear tree in terms of use of space. In a radial tree nodes are evenly distributed, whereas in a linear tree there are usually more nodes than levels which makes the entire tree occupy a rectangle much wider than its length. However, radial tree may be less effective in terms of interpretation for the viewer as one eye tracking study showed, people are more likely to scan branches of a linear tree<sup>2</sup>.
 
-A radial tree is a type of a tree structure used in information graphics expands radially outward. It is one of many ways of display a tree. The chart starts at the center in the highest-order node that typically has numerous child nodes. Each child node is positioned in the next outer orbit from its parent. A radial tree has an advantage over a linear tree in terms of use of space. In a radial tree nodes are evenly distributed, whereas in a linear tree there are usually more nodes than levels which makes the entire tree occupy a rectangle much wider than its length. However, radial tree may be less effective in terms of interpretation for the viewer as one eye tracking study showed, people are more likely to scan branches of a linear tree<sup>2</sup>.
+<!--more-->
 
 Source:
 

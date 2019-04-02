@@ -36,6 +36,8 @@ examples:
 
 The dasymetric map is a technique of thematic mapping that represents a statistical surface of density, most commonly population density.
 
+<!--more-->
+
 ### Origin
 The dasymetric map was developed in 1911 by Benjamin Semenov-Tyan-Shansky and popularised American geographer by J.K. Wright.
 

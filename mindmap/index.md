@@ -36,9 +36,10 @@ examples:
     link:   https://cargocollective.com/davidmatton/Mind-Map-Infographic
 
 ---
-Alternative name: concept map, spider diagram
 
-A mindmap is a type of non-numeric diagram that represents concepts as nodes and links between them as connecting lines or arrows forming an overall ourward-branching hierarchical structure. A mindmap usually starts from a single concept at the center of the image. Major ideas are connected directly to the central concept, and minor ideas branch out from those major ideas. Mindmaps are used to enhance the process of memorization of facts and their interconnections.<sup>1</sup> 
+Alternative name: concept map, spider diagram. A mindmap is a type of non-numeric diagram that represents concepts as nodes and links between them as connecting lines or arrows forming an overall ourward-branching hierarchical structure. A mindmap usually starts from a single concept at the center of the image. Major ideas are connected directly to the central concept, and minor ideas branch out from those major ideas. Mindmaps are used to enhance the process of memorization of facts and their interconnections.<sup>1</sup> 
+
+<!--more-->
 
 ### Origin
 The mind map has ancient origins with the earliest known example being the The Tree of Porphyry or the Porphyrian tree created by by the 3rd century CE Greek neoplatonist philosopher and logician Porphyry.<sup>2</sup>

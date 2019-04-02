@@ -36,6 +36,8 @@ examples:
 
 Chernoff faces show multiple variable using features of human face that vary in size depending on the value.
 
+<!--more-->
+
 ### Origin
 Chernoff faces are named after their inventor American statistician Herman Chernoff who proposed this technique in 1973.
 

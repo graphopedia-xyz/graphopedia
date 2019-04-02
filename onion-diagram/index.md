@@ -31,9 +31,10 @@ examples:
     link:   https://www.nationalgeographic.com/culture/2018/07/graphic-united-states-immigration-origins-rings-tree-culture/
 
 ---
-Alternative name: concentric circle diagram
 
-An onion diagram is a type of non-numeric diagram that consists of concentric circles that represent categories. The outermost circle represents the lowest category by hierarchy and the innermost circle represents the highest.
+Alternative name: concentric circle diagram. An onion diagram is a type of non-numeric diagram that consists of concentric circles that represent categories. The outermost circle represents the lowest category by hierarchy and the innermost circle represents the highest.
+
+<!--more-->
 
 A numeric chart using the same principle of concentric circles is the tree [ring diagram](https://www.nationalgeographic.com/culture/2018/07/graphic-united-states-immigration-origins-rings-tree-culture/)
 

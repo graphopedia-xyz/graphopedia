@@ -51,10 +51,10 @@ examples:
 
 ---
 
-Alternative name: Column Chart
-
-A bar chart displays quantitative information in the form of rectangles. The length of the bar represents a number. The bar can be either horizontal or vertical.
+Alternative name: Column Chart. A bar chart displays quantitative information in the form of rectangles. The length of the bar represents a number. The bar can be either horizontal or vertical.
 Most often, bar charts are used to compare the change of a value over time. Each bar represents a single number. For this reason, bar charts can be used to compare discrete numbers but not continuously changing numbers.
+
+<!--more-->
 
 ### Variations
 Many types of chart techniques apply to bar charts: stacking, grouping, 

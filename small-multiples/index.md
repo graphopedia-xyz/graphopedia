@@ -34,9 +34,10 @@ examples:
     link:   https://www.scientificamerican.com/article/graphic-science-co2-emissions-shrink-in-a-few-cases/
 
 ---
-Alternative names: grid chart, trellis chart, lattice chart, panel chart
 
-Small multiples is a series of graphs using the same scale and similar stylistics such that they can be easily compared. 
+Alternative names: grid chart, trellis chart, lattice chart, panel chart. Small multiples is a series of graphs using the same scale and similar stylistics such that they can be easily compared. 
+
+<!--more-->
 
 ### Origin
 

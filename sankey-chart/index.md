@@ -37,6 +37,8 @@ examples:
 A Sankey chart is a type of visualization used to represent a flow of any kind, where the width of each arrow corresponds to the quantity of the flow. Sankey diagrams put a visual focus on the transfers or flows within a system [1]. 
 Sankey chart is represented by arrows, which width corresponds to the magnitude of the flow [3]. Flow arrows or lines can merge or split at each stage of a process. Color can be used to separate the chart into different categories or to show the transition from one state of the process to another.
 
+<!--more-->
+
 ### Origin
 
 Sankey chart is named after the Irish engineer Riall Sankey. He created a diagram of steam engine efficiency that used arrows having widths proportional to heat loss [2].

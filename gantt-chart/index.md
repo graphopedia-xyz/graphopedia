@@ -35,6 +35,8 @@ examples:
 ---
 A Gantt chart is a type of bar chart that shows progress of events over time and their inter-dependencies. It is used to visualize project schedules.
 
+<!--more-->
+
 ### Origin
 The Gantt chart was created in 1910s by American mechanical engineer Henry Gantt.
 

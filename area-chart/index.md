@@ -66,6 +66,8 @@ examples:
 An area chart shows data as the area between the data curve that is basically a line graph and the horizontal axis. An area chart can also be considered a technique of visualization for this reason - that any data series can be visualized by filling a space between inside other types of charts.
 Generally, area charts are not used to show a specific value but rather emphasize a trend, a change or the relationship between values. For this purposes part of the area of in the chart can be colored or textured for emphasis.
 
+<!--more-->
+
 ### Origin
 
 William Playfair first an area chart  in 1786 in his book *The Commercial and Political Atlas*.

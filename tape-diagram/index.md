@@ -30,9 +30,9 @@ examples:
     link:   https://www.eduplace.com/math/mw/background/6/04/graphics/ts_6_4_wi-2.gif
 
 ---
-Alternative names: bar model
+Alternative names: bar model. The tape diagram is a type of chart that represents ratios. The tape diagram shows units as simple geometric shapes, usually rectangles, that width of which is proportional to the number each represents. Tape diagrams may compare two different numbers by representing a unit of measure as a single rectangles and then displaying the rectangles in a line such that multiple lines can be easily compared.
 
-The tape diagram is a type of chart that represents ratios. The tape diagram shows units as simple geometric shapes, usually rectangles, that width of which is proportional to the number each represents. Tape diagrams may compare two different numbers by representing a unit of measure as a single rectangles and then displaying the rectangles in a line such that multiple lines can be easily compared.
+<!--more-->
 
 ### Use cases
 Tape diagrams are often used in teaching ratios in 5th grade mathematics.

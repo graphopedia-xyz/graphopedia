@@ -46,6 +46,8 @@ A choropleth map is a type of thematic map in which areas are colored to represe
 ### Origin 
 The first choropleth map was introduced by Baron Pierre Charles Dupin in 1826. The term "choropleth map" appeared in 1938 in <cite>Problems in Population Mapping</cite> by the geographer John Kirtland Wright.
 
+<!--more-->
+
 Sources:
 1.[Milestones in the history of thematic cartography, statistical graphics, and data visualization](http://www.math.yorku.ca/SCS/Gallery/milestone/milestone.pdf)
 2. 

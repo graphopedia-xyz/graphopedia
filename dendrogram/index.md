@@ -40,10 +40,10 @@ examples:
     
 
 ---
-Alternative names: tournament bracket or bracket (for sports, used in knockout tournaments)
 
-A <dfn>dendrogram</dfn> is a type of a tree diagram that is used for representing hierarchies and clustering. The root node of the dendrogram represents the whole data set and the top of the hierarchy. Each leaf node is one step lower in hierarchy. The intermediate nodes between any two levels of the hierarchy describe the extent that the nodes are removed from each other in the hierarchy. The height of the dendrogram represents the distance between each pair of clusters.
+Alternative names: tournament bracket or bracket (for sports, used in knockout tournaments). A <dfn>dendrogram</dfn> is a type of a tree diagram that is used for representing hierarchies and clustering. The root node of the dendrogram represents the whole data set and the top of the hierarchy. Each leaf node is one step lower in hierarchy. The intermediate nodes between any two levels of the hierarchy describe the extent that the nodes are removed from each other in the hierarchy. The height of the dendrogram represents the distance between each pair of clusters.
 
+<!--more-->
 
 Dendrograms are used in genetics to show the pairing of genes. In genetics, a dendrograms is an informal cladograms that is not intended as hypotheses but rather as speculative phylogenies.  
 
