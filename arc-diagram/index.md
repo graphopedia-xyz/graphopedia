@@ -1,47 +1,31 @@
 ---
-layout: post
-
 title:  Arc Diagram
-
-image:
-  featured: arc-diagram.png
-  main: arc-diagram.svg
 
 tags:
 
 related:
-  - title: Hive Plot
-    link: hive-plot
-    image: hive-plot.png
-
-  - title: Chord Chart
-    link: chord-chart
-    image: chord-chart.png
-    
-  - title: Sankey Chart
-    link: sankey-chart
-    image: sankey-chart.png
-
+  - hive-plot
+  - chord-chart  
+  - sankey-chart
 
 tools:
   - name:   D3.js
     link:   https://d3js.org/
-    
+
   - name:   D3 code example by Robert Gove
     link:   https://bl.ocks.org/rpgove/53bb49d6ed762139f33bdaea1f3a9e1c
 
-
-
 examples:
-  - title:  <cite>Codebases millions of lines of code</cite> by InformationisBeautiful 
+  - title:  Codebases millions of lines of code
+    author: InformationisBeautiful 
     link:   https://informationisbeautiful.net/visualizations/million-lines-of-code/
     note:   This is a tape diagram that uses an arc diagram to show connections between two versions of software where the thinkness of the arc shows the amount of re-used code
 
-
-  - title:  <cite>Bible Cross-References</cite> by Chris Harrison
+  - title:  Bible Cross-References
+    author: Chris Harrison
     link:   http://www.chrisharrison.net/index.php/Visualizations/BibleViz
     note:   An arc diagram showing 63,000 cross references with a bar chart inverted at bottom to show the number of connected in each node.
-     
+
 ---
 
 An arc diagram is a type of network diagram, also called "node and link" diagram. [^1] It shows connections between any two nodes out of multiple nodes positioned on a single axis.[^2] Any network diagram which is a two-dimensional chart, can be represented as an arc diagram which is one-dimensional.
