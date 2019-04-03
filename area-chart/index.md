@@ -1,24 +1,11 @@
 ---
-layout: post
-
 title:  Area Chart
-
-image:
-  featured: area-chart.png
-  main: area-chart.png
-  anatomy: area-chart.png
   
 tags:
 
 related:
-  - title: Line Graph
-    link: line-graph
-    image: line-graph.png
-
-  - title: Stream Graph
-    link: stream-graph
-    image: stream-graph.png
-
+  - line-graph
+  - stream-graph
 
 tools:
   - name:   D3.js
@@ -28,7 +15,7 @@ tools:
     link:   http://mbostock.github.io/protovis/ex/area.html
 
   - name:   Google Charts
-    link:   https://developers.google.com/chart/
+    link:   https://developers.google.com/chart/interactive/docs/gallery/areachart
 
   - name:   Microsoft Excel
     link:   https://office.microsoft.com
@@ -40,14 +27,14 @@ tools:
     link:   https://docs.google.com
 
   - name:   High Charts
-    link:   https://www.highcharts.com
+    link:   https://www.highcharts.com/docs/chart-and-series-types/area-chart
 
   - name:   Adobe Illustrator (chart tool)
     link:   http://www.adobe.com/Illustrator
 
-
 examples:
-  - title:  Interest of the National Debt from the Revolution by Playfair 1786
+  - title:  Interest of the National Debt from the Revolution, 1786
+    author: Playfair
     link:   https://en.wikipedia.org/wiki/Area_chart#/media/File:1786_Playfair_-_25_Interest_of_the_national_Debt_from_the_Revolution.jpg
 
   - title:  Internet Users by Region
@@ -56,10 +43,9 @@ examples:
   - title:  The American Time Survey - How Different Groups Spend their Day
     link:   https://flowingdata.com/2009/08/10/how-people-in-america-spend-their-day/
     
-  - title:  <cite>Thirty Years of Atlantic Hurricanes</cite> by Axios
+  - title:  Thirty Years of Atlantic Hurricanes
+    author: Axios
     link:   https://www.axios.com/thirty-years-of-atlantic-hurricanes-1513305322-8b3c056a-ff13-49dc-a95d-961481119907.html
-    
-    
 
 ---
 
@@ -68,10 +54,10 @@ Generally, area charts are not used to show a specific value but rather emphasiz
 
 <!--more-->
 
-### Origin
+## Origin
 
 William Playfair first an area chart  in 1786 in his book *The Commercial and Political Atlas*.
 
-Source
+## Source
 
 1. [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)

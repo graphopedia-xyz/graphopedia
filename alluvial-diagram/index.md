@@ -1,28 +1,13 @@
 ---
-layout: post
-
 title: Alluvial Diagram
 
-image:
-  featured: alluvial-diagram.png
-  main: alluvial-diagram.svg
-  
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Sankey Chart
-    link: sankey-chart
-    image: sankey-chart.png
-  - title: Chord Chart
-    link: chord-chart
-    image: chord-chart.png
-  - title: Parallel Coordinates
-    link: parallel-coordinates
-    image: Parallel Coordinates.png
-    
+  - sankey-chart
+  - chord-chart
+  - parallel-coordinates
+
 tools:
   - name:   Sankey Diagram Generator <em>free tool</em>
     link:   https://sankey.csaladen.es/
@@ -37,17 +22,16 @@ tools:
     link:   https://github.com/corybrunson/ggalluvial
 
   - name:   D3 Sankey Diagram
-    link:   https://beta.observablehq.com/@mbostock/d3-sankey-diagram
-    
-    
-    
-    
+    link:   https://beta.observablehq.com/@mbostock/d3-sankey-diagram 
 
 examples:
-  - title:  <cite>Pantheon the first 100 historical figures in order of influence</cite> by Valerio Pellegrini
+  - title:  Pantheon the first 100 historical figures in order of influence
+    author: Valerio Pellegrini
     link:   https://www.behance.net/gallery/26338543/PANTHEON-Corriere-della-Sera-La-Lettura-181
+    note: 
 
-  - title:  <cite>The Complexity of the Climate Change Flow</cite> by DensityDesign Lab
+  - title:  The Complexity of the Climate Change Flow
+    author: DensityDesign Lab
     link:   https://www.flickr.com/photos/densitydesign/31613433722/in/album-72157677740884236/
 
 ---
@@ -65,17 +49,17 @@ Alluvial diagram can also be viewed as a variant of [Parallel Coordinates Plot](
 
 Note: You may see the terms *sankey diagram* and *alluvial diagram* used to refer to the same type of chart, for example by D3 creator Mick Bostock[^5] and author Andy Kirk[^6].
  
-###Purpose
+## Purpose
 The alluvial diagram are designed to show connections between categories over time. The main purpose of this diagram is representation of splitting and merging of parts of categories into each other. 
 
-###Usage
+## Usage
 To create an alluvial diagram, at least two categories are needed and at least two time points at which we will show the how the connections between these parts have changed.
 
-###Alternative Charts
+## Alternative Charts
 
 [Chord chart](chord-chart) - a chord chart represents weighted relationships between categories. Unlike the alluvial diagram, it does not show the change over time, but a single snapshot in time. Another restriction is that all the categories in a cord chart have to be of the same type - for example all countries and not a combination of countries and cities.
 
-Sources:
+## Sources:
 
 [^1]: [Rosvall M, Bergstrom CT (2010) Mapping Change in Large Networks](https://arxiv.org/pdf/0812.1242.pdf)
 [^2]: [M. Schmidt, Energy use in a passenger car](https://Www.Ifu.Com/En/e-Sankey/Sankey-Diagram/)
