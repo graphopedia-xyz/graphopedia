@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title:  Tree Map
-
-image:
-  featured: tree-map.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Sunburst chart
-    link: sunburst-chart
-    image: sunburst-chart.png
+  - sunburst-chart
 
 tools:
   - name:   Microsoft Excel
@@ -26,10 +14,12 @@ tools:
     link:   https://rawgraphs.io/learning/how-to-make-a-treemap/
 
 examples:
-  - title:  <cite>Jobs Charted by State and Salary</cite> by Nathan Yau
+  - title:  Jobs Charted by State and Salary
+    author: Nathan Yau
     link:   https://flowingdata.com/2014/07/02/jobs-charted-by-state-and-salary/
 
-  - title:  <cite>The Billion Dollar-o-Gram</cite> by David McCandless
+  - title:  The Billion Dollar-o-Gram
+    author: David McCandless
     link:   https://informationisbeautiful.net/visualizations/the-billion-dollar-o-gram-2009/
 
 ---
@@ -38,17 +28,14 @@ Treemap is a type of chart that displays hierarchical data using nested figures,
 
 <!--more-->
 
-### Origin
+## Origin
 This idea was invented by professor Ben Shneiderman at the University of Maryland Human – Computer Interaction Lab in the early 1990s.
 
+## Variations
+- **Voronoi Treemaps** based on Voronoi diagram calculations. 
+- **Jigsaw Treemaps** based on the geometry of space-filling curves. They assume that the weights are integers and that their sum is a square number. The regions of the map are rectilinear polygons and highly non-ortho-convex. Their aspect ratio is guaranteed to be at most 4.
+- **GosperMaps** based on the geometry of Gosper curves. It is ordered and stable, but has a very high aspect ratio.
 
-### Variations
-**Voronoi Treemaps** based on Voronoi diagram calculations. 
-
-**Jigsaw Treemaps** based on the geometry of space-filling curves. They assume that the weights are integers and that their sum is a square number. The regions of the map are rectilinear polygons and highly non-ortho-convex. Their aspect ratio is guaranteed to be at most 4.
-
-**GosperMaps** based on the geometry of Gosper curves. It is ordered and stable, but has a very high aspect ratio.
-
-Sources:
+## Sources
 1. [Kong, N; Heer, J; Agrawala, M (2010). Perceptual Guidelines for Creating Rectangular Treemaps](https://ieeexplore.ieee.org/document/5613436)
 2. [Treemaps for space-constrained visualization of hierarchies](http://www.cs.umd.edu/hcil/treemap-history/index.shtml)

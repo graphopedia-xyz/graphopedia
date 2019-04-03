@@ -1,25 +1,9 @@
 ---
-layout: post
-
 title:  Bubble Map
-
-image:
-  featured: bubble-map.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Lorem Ipsum
-    link: sunburst-chart
-    image: sunburst-chart.png
-  - title: Dolor Sit Amet
-    link: venn-diagram
-    image: venn-diagram.png
 
 tools:
   - name:   Datamatic
@@ -32,10 +16,12 @@ tools:
     link:   https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_howto_symbol.html
     
 examples:
-  - title:  <cite>Deadly Vibrations. Earthquakes resulting in 1000 or more deaths since 1900</cite> by Ben Willers
+  - title:  Deadly Vibrations. Earthquakes resulting in 1000 or more deaths since 1900 
+    author: Ben Willers
     link:   https://www.flickr.com/photos/b_willers/6331225797/in/photostream/
 
-  - title:  <cite>Where to Live to Avoid Natural Disasters</cite> by The New York Times
+  - title:  Where to Live to Avoid Natural Disasters
+    author: The New York Times
     link:   https://archive.nytimes.com/www.nytimes.com/interactive/2011/05/01/weekinreview/01safe.html?_r=0
 
 ---
@@ -46,7 +32,7 @@ Alternative names: proportional symbol map, graduated symbol map. A bubble map s
 
 In infographics and data visualizations, bubble maps need to be properly scaled to avoid clutter. Ideally, bubbles should not overlap. To avoid obstruction of the map itself, bubbles can be made partially transparent.
 
-Source:
+## Sources:
 
 1. [Algorithmic Aspects of Proportional Symbol Maps](https://www.win.tue.nl/~speckman/papers/SymbolMaps.pdf)
 

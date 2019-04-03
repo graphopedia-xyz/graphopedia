@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title: Tape diagram
-
-image:
-  featured: tape-diagram.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Isotype diagram
-    link: isotype-diagram
-    image: isotype-diagram.png
+  - isotype-diagram
 
 tools:
   - name:   Microsoft Excel tutorial
@@ -34,10 +22,9 @@ Alternative names: bar model. The tape diagram is a type of chart that represent
 
 <!--more-->
 
-### Use cases
+## Use cases
 Tape diagrams are often used in teaching ratios in 5th grade mathematics.
 
-#### Sources:
-
+## Sources:
 1. [Eureka Math Grade 2 Study Guide](https://books.google.com/books?id=r5IvCgAAQBAJ&pg=PA128&redir_esc=y#v=onepage&q&f=false)
 2. [NYS COMMON CORE MATHEMATICS CURRICULUM.Lesson 17: Comparing Tape Diagram Solutions to Algebraic Solutions ](file:///Users/annavital/Downloads/math-g7-m2-topic-c-lesson-17-teacher.pdf)

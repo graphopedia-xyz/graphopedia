@@ -1,23 +1,12 @@
 ---
-layout: post
-
 title:  Bubble Chart
 
-image:
-  featured: bubble-chart.png
-  main: bubble-chart.png
-  anatomy: bubble-chart.svg
-  
 tags:
   - correlation
 
 related:
-  - title: Scatter plot
-    link: scatter-plot
-    image: scatter-plot.png
-  - title: Marimekko chart
-    link: marimekko-chart
-    image: marimekko-chart.png
+  - scatter-plot
+  - marimekko-chart
 
 tools:
   - name:   Apple Keynote
@@ -31,29 +20,30 @@ tools:
     
   - name:   Gapminder (for animated bubble chart)
     link:   https://www.gapminder.org/tools-offline/
-    
-  
 
 examples:
 
-  - title:  <cite>The Wealth & Health of Nations</cite> recreation by Mike Bostock of the Hans Rosling original chart
+  - title:  The Wealth & Health of Nations
+    author: Mike Bostock
     link:   https://bost.ocks.org/mike/nations/
+    note:   recreation of the Hans Rosling original chart
 
-  - title:  <cite>The Language of the State of the Union</cite> by The National Post graphics team
+  - title:  The Language of the State of the Union
+    author: The National Post graphics team
     link:   https://nationalpostcom.files.wordpress.com/2012/01/fo0225_stateoftheunion-2.pdf
  
-  - title:  <cite>Share with mental or substance disorders males vs females</cite> by Our World In Data
+  - title:  Share with mental or substance disorders males vs females
+    author: Our World In Data
     link:   https://ourworldindata.org/grapher/share-with-mental-or-substance-disorders-males-vs-females
     
-  - title:  <cite>Lunar Conversations. A timeline of the conversations between Earth and the spacecraft of the Apollo 11 mission from liftoff to splashdown.</cite> by Nicholas Rougeux
+  - title:  Lunar Conversations. A timeline of the conversations between Earth and the spacecraft of the Apollo 11 mission from liftoff to splashdown.
+    author: Nicholas Rougeux
     link:   https://ourworldindata.org/grapher/share-with-mental-or-substance-disorders-males-vs-females
     
-  - title:  <cite>Global Carbon Emissions</cite> by Stanford Kay
+  - title:  Global Carbon Emissions
+    author: Stanford Kay
     link:   http://www.stanfordkaystudio.com/information.html
-    
-    
-    
-     
+
 ---
 
 Alternative name: bubble plot. A <dfn>bubble chart</dfn> is a type of [scatter plot](/scatter-plot) that represents three variables by using circles that vary in size and their position on the x and y axes. 
@@ -73,14 +63,14 @@ Clusters, outliers, and overall trends reveal themselves well on a bubble chart.
 The [first bubble chart](https://en.wikipedia.org/wiki/Pie_chart#/media/File:Playfair_piecharts.jpg) appeared in William Playfair's <cite>Commercial and Political Atlas</cite> published in 1786.
 
 
-### Purpose
+## Purpose
 The main advantage of bubble charts is their ability to show large trends in your data. The overall shape created by the bubbles reveals the data trends, similar to a [scatter plot](/scatter-plot).
 
 A known problem of bubble charts, as well as all types of information graphics that use circles, is that circle sizes are difficult to compare. For this reason, bubble charts are not used for comparing precise values but to show a general trend in the data and the outliers. [^4]
 
 Another disadvantage of bubble charts is their lack of means of representing negative values or zero. Like scatter plots, they can become cluttered. Over-plotting is another issue with bubble charts that comes up when a lor of values are concentrated in one area of the chart or when there are simple too many data points. Making the circles partially transparent can solve this problem for overlap of two to three circles.
 
-### Usage
+## Usage
 You can use a bubble chart if you have at least 3 variables, also called *data series*. 
 
 For example, we can show the connection between life expectancy with the state of the economy in their country and the population size. The steps of making a bubble chart for this data would look like this:
@@ -100,19 +90,19 @@ Bubble charts can be created using templates in MS PowerPoint, MS Excel, Apple K
 An interactive bubble chart can be created on Gapminder, which is free desktop software used by Hans Rosling.
 
 
-### Alternative Charts
+## Alternative Charts
 
 An alternative to bubble charts is the [Marimekko chart](marimekko-chart). Because in a Marimekko chart we are comparing areas of rectangles, we can read precise values off the chart as well as quickly approximate with how the shapes compare in size.
 
 Another alternative for bubble charts with groups can be a [tree map](tree-map).
 
 
-### Variations
+## Variations
 
 1. Semi-circle plot - since bubble charts with a lot of data points tend to become cluttered with overlapping circles, to [de-clutter a bubble chart](https://flowingdata.com/2017/10/26/how-to-make-a-semicircle-plot-in-r/), it is possible to show only half of each circle as shown in [this example from the New York Times](https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html?smid=tw-share&_r=0).
 2. Comparative half-bubble - another variation with the semi-circles that allows comparision between two related numbers [displays two half-circles side by side](https://www.informationisbeautifulawards.com/showcase/604-the-analytical-tourism-map-of-piedmont).git 
 
-#### Sources
+## Sources
 
 [^1]: [Effectiveness of Animation in Trend Visualization](https://www.cc.gatech.edu/~stasko/papers/infovis08-anim.pdf)
 

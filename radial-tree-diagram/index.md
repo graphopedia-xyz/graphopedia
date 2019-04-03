@@ -1,30 +1,18 @@
 ---
-layout: post
-
 title: Radial Tree
-
-image:
-  featured: radial-tree-diagram.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Hyperbolic tree
-    link: hyperbolic-tree
-    image: hyperbolic-tree.png
-
+  - hyperbolic-tree
 
 tools:
   - name:   D3
     link:   https://beta.observablehq.com/@mbostock/d3-radial-tidy-tree
 
 examples:
-  - title:  <cite>The Cognitive Bias Codex</cite> by John Manoogian III
+  - title:  The Cognitive Bias Codex
+    author: John Manoogian III
     link:   https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg
 
   - title:  Headache causes
@@ -35,8 +23,7 @@ Alternative name: radial map. A radial tree is a type of a tree structure used i
 
 <!--more-->
 
-Source:
+## Sources
 
 1. [Angular-Coordinate Driven Radial Tree Drawing](https://pdfs.semanticscholar.org/84d2/1d1679534547541babaf8fe56fe3503db004.pdf)
-
 2. [Evaluation of Traditional, Orthogonal, and Radial Tree Diagrams by an Eye Tracking Study](http://www.joules.de/files/burch_evaluation_2011.pdf)

@@ -1,25 +1,11 @@
 ---
-layout: post
-
 title:  Marimekko Chart
-
-image:
-  featured: marimekko-chart.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Tree map
-    link: tree-map
-    image: tree-map.png
-  - title: Bubble chart
-    link: bubble-chart
-    image: bubble-chart.png
+  - tree-map
+  - bubble-chart
 
 tools:
   - name:   D3
@@ -29,10 +15,10 @@ tools:
     link:   https://www.fusioncharts.com/dev/chart-guide/standard-charts/marimekko-chart
 
 examples:
-  - title:  <cite>How many years we lose to the air we breathe</cite>
+  - title:  How many years we lose to the air we breathe
     link:   https://www.washingtonpost.com/graphics/2018/national/health-science/lost-years/?noredirect=on&utm_term=.bd1237ceb18d
 
-  - title:  <cite>How Different Income Groups Spend Money</cite>
+  - title:  How Different Income Groups Spend Money
     link:   https://flowingdata.com/2018/02/08/how-different-income-groups-spend-money/
 
 ---
@@ -41,10 +27,10 @@ Alternative name: mosaic plot, Marimekko diagram, mosaic graph, Mekko chart. A M
 
 <!--more-->
 
-### Origin
+## Origin
 The Marimekko chart was introduced in 1981<sup>4</sup>.
 
-Source:
+## Sources
 1. [Interactive Graphics for Data Analysis](https://books.google.com.ua/books?id=xHIH1Q47FeoC)
 2. [Graphical Methods For Categorical Data](http://datavis.ca/papers/sugi/sugi17.pdf)
 3. [The Grammar of Graphics By Leland Wilkinson](https://books.google.com/books?id=ZiwLCAAAQBAJ)

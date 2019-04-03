@@ -1,19 +1,10 @@
 ---
-layout: post
-
 title:  Histogram
-
-image:
-  featured: histogram.png
-  main: histogram.png
-  anatomy: histogram.png
   
 tags:
 
 related:
-  - title: Bar Char
-    link: bar-chart
-    image: bar-chart.png
+  - bar-chart
 
 tools:
   - name:   D3.js
@@ -41,10 +32,12 @@ tools:
     link:   http://www.r-graph-gallery.com/83-histogram-with-colored-tail/
 
 examples:
-  - title:  <cite>Searching for Peace in Old Age</cite> by Hyperakt
+  - title:  Searching for Peace in Old Age
+    author: Hyperakt
     link:   http://www.hyperakt.com/items/corriere-infographic/
 
-  - title:  <cite>The Pianogram</cite> by Joseph Yuen
+  - title:  The Pianogram
+    author: Joseph Yuen
     link:   http://joeycloud.net/v/pianogram/
 
 ---
@@ -53,9 +46,8 @@ A histogram is a graphic representation of the distribution of data. It is an es
 
 <!--more-->
 
-### Origin
+## Origin
 The histogram was first introduced by English mathematician and biostatistician Karl Pearson in 1895. (Pearson is also the author of *The Grammar of Science*, the book recommended by Albert Einstein to his friends of the Olympia Academy.)
 
-
-Source:
+## Sources
 [Contributions to the mathematical theory of evolution.—II. Skew variation in homogeneous material](http://rsta.royalsocietypublishing.org/content/186/343)

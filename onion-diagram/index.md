@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title:  Onion diagram
-
-image:
-  featured: onion-diagram.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Pyramid chart
-    link: pyramid
-    image: pyramid.png
+  - pyramid
 
 tools:
   - name:   PowerPoint
@@ -26,9 +14,10 @@ tools:
     link:   https://www.tableau.com
 
 examples:
-
-  - title:  <cite>U.S. Immigration by Origin at Birth, 1830-2015</cite> by Pedro Cruz and John Wihbey for the National Geographic
+  - title:  U.S. Immigration by Origin at Birth, 1830-2015
+    author: Pedro Cruz and John Wihbey
     link:   https://www.nationalgeographic.com/culture/2018/07/graphic-united-states-immigration-origins-rings-tree-culture/
+    note: for the National Geographic
 
 ---
 
@@ -38,5 +27,5 @@ Alternative name: concentric circle diagram. An onion diagram is a type of non-n
 
 A numeric chart using the same principle of concentric circles is the tree [ring diagram](https://www.nationalgeographic.com/culture/2018/07/graphic-united-states-immigration-origins-rings-tree-culture/)
 
-Sources:
+## Sources
 1. [Rainbow and onion diagrams](http://www.endvawnow.org/en/articles/1186-rainbow-and-onion-diagrams.html)

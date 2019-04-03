@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title:  Funnel Diagram
-
-image:
-  featured: funnel-diagram.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Pyramid
-    link: pyramid
-    image: pyramid.png
+  - pyramid
 
 tools:
   - name:   PowerPoint
@@ -26,11 +14,13 @@ tools:
     link:   https://www.apple.com/lae/keynote/
 
 examples:
-  - title:  <cite>Divine Comedy</cite> via Daniela Mainardi
+  - title:  Divine Comedy
     link:   http://www.filodidattica.it/divina-commedia/
+    note:   via Daniela Mainardi
 
-  - title:  <cite>General Configuration of Dante's Hell</cite> via <cite> I tesori alla fine dell'arcobaleno</cite>
+  - title:  General Configuration of Dante's Hell
     link:   https://giornalebibliotalamona.files.wordpress.com/2013/08/inferno-b3cda9ce-63ad-4049-b0de-82e4d075107e.jpg
+    note:   via I tesori alla fine dell'arcobaleno
 
 ---
 

@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title: Kagi Chart
-
-image:
-  featured: kagi-chart.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Candlestick chart
-    link: candlestick-chart
-    image: sunburst-chart.png
+  - candlestick-chart
 
 tools:
   - name:   FusionCharts
@@ -29,9 +17,8 @@ tools:
     link:   https://www.wolfram.com/mathematica/new-in-8/financial-visualization/kagichart.html
 
 examples:
-  - title:  <cite>2 hour Kagi Chart</cite>
+  - title:  2 hour Kagi Chart
     link:   https://www.flickr.com/photos/90790980@N02/10865647303/in/photolist-dRqmZN-hyahoB-9UXxeJ-fMUESf-Smfq2p-dS5PKT
-
 
 ---
 
@@ -41,11 +28,9 @@ The direction of the line changes when the price reaches a preset reversal amoun
 
 <!--more-->
 
-### Origin
-
+## Origin
 The Kagi chart originates from Japan where during the 1870s it was used in stock market started trading.
 
-Source:
-
+## Sources
 1. [Sentiment Indicators: Renko, Price Break, Kagi, Point and Figure - What They Are and How to Use Them to Trade](https://books.google.com/books?id=9JZ6U7JZVyQC)
 2. [Beyond Candlesticks: New Japanese Charting Techniques Revealed by Steve Nison](http://www.saham-indonesia.com/Ebooks/Technical%20Analysis/Steve%20Nison-%20Beyond%20Candlesticks.pdf)
