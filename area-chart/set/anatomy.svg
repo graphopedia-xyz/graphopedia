@@ -1,84 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1200px" height="1115px" viewBox="0 0 1200 1115" enable-background="new 0 0 1200 1115" xml:space="preserve">
-<polygon fill="#A3AEE3" points="98.358,922.229 270.277,578.68 440.139,748.685 609.702,238.914 779.56,408.822 950.302,920.312 "/>
-<g>
-	<text transform="matrix(1 0 0 1 942.5098 1111.8438)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">intervals</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 134.8848 52.7383)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">value scale</text>
-</g>
-<g>
-	<g>
-		<polyline fill="none" stroke="#464A90" stroke-width="16" stroke-miterlimit="10" points="91,44.187 91,928 1155.813,928 		"/>
-		<g>
-			<polygon fill="#464A90" points="63.077,52.357 91,4 118.923,52.357 			"/>
-		</g>
-		<g>
-			<polygon fill="#464A90" points="1147.643,955.923 1196,928 1147.643,900.077 			"/>
-		</g>
-	</g>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 256.6465 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">1</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 10.0527 766.2461)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">1</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 422.2676 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">2</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 595.498 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">3</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 935.502 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">5</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 759.8262 1023.4883)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">4</text>
-</g>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="59" y1="579" x2="124" y2="579"/>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="59" y1="409" x2="124" y2="409"/>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="59" y1="239" x2="124" y2="239"/>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="59" y1="749" x2="124" y2="749"/>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="270" y1="959" x2="270" y2="894"/>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="440" y1="961" x2="440" y2="895"/>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="610" y1="961" x2="610" y2="895"/>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="780" y1="959" x2="780" y2="894"/>
-<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="950" y1="959" x2="950" y2="894"/>
-<g>
-	<text transform="matrix(1 0 0 1 4.5098 597.0273)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">2</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 4.5645 427.9102)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">3</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 1.9277 254.7266)" fill="#37246D" font-family="'Roboto-Medium'" font-size="48px">4</text>
-</g>
-<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="780" y1="881" x2="780" y2="413"/>
-<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="610" y1="881" x2="610" y2="239"/>
-<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="440" y1="881" x2="440" y2="747"/>
-<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="270" y1="881" x2="270" y2="573"/>
-<line fill="none" stroke="#AFAFAF" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="553" y1="409" x2="138" y2="409"/>
-<g>
-	<path fill="#AFAFAF" d="M553,241h-24v-4h24V241z M593,241h-24v-4h24V241z M511,241h-24v-4h24V241z M469,241h-24v-4h24V241z
-		 M427,241h-24v-4h24V241z M385,241h-24v-4h24V241z M343,241h-24v-4h24V241z M301,241h-24v-4h24V241z M259,241h-24v-4h24V241z
-		 M217,241h-24v-4h24V241z M175,241h-24v-4h24V241z"/>
-</g>
-<g>
-	<path fill="#C5CCED" d="M427,751h-24v-4h24V751z M385,751h-24v-4h24V751z M343,751h-24v-4h24V751z M301,751h-24v-4h24V751z
-		 M259,751h-24v-4h24V751z M217,751h-24v-4h24V751z"/>
-</g>
-<g>
-	<path fill="#AFAFAF" d="M259,581h-24v-4h24V581z M217,581h-24v-4h24V581z M175,581h-24v-4h24V581z"/>
-</g>
-<g>
-	<path fill="#AFAFAF" d="M175,751h-24v-4h24V751z"/>
-</g>
-<line fill="none" stroke="#C5CCED" stroke-width="4" stroke-miterlimit="10" stroke-dasharray="24,18" x1="773" y1="409" x2="553" y2="409"/>
-<circle fill="#464A90" cx="779.56" cy="408.822" r="15.885"/>
-<circle fill="#464A90" cx="609.702" cy="238.964" r="15.885"/>
-<circle fill="#464A90" cx="439.844" cy="748.538" r="15.885"/>
-<circle fill="#464A90" cx="269.986" cy="578.68" r="15.885"/>
+	 viewBox="0 0 800 847" style="enable-background:new 0 0 800 847;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A5A5B9;}
+	.st1{font-family:'RobotoMono-Regular';}
+	.st2{font-size:18.7619px;}
+	.st3{fill:none;stroke:#A8A8A8;stroke-width:1.1052;stroke-miterlimit:10;}
+	.st4{fill:#E5E5E5;}
+	
+		.st5{opacity:0.8;fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3156;enable-background:new    ;}
+	.st6{fill:#514361;}
+	.st7{font-size:32.8333px;}
+	.st8{fill:none;}
+	.st9{font-family:'Roboto-Italic';}
+	.st10{font-size:21.1071px;}
+	.st11{enable-background:new    ;}
+</style>
+<text transform="matrix(1 0 0 1 33.0229 745.5283)" class="st0 st1 st2">0</text>
+<text transform="matrix(1 0 0 1 176.6831 745.5283)" class="st0 st1 st2">20</text>
+<text transform="matrix(1 0 0 1 317.812 745.5283)" class="st0 st1 st2">40</text>
+<text transform="matrix(1 0 0 1 458.9424 745.5283)" class="st0 st1 st2">60</text>
+<text transform="matrix(1 0 0 1 600.0693 745.5283)" class="st0 st1 st2">80</text>
+<text transform="matrix(1 0 0 1 732.7139 745.5283)" class="st0 st1 st2">100</text>
+<path class="st3" d="M51.3,719.1H757"/>
+<path class="st3" d="M51.3,719.1v-17.6"/>
+<path class="st3" d="M192.5,719.1v-17.6"/>
+<path class="st3" d="M333.5,719.1v-17.6"/>
+<path class="st3" d="M474.7,719.1v-17.6"/>
+<path class="st3" d="M615.9,719.1v-17.6"/>
+<text transform="matrix(1 0 0 1 18.1152 583.3154)" class="st0 st1 st2">20</text>
+<text transform="matrix(1 0 0 1 18.1152 442.1885)" class="st0 st1 st2">40</text>
+<text transform="matrix(1 0 0 1 18.1152 301.0596)" class="st0 st1 st2">60</text>
+<text transform="matrix(1 0 0 1 18.1152 159.9307)" class="st0 st1 st2">80</text>
+<text transform="matrix(1 0 0 1 4.665 18.8027)" class="st0 st1 st2">100</text>
+<path class="st3" d="M51.3,719.1V13.4"/>
+<path class="st3" d="M51.3,436.9v282.2H69"/>
+<path class="st3" d="M51.3,577.9H69"/>
+<path class="st4" d="M757,719.1V351l-141-92.3l-141.2,56.2l-141.5-17.7L192.5,430.6l-141.2,6.3v282.2H757z"/>
+<path class="st3" d="M51.3,295.6H69"/>
+<path class="st3" d="M51.3,154.6H69"/>
+<path class="st3" d="M51.3,13.4H69"/>
+<path class="st5" d="M334,695.6v-399"/>
+<path class="st5" d="M334,295.4H86.2"/>
+<text transform="matrix(1 0 0 1 77.3384 332.4229)" class="st6 st1 st7">value Y</text>
+<text transform="matrix(1 0 0 1 77.3384 34.2817)" class="st6 st1 st7">Y axis</text>
+<text transform="matrix(1 0 0 1 350.0386 507.3926)" class="st6 st1 st7">value X</text>
+<path class="st8" d="M350.2,520.4h156.3v79.8H350.2V520.4z"/>
+<text transform="matrix(1 0 0 1 350.2065 536.1533)" class="st6 st9 st10">shown by X-axis </text>
+<text transform="matrix(1 0 0 1 350.2065 561.4824)" class="st6 st9 st10">coordinate</text>
+<path class="st8" d="M77.3,345.6h175.9v64.5H77.3L77.3,345.6z"/>
+<text transform="matrix(1 0 0 1 77.3384 361.4336)" class="st6 st9 st10">shown by Y-axis </text>
+<text transform="matrix(1 0 0 1 68.999 62.2314)" class="st6 st9 st10">typically shows a number scale</text>
+<text transform="matrix(1 0 0 1 520.9639 787.001)" class="st6 st1 st7">X axis</text>
+<text transform="matrix(1 0 0 1 512.624 814.9512)" class="st11"><tspan x="0" y="0" class="st6 st9 st10">typically shows a category,</tspan><tspan x="0" y="25.3" class="st6 st9 st10">number or sequence scale</tspan></text>
+<text transform="matrix(1 0 0 1 77.3384 386.7627)" class="st6 st9 st10">coordinate</text>
+<circle class="st6" cx="333.2" cy="297.3" r="6.4"/>
 </svg>

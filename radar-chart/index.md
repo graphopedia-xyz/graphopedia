@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title: Radar Chart
-
-image:
-  featured: radar-chart.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Parallel coordinates
-    link: parallel-coordinates
-    image: parallel-coordinates.png
+  - parallel-coordinates
 
 tools:
   - name:   Adobe Illustrator
@@ -26,10 +14,12 @@ tools:
     link:   http://www.amcharts.com/demos/radar-chart/
 
 examples:
-  - title:  <cite>Who Are the Teachers</cite> by Benedetta Signaroldi
+  - title:  Who Are the Teachers
+    author: Benedetta Signaroldi
     link:   https://www.behance.net/gallery/19469225/Who-are-our-teachers-La-Lettura
 
-  - title:  <cite>Media Economy Report</cite> by Bureau Oberhaeuser
+  - title:  Media Economy Report
+    author: Bureau Oberhaeuser
     link:   https://www.behance.net/gallery/9349555/IPG-Media-Economy-Report-Vol3
 
 ---
@@ -37,7 +27,11 @@ Alternative names: spider chart, star chart, star plot, cobweb chart, Kiviat dia
 
 <!--more-->
 
-Source:
+Radar chars, as all other radial charts, are less readable than linear charts.[^1]
 
-1.[Michael Friendly (1991). "Statistical Graphics for Multivariate Data". Paper presented at the SAS SUGI 16 Conference, Apr, 1991](http://www.math.yorku.ca/SCS/sugi/sugi16-paper.html)
-2.[NIST/SEMATECH (2003). Star Plot in: e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/eda/section3/starplot.htm)
+## Sources
+1. [Michael Friendly (1991). "Statistical Graphics for Multivariate Data". Paper presented at the SAS SUGI 16 Conference, Apr, 1991](http://www.math.yorku.ca/SCS/sugi/sugi16-paper.html)
+2. [NIST/SEMATECH (2003). Star Plot in: e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/eda/section3/starplot.htm)
+
+## References:
+[^1]: ["Eye tracking for visualization evaluation: Reading values on linear versus radial graphs"](https://pdfs.semanticscholar.org/c33e/8600db63b16e0a7f5f7f3edc7f007b2bb1bf.pdf)
