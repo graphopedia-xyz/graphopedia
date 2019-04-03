@@ -1,6 +1,4 @@
 ---
-layout: post
-
 title:  Decision Tree
 
 image:
@@ -14,12 +12,8 @@ tags:
   - sit-amet
 
 related:
-  - title: Block scheme
-    link: block-scheme
-    image: block-scheme.png
-  - title: Mind map
-    link: mindmap.png
-    image: mindmap.png
+  - block-scheme
+  - mindmap
 
 tools:
   - name:   Drawio
@@ -29,10 +23,12 @@ tools:
     link:   https://www.smartdraw.com/decision-tree/decision-tree-maker.htm
 
 examples:
-  - title:  <cite>So You Need A Typeface</cite> by Julian Hansen
+  - title:  So You Need A Typeface
+    author: Julian Hansen
     link:   http://julianhansen.com/#/soyouneedatypeface/
 
-  - title:  <cite>How to Choose Wine</cite> by Wine Folly
+  - title:  How to Choose Wine
+    author: Wine Folly
     link:   https://winefolly.com/update/how-to-choose-wine/
 
 ---
@@ -45,6 +41,6 @@ A decision tree consists of three types of nodes:
 - Chance nodes –  represented by circles
 - End nodes – represented by triangles
 
-Source:
+## Sources
 1. [A framework for sensitivity analysis of decision trees](https://link.springer.com/article/10.1007%2Fs10100-017-0479-6)
 2. [Decision tree methods: applications for classification and prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466856/)

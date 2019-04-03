@@ -1,36 +1,19 @@
 ---
-layout: post
-
 title:  Isopleth Map
-
-image:
-  featured: isopleth-map.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Choropleth map
-    link: choropleth-map
-    image: choropleth-map.png
-  - title: Dasymetric map
-    link: dasymetric-map
-    image: dasymetric-map.png
+  - choropleth-map
+  - dasymetric-map
 
 tools:
   - name:   Contours
     link:   https://contours.axismaps.com
 
 examples:
-  - title:  <cite>Topographic map of Burbank</cite>
+  - title:  Topographic map of Burbank
     link:   http://legacy.lib.utexas.edu/maps/topo/california/txu-pclmaps-topo-ca-burbank-1924-cop.2.jpg
-
-  - title:  Example2 Of This Graph
-    link:   https://adioma.com/@mark
 
 ---
 
@@ -38,9 +21,9 @@ Alternative name: isoline map, contour line map. An isopleth map shows the data 
 
 <!--more-->
 
-### Origin
+## Origin
 The first use of isolines came from English astronomer Edmund Halley (of the eponymous comet) who in 1686 published the first meteorological a map showing the prevailing maritime winds both in and near the tropics. More importantly, this became widely recognized as the first weather map, well ahead of its time as weather maps did not become common until the early 18th century.
 
-Source:
+## Sources
 1. [Encyclopedia of Geography, edited by Barney Warf](http://sk.sagepub.com/reference/geography)
 2. [Edmond Halley as a Thematic Geo-Cartographer](https://www.jstor.org/stable/2561832?seq=1#page_scan_tab_contents)

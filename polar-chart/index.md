@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title:  Polar Are Chart 
-
-image:
-  featured: polar-chart.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Pie chart
-    link: pie-chart
-    image: pie-chart.png
+  - pie-chart
 
 tools:
   - name:   Chart js
@@ -26,10 +14,12 @@ tools:
     link:   https://plot.ly/r/polar-chart/
 
 examples:
-  - title:  <cite>Number of Electoral Votes</cite> by Alex Bordens
+  - title:  Number of Electoral Votes
+    author: Alex Bordens
     link:   http://alexbordens.com/img/pdf/election-results.pdf
 
-  - title:  <cite>Who is Your President</cite> by Michela Lazzaroni
+  - title:  Who is Your President
+    author: Michela Lazzaroni
     link:   https://www.behance.net/gallery/50527775/Who-is-your-President-La-Lettura-278-dataviz
 
 ---
@@ -38,11 +28,9 @@ Alternative names: coxcomb chart, polar area diagram, Nightingale chart, Nightin
 
 <!--more-->
 
-### Origin
-
+## Origin
 The first polar area charts were created by French lawyer and amateur statistician André-Michel Guerry in an 1829 paper showing seasonal and daily variation in wind direction over the year and births and deaths by hour of the day.
 
 
-Sources:
-
+## Sources
 1.[The Golden Age of Statistical Graphics](https://arxiv.org/pdf/0906.3979.pdf)

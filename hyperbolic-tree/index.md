@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title: Hyperbolic Tree
 
-image:
-  featured: hyperbolic-tree.png
-  main: change-this.png
-  anatomy: change-this.png
-  
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Radial tree
-    link: radial-tree
-    image: radial-tree.png
+  - radial-tree
 
 tools:
   - name:   Treebolic
@@ -26,10 +14,12 @@ tools:
     link:   http://www.graphviz.org/
 
 examples:
-  - title:  <cite>The orbital plane of Kantian biblical exegesis</cite> by Valerio Pellegrini
+  - title:  The orbital plane of Kantian biblical exegesis
+    author: Valerio Pellegrini
     link:   https://www.behance.net/gallery/2138432/CERCHI-CONCENTRICI-Kant-Data-Visualization
 
-  - title:  <cite>Charles Dickens</cite> by Valerio Pellegrini
+  - title:  Charles Dickens
+    author: Valerio Pellegrini
     link:   https://www.behance.net/gallery/2984617/CHARLES-DICKENS-La-Lettura-10-Corriere-della-Sera
 
 ---
@@ -39,8 +29,8 @@ The advantage of hyperbolic tree interactive graphics is the possibility to disp
 
 <!--more-->
 
-### Origin
+## Origin
 The inspiration for the hyperbolic tree came from a woodcut print by Dutch graphic artist Maurits Cornelis Escher (1898-1972) known mathematically-inspired woodcuts. The woodcut is known as [Circle Limit IV](https://www.mcescher.com/gallery/recognition-success/circle-limit-iv/) created in 1960.
 
-Source:
+## Sources
 [A Focus+Context Technique Based on Hyperbolic Geometry for Visualizing Large Hierarchies](http://www.idav.ucdavis.edu/~asharf/shrek/Projects/HypBrowser/startree-chi95.pdf)

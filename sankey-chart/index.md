@@ -1,35 +1,19 @@
 ---
-layout: post
-
 title: Sankey Chart
-
-image:
-  featured: sankey-chart.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Alluvial diagram
-    link: alluvial-diagram
-    image: alluvial-diagram.png
+  - alluvial-diagram
 
 tools:
-  - name:   Adioma Sample
-    link:   https://adioma.com
-
-  - name:   Tableau Sample
-    link:   https://www.tableau.com
 
 examples:
-  - title:  <cite>Europe Migration Crisis</cite> 
+  - title:  Europe Migration Crisis
     link:   http://graphics.thomsonreuters.com/15/migrants/index.html#section-asylum
 
-  - title:  <cite>Map of Russian campaign of 1812 of Napoleon</cite>by Charles Minard
+  - title:  Map of Russian campaign of 1812 of Napoleon
+    author: Charles Minard
     link:   https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/media/File:Minard.png
 
 ---
@@ -39,16 +23,14 @@ Sankey chart is represented by arrows, which width corresponds to the magnitude 
 
 <!--more-->
 
-### Origin
-
+## Origin
 Sankey chart is named after the Irish engineer Riall Sankey. He created a diagram of steam engine efficiency that used arrows having widths proportional to heat loss [2].
 
-### Variations
+## Variations
+- **Alluvial diagram** is a type of Sankey diagram that uses the same kind of representation to depict how items re-group.
+- **Grassmann diagram** is the same as the Sankey diagram, but it mainly depicts energy transformations in thermodynamics.
 
-- Alluvial diagram is a type of Sankey diagram that uses the same kind of representation to depict how items re-group.
-- Grassmann diagram is the same as the Sankey diagram, but it mainly depicts energy transformations in thermodynamics.
-
-Sources:
+## Sources
 1. [M. Schmidt, The Sankey Diagram in Energy and Material Flow Management: Part I: History, J. Ind. Ecol. 12 (2008)](doi:10.1111/j.1530-9290.2008.00004.x.) 
 2. [M. Schmidt, Energy use in a passenger car](https://www.Ifu.Com/En/e-Sankey/Sankey-Diagram)
 3. [K. Soundararajan, H.K. Ho, B. Su, Sankey diagram framework for energy and exergy flows, Appl. Energy. 136 (2014)](doi:10.1016/j.apenergy.2014.08.070)

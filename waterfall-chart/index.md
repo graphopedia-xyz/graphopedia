@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title: Waterfall Chart
-
-image:
-  featured: waterfall-chart.png
-  main: change-this.png
-  anatomy: change-this.png
   
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Bar Chart
-    link: bar-chart
-    image: bar-chart.png
+  - bar-chart
 
 tools:
   - name:   Microsoft Excel
@@ -26,7 +14,7 @@ tools:
     link:   https://www.tableau.com
 
 examples:
-  - title:  <cite>Doing Business Subnational - Step Graph</cite>
+  - title:  Doing Business Subnational - Step Graph
     link:   https://www.chezvoila.com/portfolio/#/dbstepgraph/
 
 ---
@@ -35,6 +23,6 @@ A waterfall chart is a type of bar chart that shows how an initial value is affe
 
 <!--more-->
 
-Sources:
+### Sources
 1. [What Makes a Visualization Memorable?](http://cvcl.mit.edu/papers/Borkin_etal_MemorableVisualization_TVCG2013.pdf)
 2. [Methods and a computing device for configuring a waterfall chart](https://patents.google.com/patent/US9122668B1/en)

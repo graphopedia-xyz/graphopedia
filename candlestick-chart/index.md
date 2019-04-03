@@ -1,25 +1,9 @@
 ---
-layout: post
-
 title: Candlestick Chart
 
-image:
-  featured: candlestick-chart.png
-  main: change-this.png
-  anatomy: change-this.png
-  
-tags:
-  - lorem
-  - dolor
-  - sit-amet
-
 related:
-  - title: Kagi Chart
-    link: kagi-chart
-    image: kagi-chart.png
-  - title: Box Plot
-    link: box-plot
-    image: box-plot.png
+  - kagi-chart
+  - box-plot
 
 tools:
   - name:   Plotly
@@ -29,10 +13,11 @@ tools:
     link:   https://beta.observablehq.com/@mbostock/d3-candlestick-chart
 
 examples:
-  - title:  <cite>Painters in the Making</cite> by Accurat
+  - title:  Painters in the Making 
+    author: Accurat
     link:   https://cdn-images-1.medium.com/max/2000/1*P03I3M4jaE4F8T3N67G39w.jpeg
     
-  - title:  <cite>Zoomable Candlestck Chart</cite>
+  - title:  Zoomable Candlestick Chart
     link:   https://bl.ocks.org/tompiler/6045b80d2164077faaf96e0304531bba
 
 

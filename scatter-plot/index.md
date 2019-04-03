@@ -1,22 +1,10 @@
 ---
-layout: post
-
 title:  Scatter Plot
 
-image:
-  featured: scatter-plot.png
-  main: change-this.png
-  anatomy: change-this.png
-  
 tags:
-  - lorem
-  - dolor
-  - sit-amet
 
 related:
-  - title: Bubble chart
-    link: bubble-chart
-    image: bubble-chart.png
+  - bubble-chart
 
 tools:
   - name:   Adobe Illustrator
@@ -30,21 +18,23 @@ tools:
     
 
 examples:
-  - title:  <cite>Divorce and Occupation</cite> by Nathan Yau
+  - title:  Divorce and Occupation
+    author: Nathan Yau
     link:   https://flowingdata.com/2017/07/25/divorce-and-occupation/
 
-  - title:  <cite>Cuisine ingredients</cite> by Nathan Yau
+  - title:  Cuisine ingredients
+    author: Nathan Yau
     link:   https://flowingdata.com/2018/09/18/cuisine-ingredients/
 
 ---
+
 Alternative names: scatter graph, scatter chart, scattergram, or scatter diagram. A scatter plot shows values for two variables along the horizontal and vertical axes. With color-coded points, one additional variable can be shown. Scatter plots are used to identify the type of relationship between two quantitative variables. A trendline, also called the line of best fit, can be drawn in order to emphasize the outliers and identify trends. Edward Tufte estimated that between 70-80% of graphs used in scientific publications are scatter plots.
 
 <!--more-->
 
-### Origin
+## Origin
 The scatter plot first appeared in the work of English statistician Francis Galton (1822-1911) who is also the creator of the concept of correlation in statistics.
 
-
-Source:
+### Sources
 1.[The early origins and development of the scatterplot](http://datavis.ca/papers/friendly-scat.pdf)
 
