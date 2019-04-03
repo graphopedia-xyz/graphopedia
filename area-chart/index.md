@@ -24,9 +24,6 @@ tools:
   - name:   D3.js
     link:   https://bl.ocks.org/mbostock/3883195
 
-  - name:   Protovis
-    link:   http://mbostock.github.io/protovis/ex/area.html
-
   - name:   Google Charts
     link:   https://developers.google.com/chart/
 
@@ -63,15 +60,24 @@ examples:
 
 ---
 
-An area chart shows data as the area between the data curve that is basically a line graph and the horizontal axis. An area chart can also be considered a technique of visualization for this reason - that any data series can be visualized by filling a space between inside other types of charts.
-Generally, area charts are not used to show a specific value but rather emphasize a trend, a change or the relationship between values. For this purposes part of the area of in the chart can be colored or textured for emphasis.
+An area chart represents data as the area between the data curve that is essentially a line graph and the horizontal axis. [^1]
+
+
+William Playfair first introduced an area chart in 1786 in his book *The Commercial and Political Atlas*.
 
 <!--more-->
 
-### Origin
+## Purpose
+Area charts show the change of 
+Generally, area charts are not used to show a specific value but rather emphasize a trend, a change or the relationship between values. For this purposes part of the area of in the chart can be colored or textured for emphasis.[^2]
+## Usage
+Area charts can have three types of curves depending on how the data was aggregated: segmented, stepped, and smoothed.
 
-William Playfair first an area chart  in 1786 in his book *The Commercial and Political Atlas*.
 
-Source
+## References
 
-1. [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)
+[^1]: ["The Grammar of Graphics" by Leland Wilkinson, p. 87](https://books.google.com/books?id=ZiwLCAAAQBAJ&printsec=frontcover&dq=%22area+diagram%22+visualization&hl=en&sa=X&ved=0ahUKEwj6gIWivrPhAhWiyosBHfXzDPYQ6AEIKDAA#v=snippet&q=area%20chart&f=false)
+[^2]: ["Information Graphics: A Comprehensive Illustrated Reference" by Robert L. Harris, p. 10](https://books.google.fr/books?id=qusmDAAAQBAJ&printsec=frontcover&dq=%22area+graph%22+visualization&hl=en&sa=X&ved=0ahUKEwjz_cjqv7PhAhW9yIsBHc6dDQMQ6AEIWzAJ#v=onepage&q=%22area%20graph%22%20visualization&f=false)
+
+
+
