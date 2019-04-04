@@ -1,5 +1,5 @@
 ---
-title: Word Cloud
+title: word cloud
   
 tags:
 
@@ -18,9 +18,11 @@ examples:
     author: David McCandless
     link:   https://informationisbeautiful.net/visualizations/good-relationtips-most-commonly-given-relationship-advice/
 
+synonyms: 
+  - tag cloud
 ---
 
-Alternative name: tag cloud. A word cloud is a type of information visualizations that uses font size and color to represent word frequency in a text. Word cloud can be used as an interface for browsing the web as well as a form of data visualization.
+is a type of information visualizations that uses font size and color to represent word frequency in a text. Word cloud can be used as an interface for browsing the web as well as a form of data visualization.
 
 <!--more-->
 

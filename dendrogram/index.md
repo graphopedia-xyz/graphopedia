@@ -1,5 +1,5 @@
 ---
-title:  Dendrogram
+title:  dendrogram
   
 tags:
 
@@ -25,9 +25,13 @@ examples:
   - title:  Hierarchical Cluster Analysis Map of IA competencies
     link:   https://www.iainstitute.org/sites/default/files/ia.comptencies.graphs.pdf
     
+synonyms:
+  - tournament bracket
+  - bracket chart
+  
 ---
 
-Alternative names: tournament bracket or bracket (for sports, used in knockout tournaments). A <dfn>dendrogram</dfn> is a type of a tree diagram that is used for representing hierarchies and clustering. The root node of the dendrogram represents the whole data set and the top of the hierarchy. Each leaf node is one step lower in hierarchy. The intermediate nodes between any two levels of the hierarchy describe the extent that the nodes are removed from each other in the hierarchy. The height of the dendrogram represents the distance between each pair of clusters.
+is a type of a tree diagram that is used for representing hierarchies and clustering. The root node of the dendrogram represents the whole data set and the top of the hierarchy. Each leaf node is one step lower in hierarchy. The intermediate nodes between any two levels of the hierarchy describe the extent that the nodes are removed from each other in the hierarchy. The height of the dendrogram represents the distance between each pair of clusters.
 
 <!--more-->
 

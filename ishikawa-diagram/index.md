@@ -15,10 +15,15 @@ tools:
 
 examples:
 
----
-Alternative names: fishbone diagram, herringbone diagram, cause-and-effect diagram, or Fishikawa diagram
+synonyms:
+  - fishbone diagram
+  - herringbone diagram
+  - cause-and-effect diagram
+  - Fishikawa diagram
 
-An Ishikawa diagram is a type of non-numeric chart that shows cause and effect relationships. Causes are usually grouped into categories that are positioned at the base of each "bone"
+---
+
+is a type of non-numeric chart that shows cause and effect relationships. Causes are usually grouped into categories that are positioned at the base of each "bone"
 in the fishbone. It is called a "fishbone diagram" because of its shape, similar to the side view of a fish skeleton.
 
 <!--more-->

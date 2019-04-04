@@ -1,5 +1,5 @@
 ---
-title: Candlestick Chart
+title: candlestick chart
 
 related:
   - kagi-chart
@@ -20,9 +20,9 @@ examples:
   - title:  Zoomable Candlestick Chart
     link:   https://bl.ocks.org/tompiler/6045b80d2164077faaf96e0304531bba
 
-
 ---
-The candlestick chart shows price movements over time of a security, derivative, or currency. Usually one candlestick shows a single day.
+
+shows price movements over time of a security, derivative, or currency. Usually one candlestick shows a single day.
 Candlestick chart are similar to box plots in that both show maximum and minimum values. Box plots, however, carry more information showing the values in between. Today the Japanese Candlestick chart is still widely used in financial trading. To gain the skill of analyzing a lot of data fast, traders study the patterns that candlestick charts can form. Here are some examples of such patterns and what they mean:
 **Doji pattern** resembles a plus sign or a cross. It has no real body (or a very small one), and its shadows vary in length. A Doji means indecision.
 **Hanging Man** appers at the upper end of the trading range with a small body, a long lower shadow, and no upper shadow. It means an upcoming reversal during an upward trend. The longer its lower shadow, the more likely the reversal.

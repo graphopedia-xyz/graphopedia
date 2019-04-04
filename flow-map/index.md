@@ -1,5 +1,5 @@
 ---
-title:  Flow Map
+title: flow map
   
 tags:
 
@@ -26,7 +26,7 @@ examples:
 
 ---
 
-The flow maps is a combination of a maps and a flow chart or a Sankey diagram that shows the movement of objects from one location to another. This type of chart is often used to show migration, trade, and data transfers between locations.
+is a combination of a maps and a flow chart or a Sankey diagram that shows the movement of objects from one location to another. This type of chart is often used to show migration, trade, and data transfers between locations.
 
 <!--more-->
 

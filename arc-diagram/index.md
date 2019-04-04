@@ -1,5 +1,5 @@
 ---
-title:  Arc Diagram
+title:  arc diagram
 
 tags:
 
@@ -28,7 +28,7 @@ examples:
 
 ---
 
-An arc diagram is a type of network diagram, also called "node and link" diagram. [^1] It shows connections between any two nodes out of multiple nodes positioned on a single axis.[^2] Any network diagram which is a two-dimensional chart, can be represented as an arc diagram which is one-dimensional.
+is a type of network diagram, also called "node and link" diagram. [^1] It shows connections between any two nodes out of multiple nodes positioned on a single axis.[^2] Any network diagram which is a two-dimensional chart, can be represented as an arc diagram which is one-dimensional.
 And arc diagram consists of nodes, arcs, and an axis. The number of arc connections that come out of a single node is usually represented as a bubble that is sized proportionally to the total number of connections come in and going out[^3]. In practice, an arc diagram usually does not show all possible connected pairs because of the resulting clutter, but rather it shows a subset of connections.
 
 <!--more-->

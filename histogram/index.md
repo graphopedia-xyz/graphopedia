@@ -1,6 +1,6 @@
 ---
-title:  Histogram
-  
+title:  histogram
+
 tags:
 
 related:
@@ -42,7 +42,7 @@ examples:
 
 ---
 
-A histogram is a graphic representation of the distribution of data. It is an estimate of the probability distribution of a continuous variable/ It is similar to a density plot and a bar chart. Unlike a density plot, a histogram shows discrete values. Unlike a bar chart, a histogram only shows one variable. The vertical axis in a histogram always shows frequency, not another variable as would be the case in a bar chart.
+is a graphic representation of the distribution of data. It is an estimate of the probability distribution of a continuous variable/ It is similar to a density plot and a bar chart. Unlike a density plot, a histogram shows discrete values. Unlike a bar chart, a histogram only shows one variable. The vertical axis in a histogram always shows frequency, not another variable as would be the case in a bar chart.
 
 <!--more-->
 

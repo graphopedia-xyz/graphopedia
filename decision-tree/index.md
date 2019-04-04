@@ -31,8 +31,12 @@ examples:
     author: Wine Folly
     link:   https://winefolly.com/update/how-to-choose-wine/
 
+synonyms:
+  - flow chart
+  
 ---
-Alternative name: flow chart. Decision trees is a type of flowchart where each internal node represents a question about an attribute, each branch represents the outcome of the test, and each leaf node represents a class label (the decision taken). The path connectors from root to leaf represent classification rules. 
+
+is a type of flowchart where each internal node represents a question about an attribute, each branch represents the outcome of the test, and each leaf node represents a class label (the decision taken). The path connectors from root to leaf represent classification rules. 
 
 <!--more-->
 

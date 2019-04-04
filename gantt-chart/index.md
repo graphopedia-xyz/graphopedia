@@ -1,5 +1,5 @@
 ---
-title:  Gantt Chart
+title:  Gantt chart
   
 tags:
 
@@ -21,7 +21,8 @@ examples:
     link:   https://www.behance.net/gallery/64985395/Leaders-height
 
 ---
-A Gantt chart is a type of bar chart that shows progress of events over time and their inter-dependencies. It is used to visualize project schedules.
+
+is a type of bar chart that shows progress of events over time and their inter-dependencies. It is used to visualize project schedules.
 
 <!--more-->
 

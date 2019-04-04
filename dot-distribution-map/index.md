@@ -1,5 +1,5 @@
 ---
-title:  Dot Distribution Map
+title:  dot distribution map
   
 tags:
 
@@ -26,8 +26,10 @@ examples:
     author: Kyle Walker
     link:   http://personal.tcu.edu/kylewalker/immigrant-america/
 
+synonyms:
+  - dot density map
 ---
-Alternative name: dot density map. The dot distribution map is a map type that uses a dot symbol to show the presence of a feature emphasizing the distribution of values through the scatter pattern similar to a scatter plot.
+is a map type that uses a dot symbol to show the presence of a feature emphasizing the distribution of values through the scatter pattern similar to a scatter plot.
 
 <!--more-->
 

@@ -1,5 +1,5 @@
 ---
-title:  Marimekko Chart
+title:  Marimekko chart
   
 tags:
 
@@ -21,9 +21,15 @@ examples:
   - title:  How Different Income Groups Spend Money
     link:   https://flowingdata.com/2018/02/08/how-different-income-groups-spend-money/
 
+synonyms:
+  - mosaic plot
+  - Marimekko diagram
+  - mosaic graph
+  - Mekko chart
+
 ---
 
-Alternative name: mosaic plot, Marimekko diagram, mosaic graph, Mekko chart. A Marimekko Chart is a visualization method for two or more qualitative variables. In a Marimekko chart, the widths of the tiles are proportional to the column counts and the heights are proportional to the row counts within each column. It uses rectangular tiles to show distributions of values. The area of the tiles is known as the bin size. Marimekko charts are similar to a stacked bar chart but they add one more dimension of data through varying column widths. Although Marimekko charts can look similar to tree maps, they are different in that they do not show a hierarchy as tree maps do. That is, a Marimekko chart cannot have one of its rectangles include another. This chart is useful for discovering unusually high or small counts and for discovering dependencies between variables.<sup>3</sup>
+is a visualization method for two or more qualitative variables. In a Marimekko chart, the widths of the tiles are proportional to the column counts and the heights are proportional to the row counts within each column. It uses rectangular tiles to show distributions of values. The area of the tiles is known as the bin size. Marimekko charts are similar to a stacked bar chart but they add one more dimension of data through varying column widths. Although Marimekko charts can look similar to tree maps, they are different in that they do not show a hierarchy as tree maps do. That is, a Marimekko chart cannot have one of its rectangles include another. This chart is useful for discovering unusually high or small counts and for discovering dependencies between variables.<sup>3</sup>
 
 <!--more-->
 

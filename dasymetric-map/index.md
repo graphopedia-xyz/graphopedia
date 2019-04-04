@@ -21,7 +21,7 @@ examples:
 
 ---
 
-The dasymetric map is a technique of thematic mapping that represents a statistical surface of density, most commonly population density.
+is a technique of thematic mapping that represents a statistical surface of density, most commonly population density.
 
 <!--more-->
 

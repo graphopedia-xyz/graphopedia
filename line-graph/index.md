@@ -1,6 +1,6 @@
 ---
-title:  Line Chart
-  
+title:  line chart
+
 tags:
 
 related:
@@ -27,7 +27,7 @@ examples:
 
 ---
 
-A line chart shows information as a series of data points connected by straight lines.  Line charts differ from scatter plots in that the points are ordered, usually along the horizontal axis. A line chart is often used to visualize a trend in data over intervals of time. In this case it is called a time series. A line chart should be used when showing a change in data at equal time intervals.
+shows information as a series of data points connected by straight lines.  Line charts differ from scatter plots in that the points are ordered, usually along the horizontal axis. A line chart is often used to visualize a trend in data over intervals of time. In this case it is called a time series. A line chart should be used when showing a change in data at equal time intervals.
 
 <!--more-->
 

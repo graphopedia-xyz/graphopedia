@@ -1,5 +1,5 @@
 ---
-title: Hyperbolic Tree
+title: hyperbolic tree
 
 tags:
 
@@ -24,7 +24,7 @@ examples:
 
 ---
 
-The hyperbolic tree is a method of visualizing a hierarchy as a tree positioned on a hyperbolic plane and mapping this plane onto a circular display region. The hyperbolic tree has its root initially in the center, but the display can be transformed to bring other nodes into focus. Hyperbolic trees are often used to display webinformation.
+is a method of visualizing a hierarchy as a tree positioned on a hyperbolic plane and mapping this plane onto a circular display region. The hyperbolic tree has its root initially in the center, but the display can be transformed to bring other nodes into focus. Hyperbolic trees are often used to display webinformation.
 The advantage of hyperbolic tree interactive graphics is the possibility to display a large amount of hierarchical information within a small space without a loss of focus and context.
 
 <!--more-->

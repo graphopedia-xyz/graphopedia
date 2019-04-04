@@ -1,5 +1,5 @@
 ---
-title:  Cartogram
+title: cartogram
 
 related:
   - bubble-map

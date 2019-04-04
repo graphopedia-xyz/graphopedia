@@ -1,5 +1,5 @@
 ---
-title: Time Series
+title: time series
   
 tags:
 
@@ -24,7 +24,7 @@ examples:
 
 ---
 
-A time series a type of chart that shows discrete data points in chronological order. The most common use case is displaying equally spaces data points and the best fit line. The time is shown on the horizontal scale, progessing from left to right.
+is a type of chart that shows discrete data points in chronological order. The most common use case is displaying equally spaces data points and the best fit line. The time is shown on the horizontal scale, progessing from left to right.
 
 <!--more-->
 

@@ -1,5 +1,5 @@
 ---
-title:  Density Plot
+title:  density plot
   
 tags:
 
@@ -23,9 +23,12 @@ examples:
     author: The New York Times
     link:   https://www.nytimes.com/interactive/2017/07/28/climate/more-frequent-extreme-summer-heat.html
 
+synonyms:
+  - kernel density plot
+
 ---
 
-Alternative name: Kernel Density plot. The <dfn>density plot</dfn> shows a smoothed distribution of values. Similar to a histogram, a density plot is suitable for showing continuously changing values. But compared to a histogram, the density plot is better at showing the shape of a distribution because it is not affected by bin size. Density plots can be considered of as plots of smoothed histograms. 
+shows a smoothed distribution of values. Similar to a histogram, a density plot is suitable for showing continuously changing values. But compared to a histogram, the density plot is better at showing the shape of a distribution because it is not affected by bin size. Density plots can be considered of as plots of smoothed histograms. 
 
 <!--more-->
 
