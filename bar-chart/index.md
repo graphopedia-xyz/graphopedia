@@ -1,5 +1,5 @@
 ---
-title:  Bar Chart
+title: bar chart
   
 tags:
 
@@ -46,10 +46,16 @@ examples:
     author: The Economist
     link: https://www.economist.com/graphic-detail/2018/10/18/the-space-race-is-dominated-by-new-contenders
 
+synonyms:
+  - column chart
+  - bar graph
+
 ---
 
-A bar chart displays the relationship of a category to a number in the form of a rectangle bar. The bar height along the Y axis or its length along the X axis represents a number.  Each bar represents a single number. For this reason, bar charts can be used to compare discrete numbers but not continuously changing numbers.[^harris]
+displays the relationship of a category to a number in the form of a rectangle bar. The bar height along the Y axis or its length along the X axis represents a number.  Each bar represents a single number. For this reason, bar charts can be used to compare discrete numbers but not continuously changing numbers.[^harris]
+
 <!--more-->
+
 The bar chart was first introduced by William Playfair. It has become the default choice of chart. The New Work Times graphics Editor Amanda Cox says, "There’s a strand of the data viz world that argues that everything could be a bar chart. That’s possibly true but also possibly a world without joy."[^beniato]
 ## Purpose
 Often, bar charts are used to compare the change of a value over time. The basic application os the representation of change in numbers across categories. This is a very broad application which explains the popularity of a bar chart. 
