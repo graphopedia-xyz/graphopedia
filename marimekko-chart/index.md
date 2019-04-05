@@ -1,5 +1,5 @@
 ---
-title:  Marimekko Chart
+title:  Marimekko chart
   
 tags:
 

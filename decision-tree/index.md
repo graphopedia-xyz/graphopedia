@@ -1,5 +1,5 @@
 ---
-title:  Decision Tree
+title:  decision tree
 
 image:
   featured: decision-tree.png

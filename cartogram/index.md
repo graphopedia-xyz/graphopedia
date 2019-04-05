@@ -27,7 +27,7 @@ examples:
 
 ---
 
-A cartogram is a type of map that substitutes land area with time, population or any other variable, thus distorting the geometry of the map.
+is a type of map that substitutes land area with time, population or any other variable, thus distorting the geometry of the map.
 
 <!--more-->
 

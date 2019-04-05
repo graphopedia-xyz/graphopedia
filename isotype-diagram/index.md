@@ -1,5 +1,5 @@
 ---
-title:  Isotype Diagram
+title:  Isotype diagram
   
 tags:
 

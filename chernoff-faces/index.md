@@ -1,5 +1,5 @@
 ---
-title:  Chernoff Faces
+title:  Chernoff faces
 
 tools:
   - name:   R package
