@@ -1,5 +1,5 @@
 ---
-title:  Funnel Diagram
+title: funnel diagram
   
 tags:
 
@@ -24,7 +24,7 @@ examples:
 
 ---
 
-The funnel chart shows stages of a process that are progressively decreasing in quality or quantity starting with 100%. It is often used as both a chart and a metaphor of the sales process and the marketing process, for example a conversion funnel.
+shows stages of a process that are progressively decreasing in quality or quantity starting with 100%. It is often used as both a chart and a metaphor of the sales process and the marketing process, for example a conversion funnel.
 
 <!--more-->
 

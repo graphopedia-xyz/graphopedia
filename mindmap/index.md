@@ -1,5 +1,5 @@
 ---
-title:  Mindmap
+title:  mindmap
   
 tags:
 
@@ -21,9 +21,13 @@ examples:
     author: by David Matton
     link:   https://cargocollective.com/davidmatton/Mind-Map-Infographic
 
+synonyms:
+  - concept map
+  - spider diagram
+
 ---
 
-Alternative name: concept map, spider diagram. A mindmap is a type of non-numeric diagram that represents concepts as nodes and links between them as connecting lines or arrows forming an overall ourward-branching hierarchical structure. A mindmap usually starts from a single concept at the center of the image. Major ideas are connected directly to the central concept, and minor ideas branch out from those major ideas. Mindmaps are used to enhance the process of memorization of facts and their interconnections.<sup>1</sup> 
+is a type of non-numeric diagram that represents concepts as nodes and links between them as connecting lines or arrows forming an overall ourward-branching hierarchical structure. A mindmap usually starts from a single concept at the center of the image. Major ideas are connected directly to the central concept, and minor ideas branch out from those major ideas. Mindmaps are used to enhance the process of memorization of facts and their interconnections.<sup>1</sup> 
 
 <!--more-->
 

@@ -1,5 +1,5 @@
 ---
-title:  Choropleth Map
+title:  choropleth map
   
 tags:
 
@@ -28,7 +28,7 @@ examples:
 
 ---
 
-A choropleth map is a type of thematic map in which areas are colored to represent the measurement of a variable proportional to the colored area. 
+is a type of thematic map in which areas are colored to represent the measurement of a variable proportional to the colored area. 
 
 
 ## Origin 

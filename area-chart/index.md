@@ -1,5 +1,5 @@
 ---
-title:  Area Chart
+title:  area chart
   
 tags:
 
@@ -50,7 +50,7 @@ examples:
 
 ---
 
-An area chart represents data as the area between the data curve and the horizontal axis. [^1] Area charts show the change of a single variable. The X axis can have a numeric or categorical scale, while the Y axis is usually categorical. Functionally, the area chart is the same as a [line chart](/line-chart).
+represents data as the area between the data curve and the horizontal axis. [^1] Area charts show the change of a single variable. The X axis can have a numeric or categorical scale, while the Y axis is usually categorical. Functionally, the area chart is the same as a [line chart](/line-chart).
 
 
 William Playfair first introduced an area chart in 1786 in his book *The Commercial and Political Atlas*.

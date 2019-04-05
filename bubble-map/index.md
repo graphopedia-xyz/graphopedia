@@ -1,5 +1,5 @@
 ---
-title:  Bubble Map
+title:  bubble map
   
 tags:
 

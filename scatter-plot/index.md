@@ -1,5 +1,5 @@
 ---
-title:  Scatter Plot
+title: scatter plot
 
 tags:
 
@@ -25,10 +25,16 @@ examples:
   - title:  Cuisine ingredients
     author: Nathan Yau
     link:   https://flowingdata.com/2018/09/18/cuisine-ingredients/
+    
+synonyms:
+  - scatter graph
+  - scatter chart
+  - scattergram
+  - scatter diagram
 
 ---
 
-Alternative names: scatter graph, scatter chart, scattergram, or scatter diagram. A scatter plot shows values for two variables along the horizontal and vertical axes. With color-coded points, one additional variable can be shown. Scatter plots are used to identify the type of relationship between two quantitative variables. A trendline, also called the line of best fit, can be drawn in order to emphasize the outliers and identify trends. Edward Tufte estimated that between 70-80% of graphs used in scientific publications are scatter plots.
+shows values for two variables along the horizontal and vertical axes. With color-coded points, one additional variable can be shown. Scatter plots are used to identify the type of relationship between two quantitative variables. A trendline, also called the line of best fit, can be drawn in order to emphasize the outliers and identify trends. Edward Tufte estimated that between 70-80% of graphs used in scientific publications are scatter plots.
 
 <!--more-->
 

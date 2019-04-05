@@ -1,5 +1,5 @@
 ---
-title:  Heatmap
+title:  heatmap
   
 tags:
 
@@ -7,14 +7,11 @@ related:
   - dendrogram
 
 tools:
-
   - name:   Plotly
     link:   https://plot.ly/python/heatmaps/
   
   - name:   ZingChart
     link:   https://www.zingchart.com/gallery/chart/#!heatmap-color-rules-tooltips
-    
-    
 
 examples:
   - title:  POPULAR IS YOUR BIRTHDAY
@@ -31,7 +28,7 @@ examples:
 
 ---
 
-The heatmap is a visualization technique that represents individual values or their ranges through color.
+is a visualization technique that represents individual values or their ranges through color.
 
 <!--more-->
 

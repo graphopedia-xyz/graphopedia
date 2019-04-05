@@ -1,5 +1,5 @@
 ---
-title:  Small Multiples
+title:  small multiples
   
 tags:
 
@@ -25,9 +25,15 @@ examples:
     link:   https://www.scientificamerican.com/article/graphic-science-co2-emissions-shrink-in-a-few-cases/
     note: for Scientific American
 
+synonyms:
+  - grid chart
+  - trellis chart
+  - lattice chart
+  - panel chart
+
 ---
 
-Alternative names: grid chart, trellis chart, lattice chart, panel chart. Small multiples is a series of graphs using the same scale and similar stylistics such that they can be easily compared. 
+is a series of graphs using the same scale and similar stylistics such that they can be easily compared.
 
 <!--more-->
 

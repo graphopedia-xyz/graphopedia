@@ -1,5 +1,5 @@
 ---
-title:  Hive PLot
+title:  hive plot
   
 tags:
 
@@ -23,7 +23,7 @@ examples:
 
 ---
 
-The hive plot is a visualization method for drawing networks where nodes are mapped to and positioned on radially positioned linear axes.
+is a visualization method for drawing networks where nodes are mapped to and positioned on radially positioned linear axes.
 
 <!--more-->
 

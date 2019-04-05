@@ -1,5 +1,5 @@
 ---
-title:  Bullet Chart
+title:  bullet chart
 
 tags:
 
@@ -16,7 +16,7 @@ examples:
 
 ---
 
-The bullet chart is a variation of the bar chart with an added symbol for the target and a progress bar that approaches the target. The bullet chart is an efficient alternative to gauge charts that are used in dashboards.
+is a variation of the [bar chart](/bar-chart) with an added symbol for the target and a progress bar that approaches the target. The bullet chart is an efficient alternative to gauge charts that are used in dashboards.
 
 <!--more-->
 

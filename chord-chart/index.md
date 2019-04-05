@@ -1,5 +1,5 @@
 ---
-title:  Chord Chart
+title:  chord chart
 
 tags:
 
@@ -26,9 +26,14 @@ examples:
   - title:  Leading Exporters and their Trade With Each Other
     author: Euromonitor International
     link:   https://blog.euromonitor.com/the-patterns-of-world-trade/
-
+    
+synonyms:
+  - chord diagram
+  - radial network diagram
+  
 ---
-Alternative names: Chord diagram, Radial Network Diagram. The chord chart shows flows between nodes in a network. The flows are represented by arcs the width of which represents values that describe the connection between any two nodes.
+
+shows flows between nodes in a network. The flows are represented by arcs the width of which represents values that describe the connection between any two nodes.
 
 <!--more-->
 

@@ -1,5 +1,5 @@
 ---
-title: Pyramid Chart
+title: pyramid chart
   
 tags:
 
@@ -22,8 +22,12 @@ examples:
   - title:  Pyramid of Capitalist System
     link:   https://en.wikipedia.org/wiki/Pyramid_of_Capitalist_System#/media/File:Pyramid_of_Capitalist_System.jpg
 
+synonyms:
+  - pyramid diagram
+
 ---
-Alternative names: pyramid diagram. The pyramid chart is type of non-numeric visualization of hierarchies and groups. The pyramids always has the bottom of the hierarchy shown at its base. The bottom also represents the largest group. The pyramid chart does not successfully communicate numbers because viewers cannot compare the areas made by the parts of the pyramid. At most, the pyramid chart is a metaphor that can show an approximate hierarchy.
+
+is type of non-numeric visualization of hierarchies and groups. The pyramids always has the bottom of the hierarchy shown at its base. The bottom also represents the largest group. The pyramid chart does not successfully communicate numbers because viewers cannot compare the areas made by the parts of the pyramid. At most, the pyramid chart is a metaphor that can show an approximate hierarchy.
 
 <!--more-->
 

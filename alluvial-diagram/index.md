@@ -1,5 +1,5 @@
 ---
-title: Alluvial Diagram
+title: alluvial diagram
 
 tags:
 
@@ -36,7 +36,7 @@ examples:
 
 ---
 
-<dfn>Alluvial diagram</dfn> is a type of network diagram that shows changes of flow over time. Alluvial diagrams are a type of Sankey diagram. Both show the amount of flow between nodes using the width of the line. The difference between the two is that the alluvial diagram shows clusters arranged by time or stages.
+is a type of network diagram that shows changes of flow over time. Alluvial diagrams are a type of Sankey diagram. Both show the amount of flow between nodes using the width of the line. The difference between the two is that the alluvial diagram shows clusters arranged by time or stages.
 
 <!--more-->
 

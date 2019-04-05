@@ -1,5 +1,5 @@
 ---
-title: Box Plot
+title: box plot
 
 tags:
 
@@ -13,7 +13,7 @@ examples:
 
 ---
 
-A box plot is a type of graph that shows the 5-number summary of a group of data which consists of the minimum and maximum range values, the upper and lower quartiles, and the median. The middle band always represents
+is a type of graph that shows the 5-number summary of a group of data which consists of the minimum and maximum range values, the upper and lower quartiles, and the median. The middle band always represents
 the median. The ends of the whiskers can represent different different types of values. 
 
 <!--more--> 

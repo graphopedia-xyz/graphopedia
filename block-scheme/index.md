@@ -1,5 +1,5 @@
 ---
-title:  Block Scheme
+title:  block scheme
 
 related:
   - sunburst-chart
@@ -9,9 +9,11 @@ tools:
 
 examples:
 
+synonyms:
+  - block diagram
 ---
 
-A block diagram is type of conceptual diagram that uses geometric shapes to show a node and arrows to show the relationships between the nodes.
+is type of conceptual diagram that uses geometric shapes to show a node and arrows to show the relationships between the nodes.
 
 <!--more-->
 

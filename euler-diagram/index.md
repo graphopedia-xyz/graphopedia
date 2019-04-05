@@ -1,5 +1,5 @@
 ---
-title:  Euler Diagram
+title:  Euler diagram
   
 tags:
 
@@ -24,7 +24,7 @@ examples:
 
 ---
 
-A Euler diagram shows relationships between one or more sets. The sets are represented as simple shapes, usually circles or rectangles. Their intersections are labeled to emphasize the overlap of sets. 
+shows relationships between one or more sets. The sets are represented as simple shapes, usually circles or rectangles. Their intersections are labeled to emphasize the overlap of sets. 
 Unlike Venn diagrams that must show all possible relations between different sets, the Euler diagram shows only relevant relationships.
 
 <!--more-->

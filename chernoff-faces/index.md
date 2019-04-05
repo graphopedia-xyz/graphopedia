@@ -19,7 +19,7 @@ examples:
 
 ---
 
-Chernoff faces show multiple variable using features of human face that vary in size depending on the value.
+show multiple variable using features of human face that vary in size depending on the value.
 
 <!--more-->
 

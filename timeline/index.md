@@ -1,5 +1,5 @@
 ---
-title: Timeline
+title: timeline
   
 tags:
 
@@ -20,9 +20,13 @@ examples:
     author: William Playfair
     link:   https://en.wikipedia.org/wiki/Area_chart#/media/File:1786_Playfair_-_25_Interest_of_the_national_Debt_from_the_Revolution.jpg
 
+synonyms:
+  - sequence chart
+  - timeline diagram
+
 ---
 
-Alternative names: sequence chart. A timeline a a type of charts that displays events in chronological order. Timelines can use a scale or represent events in a sequence without showing the time between events. Timelines covering a relatively small span of time use a linear scale. To display distance events in the past of the future, a logarithmic scale is used.
+is a type of charts that displays events in chronological order. Timelines can use a scale or represent events in a sequence without showing the time between events. Timelines covering a relatively small span of time use a linear scale. To display distance events in the past of the future, a logarithmic scale is used.
 
 <!--more-->
 

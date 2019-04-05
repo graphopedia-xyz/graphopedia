@@ -1,5 +1,5 @@
 ---
-title:  Grid Table
+title:  grid table
   
 tags:
 
@@ -11,7 +11,11 @@ tools:
 
 examples:
 
+synonyms: 
+  - matrix diagram
+
 ---
-Alternative names: grid table, matrix diagram. The grid diagram shows the relationship between two or more groups of information. It also can give information about the relationship, such as its strength. The overall structure of the gri is not limited to a rectangle. Six different shapes of the grid are possible: L, T, Y, X, C, R and roof-shaped triangle.
+
+shows the relationship between two or more groups of information. It also can give information about the relationship, such as its strength. The overall structure of the gri is not limited to a rectangle. Six different shapes of the grid are possible: L, T, Y, X, C, R and roof-shaped triangle.
 
 <!--more-->

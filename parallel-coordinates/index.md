@@ -24,7 +24,7 @@ examples:
 
 ---
 
-Parallel coordinates is type of graph for visualizing many variables while tracing the relationship between them. The fundamental idea of parallel coordinates is to place coordinate axes in parallel, and to present a data point as a connection line between coordinate values<sup>1</sup>. In the parallel coordinates plot, each variable has its own axis and all the axes are parallel to each other. Each axis may have a different scale. Values are displayed as a series of lines that are connected between all the axes.
+is type of graph for visualizing many variables while tracing the relationship between them. The fundamental idea of parallel coordinates is to place coordinate axes in parallel, and to present a data point as a connection line between coordinate values<sup>1</sup>. In the parallel coordinates plot, each variable has its own axis and all the axes are parallel to each other. Each axis may have a different scale. Values are displayed as a series of lines that are connected between all the axes.
 
 <!--more-->
 

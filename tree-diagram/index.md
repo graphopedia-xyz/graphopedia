@@ -1,5 +1,5 @@
 ---
-title:  Tree Diagram
+title:  tree diagram
   
 tags:
 
@@ -21,9 +21,14 @@ examples:
     author: The 40 Foundation
     link:   http://silenced.co/wp-content/uploads/2014/10/religions_tree.jpg
 
+synonyms:
+  - tree chart
+  - tree structure
+  - org chart
+
 ---
 
-Alternative names: tree chart, tree structure, org chart. Tree diagrams represent a series of independent events or conditional probabilities. Each node represents an event. Each parent node precedes its child nodes in sequence and its sibling nodes represents events of the same importance or occurring at the same time. The chart is named for its resemblance to a tree even those the most common tree diagrams direct the tree upside down or to the side.
+represents a series of independent events or conditional probabilities. Each node represents an event. Each parent node precedes its child nodes in sequence and its sibling nodes represents events of the same importance or occurring at the same time. The chart is named for its resemblance to a tree even those the most common tree diagrams direct the tree upside down or to the side.
 
 <!--more-->
 

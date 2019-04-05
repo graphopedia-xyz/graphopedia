@@ -1,5 +1,5 @@
 ---
-title: Stream Graph
+title: stream graph
   
 tags:
 
@@ -28,7 +28,7 @@ examples:
 
 ---
 
-Alternative name: A stream graph is a type of stacked area chart which is shown relative to a central axis.
+is a type of stacked area chart which is shown relative to a central axis.
 
 <!--more-->
 

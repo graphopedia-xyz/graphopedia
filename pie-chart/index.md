@@ -1,5 +1,5 @@
 ---
-title:  Pie Chart
+title:  pie chart
   
 tags:
 
@@ -22,9 +22,12 @@ examples:
     author: Jack Hagley
     link:   https://www.jackhagley.com/The-World-as-100-People
 
+synonyms: 
+  - circular chart
+
 ---
 
-Alternative names: circular chart.The pie chart is type of graph that shows the sizes of components relative to each other and relative to the whole. The whole circle represents 100%, while the wedge-shaped segments represent the percentage that is equal to their arc lengths. Pie charts are criticized for their over use because human perception is not capable of accurately comparing wedge-shaped slices. Charts that are based on rectangular shapes are thought to be easier to perceive, especially when specific value need to be seen in the charts by the viewer. Among the alternative to a pie chart are the bar chart or stacked bar chart and the waffle chart. Pie charts are best used to show value of 25%, 50%, and 75%. Smaller values are difficult for viewers to estimate. Fractions such at 38.5% and unrounded numbers such as 38% are virtually impossible to see on a pie chart.
+is type of graph that shows the sizes of components relative to each other and relative to the whole. The whole circle represents 100%, while the wedge-shaped segments represent the percentage that is equal to their arc lengths. Pie charts are criticized for their over use because human perception is not capable of accurately comparing wedge-shaped slices. Charts that are based on rectangular shapes are thought to be easier to perceive, especially when specific value need to be seen in the charts by the viewer. Among the alternative to a pie chart are the bar chart or stacked bar chart and the waffle chart. Pie charts are best used to show value of 25%, 50%, and 75%. Smaller values are difficult for viewers to estimate. Fractions such at 38.5% and unrounded numbers such as 38% are virtually impossible to see on a pie chart.
 
 <!--more-->
 

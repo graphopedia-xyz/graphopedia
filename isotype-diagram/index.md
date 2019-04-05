@@ -22,9 +22,12 @@ examples:
   - title:  Weekly Earnings of Men and Women 1940
     link:   http://www.fulltable.com/iso/images01/15.jpg
 
+synonyms:
+  - Isotype chart
+
 ---
 
-Isotype is a method of showing numbers by repeating identical pictographs that refers to objects and concepts. These pictographs are standardized and abstracted symbols that are combined following a set of rules.
+is a method of showing numbers by repeating identical pictographs that refers to objects and concepts. These pictographs are standardized and abstracted symbols that are combined following a set of rules.
 
 <!--more-->
 

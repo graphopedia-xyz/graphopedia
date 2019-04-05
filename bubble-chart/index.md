@@ -1,5 +1,5 @@
 ---
-title:  Bubble Chart
+title:  bubble chart
 
 tags:
   - correlation
@@ -44,9 +44,11 @@ examples:
     author: Stanford Kay
     link:   http://www.stanfordkaystudio.com/information.html
 
+synonyms:
+  - bubble plot
 ---
 
-Alternative name: bubble plot. A <dfn>bubble chart</dfn> is a type of [scatter plot](/scatter-plot) that represents three variables by using circles that vary in size and their position on the x and y axes. 
+is a type of [scatter plot](/scatter-plot) that represents three variables by using circles that vary in size and their position on the x and y axes. 
 
 <!--more-->
 

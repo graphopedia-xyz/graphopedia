@@ -1,5 +1,5 @@
 ---
-title:  Violin Plot
+title:  violin plot
 
 tags:
 
@@ -22,7 +22,7 @@ examples:
   
 ---
 
-A violin plot is a combination of a box plot and a kernel density plot. It is a box plot with kernel density plots added to each side. Similar to a box plot, a violin plot shows four types of values. The outer shape represents all possible results with the thickest section representing the mode average. The next layer inside represents the values that occur 95% of the time. The next layer inside represents the values that occur 50% of the time. The central dot represents the median value.
+is a combination of a box plot and a kernel density plot. It is a box plot with kernel density plots added to each side. Similar to a box plot, a violin plot shows four types of values. The outer shape represents all possible results with the thickest section representing the mode average. The next layer inside represents the values that occur 95% of the time. The next layer inside represents the values that occur 50% of the time. The central dot represents the median value.
 
 <!--more-->
 
