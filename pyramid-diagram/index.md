@@ -1,5 +1,5 @@
 ---
-title: pyramid chart
+title: pyramid diagram
   
 tags:
 
@@ -21,9 +21,6 @@ examples:
 
   - title:  Pyramid of Capitalist System
     link:   https://en.wikipedia.org/wiki/Pyramid_of_Capitalist_System#/media/File:Pyramid_of_Capitalist_System.jpg
-
-synonyms:
-  - pyramid diagram
 
 ---
 
