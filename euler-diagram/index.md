@@ -1,4 +1,4 @@
----
+  ---
 title:  Euler diagram
   
 tags:
@@ -31,6 +31,23 @@ Unlike Venn diagrams that must show all possible relations between different set
 
 ## Origin
 "Eulerian circles" appeared in the 18th century and are attributed to Swiss mathematician Leonhard Euler.
+
+## Combinations
+This paragraphs is dummy text written just for demonstration of images embedding in Gatsby:
+![syllogism euler diagram example](syllogism-set-diagrams.png)
+
+
+Another image makes it look good:
+![gorilla is funa](gorilla-infographic.jpg)
+*let's give a credit to gorilla with a [link](https://anna.vc)*
+
+Example of small sized images:
+
+
+<img src="4sets.png" alt="4sets" width="300" style="width:300px;" />
+
+![5 sets combination](5sets.png)
+![6 sets combination](6set.png)
 
 ## Sources
 
