@@ -23,26 +23,41 @@ tools:
 
 examples:
 
-  - title:  The Wealth & Health of Nations
-    author: Mike Bostock
-    link:   https://bost.ocks.org/mike/nations/
-    note:   recreation of the Hans Rosling original chart
+  - title:  Fortune 500 Through The Ages
+    author: Nicolas Rapp
+    note:   A bubble chart of top 500 American companies by revenue and by industry from 1780 to 2018.
+    link:   https://nicolasrapp.com/studio/portfolio/the-fortune-500-through-the-ages/
+    image:  age-of-500.png
 
   - title:  The Language of the State of the Union
     author: The National Post graphics team
+    note:   A bubble chart showing popular words in State of the Union Addresses for different presidents
     link:   https://nationalpostcom.files.wordpress.com/2012/01/fo0225_stateoftheunion-2.pdf
+    image:  words-of-presidents.pdf
  
-  - title:  Share with mental or substance disorders males vs females
-    author: Our World In Data
-    link:   https://ourworldindata.org/grapher/share-with-mental-or-substance-disorders-males-vs-females
+  - title:  Snake Oil Supplements?
+    author: David McCandless
+    note:   A bubble chart sorting food supplements into categories by evidence of usefulness.
+    link:   http://informationisbeautiful.net/visualizations/snake-oil-scientific-evidence-for-nutritional-supplements-vizsweet
+    image:  snale-oil-supplements.png
     
-  - title:  Lunar Conversations. A timeline of the conversations between Earth and the spacecraft of the Apollo 11 mission from liftoff to splashdown.
+  - title:  Lunar Conversations 
     author: Nicholas Rougeux
-    link:   https://ourworldindata.org/grapher/share-with-mental-or-substance-disorders-males-vs-females
+    note:   A timeline of the conversations between Earth and the spacecraft of the Apollo 11 mission from liftoff to splashdown. The                 number of words spoken is visualized as a bubble chart along the timeline. 
+    link:   https://www.c82.net/work/?id=368
+    image:  lunar-chats.png
     
   - title:  Global Carbon Emissions
     author: Stanford Kay
+    note:   Circle-packed bubble chart showing emissions per country
     link:   http://www.stanfordkaystudio.com/information.html
+    image:  global-carbon-footprint.png
+    
+  - title:  Frequency of Sex Among Married and Unmarried Couples
+    author: Nathan Yau
+    note:   A bubble chart comparing frequency of sex for married and unmarried people sorted by age
+    link:   https://flowingdata.com/2017/07/03/married-people-sex
+    image:  married-sex.png
 
 synonyms:
   - bubble plot
@@ -102,7 +117,7 @@ Another alternative for bubble charts with groups can be a [tree map](tree-map).
 ## Variations
 
 1. Semi-circle plot - since bubble charts with a lot of data points tend to become cluttered with overlapping circles, to [de-clutter a bubble chart](https://flowingdata.com/2017/10/26/how-to-make-a-semicircle-plot-in-r/), it is possible to show only half of each circle as shown in [this example from the New York Times](https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html?smid=tw-share&_r=0).
-2. Comparative half-bubble - another variation with the semi-circles that allows comparision between two related numbers [displays two half-circles side by side](https://www.informationisbeautifulawards.com/showcase/604-the-analytical-tourism-map-of-piedmont).git 
+2. Comparative half-bubble - another variation with the semi-circles that allows comparision between two related numbers [displays two half-circles side by side](https://www.informationisbeautifulawards.com/showcase/604-the-analytical-tourism-map-of-piedmont)
 
 ## Sources
 
