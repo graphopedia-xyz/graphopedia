@@ -39,7 +39,7 @@ examples:
     author: David McCandless
     note:   A bubble chart sorting food supplements into categories by evidence of usefulness.
     link:   http://informationisbeautiful.net/visualizations/snake-oil-scientific-evidence-for-nutritional-supplements-vizsweet
-    image:  snale-oil-supplements.png
+    image:  snake-oil-supplements.png
     
   - title:  Lunar Conversations 
     author: Nicholas Rougeux
