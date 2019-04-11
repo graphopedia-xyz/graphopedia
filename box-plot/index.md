@@ -12,19 +12,22 @@ examples:
   - title:  Age Distribution of Olympic Athletes By Sport and Gender
     author: Gregory Matthews
     link:   https://statsinthewild.files.wordpress.com/2012/07/screen-shot-2012-07-09-at-11-49-59-am.png
+    image:  olympic-athlete-age.png
   
   - title:  Median Ages of Females With The 25 Most Common Names
     author: Nate Silver and Allison McCann
     link:   https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/
-    image: ages-of-females.png
+    image:  median-ages-of-females.png
 
   - title:  Painters In The Making
     author: Accurat
-    link:   https://www.flickr.com/photos/accurat/8248959211/
+    link:   https://www.flickr.com/photos/accurat/8248959211
+    image:  painters-in-the-making.jpg
     
   - title:  Casting Shakespeare - How age, gender, and race affect casting
     author: Eric William Lin
     link:   https://ericwilliamlin.com/shakespeare_production_data
+    image:  actor-gender-age.png
 
 synonyms:
   - box and whisker plot
