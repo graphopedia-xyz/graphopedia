@@ -19,14 +19,22 @@ examples:
 
 ---
 
-show multiple variable using features of human face that vary in size depending on the value.
+show multiple variables using features of a human face that vary in size and shape reflecting a value. Chernoff faces rely ofn the feature of human psychology to recognize even small changes in facial features.
 
 <!--more-->
 
-## Origin
-Chernoff faces are named after their inventor American statistician Herman Chernoff who proposed this technique in 1973.
+Chernoff faces are named after their inventor American statistician Herman Chernoff who proposed this technique in 1973 to visualize geological data. [^chernoff] In his proposal, Chernoff proposes to visualize up to 18 data variables using faces.
 
-## Sources:
-1. [The Use of Faces to Represent Points in K-Dimensional Space Graphically by Herman Chernoff](https://web.archive.org/web/20120415030406/http://www.apprendre-en-ligne.net/mathematica/3.3/chernoff.pdf)
-2. [A Critique of Chernoff Faces by Robert Kosara](https://eagereyes.org/criticism/chernoff-faces)
-3. [Graphical representation of multivariate data using Chernoff faces](https://www.stata-journal.com/sjpdf.html?articlenum=gr0038)
+## Purpose
+Since Chernoff faces allow for a fast comparison across many variables, the purpose of using them is to draw attention to how data sets or data series compare to each other in a generalized way. Since Chernoff faces do not communicate exact values, they should not be used in visualizations where reading precise numbers is important.
+
+## Usage
+Making the faces recognizable and yet unique is one of the main challenges of using this method in information graphics. 
+Chernoff faces have been criticized for misunderstanding perception of faces happens: that we do not perceive separate facial features, but the entire face in a holistic way. [^kosara]
+
+Another problem is using the width and length of the face to encode variables which results in some faces being too large and some too small. To solve this problem, face size needs to be normalized, which in turn leads to features of the faces being distorted. [^raciborski]
+
+## Sources
+[^chernoff]: ["The Use of Faces to Represent Points in K-Dimensional Space Graphically" by Herman Chernoff, Journal of the American Statistical Association, Vol. 68, No. 342. (Jun., 1973), p. 361](https://web.archive.org/web/20120415030406/http://www.apprendre-en-ligne.net/mathematica/3.3/chernoff.pdf)
+[^kosara]: [A Critique of Chernoff Faces" by Robert Kosara, retrieved, Apr 11, 2019](https://eagereyes.org/criticism/chernoff-faces)
+[^raciborski]: ["Graphical representation of multivariate data using Chernoff faces" by Rafal Raciborski, The Strata Journal 2009, 9 Number 3, p. ](https://ageconsearch.umn.edu/record/142994/files/sjart_gr0038.pdf)

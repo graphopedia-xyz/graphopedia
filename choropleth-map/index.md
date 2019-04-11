@@ -35,6 +35,10 @@ is a type of thematic map in which areas are colored to represent the measuremen
 The first choropleth map was introduced by Baron Pierre Charles Dupin in 1826. The term "choropleth map" appeared in 1938 in <cite>Problems in Population Mapping</cite> by the geographer John Kirtland Wright.
 
 <!--more-->
+##Purpose
+
+##Usage
+They overrepresent the importance or large areas, and diminish the importance of small ones, just by virtue of their size in the page.
 
 ## Sources
 1.[Milestones in the history of thematic cartography, statistical graphics, and data visualization](http://www.math.yorku.ca/SCS/Gallery/milestone/milestone.pdf)

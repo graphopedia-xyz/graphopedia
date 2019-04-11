@@ -87,7 +87,8 @@ In either case, there are many ways to substitute a bar chart with another chart
 1. *Dot plot* uses a dot to represent a data point and otherwise works the same way as a bar chart. When one needs to show several types of categories, instead of showing multiple bar or stacked bar charts, dot plots allow for a more elegant way to show the same data.[^robbins]
 2. [*Isotype diagram*](/isotype-diagram) uses icons to represent a data point as the total length of the row of icons. Isotype chart can help a reader see the semantic meaning of each category in the chart. [^haroz]
 3. [*Waterfall chart*](/waterfall-chart) is an alternative to a stacked bar chart. In a waterfall chart we can see each bar separated by category on the X axis which makes the size of the bar easier to perceive than in a stacked bar chart.[^knaflic]
-4. *Slope graph* is an alternative to a stacked bar chart. A slope graph shows the relationship between two sets of categories.
+4. [*Bullet chart*](/bullet-chart) functionally the same as a bar chart, the bullet chart adds a symbol for the target value and a progress bar.
+5. *Slope graph* is an alternative to a stacked bar chart. A slope graph shows the relationship between two sets of categories.
 
 The need to find an alternative to a bar chart sometimes leads people to substitute it with a chart that is not functionally the same, for example, the pie chart, the bubble or the histogram. For this reason, it is important to look for an alternative that is functionally the same.[citation needed]
 

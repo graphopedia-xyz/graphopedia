@@ -19,12 +19,12 @@ examples:
   - title:  The U.S. Foreign Aid Budget Visualized
     author: The Washington Post
     link:   https://www.washingtonpost.com/graphics/world/which-countries-get-the-most-foreign-aid/
-    image:  us-aid-cartogram
+    image:  us-aid-cartogram.png
 
   - title:  How Maps Lie (showing cartograms of U.S. Presidential Election 2016)
     author: Mark Newman
     link:   https://www.washingtonpost.com/graphics/politics/2016-election/how-election-maps-lie/
-    image:  us-election-carogram.png
+    image:  us-election-cartogram.png
 
   - title:  Mapping the Spread of Obesity
     author: Nathan Yau
@@ -44,8 +44,7 @@ examples:
   - title:  Mapping America's Millionaires
     author: 5W Graphics
     link:   https://5wgraphicsblog.files.wordpress.com/2016/10/5w-sample-054-america-millionaires1x2.jpg
-    image:  america-millionaires.png
-
+    image:  america-millionaires.jpg
 synonyms:
    - value-by-area map
    - anamorphic map
@@ -63,7 +62,7 @@ There are three ways in which the map can be distorted:
 Cartograms became popular in 1934 when cartographer Erwin Raisz published the first statistical rectengular cartograms.[^tyner]
 
 ## Purpose
-The main advantage of a cartogram is its ability to grab a reader's attention and show an unusual world view of the world or an area that are otherwise familiar.[^tyner2]
+The main advantage of a cartogram is its ability to grab a reader's attention and show an unusual view of the world or an area that are otherwise familiar.[^tyner2]
 
 Another advantage of cartograms is that data does not need to be classified or range graded, as is the case with [proportional symbols maps](/bubble-map).
  
@@ -72,7 +71,7 @@ Another advantage of cartograms is that data does not need to be classified or r
 Information designers have noticed that representing true geography is not always the most important feature of a map. For example, on the map of the United States it is difficult to even see densely-populated states like New York, while large states like Wyoming have few people living there.
 Showing data that has little to do with the actual land area is often best done with a cartogram.  
 
-The main caveat is that your readers have to already know how that are looks so that even when distorted , is is still recognizable. For this, provide at least those points along country or state outlines that are proven to be the visual cues for shape identification.[^rittschof]
+The main caveat with cartograms is that the readers have to be familiar with the map of an area so that even when distorted it is still recognizable. For this, provide at least those points along country or state outlines that are proven to be the visual cues for shape identification.[^rittschof]
 
 ## Variations
 1. The Density-Equalizing Cartogram - map features bulge to show a specific variable.

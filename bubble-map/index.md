@@ -28,7 +28,7 @@ synonyms:
   - proportional symbol map
   - graduated symbol map
 ---
-visualizes numeric data associated with locations on a map by using a scaled symbol—typically a circle or a square—proportional to the number it represents and positioned in the location to which it refers.[^cabello]
+visualizes numeric data referring to locations on a map by using a scaled symbol—typically a circle or a square—proportional to the number it represents and positioned in the location to which it refers.[^cabello]
  Each circle is sized based on its area, not the diameter or the radius, following the same principle as in a bubble chart. The underlying map is divided into regions, with a single circle per region.
 
 <!--more-->
@@ -58,7 +58,11 @@ Bubble map symbols need to be properly scaled to avoid clutter. Ideally, bubbles
 
 ## Alternatives
 
-1. [*Choropleth map*](/choropleth-map) 
+1. [*Choropleth map*](/choropleth-map) uses colored areas to represent the measurement of a variable proportional to the colored area.
+
+2. [*Cartogram*](/cartogram) substitutes land area with time, population or any other variable, distorting the geometry of the map. There are three ways in which the map can be distorted: 1. by bulging out the areas; 2. by splitting map features; 3. by representing each map feature as a simple geometric shape such as a circle.
+
+3. [*Dot Distribution Map*](/dot-distribution-map) uses a dot symbol to represent a data point showing the distribution of values through the scatter pattern similar to a scatter plot.
 
 
 ## Sources
@@ -67,6 +71,6 @@ Bubble map symbols need to be properly scaled to avoid clutter. Ideally, bubbles
 [^cairo]: ["The Functional Art: An introduction to information graphics and visualization" by Alberto Cairo, p.](https://books.google.com/books?id=xwjhh6Wu-VUC&pg=PT144&dq=%22proportional+symbol+map%22&hl=en&sa=X&ved=0ahUKEwjZsujj6MDhAhWVKqYKHfXoBr8Q6AEIRjAF#v=onepage&q=proportional%20symbol&f=false)
 [^cox]: ["Anchor effects and the estimation of graduated circles and
          squares" by Carleton Cox 1976.The American Cartographer 3(1):65-74. ](https://www.tandfonline.com/doi/abs/10.1559/152304076784080195)
-[^crawford]: ["The perception of graduated squares as cartographic symbols" by Crawford, 1973. The Cartographic foumal 10(2):85-88.] (https://www.tandfonline.com/doi/abs/10.1179/caj.1973.10.2.85?journalCode=ycaj20)
+[^crawford]: ["The perception of graduated squares as cartographic symbols" by Crawford, 1973. The Cartographic foumal 10(2):85-88.](https://www.tandfonline.com/doi/abs/10.1179/caj.1973.10.2.85?journalCode=ycaj20)
 [^eells]: ["The Relative Merits of Circles and Bars for Representing Component Parts" by Walter Crosby Eells, Journal of the American Statistical Association Vol. 21, No. 154 (Jun., 1926), pp. 119-132](https://www.jstor.org/stable/2277140)
-[^Montello][Cognitive Map-Design Research in the Twentieth Century: Theoretical and Empirical Approaches](https://geog.ucsb.edu/~montello/pubs/history.pdf)
+[^montello]: [Cognitive Map-Design Research in the Twentieth Century: Theoretical and Empirical Approaches](https://geog.ucsb.edu/~montello/pubs/history.pdf)
