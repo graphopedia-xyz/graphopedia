@@ -30,21 +30,36 @@ tools:
     link:   http://www.adobe.com/Illustrator
 
 examples:
+
   - title:  World Population Infographic for Popular Science
     author: Ariana Montanez
-    link:   http://www.arianamontanez.com/world-population-infographic/
+    link:   https://informationisbeautiful.net/visualizations/oil-well-every-cooking-oil-compared/
+    image:  oil-nutrition-facts.png
 
   - title:  How Couples Meet
-    author: Nathan Yau
+    author: David McCandless
     link:   https://flowingdata.com/2019/03/15/shifts-in-how-couples-meet-online-takes-the-top-spot/
+    image: how-couples-meet.jpeg
     
   - title: The most used words for women vs. men
     author: Julia Silge
-    link: https://pudding.cool/2017/08/screen-direction/
+    link:   https://pudding.cool/2017/08/screen-direction/
+    image:  likelihood-of-words-based-on-gender.png
     
   - title: The space race is dominated by new contenders
     author: The Economist
     link: https://www.economist.com/graphic-detail/2018/10/18/the-space-race-is-dominated-by-new-contenders
+    image: space-race.png
+    
+  - title:  World Population Infographic for Popular Science
+    author: David McCandless
+    link:   https://informationisbeautiful.net/visualizations/million-lines-of-code/
+    image:  lines-of-code.png
+
+  - title:  World Population Infographic for Popular Science
+    author: Ariana Montanez
+    link:   http://www.arianamontanez.com/world-population-infographic/
+    image:  world-population.jpeg
 
 synonyms:
   - column chart
