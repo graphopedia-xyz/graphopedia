@@ -33,7 +33,7 @@ examples:
     author: The National Post graphics team
     note:   A bubble chart showing popular words in State of the Union Addresses for different presidents
     link:   https://nationalpostcom.files.wordpress.com/2012/01/fo0225_stateoftheunion-2.pdf
-    image:  words-of-presidents.pdf
+    image:  words-of-the-union.jpg
  
   - title:  Snake Oil Supplements?
     author: David McCandless
