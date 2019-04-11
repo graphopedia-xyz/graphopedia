@@ -30,23 +30,36 @@ tools:
     link:   http://www.adobe.com/Illustrator
 
 examples:
-  - title:  Interest of the National Debt from the Revolution, 1786
-    author: Playfair
-    link:   https://en.wikipedia.org/wiki/Area_chart#/media/File:1786_Playfair_-_25_Interest_of_the_national_Debt_from_the_Revolution.jpg
-
   - title:  Internet Users by Region
+    author: Max Rosner
     link:   https://ourworldindata.org/wp-content/uploads/2018/09/Internet-users-by-world-region.png
+    image:  internet-users-by-world-region.png
     
-  - title:  The American Time Survey - How Different Groups Spend their Day
-    link:   https://flowingdata.com/2009/08/10/how-people-in-america-spend-their-day/
+  - title:  When And How I Will Die
+    author: Nathan Yau
+    link:   https://flowingdata.com/2016/01/05/causes-of-death/
+    image:  causes-of-death.png
     
   - title:  Thirty Years of Atlantic Hurricanes
     author: Axios
     link:   https://www.axios.com/thirty-years-of-atlantic-hurricanes-1513305322-8b3c056a-ff13-49dc-a95d-961481119907.html
+    image: atlantic-hurricanes.png
     
-  - title:  The Most Unisex Names in US History
+  - title:  Percentage of People Who Are Married, By Age
     author: Nathan Yau
     link:   https://flowingdata.com/2013/09/25/the-most-unisex-names-in-us-history/
+    image:  percentage-of-married people-by-age.png
+  
+  - title:  Where Are All The Fish?
+    author: Thomas Porostocky
+    link:   https://www.good.is/infographics/transparency-where-are-all-the-fish#open
+    image:  fish-in-sea.jpg
+    
+  - title:  Interest of the National Debt from the Revolution, 1786
+    author: William Playfair
+    link:   https://en.wikipedia.org/wiki/Area_chart#/media/File:1786_Playfair_-_25_Interest_of_the_national_Debt_from_the_Revolution.jpg
+    image:  playfair-national-debt.jpg
+    
 
 ---
 
@@ -75,7 +88,7 @@ Stacked area chart - area charts that show multiple data curves and the area bet
 [Steamgraph](/stream-graph) - a stream graph is a type of stacked area chart which is shown relative to a central axis. Stream graphs have a smoothed curve. They are normally oriented horizontally.
 
 
-## References
+## Sources
 
 [^1]: ["The Grammar of Graphics" by Leland Wilkinson, p. 87](https://books.google.com/books?id=ZiwLCAAAQBAJ&printsec=frontcover&dq=%22area+diagram%22+visualization&hl=en&sa=X&ved=0ahUKEwj6gIWivrPhAhWiyosBHfXzDPYQ6AEIKDAA#v=snippet&q=area%20chart&f=false)
 [^2]: ["Information Graphics: A Comprehensive Illustrated Reference" by Robert L. Harris, p. 10](https://books.google.fr/books?id=qusmDAAAQBAJ&printsec=frontcover&dq=%22area+graph%22+visualization&hl=en&sa=X&ved=0ahUKEwjz_cjqv7PhAhW9yIsBHc6dDQMQ6AEIWzAJ#v=onepage&q=%22area%20graph%22%20visualization&f=false)

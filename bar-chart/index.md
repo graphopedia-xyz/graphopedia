@@ -37,9 +37,9 @@ examples:
     image:  oil-nutrition-facts.png
 
   - title:  How Couples Meet
-    author: David McCandless
+    author: Nathan Yau
     link:   https://flowingdata.com/2019/03/15/shifts-in-how-couples-meet-online-takes-the-top-spot/
-    image: how-couples-meet.jpeg
+    image:  how-couples-meet.jpeg
     
   - title: The most used words for women vs. men
     author: Julia Silge
@@ -51,7 +51,7 @@ examples:
     link: https://www.economist.com/graphic-detail/2018/10/18/the-space-race-is-dominated-by-new-contenders
     image: space-race.png
     
-  - title:  World Population Infographic for Popular Science
+  - title:  Codebases - Millions of Lines of Code
     author: David McCandless
     link:   https://informationisbeautiful.net/visualizations/million-lines-of-code/
     image:  lines-of-code.png
