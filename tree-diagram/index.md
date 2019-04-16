@@ -15,11 +15,21 @@ tools:
 
 examples:
   - title:  The Tree of Life
+    author: Leonard Eisenberg
     link:   https://www.evogeneao.com/learn/tree-of-life
+    image:  tree-of-life-evolution.png
     
   - title:  The World Religions Tree
     author: The 40 Foundation
     link:   http://silenced.co/wp-content/uploads/2014/10/religions_tree.jpg
+    image:  world-religions-tree.jpg
+  
+  - title:  The World Religions Tree
+    author: Minna Sundberg
+    link:   http://www.sssscomic.com/comic.php?page=196
+    image:  world-languages-tree.jpg
+    
+    
 
 synonyms:
   - tree chart

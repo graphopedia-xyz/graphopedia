@@ -17,10 +17,12 @@ examples:
   - title:  Divine Comedy
     link:   http://www.filodidattica.it/divina-commedia/
     note:   via Daniela Mainardi
+    image:  divine-comedy.jpg
 
   - title:  General Configuration of Dante's Hell
     link:   https://giornalebibliotalamona.files.wordpress.com/2013/08/inferno-b3cda9ce-63ad-4049-b0de-82e4d075107e.jpg
     note:   via I tesori alla fine dell'arcobaleno
+    image:  divine-comedy-illustration.jpg
 
 ---
 

@@ -85,7 +85,7 @@ Stacked area chart - area charts that show multiple data curves and the area bet
 
 [Line chart](/line-chart) - functionally similar to area charts, line charts can be stacked and grouped more easily than area charts.
 
-[Steamgraph](/stream-graph) - a stream graph is a type of stacked area chart which is shown relative to a central axis. Stream graphs have a smoothed curve. They are normally oriented horizontally.
+[Streamgraph](/stream-graph) - a stream graph is a type of stacked area chart which is shown relative to a central axis. Stream graphs have a smoothed curve. They are normally oriented horizontally.
 
 
 ## Sources

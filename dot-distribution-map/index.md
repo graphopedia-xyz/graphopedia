@@ -18,13 +18,21 @@ tools:
     link:   https://www.cultureofinsight.com/blog/2018/05/02/2018-04-08-multivariate-dot-density-maps-in-r-with-sf-ggplot2
 
 examples:
-  - title:  If We All Left to Go Back Where We Came From
-    author: Nathan Yau
-    link:   https://flowingdata.com/2018/05/16/go-back-where-you-came-from/
-
   - title:  Mapping Immigrant America
     author: Kyle Walker
     link:   http://personal.tcu.edu/kylewalker/immigrant-america/
+    image:  immigrant-america.png
+  
+  - title:  Flavors of Blur - Annual Household Income in Chicago
+    author: Radical Cartography
+    link:   http://www.radicalcartography.net/index.html?chicagodots
+    image:  income-in-chicago.jpg
+
+  - title:  When You Greet a Friend, How Many Times Do You Kiss?
+    author: Bill Rankin
+    link:   http://www.radicalcartography.net/index.html?frenchkisses
+    image:  how-many-times-french-kiss.png
+
 
 synonyms:
   - dot density map

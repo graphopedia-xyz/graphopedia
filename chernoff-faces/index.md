@@ -12,10 +12,12 @@ examples:
   - title:  The Face of Crime in the United States
     author: Nathan Yau
     link:   https://flowingdata.com/2010/08/31/how-to-visualize-data-with-cartoonish-faces/#jp-carousel-20488
+    image: united-states-crime.png
 
   - title:  The Emoji States of America
     author: Lazaro Gamio
-    link:   https://www.axios.com/the-emoji-states-of-america-1513302318-0ca61705-de75-4c8f-8521-5cbab12a45f2.html
+    link:  https://www.axios.com/the-emoji-states-of-america-1513302318-0ca61705-de75-4c8f-8521-5cbab12a45f2.html
+    image:  united-states.png
 
 ---
 

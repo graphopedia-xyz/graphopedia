@@ -16,13 +16,26 @@ tools:
     link:   https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_howto_symbol.html
     
 examples:
-  - title:  Deadly Vibrations. Earthquakes resulting in 1000 or more deaths since 1900 
+  - title:  Robocalls in the United States in 2018
+    author: Harry Stevens for Axios
+    link:   https://www.axios.com/48-billion-robocalls-americans-3017a1c6-4406-4305-82c0-9d7c9ef84548.html
+    image:  robocalls-in-united-states.png
+    
+  - title:  Deadly Vibrations - Earthquakes Resulting in 1000 or More Deaths Since 1900 
     author: Ben Willers
     link:   https://www.flickr.com/photos/b_willers/6331225797/in/photostream/
+    image:  deadly-earthquakes.jpg
 
   - title:  Where to Live to Avoid Natural Disasters
     author: The New York Times
     link:   https://archive.nytimes.com/www.nytimes.com/interactive/2011/05/01/weekinreview/01safe.html?_r=0
+    image:  natural-disaster-risk.png
+  
+  - title:  Wealthiest Zip Codes In America
+    author: Experian
+    link:   https://www.edq.com/globalassets/infographics/wealthiest-zip-codes.png
+    image:  wealthiest-zip-codes-in-america.png
+  
     
 synonyms:
   - proportional symbol map

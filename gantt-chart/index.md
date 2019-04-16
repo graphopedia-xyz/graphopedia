@@ -15,10 +15,12 @@ examples:
   - title:  The Empire Strikes Again
     author: Accurat
     link:   https://www.flickr.com/photos/accurat/8248786141
+    image:  empire-strikes-again.jpg
 
   - title:  World Leaders in Living Memory by Height
     author: Marcelo Duhalde
     link:   https://www.behance.net/gallery/64985395/Leaders-height
+    image:  world-leaders-by-height.jpg
 
 ---
 

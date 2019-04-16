@@ -16,15 +16,24 @@ tools:
     link:   https://bl.ocks.org/rpgove/53bb49d6ed762139f33bdaea1f3a9e1c
 
 examples:
-  - title:  Codebases millions of lines of code
-    author: InformationisBeautiful 
+  - title:  Codebases- Millions of Lines of Code
+    author: David McCandless 
     link:   https://informationisbeautiful.net/visualizations/million-lines-of-code/
-    note:   This is a tape diagram that uses an arc diagram to show connections between two versions of software where the thinkness of the arc shows the amount of re-used code
+    note:   Uses an arc diagram to show connections between two versions of software
+    image:  lines-of-code.png
 
   - title:  Bible Cross-References
     author: Chris Harrison
     link:   http://www.chrisharrison.net/index.php/Visualizations/BibleViz
     note:   An arc diagram showing 63,000 cross references with a bar chart inverted at bottom to show the number of connected in each node.
+    image:  bible-cross-references.jpg
+
+  - title:  Bible Contradictions
+    author: Sam Harris
+    link:   project-reason.org
+    note:   An arc diagram showing 63,000 cross references with a bar chart inverted at bottom to show the number of connected in each node.
+    image:  bible-contradictions.png
+
 
 ---
 

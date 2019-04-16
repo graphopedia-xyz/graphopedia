@@ -17,12 +17,18 @@ tools:
 examples:
   - title:  Live Wind Map
     author: Martin Wettenberg
-    link:   http://hint.fm/wind/
-    note: for Hint fm
+    link:   http://hint.fm/wind
+    image:  wind-map-united-states.png
 
   - title:  A brief history of malaria, leprosy, and smallpox.
     author: Haisam Hussein
     link:   https://www.laphamsquarterly.org/medicine/maps/contagion
+    image:  history-of-malaria-smallpox.png
+  
+  - title:  Internet Cables by 2021
+    author: The New York Times
+    link:   https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html?mtrref=flowingdata.com
+    image:  internet-cables.png
 
 ---
 

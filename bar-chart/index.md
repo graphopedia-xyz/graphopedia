@@ -31,8 +31,8 @@ tools:
 
 examples:
 
-  - title:  World Population Infographic for Popular Science
-    author: Ariana Montanez
+  - title:  Oil Well (Nutrition Facts for Edible Oils)
+    author: David McCandless
     link:   https://informationisbeautiful.net/visualizations/oil-well-every-cooking-oil-compared/
     image:  oil-nutrition-facts.png
 

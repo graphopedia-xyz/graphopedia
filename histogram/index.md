@@ -35,19 +35,36 @@ examples:
   - title:  Searching for Peace in Old Age
     author: Hyperakt
     link:   http://www.hyperakt.com/items/corriere-infographic/
+    image:  what-happens-as-world-ages.jpg
 
   - title:  The Pianogram
     author: Joseph Yuen
     link:   http://joeycloud.net/v/pianogram/
+    image:  pianogram.png
+ 
+  - title:  Distribution of Marathon Finishing Times
+    author: The New York Times
+    link:  https://www.nytimes.com/2014/04/23/upshot/what-good-marathons-and-bad-investments-have-in-common.html?_r=0
+    image:  marathon-result-motivation.png
+    
 
 ---
 
 is a graphic representation of the distribution of data. It is an estimate of the probability distribution of a continuous variable. It is similar to a density plot and a bar chart. Unlike a density plot, a histogram shows discrete values. Unlike a bar chart, a histogram only shows one variable. The vertical axis in a histogram always shows frequency, not another variable as would be the case in a bar chart.
 
 <!--more-->
-
-## Origin
 The histogram was first introduced by English mathematician and biostatistician Karl Pearson in 1895. (Pearson is also the author of *The Grammar of Science*, the book recommended by Albert Einstein to his friends of the Olympia Academy.)
+
+To see how raw data i transformed into a histogram, see this [interactive visualization on how histograms work](http://tinlizzie.org/histograms).
+
+## Alternatives
+The alternatives to the histogram, the chart almost synonymous with distribution, are going to be other charts that show distribution.
+1. *Dot plot* also known as *unit chart* shows individual data points for each point in time plotted on the x-axis.
+2. *Barcode chart*
+3. *Beeswarm plot*
+4. *Density plot*
+5. *Strip plot*
+6. *Violin plot*
 
 ## Sources
 [Contributions to the mathematical theory of evolution.—II. Skew variation in homogeneous material](http://rsta.royalsocietypublishing.org/content/186/343)
