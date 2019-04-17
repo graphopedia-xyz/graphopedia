@@ -14,13 +14,15 @@ tools:
     link:   https://plot.ly/r/parallel-coordinates-plot/
 
 examples:
-  - title:  Womens Heptathlon Rio 2016
+  - title:  Women's Heptathlon Rio 2016
     author: The Guardian
     link:   https://www.theguardian.com/sport/ng-interactive/2016/aug/14/how-nafissatou-thiam-beat-the-odds-to-claim-the-heptathlon-gold-in-rio
+    image:  how-nafissatou-thiam-beat-the-odds-to-claim-heptathlon-gold.png
 
   - title:  The Most Valuable Brands
     author: Valerio Pellegrini
     link:   https://www.behance.net/gallery/27306035/100-MOST-VALUABLE-BRANDS-201015-Corriere-della-Sera
+    image:  most-valuable-brands.jpg
 
 ---
 

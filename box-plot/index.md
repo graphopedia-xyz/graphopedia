@@ -10,9 +10,14 @@ tools:
 
 examples:
   - title:  Age Distribution of Olympic Athletes By Sport and Gender
-    author: Gregory Matthews
-    link:   https://statsinthewild.files.wordpress.com/2012/07/screen-shot-2012-07-09-at-11-49-59-am.png
+    author:  Gregory Matthews
+    link:  https://statsinthewild.files.wordpress.com/2012/07/screen-shot-2012-07-09-at-11-49-59-am.png
     image:  olympic-athlete-age.png
+  
+  - title:  Perceptions of Probability
+    author:  Zoni Nation
+    link:  https://github.com/zonination/perceptions
+    image:  perceptions-of-probability.png
   
   - title:  Median Ages of Females With The 25 Most Common Names
     author: Nate Silver and Allison McCann

@@ -37,10 +37,10 @@ examples:
     link:   http://www.hyperakt.com/items/corriere-infographic/
     image:  what-happens-as-world-ages.jpg
 
-  - title:  The Pianogram
-    author: Joseph Yuen
-    link:   http://joeycloud.net/v/pianogram/
-    image:  pianogram.png
+  - title:  The Blue of 2015 Beijing Sky
+    author: Yasai Wang
+    link:   https://www.behance.net/gallery/35401355/The-Blue-of-2015-Beijing-Sky
+    image:  blue-sky-beijing-2015.jpg
  
   - title:  Distribution of Marathon Finishing Times
     author: The New York Times

@@ -29,11 +29,6 @@ examples:
     author: Eleanor Lutz
     link:   http://tabletopwhale.com/2016/11/22/a-field-guide-to-human-viruses.html
     image:  virus-identification.jpg
-  
-  - title:  Economic Scheme
-    author:  Otto Neurath
-    link:  https://constellations.pitt.edu/article/isotype-teaching-images
-    image:  economic-scheme.jpg
 
 synonyms:
   - flow chart

@@ -15,15 +15,21 @@ tools:
     link:   https://office.live.com/start/PowerPoint.aspx
 
 examples:
-  - title:  How the Recession Reshaped the Economy in 255 Charts
-    author: The New York Times
-    link:   https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html
-
   - title:  The Immigration Effect
+    author:  ProPublica
     link:   https://projects.propublica.org/graphics/gdp
-    
-  - title:  Alone Time
-    link:   https://flowingdata.com/2017/06/26/alone-time/
+    image:  the-immigration-effect.png
+  
+  - title:  Divorce Rates for Different Groups
+    author:  Nathan Yau
+    link:   https://flowingdata.com/2016/03/30/divorce-rates-for-different-groups/
+    image:  divorce-rates-for-different-groups.png
+  
+  - title:  Most Popular Fields of Study, Since 1970
+    author:  Nathan Yau
+    link:   https://flowingdata.com/2016/12/07/fields-of-study-ranked-over-past-few-decades/
+    image:  most-popular-fields-of-study-since-1970.png
+  
 
 ---
 

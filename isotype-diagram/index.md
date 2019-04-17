@@ -15,32 +15,31 @@ tools:
     link:   http://support.softwarefx.com/jChartFX/article/2501514#!2502352
 
 examples:
-  - title:  World Car Industry
+  - title:  World's Motor Car Industry in 1929
     link:   https://www.flickr.com/photos/ffranchi/6789532156/
     author:  Otto Neurath
     image:  world-car-industry.jpg
-    
-  - title:  Weekly Earnings of Men and Women 1940
+
+  - title:  United States And Great Britain In The World
     author:  Otto Neurath 
-    link:   http://www.fulltable.com/iso/images01/15.jpg
-    image:  earnings-of-men-and-women-1940.jpg
+    link:  
+    image:  united-states-and-great-britain-in-the-world.jpg
     
-  - title:  Population and Live Stock in Britain and United States
-    author:  Otto Neurath 
-    link:   
-    image:  population-and-livestock.jpg
+  - title:  A Year in Iraq
+    author:  Alicia Cheng
+    link:   https://www.nytimes.com/2008/01/06/opinion/06chart.html
+    image:  year-in-iraq.png
   
   - title:  Home and Factory Weaving in England
     author:  Otto Neurath 
     link:  https://www.johngrimwade.com/blog/2017/02/13/the-isotype-revolution/
     image:  factory-weaving.jpg
 
-  - title:  Home and Factory Weaving in England
+  - title:  Age Groups In England and Wales
     author:  Otto Neurath 
-    link:  https://www.johngrimwade.com/blog/2017/02/13/the-isotype-revolution/
-    image:  factory-weaving.jpg
-  
-  
+    link:  http://imaginarymuseum.org/MHV/PZImhv/Neurath19400153.07.jpg
+    image:  age-groups-in-england-and-wales.jpg
+
 
 synonyms:
   - icon chart

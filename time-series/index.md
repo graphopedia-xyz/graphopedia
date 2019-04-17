@@ -14,6 +14,11 @@ tools:
     link:   https://plot.ly/javascript/time-series/
 
 examples:
+  - title:  How the Recession Reshaped the Economy in 255 Charts
+    author: The New York Times
+    link:   https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html
+    image:  how-recession-reshaped-economy-in-255-charts.png
+    
   - title:  Earth’s Relentless Warming Sets a Brutal New Record in 2017
     author: Bloomberg
     link:   https://www.bloomberg.com/graphics/hottest-year-on-record/
@@ -21,6 +26,12 @@ examples:
   - title:  Marrying Age
     author: Nathan Yau
     link:   https://flowingdata.com/2016/03/03/marrying-age/
+    image:  
+    
+  - title:  Alone Time
+    author:  Nathan Yau
+    link:  https://flowingdata.com/2017/06/26/alone-time
+    image:  people-who-are-alone.png
 
 ---
 

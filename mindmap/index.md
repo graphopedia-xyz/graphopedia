@@ -15,11 +15,21 @@ tools:
 
 examples:
   - title:  The Tree of Knowledge Obfuscation
-    link:   https://i0.wp.com/theethicalskeptic.com/wp-content/uploads/2017/07/Tree-of-Knowledge-Obfuscation.png?ssl=1
-
-  - title:  A diagram of self-Awareness
-    author: by David Matton
-    link:   https://cargocollective.com/davidmatton/Mind-Map-Infographic
+    author:  The Ethical Skeptic
+    link:  https://i0.wp.com/theethicalskeptic.com/wp-content/uploads/2017/07/Tree-of-Knowledge-Obfuscation.png?ssl=1
+    image:  tree-of-knowledge-obfuscation.png
+    
+  - title:  Economic Scheme
+    author:  Otto Neurath
+    link:  https://constellations.pitt.edu/article/isotype-teaching-images
+    image:  economic-scheme.jpg
+  
+  - title: How To Be Productive
+    author:  Anna Vital
+    link:  https://blog.adioma.com/how-to-be-productive-infographic/
+    image: how-to-be-productive.jpg
+  
+  
 
 synonyms:
   - concept map

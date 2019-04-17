@@ -35,6 +35,11 @@ examples:
     link:   http://www.joanangdesign.com/
     image:  tide-prediction.jpg
   
+  - title:  Population Lines
+    author: James Cheshire
+    link:   http://spatial.ly/2014/08/population-lines/
+    image:  population-lines.jpg
+  
   
 
 synonyms:

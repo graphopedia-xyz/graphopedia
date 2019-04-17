@@ -18,6 +18,11 @@ examples:
     author: Lazaro Gamio
     link:  https://www.axios.com/the-emoji-states-of-america-1513302318-0ca61705-de75-4c8f-8521-5cbab12a45f2.html
     image:  united-states.png
+ 
+  - title:  Average Personal Well-Being by Borough
+    author:  James Cheshire and Oliver Uberti
+    link:  http://www.oliveruberti.com/the-information-capital
+    image:  average-personal-wellbeing-london.jpeg
 
 ---
 
