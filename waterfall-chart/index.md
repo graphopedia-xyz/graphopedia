@@ -15,7 +15,11 @@ tools:
 
 examples:
   - title:  Doing Business Subnational - Step Graph
-    link:   https://www.chezvoila.com/portfolio/#/dbstepgraph/
+    link:   https://www.chezvoila.com/portfolio/#/dbstepgraph
+  
+  - title:  Generational Shift In Religious Identity
+    link:  https://fivethirtyeight.com/features/are-white-evangelicals-sacrificing-the-future-in-search-of-the-past
+    image: generational-shift-in-religious-identity.png
 
 ---
 

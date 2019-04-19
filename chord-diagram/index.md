@@ -40,6 +40,11 @@ examples:
     author: Hayley Brooks, Scott Sanderson, and Kaison Tanabe
     link:   https://web.williams.edu/Mathematics/devadoss/careerpath.html
     image:  college-majors.png
+  
+  - title: Harry Potter Relations Network
+    author:  Nicole Mannell
+    link:  https://www.behance.net/gallery/24910555/Harry-Potter-relations-network
+    image:  harry-potter-relations-network.jpg
     
 synonyms:
   - radial network diagram

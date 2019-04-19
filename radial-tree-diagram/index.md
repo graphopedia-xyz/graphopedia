@@ -15,8 +15,10 @@ examples:
     author: John Manoogian III
     link:   https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg
 
-  - title:  Headache causes
-    link:   http://www.fastcodesign.com/1665355/infographic-of-the-day-the-insane-choices-you-face-at-the-drugstore
+  - title:  Plants Under Pressure
+    link:   https://www.behance.net/gallery/48721959/WIRED-UK-Plants-Under-Pressure
+    image:  plants-under-pressure.jpg
+
 
 synonyms:
   - radial map

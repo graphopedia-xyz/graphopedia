@@ -14,13 +14,20 @@ tools:
     link:   https://products.office.com/en/powerpoint
 
 examples:
-  - title:  Paintings as pie charts
-    author: Arthur Buxton 
-    link:   https://flowingdata.com/2012/08/10/paintings-as-pie-charts/
-
-  - title:  The World as 100 Poeple
+  - title:  The World as 100 People
     author: Jack Hagley
     link:   https://www.jackhagley.com/The-World-as-100-People
+    image:  world-as-100-people.png
+    
+  - title:  Van Gogh Paintings Colors as Pie Charts
+    author: Arthur Buxton 
+    link:   http://arthurbuxton.blogspot.com/2010/11/van-gogh-visualisation.html
+    image:  van-gogh-paintings.jpg
+
+  - title: Distribution of Star Wars Species
+    author:  Kirell Benzi
+    link:  https://kirellbenzi.com/blog/exploring-the-star-wars-expanded-universe/
+    image:  distribution-of-star-wars-species.jpg
 
 synonyms: 
   - circular chart
@@ -40,7 +47,7 @@ Scottish engineer William Playfair is credited as the first creator of the pie c
 2. **Exploded pie chart** is a stylistic variation of pie chart with one or several of the wedges shifted equally outward from the center. The intended effect is emphasis of the size of the "exploded" wedge. However, this technique may be counter-productive since stand alone wedges are not easier to compare with the rest of the wedge.
 3. **Polar area chart** (also known as coxcomb chart or Nightnighgale chart) is a type of pie chart in which all sectors have equal angles but they differ in how far each sector extends from the center of the circle. The polar area chart is used to plot cyclic phenomena, for example, the amount of rain each month would be plotted as 12 sectors at 30 degrees each. The radius of each sector is proportional to the square root of the death count for the month. The area of a sector represents the number of deaths in a month. The polar area chart is famously developed by English nurse Florence Nightingale.
 4. **Windrose chart** is a type of polar area chart that shows the speed and direction of winds at a given location. The length of each "spoke" around the circle indicates the amount of time that the wind blows from a particular direction. Colors along the spokes indicate categories of wind speed. 
-5. **Stacked pie chart** is a group of pie charts that are positioned concentrically.
+5. **Stacked pie chart** or *nested pie chart* is a group of pie charts that are positioned concentrically.
 
 ## Sources
 1. [No Humble Pie:The Origins and Usage of a Statistical Chart](http://www.psych.utoronto.ca/users/spence/Spence%202005.pdf)

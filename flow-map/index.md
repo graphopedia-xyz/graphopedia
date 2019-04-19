@@ -15,10 +15,10 @@ tools:
     link:   https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/
 
 examples:
-  - title:  Live Wind Map
-    author: Martin Wettenberg
-    link:   http://hint.fm/wind
-    image:  wind-map-united-states.png
+  - title:  Chinese Investment in World's Largest Ports
+    author: The Financial Times
+    link:  https://ig.ft.com/sites/china-ports/
+    image:  how-china-rules-the-waves.png
 
   - title:  A brief history of malaria, leprosy, and smallpox.
     author: Haisam Hussein
@@ -29,6 +29,11 @@ examples:
     author: The New York Times
     link:   https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html?mtrref=flowingdata.com
     image:  internet-cables.png
+
+  - title:  Live Wind Map
+    author: Martin Wettenberg
+    link:   http://hint.fm/wind
+    image:  wind-map-united-states.png
 
 ---
 

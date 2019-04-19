@@ -14,16 +14,24 @@ examples:
   - title:  Interchange Choreography
     author: Nicholas Rougeux
     link:   https://www.c82.net/work/?id=350
-
-  - title:  What if an atomic bomb hit Hong Kong or Beijing, or where you live
-    author: Alberto Lucas López
-    link:   https://www.scmp.com/sites/default/files/2015/08/11/atomicbombs.png
-    note: for South China Morning Post
+    image:  interchange-choreography.jpg
     
   - title:  Rise and Fall of Per Capita Carbon Dioxide Emissions
     author: Jan Willem Tulp
     link:   https://www.scientificamerican.com/article/graphic-science-co2-emissions-shrink-in-a-few-cases/
-    note: for Scientific American
+    note:  for Scientific American
+    image:  rise-and-fall-in-per-capita-co2-emissions.jpg
+
+  - title:  Surfing Spots in Italy
+    author:  Michela Lazzaroni
+    link:  https://www.behance.net/gallery/44590587/Surfing-in-Italy-a-visual-guide-La-Lettura-257
+    image:  surfing-spots-in-italy.jpg
+
+  - title:  What if an atomic bomb hit Hong Kong or Beijing, or where you live
+    author: Alberto Lucas López
+    link:   https://www.scmp.com/sites/default/files/2015/08/11/atomicbombs.png
+    image:  if-an-atomic-bomb-hit-hong-kong.png
+  
 
 synonyms:
   - grid chart

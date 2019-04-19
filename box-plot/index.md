@@ -18,22 +18,23 @@ examples:
     author:  Zoni Nation
     link:  https://github.com/zonination/perceptions
     image:  perceptions-of-probability.png
+
+  - title:  Ranking The Ivies
+    author:  The Washington Post
+    link:  https://www.washingtonpost.com/news/wonk/wp/2015/09/14/this-chart-shows-why-parents-push-their-kids-so-hard-to-get-into-ivy-league-schools
+    image:  ivy-league-graduate-salaries.png
   
   - title:  Median Ages of Females With The 25 Most Common Names
     author: Nate Silver and Allison McCann
     link:   https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/
     image:  median-ages-of-females.png
+  
+  - title:  When Presidential Candidacy Is Announced
+    author: Ritchie King
+    link:   https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/
+    image:  when-presidential-candidacy-is-announced.png
 
-  - title:  Painters In The Making
-    author: Accurat
-    link:   https://www.flickr.com/photos/accurat/8248959211
-    image:  painters-in-the-making.jpg
-    
-  - title:  Casting Shakespeare - How age, gender, and race affect casting
-    author: Eric William Lin
-    link:   https://ericwilliamlin.com/shakespeare_production_data
-    image:  actor-gender-age.png
-
+  
 synonyms:
   - box and whisker plot
   - box and whisker chart

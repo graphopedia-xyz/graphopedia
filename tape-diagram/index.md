@@ -14,8 +14,12 @@ tools:
     link:   https://products.office.com/en/powerpoint
 
 examples:
-  - title:  Fractions shown as tape diagrams
-    link:   https://www.eduplace.com/math/mw/background/6/04/graphics/ts_6_4_wi-2.gif
+  - title:  Abandoned Railwys in Italy
+    author:  Michela Lazzaroni
+    link:  https://www.behance.net/gallery/57612475/Rails-La-Lettura-306-dataviz
+    image:  abandoned-railways-in-italy.jpg
+    
+    
 
 synonyms:
   - bar model

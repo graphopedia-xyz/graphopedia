@@ -14,6 +14,11 @@ tools:
     link:   https://plot.ly/r/parallel-coordinates-plot/
 
 examples:
+  - title:  Chinese Investment in World's Largest Ports
+    author: The Financial Times
+    link:  https://ig.ft.com/sites/china-ports/
+    image:  chinese-investment-in-worlds-largest-ports.png
+
   - title:  Women's Heptathlon Rio 2016
     author: The Guardian
     link:   https://www.theguardian.com/sport/ng-interactive/2016/aug/14/how-nafissatou-thiam-beat-the-odds-to-claim-the-heptathlon-gold-in-rio

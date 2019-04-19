@@ -14,13 +14,15 @@ tools:
     link:   http://www.amcharts.com/demos/radar-chart/
 
 examples:
-  - title:  Who Are the Teachers
+  - title:  Who Are Our Teachers
     author: Benedetta Signaroldi
     link:   https://www.behance.net/gallery/19469225/Who-are-our-teachers-La-Lettura
+    image:  teacher-work-satisfaction.png
 
-  - title:  Media Economy Report
-    author: Bureau Oberhaeuser
-    link:   https://www.behance.net/gallery/9349555/IPG-Media-Economy-Report-Vol3
+  - title:  G20 Alcohol Consumption
+    author: Vallerio Pellegrini
+    link:   https://www.behance.net/gallery/32772515/WIRED-UK-G20-Alcohol-Consumption-2015-2025
+    image:  g20-alcohol-consumption.jpg
 
 synonyms:
   - spider chart
