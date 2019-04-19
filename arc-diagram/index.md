@@ -30,7 +30,7 @@ examples:
 
   - title:  Bible Contradictions
     author: Sam Harris
-    link:   project-reason.org
+    link:   http://project-reason.org
     note:   An arc diagram showing 63,000 cross references with a bar chart inverted at bottom to show the number of connected in each node.
     image:  bible-contradictions.png
 
