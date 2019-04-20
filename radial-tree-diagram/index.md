@@ -14,6 +14,7 @@ examples:
   - title:  The Cognitive Bias Codex
     author: John Manoogian III
     link:   https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg
+    image:  cognitive-bias-codex.png
 
   - title:  Plants Under Pressure
     link:   https://www.behance.net/gallery/48721959/WIRED-UK-Plants-Under-Pressure

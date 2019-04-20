@@ -9,12 +9,37 @@ related:
 tools:
 
 examples:
-  - title:  Europe Migration Crisis
-    link:   http://graphics.thomsonreuters.com/15/migrants/index.html#section-asylum
+  - title:  Why Breakups Happen
+    author:  Lee Byron
+    link:  https://leebyron.com/what/breakups/breakup-sankey.png
+    image:  why-breakups-happen.jpg
+    
+  - title:  The Race To Save The River Ganges
+    author: Simon Scarr, Weiyi Cai, Vinod Kumar and Alasdair Pal
+    link:   https://graphics.reuters.com/INDIA-RIVER/010081TW39P/index.html
+    image:  ganges-river-pollution.png
+    
+  - title:  Power Grid
+    author:  Adolfo Arranz
+    link:   https://www.scmp.com/infographics/article/1538887/power-grid#&gid=1&pid=1
+    image:  power-grid.png
 
   - title:  Map of Russian campaign of 1812 of Napoleon
-    author: Charles Minard
+    author:  Charles Minard
     link:   https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/media/File:Minard.png
+    image:  minard-napoleon-russian-campaign.png
+  
+  - title:  Wiring The City
+    author:  Simon Scarr
+    link:  http://www.simonscarr.com/electricity
+    image:  wiring-the-city.jpg
+
+  - title:  Top Ten Fresh Water Consumers
+    author:  Jen Christiansen
+    link:  https://www.scientificamerican.com/article/water-in-water-out/#
+    image:  water-in-water-out.jpg
+
+
 
 ---
 

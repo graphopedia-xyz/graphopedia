@@ -32,12 +32,12 @@ examples:
     
 
   - title:  Leading Exporters and Their Trade With Each Other
-    author: Euromonitor International
+    author:  Euromonitor International
     link:   https://blog.euromonitor.com/the-patterns-of-world-trade/
     image:  international-trade.png
     
   - title:  Impact of Major on Career Path
-    author: Hayley Brooks, Scott Sanderson, and Kaison Tanabe
+    author:  Hayley Brooks, Scott Sanderson, and Kaison Tanabe
     link:   https://web.williams.edu/Mathematics/devadoss/careerpath.html
     image:  college-majors.png
   
@@ -45,6 +45,12 @@ examples:
     author:  Nicole Mannell
     link:  https://www.behance.net/gallery/24910555/Harry-Potter-relations-network
     image:  harry-potter-relations-network.jpg
+  
+  - title:  C-Suite Gigs - A Web of Mad Skills
+    author:  Vallerio Pellegrini
+    link:  https://www.behance.net/gallery/58023115/WIRED-US-C-Suite-Gigs
+    image:  c-suite-skills.jpg
+
     
 synonyms:
   - radial network diagram

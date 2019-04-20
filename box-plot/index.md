@@ -23,7 +23,14 @@ examples:
     author:  The Washington Post
     link:  https://www.washingtonpost.com/news/wonk/wp/2015/09/14/this-chart-shows-why-parents-push-their-kids-so-hard-to-get-into-ivy-league-schools
     image:  ivy-league-graduate-salaries.png
-  
+
+ - title:  Page Lengths of Doctoral dissertations by Major
+    author:  Marcus
+    link:   https://beckmw.wordpress.com/2014/07/15/average-dissertation-and-thesis-length-take-two
+    image:  distribution-of-number-of dissertation-pages-by-discipline.png
+    note:   Distribution of page lengths of doctoral dissertations by discipline. The data is sorted by median. Number of records for each discipline is in parentheses.
+    
+
   - title:  Median Ages of Females With The 25 Most Common Names
     author: Nate Silver and Allison McCann
     link:   https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/
@@ -33,8 +40,7 @@ examples:
     author: Ritchie King
     link:   https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/
     image:  when-presidential-candidacy-is-announced.png
-
-  
+    
 synonyms:
   - box and whisker plot
   - box and whisker chart

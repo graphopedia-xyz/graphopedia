@@ -21,6 +21,11 @@ tools:
     link:   https://uc-r.github.io/hc_clustering
 
 examples:
+  - title:  Insect Tree of Life
+    author: Valerio Pellegrini
+    link:   https://www.behance.net/gallery/72731351/TERRA-MATER-Ahnenforschung
+    image:  insects-tree-of-life.jpg
+
   - title:  The Circle of Life Forms
     author: Martin Krzywinski
     link:   https://www.sactownmag.com/biogenome_v09_outlines.jpg

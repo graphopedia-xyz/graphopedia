@@ -9,8 +9,8 @@ related:
   - parallel-coordinates
 
 tools:
-  - name:   Sankey Diagram Generator <em>free tool</em>
-    link:   https://sankey.csaladen.es/
+  - name:   Sankey Diagram Generator
+    link:   https://sankey.csaladen.es
     
   - name:   Plotly
     link:   https://plot.ly/javascript/sankey-diagram/
@@ -25,14 +25,29 @@ tools:
     link:   https://beta.observablehq.com/@mbostock/d3-sankey-diagram 
 
 examples:
+  - title:  European Asylum Seeker Application Decisions
+    author:  The Economist
+    link:  https://www.economist.com/graphic-detail/2015/05/12/seeking-safety
+    image:  asylum-seeker-applications.jpg
+    
   - title:  Pantheon the first 100 historical figures in order of influence
-    author: Valerio Pellegrini
-    link:   https://www.behance.net/gallery/26338543/PANTHEON-Corriere-della-Sera-La-Lettura-181
+    author:  Valerio Pellegrini
+    link:  https://www.behance.net/gallery/26338543/PANTHEON-Corriere-della-Sera-La-Lettura-181
     note: 
+    image:  100-historical-figures-in-order-of-influence.jpg
+
+  - title:  Dawn of Nanosats
+    author: Valerio Pellegrini
+    link:  https://www.behance.net/gallery/31057625/WIRED-UK-Dawn-of-the-Nanosats
+    note: 
+    image:  the-dawn-of-the-nano-sats.jpg
 
   - title:  The Complexity of the Climate Change Flow
-    author: DensityDesign Lab
-    link:   https://www.flickr.com/photos/densitydesign/31613433722/in/album-72157677740884236/
+    author:  DensityDesign Lab
+    link:  https://www.flickr.com/photos/densitydesign/31613433722/in/album-72157677740884236/
+    image:  the-complexity-of-the-climate-change-flow.jpg
+
+
 
 ---
 
