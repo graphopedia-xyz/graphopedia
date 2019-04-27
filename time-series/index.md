@@ -22,11 +22,7 @@ examples:
   - title:  Earth’s Relentless Warming Sets a Brutal New Record in 2017
     author: Bloomberg
     link:   https://www.bloomberg.com/graphics/hottest-year-on-record/
-
-  - title:  Marrying Age
-    author: Nathan Yau
-    link:   https://flowingdata.com/2016/03/03/marrying-age/
-    image:  
+    image:  hottest-year-on-record.png
     
   - title:  Alone Time
     author:  Nathan Yau

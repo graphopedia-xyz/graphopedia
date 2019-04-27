@@ -20,6 +20,11 @@ examples:
     author: Harry Stevens for Axios
     link:   https://www.axios.com/48-billion-robocalls-americans-3017a1c6-4406-4305-82c0-9d7c9ef84548.html
     image:  robocalls-in-united-states.png
+  
+  - title:  France’s Nuclear Landscape
+    author:  Bloomberg
+    link:  https://www.bloomberg.com/graphics/2019-nuclear-waste-storage-france
+    image:  nuclear-waste-storage-france.png
     
   - title:  Deadly Vibrations - Earthquakes Resulting in 1000 or More Deaths Since 1900 
     author: Ben Willers

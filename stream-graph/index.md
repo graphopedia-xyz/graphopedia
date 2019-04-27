@@ -20,11 +20,18 @@ tools:
 examples:
   - title:  Growth of Subreddits
     author: Nathan Yau
-    link:   https://flowingdata.com/2018/10/30/subreddit-comments/
+    link:  https://flowingdata.com/2018/10/30/subreddit-comments/
+    image:  comments-for-subreddits.png
 
   - title:  A Visual History of Which Countries Have Dominated the Summer Olympics
     author: The New York Times
-    link:   https://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html?mtrref=undefined&gwh=A81CA2E76FFBB330BC0A04EE77767241&gwt=pay
+    link:  https://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html?mtrref=undefined&gwh=A81CA2E76FFBB330BC0A04EE77767241&gwt=pay
+    image:  visual-history-of-which-countries-dominated-summer-olympics.png
+  
+  - title:  The Ebb and Flow of Movies
+    author:  The New York Times
+    link:  https://archive.nytimes.com/screenshots/www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.jpg
+    image:  movie-box-office-receipts.jpg
 
 ---
 

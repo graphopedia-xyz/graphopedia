@@ -12,6 +12,11 @@ tools:
     link:   https://support.office.com/en-us/article/present-your-data-in-a-gantt-chart-in-excel-f8910ab4-ceda-4521-8207-f0fb34d9e2b6
 
 examples:
+  - title:  The Daily Routines of Famous Creative People
+    author:  Citrix
+    link:  https://podio.com/site/creative-routines 
+    image:  daily-routines.png
+
   - title:  The Empire Strikes Again
     author: Accurat
     link:   https://www.flickr.com/photos/accurat/8248786141

@@ -28,11 +28,25 @@ examples:
     note:   An arc diagram showing 63,000 cross references with a bar chart inverted at bottom to show the number of connected in each node.
     image:  bible-cross-references.jpg
 
-  - title:  Bible Contradictions
-    author: Sam Harris
-    link:   http://project-reason.org
-    note:   An arc diagram showing 63,000 cross references with a bar chart inverted at bottom to show the number of connected in each node.
-    image:  bible-contradictions.png
+  - title:  Les Miserables
+    author:  Gaston Sanchez
+    link:   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.707.9502&rep=rep1&type=pdf
+    note:   An arc diagram showing connections between all characters in Les Misables by Victor Hugo.
+    image:  les-miserables.png
+    
+  - title:  Autodesk Command Frequency
+    author:  Autodesk Research
+    link:   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.707.9502&rep=rep1&type=pdf
+    note:   An arc diagram showing frequency and sequence of commands by users of Autodesk.
+    image:  autodesk-command-frequency.png
+
+  - title:  Email Reply Procrastination
+    author:  Matthias Dittich
+    link:   http://www.matthiasdittrich.com/projekte/dliste/visualisations/index.html
+    note:   An arc diagram showing the pairs on days on which an email was received and answered.
+    image:  email-reply-procrastination.png
+ 
+ 
 
 
 ---

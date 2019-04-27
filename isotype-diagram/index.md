@@ -39,6 +39,11 @@ examples:
     author:  Otto Neurath 
     link:  http://imaginarymuseum.org/MHV/PZImhv/Neurath19400153.07.jpg
     image:  age-groups-in-england-and-wales.jpg
+  
+  - title: Crude Oil Imports
+    author:  Reuters
+    link:  https://graphics.reuters.com/USA-OIL-RECORD/010060QM1CE/index.html
+    image:  crude-oil-imports.png
 
 
 synonyms:

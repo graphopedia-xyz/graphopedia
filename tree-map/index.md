@@ -12,15 +12,35 @@ tools:
 
   - name:   RawGraphs
     link:   https://rawgraphs.io/learning/how-to-make-a-treemap/
+  
+  - name:  FoamTree
+    link:  https://carrotsearch.com/foamtree
 
 examples:
+  - title:  Causes of Untimely Death
+    author:  Thomas Porostocky for Wired
+    link:  https://www.wired.com/2013/11/infoporn-causes-of-death/
+    image:  causes-of-death.jpg
+  
+  - title:  Who Finances China's Belt and Road Initiative?
+    author:  the Financial Times
+    link:  https://www.ft.com/__origami/service/image/v2/images/raw/http://prod-upp-image-read.ft.com/f7d83f06-667a-11e9-a79d-04f350474d62?source=next&fit=scale-down&width=690&format=auto&quality=medium&dpr=1
+    image:  belt-and-road-financing.png
+    
+  - title:  A World of Languages
+    author:  Alberto Lucas López   
+    link:  https://www.scmp.com/infographics/article/1810040/infographic-world-languages
+    image:  a-world-of-languages.png
+
   - title:  Jobs Charted by State and Salary
-    author: Nathan Yau
-    link:   https://flowingdata.com/2014/07/02/jobs-charted-by-state-and-salary/
+    author:  Nathan Yau
+    link:  https://flowingdata.com/2014/07/02/jobs-charted-by-state-and-salary
+    image:  jobs-by-state-and-salary.png
 
   - title:  The Billion Dollar-o-Gram
-    author: David McCandless
-    link:   https://informationisbeautiful.net/visualizations/the-billion-dollar-o-gram-2009/
+    author:  David McCandless
+    link:  https://informationisbeautiful.net/visualizations/the-billion-dollar-o-gram-2009
+    image:  billion-dollar-o-gram.png
 
 synonyms:
   - treemap chart

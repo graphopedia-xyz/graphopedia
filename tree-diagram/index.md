@@ -28,6 +28,11 @@ examples:
     author: Minna Sundberg
     link:   http://www.sssscomic.com/comic.php?page=196
     image:  world-languages-tree.jpg
+
+  - title:  The Tree of Knowledge Obfuscation
+    author:  The Ethical Skeptic
+    link:  https://i0.wp.com/theethicalskeptic.com/wp-content/uploads/2017/07/Tree-of-Knowledge-Obfuscation.png?ssl=1
+    image:  tree-of-knowledge-obfuscation.png
     
     
 

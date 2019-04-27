@@ -14,9 +14,20 @@ tools:
     link:   https://www.wordclouds.com/
 
 examples:
+  - title:  What’s in a Surname?
+    author:  Mina Liu, Oliver Ubert
+    link:  http://spatial.ly/2011/01/whats-in-a-surname/
+    image:  top-surnames-united-states.jpg
+
   - title:  Good Relationships
     author: David McCandless
-    link:   https://informationisbeautiful.net/visualizations/good-relationtips-most-commonly-given-relationship-advice/
+    link:   https://informationisbeautiful.net/visualizations/good-relationtips-most-commonly-given-relationship-advice
+    image:  good-relationships.png
+
+  - title:  Words That Have Changed The Least Over Time
+    author:  Oliver Uberti for National Geographic
+    link:  https://www.nationalgeographic.org/photo/anthro-linguistic
+    image:  word-change.jpg
 
 synonyms: 
   - tag cloud

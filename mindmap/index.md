@@ -14,20 +14,29 @@ tools:
     link:   https://www.omnigroup.com/omnigraffle/
 
 examples:
-  - title:  The Tree of Knowledge Obfuscation
-    author:  The Ethical Skeptic
-    link:  https://i0.wp.com/theethicalskeptic.com/wp-content/uploads/2017/07/Tree-of-Knowledge-Obfuscation.png?ssl=1
-    image:  tree-of-knowledge-obfuscation.png
-    
-  - title:  Economic Scheme
-    author:  Otto Neurath
-    link:  https://constellations.pitt.edu/article/isotype-teaching-images
-    image:  economic-scheme.jpg
   
+  - title:  The Bay Area Memespace
+    author:  InformationIsBeautiful
+    link:  https://informationisbeautiful.net/visualizations/the-bay-area-memespace-silicon-valleys-most-contagious-ideas/
+    image:  bay-area-meme-space.png
+    
   - title: How To Be Productive
     author:  Anna Vital
     link:  https://blog.adioma.com/how-to-be-productive-infographic/
     image: how-to-be-productive.jpg
+ 
+  - title:  Economic Scheme
+    author:  Otto Neurath
+    link:
+    image: economic-scheme.jpg
+  
+  - title:  Linked Master
+    author:  Lily Chow
+    link:  https://lilychow.squarespace.com/#/linked-master/
+    image:  linked-master.png
+  
+  
+  
   
   
 

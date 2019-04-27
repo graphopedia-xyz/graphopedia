@@ -3,6 +3,8 @@ title:  density plot
   
 tags:
 
+functions: distribution
+
 related:
   - histogram
   - violin-plot
@@ -19,6 +21,11 @@ examples:
     author: The New York Times
     link:   https://www.nytimes.com/interactive/2017/07/28/climate/more-frequent-extreme-summer-heat.html
     image:  summers-getting-hotter.png
+ 
+  - title:  Surprising Variety in Aging
+    author: Truth and Beauty
+    link:   http://truth-and-beauty.net/projects/mpg-graphics
+    image:  aging-fertility-mortality.png
 
   - title:  Religious leaders’ ages
     author: The New York Times
@@ -55,7 +62,7 @@ shows a smoothed distribution of values over a continuous period of time. Simila
 Density plots produce a smooth curve *estimating* the distribution function of a continuous
 variable from a set of values that are not absolute precise.
 
-***Purpose*** shows distribution
+***Function*** shows distribution
 
 
 ***Data Type*** continuous, single variable (univariate)

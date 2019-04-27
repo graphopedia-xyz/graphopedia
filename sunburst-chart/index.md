@@ -18,11 +18,18 @@ tools:
 
 examples:
   - title:  Coffee Taster Flavor Wheel
-    author: World Coffee Research
-    link:   https://www.scanews.coffee/wp-content/uploads/2016/01/SCAA_FlavorWheel.01.18.15.jpg
+    author:  World Coffee Research
+    link:  https://www.scanews.coffee/wp-content/uploads/2016/01/SCAA_FlavorWheel.01.18.15.jpg
+    image:  coffee-flavor-wheel.jpg
 
-  - title:  Sunburst organisational structure
-    link:   https://blog.orgvue.com/is-restructuring-the-right-move/sunburst-organisational-structure/
+  - title: Sunburst organisational structure
+    link:  https://blog.orgvue.com/is-restructuring-the-right-move/sunburst-organisational-structure/
+    image:  organizational-structure.png
+
+  - title:  Visualizing Document Content using Language Structure
+    author:  Christopher Collins
+    link:  http://vialab.science.uoit.ca/portfolio/docuburst
+    image:  docuburst-idea-search.png
 
 synonyms:
   - ring chart

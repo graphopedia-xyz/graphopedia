@@ -3,6 +3,8 @@ title: scatter plot
 
 tags:
 
+functions: correlation
+
 related:
   - bubble-chart
 
@@ -18,13 +20,20 @@ tools:
     
 
 examples:
-  - title:  Divorce and Occupation
-    author: Nathan Yau
-    link:   https://flowingdata.com/2017/07/25/divorce-and-occupation/
+  - title:  Why biggest is not fastest in the animal kingdom
+    author:  The Economist
+    link:   https://www.economist.com/graphic-detail/2017/07/26/why-biggest-isnt-fastest-in-the-animal-kingdom
+    image:  man-vs-beast-speeds.png
 
-  - title:  Cuisine ingredients
-    author: Nathan Yau
-    link:   https://flowingdata.com/2018/09/18/cuisine-ingredients/
+  - title:  Greying of The Nobel Laureates
+    author: The Economist
+    link:  https://www.economist.com/graphic-detail/2016/10/03/greying-of-the-nobel-laureates
+    image:  age-of-nobel-prize-winners.png
+
+  - title:  Money Race and Success
+    author:  The New York Times
+    link:  https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html?mtrref=undefined&mtrref=www.nytimes.com
+    image:  school-district-income-race-success.png
     
 synonyms:
   - scatter graph

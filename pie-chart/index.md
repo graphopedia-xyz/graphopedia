@@ -14,6 +14,17 @@ tools:
     link:   https://products.office.com/en/powerpoint
 
 examples:
+
+  - title: Distribution of Star Wars Species
+    author:  Kirell Benzi
+    link:  https://kirellbenzi.com/blog/exploring-the-star-wars-expanded-universe/
+    image:  distribution-of-star-wars-species.jpg
+ 
+  - title: World Population and Land Area
+    author:  
+    link:  
+    image:  world-population-vintage.jpg
+ 
   - title:  The World as 100 People
     author: Jack Hagley
     link:   https://www.jackhagley.com/The-World-as-100-People
@@ -24,10 +35,6 @@ examples:
     link:   http://arthurbuxton.blogspot.com/2010/11/van-gogh-visualisation.html
     image:  van-gogh-paintings.jpg
 
-  - title: Distribution of Star Wars Species
-    author:  Kirell Benzi
-    link:  https://kirellbenzi.com/blog/exploring-the-star-wars-expanded-universe/
-    image:  distribution-of-star-wars-species.jpg
 
 synonyms: 
   - circular chart

@@ -30,31 +30,31 @@ tools:
     link:   http://www.adobe.com/Illustrator
 
 examples:
+  
+  - title:  The Paintings of Bob Ross
+    author:  Walt Hickey
+    link:  https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/
+    image:  paintings-of-bob-ross.png
 
-  - title:  Oil Well (Nutrition Facts for Edible Oils)
-    author: David McCandless
-    link:   https://informationisbeautiful.net/visualizations/oil-well-every-cooking-oil-compared/
-    image:  oil-nutrition-facts.png
+  - title: The space race is dominated by new contenders
+    author: The Economist
+    link: https://www.economist.com/graphic-detail/2018/10/18/the-space-race-is-dominated-by-new-contenders
+    image: space-race.png
 
   - title:  How Couples Meet
     author: Nathan Yau
     link:   https://flowingdata.com/2019/03/15/shifts-in-how-couples-meet-online-takes-the-top-spot/
     image:  how-couples-meet.jpeg
+ 
+  - title:  Oil Well (Nutrition Facts for Edible Oils)
+    author: David McCandless
+    link:   https://informationisbeautiful.net/visualizations/oil-well-every-cooking-oil-compared/
+    image:  oil-nutrition-facts.png
     
   - title: The most used words for women vs. men
     author: Julia Silge
     link:   https://pudding.cool/2017/08/screen-direction/
     image:  likelihood-of-words-based-on-gender.png
-    
-  - title: The space race is dominated by new contenders
-    author: The Economist
-    link: https://www.economist.com/graphic-detail/2018/10/18/the-space-race-is-dominated-by-new-contenders
-    image: space-race.png
-    
-  - title:  Codebases - Millions of Lines of Code
-    author: David McCandless
-    link:   https://informationisbeautiful.net/visualizations/million-lines-of-code/
-    image:  lines-of-code.png
 
   - title:  World Population Infographic for Popular Science
     author: Ariana Montanez
@@ -84,16 +84,23 @@ The bar width is equal and cannot be used to represent data. Using the width of 
 
 Bars can be ordered or unordered.
 
-## Types
+## Variations
 Bars can be grouped and stacked. Bars can be oriented around a radial layout making a radial bar chart. The shape of the bar can be substituted with other shapes, as in a lollipop chart.
 
-1. *Grouped bar chart* shows two or more data series where their respective bars are displayed side by side. This types of chart can also be called a "clustered bard chart" or a "multiple bar chart". In this types of chart the bars must be kept the same width since the chart can only show the difference in the height of the bars, not the area.
+### Grouped bar chart
+ Grouped bar charts show two or more data series where their respective bars are displayed side by side. This types of chart can also be called a "clustered bard chart" or a "multiple bar chart". In this types of chart the bars must be kept the same width since the chart can only show the difference in the height of the bars, not the area.
 
-2. *Stacked bar chart* shows two or more (but in practice the number is quite limited) where each respective bar is stacked on top of the other along the vertical axis.
+### Stacked bar chart
+  Stacked bar chart shows two or more (but in practice the number is quite limited) where each respective bar is stacked on top of the other along the vertical axis.
 
-3. *Radial bar chart* positions the bars along a rounded X axis. Rounded charts are known to be harder to interpret for the human eye than the linear variation.[^thudt]
+### Radial bar chart
+  Radial bar chart positions the bars along a rounded X axis. Rounded charts are known to be harder to interpret for the human eye than the linear variation.[^thudt]
 
-4. *Lollipop chart* replaces a bar with a line and a dot at the far end. Lollipop charts may be useful in situations when there are a lot of data points and bars would be either too thin to read or too wide to fit.
+### Lollipop chart
+  Lollipop chart replaces a bar with a line and a dot at the far end. Lollipop charts may be useful in situations when there are a lot of data points and bars would be either too thin to read or too wide to fit.
+
+### Tornado chart
+  Tornado chart also known as *tornado diagram* is a bar chart with horizontally orientated bars where bars are ordered such that the longest is at the top and the shortest as the bottom, creating a funnel-like shape.
 
 ## Bar Chart Alternatives
 The bar chart being the default choice of a chart, there is often a need to find an alternative. Sometimes the need comes from the data and other times it si an editorial decision made with the purpose of diversifying charts in an article or a report to make each more memorable. 

@@ -3,6 +3,8 @@ title:  violin plot
 
 tags:
 
+functions: distribution
+
 related:
   - box-plot
 
@@ -17,13 +19,18 @@ tools:
     link:   http://seaborn.pydata.org/generated/seaborn.violinplot.html?highlight=violin
 
 examples:
-  - title:  Welfare Atlas
-    link:   https://www.gemeinwohl.ch/atlas#/dims%255Bweights%255D%255Bbenefit%255D=0.25&dims%255Bweights%255D%255Bsocial_cohesion%255D=0.25&dims%255Bweights%255D%255Bquality_of_life%255D=0.25&dims%255Bweights%255D%255Bethics%255D=0.25&dims%255Bselected%255D=&dims%255Bhighlighted%255D=&mode=list
-
   - title:  Boston Marathon Finish Times by Year
     author: Bill Mill
     link:  https://github.com/llimllib/bostonmarathon
-    image:  boston-marathon-finishers-by-year.png  
+    image:  boston-marathon-finishers-by-year.png
+
+
+  - title:  Welfare Atlas
+    author: The Center for Leadership and Values in Society of the University of St.Gallen
+    link:   https://www.gemeinwohl.ch/en/atlas
+    image:  public-value-atlas.png
+
+
 ---
 
 is a combination of a box plot and a kernel density plot. It is a box plot with kernel density plots added to each side. Similar to a box plot, a violin plot shows four types of values. The outer shape represents all possible results with the thickest section representing the mode average. The next layer inside represents the values that occur 95% of the time. The next layer inside represents the values that occur 50% of the time. The central dot represents the median value.

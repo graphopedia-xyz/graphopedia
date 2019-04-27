@@ -2,7 +2,8 @@
 title:  bubble chart
 
 tags:
-  - correlation
+
+functions:  correlation
 
 related:
   - scatter-plot
@@ -26,8 +27,26 @@ examples:
   - title:  Fortune 500 Through The Ages
     author: Nicolas Rapp
     note:   A bubble chart of top 500 American companies by revenue and by industry from 1780 to 2018.
-    link:   https://nicolasrapp.com/studio/portfolio/the-fortune-500-through-the-ages/
+    link:   https://nicolasrapp.com/studio/portfolio/the-fortune-500-through-the-ages
     image:  age-of-500.png
+ 
+  - title:  National Debt 
+    author:  Bloomberg
+    note:
+    link:  https://www.bloomberg.com/graphics/2019-decade-of-debt
+    image:  national-debt-comparison.png
+ 
+  - title:  Debt Around the World 
+    author:  IMF
+    note:
+    link:  https://blogs.imf.org/2019/01/02/new-data-on-global-debt/
+    image:  national-debt.png
+
+  - title:  Jobs Most At Risk From Automation
+    author:  The Financial Times
+    note:
+    link:  https://www.ft.com/content/f64089c6-6681-11e9-9adc-98bf1d35a056
+    image:  jobs-at-risk-from-automation.png
 
   - title:  The Language of the State of the Union
     author: The National Post graphics team

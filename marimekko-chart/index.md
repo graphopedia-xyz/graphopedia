@@ -15,15 +15,15 @@ tools:
     link:   https://www.fusioncharts.com/dev/chart-guide/standard-charts/marimekko-chart
 
 examples:
-  - title:  How many years we lose to the air we breathe
-    author: The Washington Post
-    link:   https://www.washingtonpost.com/graphics/2018/national/health-science/lost-years/?noredirect=on&utm_term=.bd1237ceb18d
-    image:  years-of-life-lost-to-fine-particle-pollution.png
-  
   - title:  Billions of People In Asia Are Exposed to High Levels of Pollution
     author:  The Financial Times
     link:  https://ig.ft.com/india-pollution/
     image:  billions-of-people-in-asia-are-exposed-to-high-levels-of-pollution.png
+    
+  - title:  How many years we lose to the air we breathe
+    author: The Washington Post
+    link:   https://www.washingtonpost.com/graphics/2018/national/health-science/lost-years/?noredirect=on&utm_term=.bd1237ceb18d
+    image:  years-of-life-lost-to-fine-particle-pollution.png
     
   - title:  How Different Income Groups Spend Money
     author:  Nathan Yau

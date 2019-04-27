@@ -15,12 +15,14 @@ tools:
 
 examples:
   - title:  Real Number Set Diagram 
-    author: Keith Enevoldsen
-    link:   http://thinkzone.wlonk.com/Numbers/NumberSets.pdf
+    author:  Keith Enevoldsen
+    link:  http://thinkzone.wlonk.com/Numbers/NumberSets.pdf
+    image:  number-set-euler.png
 
-  - title:  Portrait of the artist interior
-    author: Luke Murphy
-    link:   http://www.lukelab.com/wp/files/graphs/portrait-of-the-artists-interior-as-venn-diagram/venn-portrait-ambtion-failu.jpg
+  - title:  Ikigai
+    author:  David McCandless
+    link:  https://informationisbeautiful.net/visualizations/ikigai-japanese-concept-to-enhance-work-life-sense-of-worth
+    image:  ikigai-diagram.png
 
 ---
 

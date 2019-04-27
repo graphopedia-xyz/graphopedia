@@ -13,12 +13,20 @@ tools:
     link:   https://time.graphics
 
 examples:
-  - title:  Internet Users by Region
-    link:   https://ourworldindata.org/wp-content/uploads/2018/09/Internet-users-by-world-region.png
+  - title:  How Einstein Started
+    author:  Anna Vital
+    link:  https://blog.adioma.com/how-einstein-started-infographic
+    image:  how-einstein-started.png
 
-  - title:  Interest of the National Debt from the Revolution, 1786
-    author: William Playfair
-    link:   https://en.wikipedia.org/wiki/Area_chart#/media/File:1786_Playfair_-_25_Interest_of_the_national_Debt_from_the_Revolution.jpg
+  - title:  The Geologic Time Spiral
+    author:  United States Geological Survey
+    link:  http://pubs.usgs.gov/gip/2008/58/
+    image:  geological-time-spiral.png
+  
+  - title: Histography
+    author:  Matan Stauber
+    link:  http://histography.io/
+    image:  histography.png
 
 synonyms:
   - sequence chart

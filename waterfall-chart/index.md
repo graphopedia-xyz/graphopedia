@@ -12,14 +12,27 @@ tools:
 
   - name:   Tableau Sample
     link:   https://www.tableau.com
+  
+  - name:  Charticulator
+    link:  https://charticulator.com/gallery/stock_msft.html
 
 examples:
-  - title:  Doing Business Subnational - Step Graph
-    link:   https://www.chezvoila.com/portfolio/#/dbstepgraph
+  - title:  Doing Business Subnational
+    link:  https://www.chezvoila.com/portfolio/#/dbstepgraph
+    image:  incorporation-costs.png
+  
+  - title:  Incorporation Procedures
+    link:  https://www.chezvoila.com/portfolio/#/dbstepgraph
+    image:  incorporation-process.png
   
   - title:  Generational Shift In Religious Identity
     link:  https://fivethirtyeight.com/features/are-white-evangelicals-sacrificing-the-future-in-search-of-the-past
-    image: generational-shift-in-religious-identity.png
+    image:  generational-shift-in-religious-identity.png
+  
+  - title:  Sum-of-The-Parts Valuation of GE
+    author:  The Wall Street Journal
+    link:  https://www.wsj.com/articles/the-case-for-buying-ge-yes-really-1542797042
+    image:  ge-valuation-sum-of-parts.png
 
 ---
 

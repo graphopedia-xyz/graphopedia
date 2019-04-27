@@ -14,10 +14,12 @@ examples:
   - title:  Four Decades of State Unemployment Rates in Small Multiples
     author: Matt Stiles
     link:   http://thedailyviz.com/2016/12/14/four-decades-of-state-unemployment-rates-in-small-multiples-part-2/
+    image:  the-state-of-us-jobs.png
 
   - title:  Life expectancy at birth
     author: Nathan Yau
     link:   https://flowingdata.com/2017/01/24/one-dataset-visualized-25-ways/02-time-series-sparklines-2/
+    image:  life-expectancy-at-birth.png
 
 synonyms:
   - inline chart

@@ -3,6 +3,8 @@ title:  histogram
 
 tags:
 
+functions: distribution
+
 related:
   - bar-chart
 
@@ -32,6 +34,12 @@ tools:
     link:   http://www.r-graph-gallery.com/83-histogram-with-colored-tail/
 
 examples:
+  - title:  Boston Marathon Finishers By Age and Gender
+    author: Bill Mill
+    link:  https://github.com/llimllib/bostonmarathon
+    image:  boston-marathon-finishers.png
+    note:  This comparative histogram shows us that the older finishers are male, or it could be that older women do not even enter the race.
+ 
   - title:  Distribution of Marathon Finishing Times
     author: The New York Times
     link:  https://www.nytimes.com/2014/04/23/upshot/what-good-marathons-and-bad-investments-have-in-common.html?_r=0
@@ -50,11 +58,7 @@ examples:
     image:  age-of-girls-named-anna.png
     note:  The histogram shows the age distributions of all American women named Anna who were alive in 2014. (Anna happens to be an extraordinarily enduring name, with about a quarter of Annas being under age 14 and a quarter over the age 62 in 2014. You can see this in the box plot examples.) Most alive Annas were 31 years old. Above the histogram, a line chart shows how many Annas were born a year.
     
-  - title:  Boston Marathon Finishers By Age and Gender
-    author: Bill Mill
-    link:  https://github.com/llimllib/bostonmarathon
-    image:  boston-marathon-finishers.png
-    note:  This comparative histogram shows us that the older finishers are male, or it could be that older women do not even enter the race.
+
     
   - title:  The Blue of 2015 Beijing Sky
     author: Yasai Wang

@@ -14,19 +14,25 @@ tools:
     link:   https://plot.ly/r/polar-chart/
 
 examples:
+  - title:  Diagram of The Causes of Mortality
+    author:  Florence Nightingale
+    link:   
+    image:  nightingale-mortality.jpg
+
   - title:  Number of Electoral Votes in 2012 Election
     author: Alex Bordens
     link:   http://alexbordens.com/img/pdf/election-results.pdf
     image:  election-results-2012.png
-
-  - title:  Who is Your President
-    author: Michela Lazzaroni
-    link:   https://www.behance.net/gallery/50527775/Who-is-your-President-La-Lettura-278-dataviz
     
   - title:  Street Orientations in U.S. cities
     author: Geoff Boeing
     link:  https://geoffboeing.com/2018/07/comparing-city-street-orientations/
     image:  city-street-orientations-usa.png
+  
+  - title:  Pollution Profile by Country
+    author:  Alberto Lucas López
+    link:  https://www.scmp.com/infographics/article/1674099/infographic-pollution-profile
+    image:  pollution-profile-by-country.png
     
 synonyms: 
   - coxcomb chart

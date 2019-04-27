@@ -29,6 +29,11 @@ examples:
     author:  The Economist
     link:  https://www.economist.com/graphic-detail/2015/05/12/seeking-safety
     image:  asylum-seeker-applications.jpg
+
+  - title:  Electric Vehicle Investment Flows By Country of Origin of Automaker
+    author:  Thompson Reuters
+    link:  http://graphics.reuters.com/AUTOS-INVESTMENT-ELECTRIC/010081ZB3HD/index.html
+    image:  electric-vehicle-investment-by-country.png
     
   - title:  Pantheon the first 100 historical figures in order of influence
     author:  Valerio Pellegrini
@@ -46,6 +51,7 @@ examples:
     author:  DensityDesign Lab
     link:  https://www.flickr.com/photos/densitydesign/31613433722/in/album-72157677740884236/
     image:  the-complexity-of-the-climate-change-flow.jpg
+  
 
 
 

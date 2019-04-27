@@ -13,14 +13,6 @@ tools:
   - name:   Cacoo
     link:   https://cacoo.com/templates/fishbone-diagram-software
 
-examples:
-  - title:  Otto Neurath Isotype employment statistics
-    link:   https://www.flickr.com/photos/ffranchi/6789532156/
-    note:  via Francesco Franchi
-
-  - title:  Weekly Earnings of Men and Women 1940
-    link:   http://www.fulltable.com/iso/images01/15.jpg
-
 synonyms:
   - fishbone diagram
   - herringbone diagram

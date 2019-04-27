@@ -30,9 +30,14 @@ tools:
     link:   http://www.adobe.com/Illustrator
 
 examples:
+  - title:  Breakdown of China's Population By Age Group
+    author:  BBC
+    link:   https://ourworldindata.org/wp-content/uploads/2018/09/Internet-users-by-world-region.png
+    image:  china-population.png
+
   - title:  Internet Users by Region
     author: Max Rosner
-    link:   https://ourworldindata.org/wp-content/uploads/2018/09/Internet-users-by-world-region.png
+    link:  https://www.bbc.com/news/world-asia-china-46772503
     image:  internet-users-by-world-region.png
     
   - title:  When And How I Will Die
