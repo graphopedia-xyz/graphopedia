@@ -1,7 +1,5 @@
 ---
 title:  heatmap
-  
-tags:
 
 functions:  correlation
 

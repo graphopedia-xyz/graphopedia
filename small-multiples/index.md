@@ -20,6 +20,11 @@ examples:
     author:  Jorge Camoes
     link:   https://excelcharts.com/animation-small-multiples-growth-walmart-excel-edition/
     image:  walmart-growth-map.png
+  
+  - title:  Mapping the Spread of Obesity
+    author: Nathan Yau
+    link:   https://flowingdata.com/2016/09/26/the-spread-of-obesity/
+    image:  obesity-rates-cartogram-nathan-yau.png
     
   - title:  Interchange Choreography
     author: Nicholas Rougeux

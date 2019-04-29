@@ -21,15 +21,20 @@ examples:
     link:   https://www.washingtonpost.com/graphics/world/which-countries-get-the-most-foreign-aid/
     image:  us-aid-cartogram.png
 
-  - title:  How Maps Lie (showing cartograms of U.S. Presidential Election 2016)
-    author: Mark Newman
-    link:   https://www.washingtonpost.com/graphics/politics/2016-election/how-election-maps-lie/
-    image:  us-election-cartogram.png
-
-  - title:  Mapping the Spread of Obesity
+  - title:  Job Popularity by State
     author: Nathan Yau
-    link:   https://flowingdata.com/2016/09/26/the-spread-of-obesity/
-    image:  obesity-rates-cartogram-nathan-yau.png
+    link:  https://flowingdata.com/2019/02/27/where-your-job-is-most-popular/
+    image:  job-popularity-by-state.png
+ 
+  - title:  Mapping America's Millionaires
+    author: 5W Graphics
+    link:   https://5wgraphicsblog.files.wordpress.com/2016/10/5w-sample-054-america-millionaires1x2.jpg
+    image:  america-millionaires.jpg
+
+  - title:  The True Size of Africa
+    author: 
+    link:  
+    image:  true-size-of-africa.jpg
   
   - title:  World Population Cartogram
     author: John Tomanio
@@ -40,11 +45,12 @@ examples:
     author: John Tomanio
     link:   http://johntomanio.com/new-gallery/p9wjfds2pp1l63sdsm2jxe5zjikteg
     image:  consumption-cartogram.png
-    
-  - title:  Mapping America's Millionaires
-    author: 5W Graphics
-    link:   https://5wgraphicsblog.files.wordpress.com/2016/10/5w-sample-054-america-millionaires1x2.jpg
-    image:  america-millionaires.jpg
+
+  - title:  How Maps Lie (showing cartograms of U.S. Presidential Election 2016)
+    author: Mark Newman
+    link:   https://www.washingtonpost.com/graphics/politics/2016-election/how-election-maps-lie/
+    image:  us-election-cartogram.png
+
 synonyms:
    - value-by-area map
    - anamorphic map
