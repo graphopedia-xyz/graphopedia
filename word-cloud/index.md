@@ -2,6 +2,8 @@
 title: word cloud
   
 tags:
+  - lorem
+  - ipsum
 
 related:
   - bubble-chart
