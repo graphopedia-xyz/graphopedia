@@ -1,100 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1200px" height="1200px" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#514361;}
+	.st1{font-family:'RobotoMono-Regular';}
+	.st2{font-size:50px;}
+	.st3{enable-background:new    ;}
+	.st4{fill:#EDEDED;}
+	.st5{fill:none;stroke:#CCCCCC;stroke-width:4;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#CCCCCC;stroke-width:4.6544;stroke-miterlimit:10;}
+	.st7{fill:#909090;}
+	.st8{font-size:31.5297px;}
+	.st9{fill:#BABABA;}
+	.st10{fill:#C7C7C7;stroke:#BABABA;stroke-width:12.0171;stroke-miterlimit:10;}
+	.st11{fill:#BABABA;stroke:#BABABA;stroke-width:13.9482;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#909090;stroke-width:11.9806;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#909090;stroke-width:6;stroke-miterlimit:10;stroke-dasharray:31.6127,27.0966;}
+	.st14{fill:none;stroke:#909090;stroke-width:8;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+	.st16{font-family:'Roboto-Italic';}
+	.st17{font-size:39.1714px;}
+</style>
 <g>
-	<g>
-		<text transform="matrix(1 0 0 1 112.7056 1177.6844)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">category 1</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 540.9126 82.4872)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">dependency link</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 1.0005 1009.0594)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">activity labels</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 869.3501 187.9872)"><tspan x="0" y="0" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">current day</tspan><tspan x="60.271" y="78" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">marker</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 530.2056 1009.0575)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">activity bar</text>
-	</g>
-	<rect x="6.137" y="341.974" fill="#EDEDED" width="1189.786" height="129.936"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="451" y1="865" x2="451" y2="343"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="600" y1="865" x2="600" y2="343"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1196" y1="602" x2="6" y2="602"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1196" y1="732" x2="6" y2="732"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="749" y1="865" x2="749" y2="343"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="898" y1="865" x2="898" y2="343"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1047" y1="865" x2="1047" y2="343"/>
-	
-		<line fill="none" stroke="#CCCCCC" stroke-width="4.6544" stroke-miterlimit="10" x1="1195.923" y1="865.209" x2="1195.923" y2="343.332"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1196" y1="472" x2="6" y2="472"/>
-	<polygon fill="none" stroke="#CCCCCC" stroke-width="4.6544" stroke-miterlimit="10" points="1195.923,862.881 6.137,862.881 
-		6.137,341.587 1195.528,341.587 	"/>
-	<g>
-		<text transform="matrix(1 0 0 1 34.356 561.5106)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65px">activity A</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 34.356 697.3895)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65px">activity B</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 34.356 831.4657)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65px">activity C</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 508.5923 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">1</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 34.354 426.6766)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65px">day</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 655.7192 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">2</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 801.1704 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">3</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 954.7661 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">4</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 1104.8716 431.3309)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="65.1619px">5</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 4.1001 191.0946)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">time scale</text>
-	</g>
-	<rect x="4" y="1124" fill="#7581BA" width="74" height="74"/>
-	<g>
-		<text transform="matrix(1 0 0 1 642.8267 1177.6844)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">category 2</text>
-	</g>
-	<rect x="534" y="1124" fill="#464A90" width="74" height="74"/>
-	<rect x="455" y="502" fill="#C7C7C7" stroke="#7581BA" stroke-width="12.0171" stroke-miterlimit="10" width="289" height="70"/>
-	<rect x="604" y="762" fill="#7581BA" stroke="#7581BA" stroke-width="13.9482" stroke-miterlimit="10" width="140" height="69"/>
-	<rect x="460.195" y="502.358" fill="#7581BA" width="141.998" height="69.235"/>
-	<rect x="753" y="633" fill="none" stroke="#464A90" stroke-width="11.9806" stroke-miterlimit="10" width="438" height="69"/>
-	<rect x="758.117" y="632.488" fill="#464A90" width="293.229" height="69.235"/>
-	<g>
-		<g>
-			
-				<line fill="none" stroke="#464A90" stroke-width="9.3088" stroke-miterlimit="10" x1="1046.981" y1="282.824" x2="1046.981" y2="299.115"/>
-			
-				<line fill="none" stroke="#464A90" stroke-width="9.3088" stroke-miterlimit="10" stroke-dasharray="31.6127,27.0966" x1="1046.981" y1="326.211" x2="1046.981" y2="899.756"/>
-			
-				<line fill="none" stroke="#464A90" stroke-width="9.3088" stroke-miterlimit="10" x1="1046.981" y1="913.304" x2="1046.981" y2="929.595"/>
-		</g>
-	</g>
-	<g>
-		<g>
-			<polyline fill="none" stroke="#464A90" stroke-width="8" stroke-miterlimit="10" points="750,537 801,537 801,604.184 			"/>
-			<g>
-				<polygon fill="#464A90" points="785.842,599.749 801,626 816.158,599.749 				"/>
-			</g>
-		</g>
-	</g>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="203" y1="955" x2="203" y2="885"/>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="679" y1="932" x2="679" y2="848"/>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="79" y1="362" x2="79" y2="213"/>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="776" y1="105" x2="776" y2="532"/>
-	
-		<line fill="none" stroke="#464A90" stroke-width="9.3088" stroke-miterlimit="10" x1="1046.982" y1="287.479" x2="1046.982" y2="343.332"/>
-	<circle fill="#AFAFAF" cx="775.571" cy="536.975" r="13.963"/>
+	<text transform="matrix(1 0 0 1 635.9734 53.4881)"><tspan x="0" y="0" class="st0 st1 st2">dependency </tspan><tspan x="75" y="60" class="st0 st1 st2">marker</tspan></text>
 </g>
+<g>
+	<text transform="matrix(1 0 0 1 187.9834 159.0561)"><tspan x="0" y="0" class="st0 st1 st2">project</tspan><tspan x="45" y="60" class="st0 st1 st2">name</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 158.9805 949.0564)"><tspan x="0" y="0" class="st0 st1 st2">assignee</tspan><tspan x="60" y="60" class="st0 st1 st2">name</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 343.9854 1143.0005)" class="st0 st1 st2">legend</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 941.9639 235.9868)" class="st3"><tspan x="0" y="0" class="st0 st1 st2">current</tspan><tspan x="-45" y="60" class="st0 st1 st2">day marker</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 764.1763 1009.0562)" class="st0 st1 st2">progress bar</text>
+</g>
+<path class="st4" d="M6.1,342h1189.8v129.9H6.1L6.1,342z"/>
+<g>
+	<path class="st5" d="M451,865V343"/>
+	<path class="st5" d="M600,865V343"/>
+	<path class="st5" d="M1196,602H136"/>
+	<path class="st5" d="M1196,732H6"/>
+	<path class="st5" d="M749,865V343"/>
+	<path class="st5" d="M898,865V343"/>
+	<path class="st5" d="M1047,865V343"/>
+	<path class="st6" d="M1195.9,865.2V343.3"/>
+	<path class="st5" d="M1196,472H6"/>
+	<path class="st6" d="M1195.9,862.9H6.1V341.6h1189.4L1195.9,862.9z"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 207.8565 550.9379)" class="st7 st1 st8">project A</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 51.0796 614.9999)" class="st7 st1 st8">AV</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 51.0796 819.9999)" class="st7 st1 st8">MV</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 207.8565 686.8168)" class="st7 st1 st8">project B</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 207.8565 820.8929)" class="st7 st1 st8">project C</text>
+</g>
+<text transform="matrix(1 0 0 1 483.8919 433.5298)" class="st7 st1 st8">01/03</text>
+<text transform="matrix(1 0 0 1 632.5933 433.5298)" class="st7 st1 st8">02/03</text>
+<text transform="matrix(1 0 0 1 781.2948 433.5298)" class="st7 st1 st8">03/03</text>
+<text transform="matrix(1 0 0 1 929.9963 433.5298)" class="st7 st1 st8">04/03</text>
+<text transform="matrix(1 0 0 1 1078.6979 433.5298)" class="st7 st1 st8">05/03</text>
+<g>
+	<text transform="matrix(1 0 0 1 455.0342 235.9866)" class="st0 st1 st2">time scale</text>
+</g>
+<path class="st9" d="M20,1106h74v74H20V1106z"/>
+<path class="st7" d="M144,1106h74v74h-74V1106z"/>
+<path class="st10" d="M455,502h289v70H455V502z"/>
+<path class="st11" d="M604,762h140v69H604V762z"/>
+<path class="st9" d="M460.2,502.4h142v69.2h-142V502.4z"/>
+<path class="st12" d="M753,633h438v69H753V633z"/>
+<path class="st7" d="M758.1,632.5h293.2v69.2H758.1L758.1,632.5z"/>
+<path class="st13" d="M1047,307.2v556.5"/>
+<path class="st14" d="M750,537h51v67.2"/>
+<path class="st7" d="M785.8,599.7L801,626l15.2-26.3H785.8z"/>
+<path class="st15" d="M293,502V236"/>
+<path class="st15" d="M295,1143h-70"/>
+<path class="st15" d="M136,936H70v-86"/>
+<path class="st15" d="M954.8,958V690"/>
+<path class="st15" d="M452,324.2v-49.5h306.1"/>
+<path class="st15" d="M800,126.6V535"/>
+<g>
+	<text transform="matrix(1 0 0 1 349.623 1189.7617)" class="st0 st16 st17">used if progress bars are color coded</text>
+</g>
+<line class="st5" x1="136" y1="341.6" x2="136" y2="862.9"/>
 </svg>

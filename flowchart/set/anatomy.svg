@@ -1,40 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1200px" height="919px" viewBox="0 0 1200 919" enable-background="new 0 0 1200 919" xml:space="preserve">
+	 viewBox="0 0 500 440.7" style="enable-background:new 0 0 500 440.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#878787;}
+	.st1{font-family:'RobotoMono-Regular';}
+	.st2{font-size:12px;}
+	.st3{fill:#514361;}
+	.st4{font-size:14.9743px;}
+	.st5{fill:#FFFFFF;stroke:#A8A8A8;stroke-width:2;}
+	.st6{font-family:'Roboto-Italic';}
+	.st7{font-size:9.9829px;}
+	.st8{enable-background:new    ;}
+	.st9{fill:none;}
+	.st10{fill:#A8A8A8;}
+	.st11{font-family:'ArialMT';}
+	.st12{fill:none;stroke:#A8A8A8;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#A8A8A8;stroke-width:2;}
+</style>
+<a xlink:href="http://www.google.com"  xlink:show="new">
+	<text transform="matrix(1 0 0 1 57.4611 31.4497)" class="st0 st1 st2">Start</text>
+</a>
+<a xlink:href="http://www.google.com"  xlink:show="new">
+	<g>
+		<text transform="matrix(1 0 0 1 105.9019 348.5547)" class="st3 st1 st4">Start/ End</text>
+	</g>
+</a>
+<rect id="op1" x="14.5" y="99.3" class="st5" width="122.5" height="33.5"/>
+<rect id="op1_1_" x="28.6" y="394.3" class="st5" width="56.1" height="25.5"/>
+<text transform="matrix(1 0 0 1 25.4533 120.2812)" class="st0 st1 st2">Create a chart</text>
 <g>
-	<g>
-		<text transform="matrix(1 0 0 1 786.4067 90.0104)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">decision node</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 821.5337 473.2936)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">chance node</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 941.6938 818.9694)"><tspan x="0" y="0" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">endpoint</tspan><tspan x="109.339" y="78" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">node</tspan></text>
-	</g>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="527.38" y1="72.887" x2="749.107" y2="72.887"/>
-	
-		<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="747.708" y1="454.615" x2="796.679" y2="454.615"/>
-	
-		<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="847.266" y1="858.099" x2="970.942" y2="858.099"/>
-	<polyline fill="none" stroke="#AFB8E3" stroke-width="18.6763" stroke-miterlimit="10" points="305.489,809.465 305.489,666.732 
-		200.809,491.968 	"/>
-	<polyline fill="none" stroke="#AFB8E3" stroke-width="18.6763" stroke-miterlimit="10" points="176.518,492.75 71.837,667.514 
-		71.837,810.247 	"/>
-	<polyline fill="none" stroke="#AFB8E3" stroke-width="18.6763" stroke-miterlimit="10" points="772.496,809.465 772.496,666.732 
-		667.816,491.968 	"/>
-	
-		<line fill="none" stroke="#AFB8E3" stroke-width="18.6763" stroke-miterlimit="10" x1="659.622" y1="473.292" x2="439.914" y2="113.773"/>
-	
-		<line fill="none" stroke="#AFB8E3" stroke-width="18.6763" stroke-miterlimit="10" x1="405.095" y1="113.773" x2="159.193" y2="516.154"/>
-	<polyline fill="none" stroke="#AFB8E3" stroke-width="18.6763" stroke-miterlimit="10" points="643.525,492.75 538.844,667.514 
-		538.844,810.247 	"/>
-	<circle fill="#7581BA" cx="188.762" cy="454.615" r="65.367"/>
-	<circle fill="#7581BA" cx="655.67" cy="454.615" r="65.367"/>
-	<rect x="357" y="3" fill="#7581BA" width="131" height="131"/>
-	<polygon fill="#7581BA" points="142.072,916.854 1.999,916.854 72.035,786.12 	"/>
-	<polygon fill="#7581BA" points="375.525,916.854 235.453,916.854 305.489,786.12 	"/>
-	<polygon fill="#7581BA" points="609.344,916.854 469.272,916.854 539.308,786.12 	"/>
-	<polygon fill="#7581BA" points="842.069,917 701.996,917 772.032,786.266 	"/>
+	<text transform="matrix(1 0 0 1 105.9014 411.416)" class="st3 st1 st4">Process</text>
 </g>
+<g>
+	<text transform="matrix(1 0 0 1 105.9004 426.6309)" class="st3 st6 st7">changes something</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 105.9004 363.3223)" class="st8"><tspan x="0" y="0" class="st3 st6 st7">required to show  start</tspan><tspan x="0" y="12" class="st3 st6 st7">and end of the chart</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 361.8452 363.3223)" class="st8"><tspan x="0" y="0" class="st3 st6 st7">shows branching out</tspan><tspan x="0" y="12" class="st3 st6 st7">of options</tspan></text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 364.6567 426.6309)" class="st8"><tspan x="0" y="0" class="st3 st6 st7">something entering or</tspan><tspan x="0" y="12" class="st3 st6 st7">exiting the system</tspan></text>
+</g>
+<a xlink:href="http://www.google.com" >
+	<path id="cond" class="st5" d="M226.8,96l-27.6,20l55.1,40l55.1-40l-55.1-40l-55.1,40"/>
+</a>
+<a xlink:href="http://www.google.com" >
+	<path id="cond_1_" class="st5" d="M309.2,334.9l-12.8,9.3l25.6,18.6l25.6-18.6L322,325.6l-25.6,18.6"/>
+</a>
+<a xlink:href="http://www.google.com" >
+	<text transform="matrix(1 0 0 1 229.1787 105.2813)" class="st8"><tspan x="0" y="0" class="st0 st1 st2">Does it</tspan><tspan x="7.2" y="14.4" class="st0 st1 st2">make </tspan><tspan x="3.6" y="28.8" class="st0 st1 st2">sense?</tspan></text>
+</a>
+<a xlink:href="http://www.google.com" >
+	<g>
+		<text transform="matrix(1 0 0 1 362.0166 348.5547)" class="st3 st1 st4">Decision</text>
+	</g>
+</a>
+<path id="io" class="st5" d="M201.8,222l-7.7,16.8h105.2l15.3-33.5H209.4L201.8,222"/>
+<text transform="matrix(1 0 0 1 218.3771 225.5482)" class="st0 st1 st2">Publish it</text>
+<g>
+	<text transform="matrix(1 0 0 1 363.1685 411.416)" class="st3 st1 st4">Input/Output</text>
+</g>
+<a xlink:href="http://www.google.com" >
+	<text transform="matrix(1 0 0 1 243.5811 293.7392)" class="st0 st1 st2">End</text>
+</a>
+<path class="st9" d=""/>
+<path class="st9" d=""/>
+<path id="raphael-marker-block_1_" class="st10" d="M190.9,119l6-3l-6-3V119z"/>
+<path id="raphael-marker-block_2_" class="st10" d="M311.7,119l6-3l-6-3V119z"/>
+<path class="st9" d=""/>
+<path marker-end="url(#raphael-marker-endblock33-objj2weg)" d="M434.8,314.3"/>
+<text transform="matrix(1 0 0 1 262.8945 178.2935)" class="st0 st11 st2">yes</text>
+<path class="st9" d=""/>
+<path id="raphael-marker-block_3_" class="st10" d="M251.4,199.1l3,6l3-6H251.4z"/>
+<path marker-end="url(#raphael-marker-endblock33-obj72n9y)" d="M254.4,196.8"/>
+<text transform="matrix(1 0 0 1 324.8828 110.2888)" class="st0 st11 st2">no</text>
+<path class="st9" d=""/>
+<path class="st9" d=""/>
+<path class="st9" d=""/>
+<path class="st9" d=""/>
+<path class="st9" d=""/>
+<path id="raphael-marker-block_8_" class="st10" d="M72.7,93.3l3,6l3-6H72.7z"/>
+<line class="st12" x1="75.7" y1="46.1" x2="75.7" y2="93.3"/>
+<line class="st12" x1="137" y1="115.9" x2="199.3" y2="115.9"/>
+<line class="st12" x1="254.4" y1="205.1" x2="254.4" y2="156"/>
+<line class="st12" x1="254.4" y1="271.8" x2="254.4" y2="238.7"/>
+<line class="st12" x1="309.5" y1="116" x2="358.3" y2="116"/>
+<polyline class="st12" points="102,99.3 102,65.4 358.3,65.4 358.3,116 "/>
+<path id="raphael-marker-block_9_" class="st10" d="M99,93.3l3,6l3-6H99z"/>
+<path class="st13" d="M95.3,45.3H55.7c-9.5,0-17.3-7.8-17.3-17.3v0c0-9.5,7.8-17.3,17.3-17.3h39.6c9.5,0,17.3,7.8,17.3,17.3v0
+	C112.6,37.5,104.8,45.3,95.3,45.3z"/>
+<path class="st13" d="M274.2,307.4h-39.6c-9.5,0-17.3-7.8-17.3-17.3v0c0-9.5,7.8-17.3,17.3-17.3h39.6c9.5,0,17.3,7.8,17.3,17.3v0
+	C291.5,299.6,283.7,307.4,274.2,307.4z"/>
+<path id="raphael-marker-block_4_" class="st10" d="M251.4,266.1l3,6l3-6H251.4z"/>
+<path class="st13" d="M70.3,361.5H38.9c-7.9,0-14.4-6.5-14.4-14.4v-5.7c0-7.9,6.5-14.4,14.4-14.4h31.3c7.9,0,14.4,6.5,14.4,14.4v5.7
+	C84.7,355,78.2,361.5,70.3,361.5z"/>
+<path id="io_1_" class="st5" d="M296.9,407l-5.8,12.8h44.3l11.7-25.5h-44.3L296.9,407"/>
 </svg>

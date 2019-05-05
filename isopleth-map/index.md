@@ -26,15 +26,19 @@ synonyms:
 
 ---
 
-shows the data as a third dimension on a map. An isopleth is a line drawn on a map through all points having the same value of some measurable quantity.
+shows the data as a third dimension on a map by using lines that connect all points having the same value of some measurable quantity. These lines are called *isopleths* or *isolines*.
 
-Isopleth maps are common for mapping surface elevations, amounts of precipitation, atmospheric pressure, and other measurements that can be shown as a third dimension. The third dimension is shown by a series of lines called isopleths which connect points of equal value. The isopleth interval is the difference in value between two adjacent isopleths. The values of the isopleths on the map are always multiples of the interval. 
+<!--more-->
 
-Isopleths never cross or divide. Isopleths always form enclosed circles unless a circle extends outside the mapped area. An isopleth is a type of isoline map. 
+Isopleth maps are common for showing surface elevations, amounts of precipitation, atmospheric pressure, air temperature, and other measurements that can be shown as a third dimension. 
+ 
+ The isopleth interval is the difference in value between two adjacent isopleths. The values of the isopleths on the map are always multiples of the interval. 
+
+Isopleths never cross or divide. They always form enclosed circles unless a circle extends outside the mapped area. 
 
 A distinction is sometimes made between isometric and isoplethic mapping: isometric maps show real values such as snowfall amounts and isoplethic maps display calculated values such as population density.
 
-<!--more-->
+
 
 The first use of isolines came from English astronomer Edmund Halley (of the eponymous comet) who in 1686 published the first meteorological a map showing the prevailing maritime winds both in and near the tropics. More importantly, this became widely recognized as the first weather map, well ahead of its time as weather maps did not become common until the early 18th century.
 

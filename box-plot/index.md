@@ -1,8 +1,6 @@
 ---
 title: box plot
 
-tags:
-
 functions: distribution
 
 related:
@@ -17,17 +15,17 @@ examples:
     image:  olympic-athlete-age.png
   
   - title:  Perceptions of Probability
-    author:  Zoni Nation
-    link:  https://github.com/zonination/perceptions
+    author: Zoni Nation
+    link:   https://github.com/zonination/perceptions
     image:  perceptions-of-probability.png
 
   - title:  Ranking The Ivies
-    author:  The Washington Post
-    link:  https://www.washingtonpost.com/news/wonk/wp/2015/09/14/this-chart-shows-why-parents-push-their-kids-so-hard-to-get-into-ivy-league-schools
+    author: The Washington Post
+    link:   https://www.washingtonpost.com/news/wonk/wp/2015/09/14/this-chart-shows-why-parents-push-their-kids-so-hard-to-get-into-ivy-league-schools
     image:  ivy-league-graduate-salaries.png
 
- - title:  Page Lengths of Doctoral dissertations by Major
-    author:  Marcus
+  - title:  Page Lengths of Doctoral Dissertations by Major
+    author: Marcus
     link:   https://beckmw.wordpress.com/2014/07/15/average-dissertation-and-thesis-length-take-two
     image:  distribution-of-number-of dissertation-pages-by-discipline.png
     note:   Distribution of page lengths of doctoral dissertations by discipline. The data is sorted by median. Number of records for each discipline is in parentheses.

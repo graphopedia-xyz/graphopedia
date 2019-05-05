@@ -1,7 +1,5 @@
 ---
 title:  density plot
-  
-tags:
 
 functions: distribution
 

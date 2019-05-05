@@ -1,98 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1200px" height="975px" viewBox="0 0 1200 975" enable-background="new 0 0 1200 975" xml:space="preserve">
+	 viewBox="0 0 1200 901.9" style="enable-background:new 0 0 1200 901.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#BABABA;stroke-width:13.793;stroke-miterlimit:10;}
+	.st1{fill:#BABABA;}
+	.st2{fill:#514361;}
+	.st3{font-family:'RobotoMono-Regular';}
+	.st4{font-size:50px;}
+	.st5{fill:none;stroke:#CCCCCC;stroke-width:4;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#BABABA;stroke-width:19;stroke-miterlimit:10;}
+	.st7{fill:#AFAFAF;}
+	.st8{fill:none;stroke:#8C8C8C;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+</style>
 <g>
-	<polygon fill="#7581BA" points="995.543,664.025 995.543,573.58 1073.068,618.802 	"/>
+	<polygon class="st0" points="1028,635.5 1028,455.9 1181.9,545.7 	"/>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#7581BA" stroke-width="13.793" stroke-miterlimit="10" x1="66.027" y1="395.363" x2="160.574" y2="578.727"/>
+			<line class="st0" x1="66" y1="322.3" x2="160.6" y2="505.6"/>
 			<g>
-				<polygon fill="#7581BA" points="139.469,582.817 174.183,605.12 176.146,563.905 				"/>
+				<polygon class="st1" points="139.5,509.7 174.2,532 176.1,490.8 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#7581BA" stroke-width="13.793" stroke-miterlimit="10" x1="441.599" y1="395.363" x2="536.146" y2="578.727"/>
+			<line class="st0" x1="441.6" y1="322.3" x2="536.1" y2="505.6"/>
 			<g>
-				<polygon fill="#7581BA" points="515.041,582.817 549.754,605.12 551.717,563.905 				"/>
+				<polygon class="st1" points="515,509.7 549.8,532 551.7,490.8 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#7581BA" stroke-width="13.793" stroke-miterlimit="10" x1="816.741" y1="395.363" x2="911.288" y2="578.727"/>
+			<line class="st0" x1="816.7" y1="322.3" x2="911.3" y2="505.6"/>
 			<g>
-				<polygon fill="#7581BA" points="890.183,582.817 924.896,605.12 926.859,563.905 				"/>
+				<polygon class="st1" points="890.2,509.7 924.9,532 926.9,490.8 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#7581BA" stroke-width="13.793" stroke-miterlimit="10" x1="66.027" y1="845.991" x2="160.574" y2="662.627"/>
+			<line class="st0" x1="66" y1="772.9" x2="160.6" y2="589.5"/>
 			<g>
-				<polygon fill="#7581BA" points="176.146,677.449 174.183,636.235 139.469,658.538 				"/>
+				<polygon class="st1" points="176.1,604.3 174.2,563.1 139.5,585.4 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#7581BA" stroke-width="13.793" stroke-miterlimit="10" x1="441.599" y1="845.991" x2="536.146" y2="662.627"/>
+			<line class="st0" x1="441.6" y1="772.9" x2="536.1" y2="589.5"/>
 			<g>
-				<polygon fill="#7581BA" points="551.717,677.449 549.754,636.235 515.041,658.538 				"/>
+				<polygon class="st1" points="551.7,604.3 549.8,563.1 515,585.4 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#7581BA" stroke-width="13.793" stroke-miterlimit="10" x1="816.741" y1="845.991" x2="911.288" y2="662.627"/>
+			<line class="st0" x1="816.7" y1="772.9" x2="911.3" y2="589.5"/>
 			<g>
-				<polygon fill="#7581BA" points="926.859,677.449 924.896,636.235 890.183,658.538 				"/>
+				<polygon class="st1" points="926.9,604.3 924.9,563.1 890.2,585.4 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 450.9932 113.6299)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">cause</text>
+		<g>
+			<text transform="matrix(1 0 0 1 422.9932 61.5681)" class="st2 st3 st4">causes</text>
+		</g>
 	</g>
 	<g>
-		<text transform="matrix(0 -1 1 0 1194.9795 169.7197)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">effect</text>
+		<g>
+			<text transform="matrix(1 0 0 1 999.0005 61.5679)" class="st2 st3 st4">effect</text>
+		</g>
 	</g>
 	<g>
-		<text transform="matrix(0 -1 1 0 1197.5557 705.208)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">problem</text>
+		<g>
+			<text transform="matrix(1 0 0 1 981.9153 310.6792)" class="st2 st3 st4">problem</text>
+		</g>
 	</g>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1114" y1="965" x2="1114" y2="3"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1199" y1="187" x2="3" y2="187"/>
-	<line fill="none" stroke="#7581BA" stroke-width="36" stroke-miterlimit="10" x1="24" y1="621" x2="999" y2="621"/>
-	<rect x="3" y="363" fill="#AFAFAF" width="165" height="62"/>
-	<rect x="379" y="363" fill="#AFAFAF" width="165" height="62"/>
-	<rect x="754" y="363" fill="#AFAFAF" width="165" height="62"/>
-	<rect x="3" y="812" fill="#AFAFAF" width="165" height="62"/>
-	<rect x="379" y="812" fill="#AFAFAF" width="165" height="62"/>
-	<rect x="754" y="812" fill="#AFAFAF" width="165" height="62"/>
+	<line class="st5" x1="981.9" y1="153.1" x2="981.9" y2="0"/>
+	<line class="st5" x1="1199" y1="98.9" x2="3" y2="98.9"/>
+	<line class="st6" x1="131.4" y1="547.9" x2="1028" y2="547.9"/>
+	<rect x="3" y="289.9" class="st7" width="165" height="62"/>
+	<rect x="379" y="289.9" class="st7" width="165" height="62"/>
+	<rect x="754" y="289.9" class="st7" width="165" height="62"/>
+	<rect x="3" y="738.9" class="st7" width="165" height="62"/>
+	<rect x="379" y="738.9" class="st7" width="165" height="62"/>
+	<rect x="754" y="738.9" class="st7" width="165" height="62"/>
 	<g>
-		<text transform="matrix(1 0 0 1 9.803772e-04 963.0439)" fill="#37246D" font-family="'Roboto-Medium'" font-size="51.4992px">manpower</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 375.4209 963.0439)" fill="#37246D" font-family="'Roboto-Medium'" font-size="51.4992px">measurement</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 754.5107 963.0439)" fill="#37246D" font-family="'Roboto-Medium'" font-size="51.4992px">environment</text>
+		<g>
+			<text transform="matrix(1 0 0 1 24 190.2582)" class="st2 st3 st4">category of causes</text>
+		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 8.5205 314.3662)" fill="#37246D" font-family="'Roboto-Medium'" font-size="51.4992px">material</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 384.0869 314.3662)" fill="#37246D" font-family="'Roboto-Medium'" font-size="51.4992px">method</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 758.8682 306.8545)" fill="#37246D" font-family="'Roboto-Medium'" font-size="51.4992px">machine</text>
+		<g>
+			<text transform="matrix(1 0 0 1 24 875.7233)" class="st2 st3 st4">individual cause</text>
+		</g>
 	</g>
 </g>
+<line class="st8" x1="85.5" y1="301.5" x2="85.5" y2="202.4"/>
+<line class="st8" x1="248.1" y1="832.5" x2="248.1" y2="691.5"/>
+<line class="st8" x1="1097" y1="496.1" x2="1097" y2="336"/>
+<line class="st0" x1="108.3" y1="400.5" x2="218.6" y2="400.5"/>
+<line class="st0" x1="131.4" y1="449.1" x2="262.1" y2="449.1"/>
+<line class="st0" x1="467.1" y1="376.2" x2="577.4" y2="376.2"/>
+<line class="st0" x1="490.2" y1="424.8" x2="620.9" y2="424.8"/>
+<line class="st0" x1="516.5" y1="473.4" x2="647.2" y2="473.4"/>
+<line class="st0" x1="871.2" y1="424.8" x2="1001.9" y2="424.8"/>
+<line class="st0" x1="871.2" y1="658.5" x2="1001.9" y2="658.5"/>
+<line class="st0" x1="853.7" y1="703.5" x2="984.3" y2="703.5"/>
+<line class="st0" x1="516.5" y1="635.5" x2="647.2" y2="635.5"/>
+<line class="st0" x1="488.5" y1="684.1" x2="619.2" y2="684.1"/>
+<line class="st0" x1="139.5" y1="635.5" x2="218.6" y2="635.5"/>
+<line class="st0" x1="111.8" y1="684.1" x2="262.1" y2="684.1"/>
 </svg>
