@@ -53,19 +53,24 @@ synonyms:
 
 ---
 
-is a method of visualizing numbers by repeating identical pictographs that refer to objects and concepts that describe the data being visualized. This makes ISOTYPE more memorable than abstract shapes normally used for statistical graphs. These pictographs are standardized and abstracted symbols that are combined following a set of rules.
+is a method of visualizing numbers by repeating identical pictographs that refer to objects or concepts depicting the data being visualized. The pictographs are graphically uniform abstracted symbols optimized for swift visual recognition. [^holmes]
 
 <!--more-->
-ISOTYPE, an acronym for "International System Of Typographic Picture Education", appeared around 1935. Its creator Otto Neurath was a statistician and a philosopher.
+ISOTYPE, an acronym for "International System Of Typographic Picture Education", appeared around 1935. [^neurath] Its creator Otto Neurath was a statistician and a philosopher who devised a system of using pictographs for displaying statistics aimed at the general public.[^nino]
 
-***Function:*** mnemonic device
+The idea behind pictograph charts comes from logical positivism - the idea that the human brain can only access knowledge through direct observation and that any word of a language can be reduced to a pictograph. [^lupton] Those pictographs can then be observed by a reader and their relationships, quantities, and other attributes learned by the reader.
 
-***Data:*** one variable (univariate)
+The basic rule of ISOTYPE is that pictograms must not be enlarged in size to show an increase in
+quantity. Instead they should be repeated in numbers reflecting the data, at the same size and with equal spacing. [^burke]
+
+Research on memory and comprehension of pictographic charts shows that they can enhance the recall of data. [^haroz]
 
 ## Sources
 
-[^twyman]:[The significance of Isotype by Michael Twyman (1975)](http://isotyperevisited.org/1975/01/the-significance-of-isotype.html)
-
-[^esperanto]: ["An Unused Esperanto: Internationalism and Pictographic Design" 1930–70](https://doi.org/10.2752/175470810X12863771378671)
-
+[^holmes]:  ["Pictograms: A view from the drawing board or, what I have learned from Otto Neurath and Gerd Arntz (and jazz)" by Nigel Holmes](http://courses.washington.edu/art377/kcheng_2008/Pictograms_Nigel.pdf)
+[^nino]: ["Diagrams for the Masses: Raising Public Awareness – From Neurath to Gapminder and Google Earth" by Raul Niño Zambrano and Yuri Engelhardt.(2008) In: Stapleton G., Howse J., Lee J. (eds) Diagrammatic Representation and Inference. Diagrams 2008. Lecture Notes in Computer Science, vol 5223. Springer, Berlin, Heidelberg](https://link.springer.com/chapter/10.1007/978-3-540-87730-1_26)
 [^neurath]: ["Pictorial Statistics Following the Vienna Method" by Otto Neurath](https://www.mitpressjournals.org/doi/pdf/10.1162/ARTM_a_00169)
+[^lupton]: ["Reading Isotype" by Ellen Lupton (1989) pp. 48-49"](https://www.jstor.org/stable/1511484)
+[^haroz]:["ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs" by Steve Haroz et. al.  in Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, Pages 1191-1200 (2015)](https://research.tableau.com/sites/default/files/Haroz_CHI_2015.pdf)
+[^burke]: ["The Linguistic Status of Isotype" by Christopher Burke](http://wittgensteinrepository.org/agora-ontos/article/view/2189/2451)
+
