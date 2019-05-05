@@ -1,132 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1200px" height="2001px" viewBox="0 0 1200 2001" enable-background="new 0 0 1200 2001" xml:space="preserve">
+	 viewBox="0 0 1200 1282.1" style="enable-background:new 0 0 1200 1282.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6D6D6D;}
+	.st1{font-family:'RobotoMono-Medium';}
+	.st2{font-size:25px;}
+	.st3{fill:#EBEBEB;}
+	.st4{fill:#E3E3E3;}
+	.st5{fill:#D5D5D5;}
+	.st6{fill:#514361;}
+	.st7{font-family:'RobotoMono-Regular';}
+	.st8{font-size:50px;}
+	.st9{fill:#8E8E8E;}
+	.st10{fill:#898989;}
+	.st11{font-size:39px;}
+	.st12{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+	.st13{fill:url(#SVGID_1_);}
+	.st14{fill:#F2F2F2;}
+	.st15{fill:#BABABA;}
+	.st16{fill:none;stroke:#909090;stroke-width:4;stroke-miterlimit:10;}
+	.st17{font-family:'Roboto-Italic';}
+	.st18{font-size:29px;}
+</style>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 -0.9646 1410.3748)" fill="#464A90" font-family="'Roboto-Regular'" font-size="59.9736px">heatmap using categorical data</text>
+		<g>
+			<text transform="matrix(1 0 0 1 538.5661 1255.5122)" class="st0 st1 st2">low</text>
+		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 753.5237 1534.2556)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="59.9736px">legend / key</text>
+		<g>
+			<text transform="matrix(1 0 0 1 672.5031 1255.512)" class="st0 st1 st2">medium</text>
+		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 863.676 1685.8123)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="59.9736px">low</text>
+		<g>
+			<text transform="matrix(1 0 0 1 849.7863 1255.5122)" class="st0 st1 st2">high</text>
+		</g>
+	</g>
+	<rect x="533.1" y="1157.3" class="st3" width="51.8" height="51.8"/>
+	<rect x="691.4" y="1157.3" class="st4" width="51.8" height="51.8"/>
+	<rect x="849.6" y="1157.3" class="st5" width="51.8" height="51.8"/>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 32.005 443.7274)" class="st6 st7 st8">rows</text>
+		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 863.676 1791.031)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="59.9736px">medium</text>
+		<g>
+			<text transform="matrix(1 0 0 1 420.2203 56.4657)" class="st6 st7 st8">columns</text>
+		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 863.676 1900.0291)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="59.9736px">high</text>
+		<g>
+			<text transform="matrix(1 0 0 1 848.8909 443.7273)" class="st6 st7 st8">data point</text>
+		</g>
 	</g>
-	<rect x="758" y="1629" fill="#C8CDEB" width="74" height="74"/>
-	<rect x="758" y="1736" fill="#AFB8E3" width="74" height="74"/>
-	<rect x="758" y="1844" fill="#939FD5" width="74" height="74"/>
+	<rect x="302.5" y="203.5" class="st3" width="148" height="148"/>
+	<rect x="450.5" y="203.5" class="st5" width="148" height="148"/>
+	<rect x="598.5" y="203.5" class="st3" width="148" height="148"/>
+	<rect x="302.5" y="351.5" class="st5" width="148" height="148"/>
+	<rect x="450.5" y="351.5" class="st4" width="148" height="148"/>
+	<rect x="598.5" y="351.5" class="st9" width="148" height="148"/>
+	<rect x="302.5" y="499.5" class="st0" width="148" height="148"/>
+	<rect x="450.5" y="499.5" class="st3" width="148" height="148"/>
+	<rect x="598.5" y="499.5" class="st4" width="148" height="148"/>
 	<g>
-		<text transform="matrix(1 0 0 1 87.512 518.1932)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="59.9736px">rows</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 483.7346 143.9315)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="59.9736px">columns</text>
-	</g>
-	<rect x="371" y="278" fill="#C8CDEB" width="148" height="148"/>
-	<rect x="519" y="278" fill="#939FD5" width="148" height="148"/>
-	<rect x="667" y="278" fill="#C8CDEB" width="148" height="148"/>
-	<rect x="371" y="426" fill="#939FD5" width="148" height="148"/>
-	<rect x="519" y="426" fill="#AFB8E3" width="148" height="148"/>
-	<rect x="667" y="426" fill="#939FD5" width="148" height="148"/>
-	<rect x="371" y="574" fill="#AFB8E3" width="148" height="148"/>
-	<rect x="519" y="574" fill="#C8CDEB" width="148" height="148"/>
-	<rect x="667" y="574" fill="#AFB8E3" width="148" height="148"/>
-	<g>
-		<text transform="matrix(1 0 0 1 313.1917 366.0076)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">D</text>
+		<text transform="matrix(1 0 0 1 252.9923 291.5417)" class="st10 st7 st11">1</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 313.1917 519.5447)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">E</text>
+		<text transform="matrix(1 0 0 1 252.9923 445.0789)" class="st10 st7 st11">2</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 313.1917 664.6639)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">F</text>
+		<text transform="matrix(1 0 0 1 252.9923 590.1981)" class="st10 st7 st11">3</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 430.4885 257.7127)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">a</text>
+		<text transform="matrix(1 0 0 1 361.2891 183.2468)" class="st10 st7 st11">A</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 583.9534 257.7127)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">B</text>
+		<text transform="matrix(1 0 0 1 514.754 183.2468)" class="st10 st7 st11">B</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 727.6174 257.7127)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">C</text>
+		<text transform="matrix(1 0 0 1 658.418 183.2468)" class="st10 st7 st11">C</text>
 	</g>
-	<rect x="57" y="1555" fill="#C8CDEB" width="148" height="148"/>
-	<rect x="205" y="1555" fill="#939FD5" width="148" height="148"/>
-	<rect x="353" y="1555" fill="#C8CDEB" width="148" height="148"/>
-	<rect x="57" y="1703" fill="#939FD5" width="148" height="148"/>
-	<rect x="205" y="1703" fill="#AFB8E3" width="148" height="148"/>
-	<rect x="353" y="1703" fill="#939FD5" width="148" height="148"/>
-	<rect x="57" y="1851" fill="#AFB8E3" width="148" height="148"/>
-	<rect x="205" y="1851" fill="#C8CDEB" width="148" height="148"/>
-	<rect x="353" y="1851" fill="#AFB8E3" width="148" height="148"/>
+	<polyline class="st12" points="375.5,129.5 375.5,101.5 674.5,101.5 674.5,129.5 	"/>
+	<polyline class="st12" points="228.5,575.5 200.5,575.5 200.5,276.5 228.5,276.5 	"/>
+	<line class="st12" x1="200.5" y1="427.5" x2="174.5" y2="427.5"/>
 	<g>
-		<text transform="matrix(1 0 0 1 -1.3787 1642.5505)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">D</text>
+		<g>
+			<text transform="matrix(1 0 0 1 55.1052 778.9877)" class="st6 st7 st8">color value scales </text>
+		</g>
 	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 -1.3787 1796.0876)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">E</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 -1.3787 1941.2068)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">F</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 115.9143 1534.2556)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">a</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 269.3831 1534.2556)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">B</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 413.0471 1534.2556)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">C</text>
-	</g>
-	<polyline fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" points="444,204 444,176 743,176 743,204 	"/>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="596" y1="205" x2="596" y2="176"/>
-	<polyline fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" points="297,650 269,650 269,351 297,351 	"/>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="297" y1="502" x2="243" y2="502"/>
-	<g>
-		<text transform="matrix(1 0 0 1 1.6213 842.9861)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="59.9736px">value scale for determining cell colouring</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 0.6213 1148.9138)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="59.9736px">alternative value scale broken into ranges</text>
-	</g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12" y1="923" x2="1165" y2="923">
-		<stop  offset="0" style="stop-color:#C8CDEB"/>
-		<stop  offset="1" style="stop-color:#7581BA"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="263.2" y1="-577.95" x2="1169.2" y2="-577.95" gradientTransform="matrix(1 0 0 1 0 1502)">
+		<stop  offset="0" style="stop-color:#EBEBEB"/>
+		<stop  offset="1" style="stop-color:#BABABA"/>
 	</linearGradient>
-	<rect x="12" y="886" fill="url(#SVGID_1_)" width="1153" height="74"/>
-	<rect x="742" y="1198" fill="#939FD5" width="208" height="74"/>
-	<rect x="252" y="1198" fill="#C8CDEB" width="208" height="74"/>
-	<rect x="3" y="1198" fill="#DADDF2" width="208" height="74"/>
-	<rect x="990" y="1198" fill="#7581BA" width="208" height="74"/>
-	<rect x="497" y="1198" fill="#AFB8E3" width="208" height="74"/>
+	<rect x="263.2" y="895.8" class="st13" width="906" height="56.5"/>
+	<rect x="825" y="1045" class="st5" width="158.9" height="56.5"/>
+	<rect x="450.6" y="1045" class="st3" width="158.9" height="56.5"/>
+	<rect x="260.3" y="1045" class="st14" width="158.9" height="56.5"/>
+	<rect x="1014.5" y="1045" class="st15" width="158.9" height="56.5"/>
+	<rect x="637.8" y="1045" class="st4" width="158.9" height="56.5"/>
 	<g>
-		<text transform="matrix(1 0 0 1 48.8831 1254.6423)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">0 - 20</text>
+		<text transform="matrix(1 0 0 1 295.3882 1080.6248)" class="st0 st1 st2">0 - 20</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 0.5432 1037.0876)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">0</text>
+		<text transform="matrix(1 0 0 1 254.4526 1011.2461)" class="st0 st1 st2">0</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 561.9807 1037.0876)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">50</text>
+		<text transform="matrix(1 0 0 1 689.4365 1011.2461)" class="st0 st1 st2">50</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 1120.7932 1037.0876)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">100</text>
+		<text transform="matrix(1 0 0 1 1135.415 1011.2461)" class="st0 st1 st2">100</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 285.1487 1254.6423)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">21 - 40</text>
+		<text transform="matrix(1 0 0 1 475.9146 1080.6248)" class="st0 st1 st2">21 - 40</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 528.2542 1254.6423)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">41 - 60</text>
+		<text transform="matrix(1 0 0 1 661.667 1080.6248)" class="st0 st1 st2">41 - 60</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 774.4573 1254.6423)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">61 - 80</text>
+		<text transform="matrix(1 0 0 1 849.7861 1080.6248)" class="st0 st1 st2">61 - 80</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 1012.6721 1254.6423)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.4534px">81 - 100</text>
+		<text transform="matrix(1 0 0 1 1031.8027 1080.6248)" class="st0 st1 st2">81 - 100</text>
 	</g>
-	<polyline fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" points="14,988 14,962 1163,962 1163,988 	"/>
-	<line fill="none" stroke="#464A90" stroke-width="4" stroke-miterlimit="10" x1="587" y1="988" x2="587" y2="963"/>
-	<text transform="matrix(1 0 0 1 2.0002 47.7401)" fill="#464A90" font-family="'Roboto-Regular'" font-size="59.9736px">heatmap using numerical data</text>
+	<polyline class="st16" points="264.7,973.7 264.7,953.9 1167.7,953.9 1167.7,973.7 	"/>
+	<line class="st16" x1="708.6" y1="973.7" x2="708.6" y2="954.6"/>
+</g>
+<path class="st12" d="M526.5,102V69.5"/>
+<line class="st12" x1="825" y1="427.5" x2="675.5" y2="427.5"/>
+<g>
+	<text transform="matrix(1 0 0 1 60.854 830.6848)" class="st6 st17 st18">the scale can show colors as a gradient from lowest to highest values</text>
+	<text transform="matrix(1 0 0 1 60.854 865.4848)" class="st6 st17 st18">or as ranges </text>
 </g>
 </svg>
