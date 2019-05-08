@@ -30,6 +30,7 @@ synonyms:
   - star plot
   - cobweb chart
   - Kiviat diagram
+  - polar parallel coordinates
 
 ---
 

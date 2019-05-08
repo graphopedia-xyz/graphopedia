@@ -29,17 +29,35 @@ examples:
     author:  Nathan Yau
     link:   https://flowingdata.com/2016/12/07/fields-of-study-ranked-over-past-few-decades/
     image:  most-popular-fields-of-study-since-1970.png
-  
+
+synonyms: 
+  - line graph
+  - line plot
 
 ---
 
-shows information as a series of data points connected by straight lines.  Line charts differ from scatter plots in that the points are ordered, usually along the horizontal axis. A line chart is often used to visualize a trend in data over intervals of time. In this case it is called a time series. A line chart should be used when showing a change in data at equal time intervals.
+shows data using a single line connecting data points. The line can be either straight or curved. [^rosen] The slope of the lines indicated the overall pattern of change. The data points are ordered, usually along the horizontal axis. A line chart that shows change over time has the time plotted at equal intervals.
 
 <!--more-->
 
-## Origin
-Scottish engineer (also secret agent and convicted criminal) William Playfair first published line charts in *The Commercial and Political Atlas* in London in 1786. It contained 43 time-series plots and one bar chart.
+The first line chart appeared in 1786 in *The Commercial and Political Atlas* by Scottish engineer (also secret agent and convicted criminal)[^spence] William Playfair. [^friendly]
+
+ Line charts differ from [scatter plots](/scatter-plot) in that the points are ordered and connected by a line, usually along the horizontal axis. 
+ 
+ A line chart is often used to visualize a trend in data over intervals of time.[^salkind] In this case it is called a [time series](/time-series).
+ 
+ The vertical axis of the line chart should start at a zero since readers rely on the lengths to judge the change between data points. A truncated line chart with the vertical axis starting above zero will exaggerate the difference in height for all the other data points, misrepresenting the trend shown in the chart. [^huff]
+ 
+ A *line of best fit* is sometimes drawn on the line graph to show data points that fit a trend in the data. [^rosen]
+ 
+ 
+
+
 
 ## Sources
-1. [Milestones in the history of thematic cartography, statistical graphics, and data visualization](http://www.math.yorku.ca/SCS/Gallery/milestone/milestone.pdf)
-2. [Statistics for People Who (Think They) Hate Statistics by Neil J. Salkind, page 106](https://books.google.com/books?id=kIVf6uD3m30C)
+[^rosen]: [The Rosen Comprehensive Dictionary of Math](https://books.google.fr/books?id=i8sjJ1pFgIEC)
+[^spence]: [Spence, I. & Wainer, H (1997) William Playfair: A daring worthless fellow. Chance, 10, 31-34.](http://www.psych.utoronto.ca/users/spence/Spence_Wainer_1997b.pdf)
+[^friendly]: [Friendly, M. & Denis, D. J. (2001). Milestones in the history of thematic cartography, statistical graphics, and data visualization](http://www.math.yorku.ca/SCS/Gallery/milestone/milestone.pdf)
+[^salkind]: [Statistics for People Who (Think They) Hate Statistics by Neil J. Salkind, page 106](https://books.google.com/books?id=kIVf6uD3m30C)
+[^huff]: ["How To lie With Statistics" by Darell Huff, pp.58-63](https://archive.org/details/HowToLieWithStatistics)
+

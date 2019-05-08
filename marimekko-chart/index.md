@@ -39,17 +39,24 @@ synonyms:
 
 ---
 
-is a visualization method for two or more qualitative variables. In a Marimekko chart, the widths of the tiles are proportional to the column counts and the heights are proportional to the row counts within each column. It uses rectangular tiles to show distributions of values. The area of the tiles is known as the bin size. Marimekko charts are similar to a stacked bar chart but they add one more dimension of data through varying column widths. Although Marimekko charts can look similar to tree maps, they are different in that they do not show a hierarchy as tree maps do. That is, a Marimekko chart cannot have one of its rectangles include another. This chart is useful for discovering unusually high or small counts and for discovering dependencies between variables.<sup>3</sup>
+is a method for showing categorical data as rectangles where the widths and lengths are proportional to quantities and categories are represented as columns. [^wilkinson]
 
 <!--more-->
+The Marimekko chart is useful for discovering unusually high or low values and for discovering dependencies between variables. [^hartigan] Mosaic plots represent contingency tables, a common statistics tool for showing distribution in matrix or table for categorical data.  It uses rectangular tiles that are sized proportionally to values to show their distributions.[^friendly] 
 
-## Origin
-The Marimekko chart was introduced in 1981<sup>4</sup>.
+Marimekko charts are similar to a stacked [bar chart](/bar-chart) but they add one more dimension of data through varying column widths. 
+
+Although Marimekko charts can look similar to [tree maps](/tree-map), they are different in that Marimekko charts do not show a hierarchy as tree maps do. A Marimekko chart cannot have one of its rectangles include another. 
+
+
+The Marimekko chart was introduced in 1981 as an adaptation of [histogram](/histogram) for showing two-variables.[^hartigan]
+The area of a tile is known as the *bin size* which is a concept derived from histogram.
 
 ## Sources
-1. [Interactive Graphics for Data Analysis](https://books.google.com.ua/books?id=xHIH1Q47FeoC)
-2. [Graphical Methods For Categorical Data](http://datavis.ca/papers/sugi/sugi17.pdf)
-3. [The Grammar of Graphics By Leland Wilkinson](https://books.google.com/books?id=ZiwLCAAAQBAJ)
-4. [A Mosaic of Television Ratings](https://www.jstor.org/stable/2683556)
+[^wilkinson]: [Wilkinson, L. (2005), The Grammar of Graphics(2nd ed.). Statistics and Computing, New York: Springer. p. 342 ](https://cds.cern.ch/record/1250322/files/9780387245447_TOC.pdf)
+[^friendly]:  [Friendly M. (1994). Mosaic displays for multi-way contingency tables. Journal of the American Statistical Association, 89, p. 190-200.](https://www.researchgate.net/publication/243765611_Mosaic_Displays_for_Multi-Way_Contingency_Tables)
+[^hartigan]: [Hartigan, J. A., and Kleiner, B. (1984). A mosaic of television ratings. The American
+ Statistician, 38, p.32-35.](https://www.jstor.org/stable/2683556)
+
 
 

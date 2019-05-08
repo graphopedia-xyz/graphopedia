@@ -15,6 +15,11 @@ tools:
     link:   https://www.tableau.com
 
 examples:
+  - title:  When Are People Working?
+    author: Quoctrung Bui for NPR
+    link:   https://www.npr.org/sections/money/2014/08/27/343415569/whos-in-the-office-the-american-workday-in-one-graph?/templates/story/story_php=&t=1557322302795
+    image:  when-are-people-working.png
+
   - title:  Summer Temperatures in The Northern Hemisphere
     author: The New York Times
     link:   https://www.nytimes.com/interactive/2017/07/28/climate/more-frequent-extreme-summer-heat.html
@@ -34,6 +39,9 @@ examples:
     author: Morphocode
     link:   https://morphocode.com/location-time-urban-data-visualization/?utm_source=mailpoet&utm_medium=email&utm_campaign=visualizing+time
     image:  comparing-pedestrian-activity.png
+ 
+
+
   
   - title:  Tide Predictions
     author: Joan Ang

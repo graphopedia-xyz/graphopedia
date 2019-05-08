@@ -1,121 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1200px" height="1127px" viewBox="0 0 1200 1127" enable-background="new 0 0 1200 1127" xml:space="preserve">
+	 viewBox="0 0 1022 1010" style="enable-background:new 0 0 1022 1010;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E3E3E3;}
+	.st1{fill:#D5D5D5;}
+	.st2{fill:#BABABA;}
+	.st3{fill:#6D6D6D;}
+	.st4{font-family:'RobotoMono-Regular';}
+	.st5{font-size:60px;}
+	.st6{font-size:55.5962px;}
+	.st7{fill:none;stroke:#BABABA;stroke-width:4.687;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#BABABA;stroke-width:4.6871;stroke-miterlimit:10;}
+	.st9{fill:#514361;}
+	.st10{font-size:50px;}
+</style>
 <g>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1197" y1="897" x2="4" y2="897"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="302" y1="787" x2="302" y2="1123"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="598" y1="787" x2="598" y2="1123"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="901" y1="787" x2="901" y2="1123"/>
-	<line fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" x1="1197" y1="1010" x2="4" y2="1010"/>
-	<rect x="4" y="787" fill="none" stroke="#CCCCCC" stroke-width="4" stroke-miterlimit="10" width="1192" height="336"/>
+	<path class="st0" d="M489.7,457.4l118.8,326.4c180.3-65.6,273.3-265,207.6-445.3C765.2,198.5,638.8,110,489.7,110V457.4z"/>
+	<path class="st1" d="M489.7,457.4l-342.1-60.3C114.3,586,240.5,766.2,429.4,799.5c62.9,11.1,119.1,6.2,179.1-15.7L489.7,457.4z"/>
+	<path class="st2" d="M489.7,457.4V110c-170.4,0-312.5,119.3-342.1,287.1L489.7,457.4z"/>
 	<g>
-		<text transform="matrix(1 0 0 1 128.1592 864.5574)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65px">a</text>
+		<text transform="matrix(1 0 0 1 345.9092 372.5992)" class="st3 st4 st5">22%</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 712.3311 969.8738)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46px">22%</text>
+		<text transform="matrix(1 0 0 1 375.1709 557.6793)" class="st3 st4 st5">33%</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 406.1631 969.8738)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46px">33%</text>
+		<text transform="matrix(1 0 0 1 551.248 448.8663)" class="st3 st4 st5">45%</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 116.9912 969.8738)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46px">45%</text>
+		<text transform="matrix(1 0 0 1 142.9566 165.9044)" class="st2 st4 st6">80</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 992.8857 969.8738)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46px">100%</text>
+		<text transform="matrix(1 0 0 1 69.1978 772.8639)" class="st2 st4 st6">120</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 428.9131 864.5554)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65px">b</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 728.5107 864.5535)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65px">c</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 981.7725 862.2117)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65px">total</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 724.7764 1083.5515)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46px">80</text>
-	</g>
-	<circle fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" cx="781.826" cy="1042.157" r="4.687"/>
-	<g>
-		<text transform="matrix(1 0 0 1 404.6943 1083.5515)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46px">120</text>
-	</g>
-	<circle fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" cx="489.865" cy="1042.157" r="4.687"/>
-	<g>
-		<text transform="matrix(1 0 0 1 116.6787 1083.5515)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46px">160</text>
-	</g>
-	<circle fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" cx="201.849" cy="1042.157" r="4.687"/>
-	<g>
-		<text transform="matrix(1 0 0 1 1004.6494 1083.5515)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46px">360</text>
-	</g>
-	<circle fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" cx="1089.82" cy="1042.157" r="4.687"/>
-	<path fill="#AFB8E3" d="M577.082,353.454l100.172,275.219c151.999-55.323,230.371-223.392,175.048-375.391
-		C809.316,135.179,702.766,60.572,577.082,60.572V353.454z"/>
-	<path fill="#939FD5" d="M577.082,353.454L288.65,302.596c-28.088,159.297,78.277,311.203,237.574,339.291
-		c53.046,9.353,100.414,5.209,151.03-13.213L577.082,353.454z"/>
-	<path fill="#7581BA" d="M577.082,353.454V60.572c-143.638,0-263.49,100.568-288.433,242.024L577.082,353.454z"/>
-	<g>
-		<text transform="matrix(1 0 0 1 760.3281 312.5847)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65.6201px">a</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 455.8281 281.95)" fill="#FFFFFF" font-family="'Roboto-Medium'" font-size="46.8715px">22%</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 480.498 437.9851)" fill="#FFFFFF" font-family="'Roboto-Medium'" font-size="46.8715px">33%</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 628.9434 346.2488)" fill="#FFFFFF" font-family="'Roboto-Medium'" font-size="46.8715px">45%</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 284.7246 107.6922)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46.8715px">80</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 222.541 619.4011)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46.8715px">120</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 904.959 222.5281)" fill="#7581BA" font-family="'Roboto-Medium'" font-size="46.8715px">160</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 413.9883 519.241)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65.6201px">b</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 413.5352 200.8933)" fill="#37246D" font-family="'Roboto-Medium'" font-size="65.6201px">c</text>
+		<text transform="matrix(1 0 0 1 878.6426 302.1163)" class="st2 st4 st6">160</text>
 	</g>
 	<g>
 		<g>
-			<path fill="none" stroke="#7581BA" stroke-width="4.687" stroke-miterlimit="10" d="M576.554,23.39
-				c182.499,0,330.444,147.945,330.444,330.444c0,133.997-79.757,249.366-194.388,301.224"/>
+			<path class="st7" d="M489.1,65.9c216.5,0,392,175.5,392,392c0,158.9-94.6,295.8-230.6,357.3"/>
 			<g>
-				<polygon fill="#7581BA" points="710.664,637.974 690.824,663.987 723.271,668.167 				"/>
+				<polygon class="st2" points="648.2,794.9 624.6,825.7 663.1,830.7 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<path fill="none" stroke="#7581BA" stroke-width="4.687" stroke-miterlimit="10" d="M690.824,663.987
-				c-35.61,13.124-74.103,20.291-114.27,20.291c-182.499,0-330.444-147.945-330.444-330.444c0-11.866,0.625-23.587,1.845-35.13"/>
+			<path class="st7" d="M624.6,825.7c-42.2,15.6-87.9,24.1-135.5,24.1c-216.5,0-392-175.5-392-392c0-14.1,0.7-28,2.2-41.7"/>
 			<g>
-				<polygon fill="#7581BA" points="263.686,325.658 251.261,295.394 231.261,321.283 				"/>
+				<polygon class="st2" points="118,424.4 103.3,388.5 79.5,419.3 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<path fill="none" stroke="#7581BA" stroke-width="4.687" stroke-miterlimit="10" d="M251.261,295.394
-				c26.25-147.099,149.835-260.489,301.76-271.178"/>
+			<path class="st7" d="M103.3,388.5C134.4,214.1,281,79.6,461.2,66.9"/>
 			<g>
-				<polygon fill="#7581BA" points="548.941,40.936 576.554,23.39 547.555,8.246 				"/>
+				<polygon class="st2" points="456.4,86.7 489.1,65.9 454.7,47.9 				"/>
 			</g>
 		</g>
 	</g>
-	<circle fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" cx="341.773" cy="66.298" r="4.687"/>
-	<circle fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" cx="991.74" cy="181.133" r="4.687"/>
-	<circle fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" cx="310.055" cy="580.351" r="4.687"/>
-	
-		<line fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" x1="268.368" y1="298.53" x2="233.431" y2="292.261"/>
-	
-		<line fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" x1="575.331" y1="41.136" x2="575.709" y2="5.644"/>
-	
-		<line fill="none" stroke="#7581BA" stroke-width="4.6871" stroke-miterlimit="10" x1="696.736" y1="680.526" x2="684.798" y2="647.099"/>
+	<circle class="st8" cx="210.6" cy="116.8" r="5.6"/>
+	<circle class="st8" cx="981.6" cy="253" r="5.6"/>
+	<circle class="st8" cx="173" cy="726.5" r="5.6"/>
+	<line class="st8" x1="123.6" y1="392.3" x2="82.1" y2="384.8"/>
+	<line class="st8" x1="487.7" y1="87" x2="488.1" y2="44.9"/>
+	<line class="st8" x1="631.7" y1="845.4" x2="617.5" y2="805.7"/>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 348.1378 987.1381)" class="st9 st4 st10">total = 100%</text>
+	</g>
 </g>
 </svg>

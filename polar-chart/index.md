@@ -18,6 +18,12 @@ examples:
     author:  Florence Nightingale
     link:   
     image:  nightingale-mortality.jpg
+    
+  - title: Coastal Fisheries Success Factors
+    author:  Threestory Studio
+    link: http://fisheriesviz.issuelab.org/
+    image:  fisheries.png
+  
 
   - title:  Number of Electoral Votes in 2012 Election
     author: Alex Bordens
@@ -37,19 +43,25 @@ examples:
 synonyms: 
   - coxcomb chart
   - polar area diagram
+  - polar area graph
   - Nightingale chart
   - Nightingale rose graph
   - windrose chart
+  - rose chart
 
 ---
 
-is a type of pie chart in which all sectors have equal angles but they differ in how far each sector extends from the center of the circle. The polar area chart is used to plot cyclic phenomena, for example, the amount of rain each month would be plotted as 12 sectors at 30 degrees each. The radius of each sector is proportional to the square root of the death count for the month. The area of a sector represents the number of deaths in a month. The polar area chart is famously developed by English nurse Florence Nightingale.
+is a type of pie chart in which all sectors have equal angles differing only in how far each sector extends from the center of the circle. [^friendly] The polar area chart is used to plot circular data[^fisher] such as cyclical trends, for example.
 
 <!--more-->
+The polar area diagram was popularized by Florence Nightingale, who famously plotted seasonal mortality of soldiers from preventable causes against against war casualties.
+Polar area charts are plotted on polar coordinates. Each segment of the chart represents a value through its area, not arc length or radius. The segments can be stacked, similar to a stacked bar chart, only presented in polar coordinates.
 
-## Origin
-The first polar area charts were created by French lawyer and amateur statistician André-Michel Guerry in an 1829 paper showing seasonal and daily variation in wind direction over the year and births and deaths by hour of the day.
+Cyclical phenomena, such as monthly weather patterns, are the best use case of the polar area chart. However, the drawback of the polar chart is that it makes the outward segments seem more significant. 
+
+The polar area chart is not be confused with a [radial bar chart](/bar-chart) that is also layed out radially but uses the bar length, not the area to represent a value.
 
 
 ## Sources
-1.[The Golden Age of Statistical Graphics](https://arxiv.org/pdf/0906.3979.pdf)
+[^friendly]:[Friendly, M. The Golden Age of Statistical Graphics. Statistical Science, 2008, 23, 502-535.](https://arxiv.org/pdf/0906.3979.pdf)
+[^fisher]: [Fisher, N. I. (1993). Statistical analysis of circular data, Volume xviii. Cambridge University Press, New York. p.5 ](https://www.amazon.com/Statistical-Analysis-Circular-Data-Fisher/dp/0521568900)

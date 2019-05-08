@@ -68,7 +68,7 @@ Research on memory and comprehension of pictographic charts shows that they can 
 ## Sources
 
 [^holmes]:  ["Pictograms: A view from the drawing board or, what I have learned from Otto Neurath and Gerd Arntz (and jazz)" by Nigel Holmes](http://courses.washington.edu/art377/kcheng_2008/Pictograms_Nigel.pdf)
-[^nino]: ["Diagrams for the Masses: Raising Public Awareness – From Neurath to Gapminder and Google Earth" by Raul Niño Zambrano and Yuri Engelhardt.(2008) In: Stapleton G., Howse J., Lee J. (eds) Diagrammatic Representation and Inference. Diagrams 2008. Lecture Notes in Computer Science, vol 5223. Springer, Berlin, Heidelberg](https://link.springer.com/chapter/10.1007/978-3-540-87730-1_26)
+[^nino]: [Niño Zambrano R., Engelhardt Y. (2008) Diagrams for the Masses: Raising Public Awareness – From Neurath to Gapminder and Google Earth. In: Stapleton G., Howse J., Lee J. (eds) Diagrammatic Representation and Inference. Diagrams 2008. Lecture Notes in Computer Science, vol 5223. Springer, Berlin, Heidelberg](https://link.springer.com/chapter/10.1007/978-3-540-87730-1_26)
 [^neurath]: ["Pictorial Statistics Following the Vienna Method" by Otto Neurath](https://www.mitpressjournals.org/doi/pdf/10.1162/ARTM_a_00169)
 [^lupton]: ["Reading Isotype" by Ellen Lupton (1989) pp. 48-49"](https://www.jstor.org/stable/1511484)
 [^haroz]:["ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs" by Steve Haroz et. al.  in Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, Pages 1191-1200 (2015)](https://research.tableau.com/sites/default/files/Haroz_CHI_2015.pdf)
