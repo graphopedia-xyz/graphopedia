@@ -72,12 +72,11 @@ displays the relationship of a category to a number in the form of a rectangle b
 <!--more-->
 
 The bar chart was first introduced by William Playfair. It has become the default choice of chart. The New Work Times graphics Editor Amanda Cox says, "There’s a strand of the data viz world that argues that everything could be a bar chart. That’s possibly true but also possibly a world without joy."[^beniato]
-## Purpose
+
 Often, bar charts are used to compare the change of a value over time. The basic application os the representation of change in numbers across categories. This is a very broad application which explains the popularity of a bar chart. 
 
 Since the bar chart is often a default, it is worth mentioning what it does not show: distribution, median or mean, ratios, correlation, relationships or connections, or anything more than a single data point.
 
-## Usage
 The baseline of a bar chart should always start at zero. Otherwise, the bar length will not be interpreted correctly by the reader. [^yau] While there are not many rules about chart design, this particular one is. A bar chart with the Y axis not starting at zero can never represent its data truthfully and so it defeats the purpose of the chart.
 
 The bar width is equal and cannot be used to represent data. Using the width of the bar would turn the bar chart into a [Marimekko Chart](/marimekko-chart). The distance between bars is also equal and not indicative of data values.
@@ -102,7 +101,7 @@ Bars can be grouped and stacked. Bars can be oriented around a radial layout mak
 ### Tornado chart
   Tornado chart also known as *tornado diagram* is a bar chart with horizontally orientated bars where bars are ordered such that the longest is at the top and the shortest as the bottom, creating a funnel-like shape.
 
-## Bar Chart Alternatives
+## Alternatives
 The bar chart being the default choice of a chart, there is often a need to find an alternative. Sometimes the need comes from the data and other times it si an editorial decision made with the purpose of diversifying charts in an article or a report to make each more memorable. 
 In either case, there are many ways to substitute a bar chart with another chart without losing clarity, and sometimes even making the data clearer.
 

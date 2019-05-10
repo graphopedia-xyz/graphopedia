@@ -83,6 +83,11 @@ examples:
     link:   https://flowingdata.com/2017/07/03/married-people-sex
     image:  married-sex.png
 
+  - title:  Money Race and Success
+    author:  The New York Times
+    link:  https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html?mtrref=undefined&mtrref=www.nytimes.com
+    image:  school-district-income-race-success.png
+
 synonyms:
   - bubble plot
 ---
@@ -103,19 +108,15 @@ Clusters, outliers, and overall trends reveal themselves well on a bubble chart.
 
 The [first bubble chart](https://en.wikipedia.org/wiki/Pie_chart#/media/File:Playfair_piecharts.jpg) appeared in William Playfair's <cite>Commercial and Political Atlas</cite> published in 1786.
 
-
-## Purpose
 The main advantage of bubble charts is their ability to show large trends in your data. The overall shape created by the bubbles reveals the data trends, similar to a [scatter plot](/scatter-plot).
 
 A known problem of bubble charts, as well as all types of information graphics that use circles, is that circle sizes are difficult to compare. For this reason, bubble charts are not used for comparing precise values but to show a general trend in the data and the outliers. [^4]
 
 Another disadvantage of bubble charts is their lack of means of representing negative values or zero. Like scatter plots, they can become cluttered. Over-plotting is another issue with bubble charts that comes up when a lor of values are concentrated in one area of the chart or when there are simple too many data points. Making the circles partially transparent can solve this problem for overlap of two to three circles.
 
-## Usage
 You can use a bubble chart if you have at least 3 variables, also called *data series*. 
 
 For example, we can show the connection between life expectancy with the state of the economy in their country and the population size. The steps of making a bubble chart for this data would look like this:
-
 
 1. On the X axis, we plot the Gross Domestic Product (GDP), from lowest to highest. 
 2. On the Y axis, we plot the life expectancy, from 1 to 100. (We plot life expectancy on the Y axis because there is less of a range in numbers. Life expectancy cannot have a wide range. But GDP can vary a lot by country.) 
@@ -131,17 +132,18 @@ Bubble charts can be created using templates in MS PowerPoint, MS Excel, Apple K
 An interactive bubble chart can be created on Gapminder, which is free desktop software used by Hans Rosling.
 
 
-## Alternative Charts
+## Variations
+
+### Semi-circle plot
+Since bubble charts with a lot of data points tend to become cluttered with overlapping circles, to [de-clutter a bubble chart](https://flowingdata.com/2017/10/26/how-to-make-a-semicircle-plot-in-r/), it is possible to show only half of each circle as shown in [this example from the New York Times](https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html?smid=tw-share&_r=0).
+### Comparative half-bubble 
+Another variation with the semi-circles that allows comparision between two related numbers [displays two half-circles side by side](https://www.informationisbeautifulawards.com/showcase/604-the-analytical-tourism-map-of-piedmont)
+
+## Alternatives
 
 An alternative to bubble charts is the [Marimekko chart](marimekko-chart). Because in a Marimekko chart we are comparing areas of rectangles, we can read precise values off the chart as well as quickly approximate with how the shapes compare in size.
 
 Another alternative for bubble charts with groups can be a [tree map](tree-map).
-
-
-## Variations
-
-1. Semi-circle plot - since bubble charts with a lot of data points tend to become cluttered with overlapping circles, to [de-clutter a bubble chart](https://flowingdata.com/2017/10/26/how-to-make-a-semicircle-plot-in-r/), it is possible to show only half of each circle as shown in [this example from the New York Times](https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html?smid=tw-share&_r=0).
-2. Comparative half-bubble - another variation with the semi-circles that allows comparision between two related numbers [displays two half-circles side by side](https://www.informationisbeautifulawards.com/showcase/604-the-analytical-tourism-map-of-piedmont)
 
 ## Sources
 

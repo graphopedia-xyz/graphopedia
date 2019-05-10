@@ -56,8 +56,7 @@ the median which means that 50% of data is above the live and the other 50% is b
 <!--more--> 
 The box plot was first introduced in 1970 by American Statistician John Tukey [^wickham] who early in his career worked on developing statistical methods for computers at Bell Labs where he invented the term "bit".[^billinger]
 
-## Purpose
-The main purpose of a box plot is comparing distributions. Since box plots only summarize the distribution, they can only show a generalized comparison of medians, minimums, maximums and quartiles. Box plots can also be used to show variation and uncertainty. 
+The main function of a box plot is generalized comparison of distributions. Since box plots only summarize the distribution, they can only show a generalized comparison of medians, minimums, maximums and quartiles. Box plots can also be used to show variation and uncertainty. 
 
 A single box in a box plot shows a summary of distribution of data by showing the median, the upper and lower quartiles and the maximum and minimum.[^potter]
 
@@ -65,21 +64,23 @@ This generalized view does not show where exactly the data points fall. If it is
  
 Box plots are best for comparing minimums, maximums, and the middles (medians) of data series.
 
-
-
-## Usage
 Box plots are shown on the X, Y axes, where the X axis can be categorical or numeric. The Y axis is numeric. The median is usually shown as a line or a line with a dot in the middle. The outliers are show as dots. They always fall outside the whiskers of the box since any number that falls between the maximum and minimum is not an outlier.
 
 Tick marks on both axes help a reader locate the corresponding values since box plots tend to be visually complex.
 
 ## Variations
-1. Histplot estimates the distribution of data at the median and the two quartiles. The width of the box plot at these locations is then modified to be proportional to the density estimation. The box shape becomes a polygon. [^potter2] 
 
-2. Beanplot - shows individual observations as lines while the showing the distribution as area, similar to a density plot.[^kampstra]
+### Histplot 
+Histplots estimate the distribution of data at the median and the two quartiles. The width of the box plot at these locations is then modified to be proportional to the density estimation. The box shape becomes a polygon. [^potter2] 
 
-3. Vase plot - adds estimated densities for every point between the upper and lower quartiles to the histplot. 
+### Beanplot 
+Bean plots show individual observations as lines while the showing the distribution as area, similar to a density plot.[^kampstra]
 
-4. Box-percentile plot uses both sides of the box plot to show the distribution at each point. For each point in the plot, the width of the box is proportional to the percentile of that data value, up to the 50th percentile. After that it switches to being proportional to values outside the percentile. The the plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to a violin plot, the advantages of this plot is that it covers the entire range of data.
+### Vase plot 
+ Vase plots add estimated densities for every point between the upper and lower quartiles to the histplot. 
+
+### Box-percentile plot
+ Box-percentile plots use both sides of the box plot to show the distribution at each point. For each point in the plot, the width of the box is proportional to the percentile of that data value, up to the 50th percentile. After that it switches to being proportional to values outside the percentile. The the plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to a violin plot, the advantages of this plot is that it covers the entire range of data.
 
 
 

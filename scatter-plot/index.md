@@ -30,10 +30,10 @@ examples:
     link:  https://www.economist.com/graphic-detail/2016/10/03/greying-of-the-nobel-laureates
     image:  age-of-nobel-prize-winners.png
 
-  - title:  Money Race and Success
-    author:  The New York Times
-    link:  https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html?mtrref=undefined&mtrref=www.nytimes.com
-    image:  school-district-income-race-success.png
+  - title:  Birth Month and Disease Incidence
+    author:  Nick Tatonetti
+    link:  https://www.cuimc.columbia.edu/news/data-scientists-find-connections-between-birth-month-and-health
+    image:  birth-month-and-disease-incidence.jpg
     
 synonyms:
   - scatter graph
@@ -43,13 +43,23 @@ synonyms:
 
 ---
 
-shows values for two variables along the horizontal and vertical axes. With color-coded points, one additional variable can be shown. Scatter plots are used to identify the type of relationship between two quantitative variables. A trendline, also called the line of best fit, can be drawn in order to emphasize the outliers and identify trends. Edward Tufte estimated that between 70-80% of graphs used in scientific publications are scatter plots.
+is a visualization method for showing distribution of two variables along the horizontal and vertical axes. Scatter plots are used to show correlation and detect outliers. [^friendly]
 
 <!--more-->
+The scatter plot first appeared in the work of English statistician Francis Galton who is also the creator of the concept of correlation in statistics.
 
-## Origin
-The scatter plot first appeared in the work of English statistician Francis Galton (1822-1911) who is also the creator of the concept of correlation in statistics.
+ Scatter plots are used to show correlation between two variables because they show exactly how individual data points are distributed. The independent variable is usually plotted on the X axis, and the dependent of the Y axis.  A trendline, also called the line of best fit, can be drawn in order to emphasize the outliers and identify trends. 
+ 
+ Scatter plots are common in scientific publications, making up to 80% of all charts.[^tufte]
+ 
+ Since scatter plots display a dot for every data point, overplotting is a common problem. [^carr] The existing solutions include representations of densities, not individual data points, using greyscale or using a symbol, often a hexagon. An example of such a density distribution scatter plot is a hexagonal bin plot.
+
+## Variations
+1. *Radial scatter plot* is functionally the same but set into polar coordinates. This type of scatter plot is useful for visualizaing cyclical or seasonal phenomena. One example below shows incidence of disease by month.
+2. *Hexagonal bin plot* is a scatter plot where individual observations were put into bins as then each bin represented as a symbol colored to show the density.
 
 ### Sources
-1.[The early origins and development of the scatterplot](http://datavis.ca/papers/friendly-scat.pdf)
+[^friendly]: [Friendly, Michael and Daniel J. Denis. “The early origins and development of the scatterplot.” Journal of the history of the behavioral sciences 41 2 (2005): 103-30 .](http://datavis.ca/papers/friendly-scat.pdf)
+[^tufte]: Tufte, E. R. (1983). The visual display of quantitative information. Cheshire, CT: Graphics Press.
+[^carr]: [Carr, D., Littlefield, R., Nicholson, W., & Littlefield, J. (1987). Scatterplot Matrix Techniques for Large N. Journal of the American Statistical Association, 82(398), 424-436. doi:10.2307/2289444](https://www.jstor.org/stable/2289444)
 

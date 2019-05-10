@@ -1,5 +1,5 @@
 ---
-title: stream graph
+title: streamgraph
   
 tags:
 
@@ -35,13 +35,16 @@ examples:
 
 ---
 
-is a type of stacked area chart which is shown relative to a central axis.
+is a type of [stacked area chart](/area-chart) which is shown relative to a central axis.[^byron] The function the Streamgraph is showing many individual time series and displaying their sum at the same time.
 
 <!--more-->
+Similar to the area chart, the height of each area represents value along the Y axis. Time is usually plotted on the X axis.
 
-## Origin
+The Streamgraph is centered on the horizontal axis as opposed to the traditional stacked area chart that is aligned at the bottom along the X axis. The center alignment is what makes the Streamgraph aesthetically beautiful. At the same time, it makes the chart less readable since it is more difficult to compare heights when they are not aligned on a straight line.
+
+The layers of the Streamgraph are usually ordered and there can be no spaces between them since that would skew the other layers.
 
 
 ## Sources
-1. [Stacked Graphs – Geometry & Aesthetics by Lee Byron](https://ieeexplore.ieee.org/document/4658136)
-2. [The Ebb and Flow of Movies: Box Office Receipts 1986 — 2008](https://archive.nytimes.com/screenshots/www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.jpg)
+[^byron]: [L. Byron, M. Wattenberg, "Stacked graphs &minus geometry & aesthetics", IEEE Trans. Vis. and Comp. Graphics, vol. 14, no. 6, pp. 1245-1252, 2008.](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf)
+

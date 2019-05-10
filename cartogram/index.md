@@ -67,24 +67,24 @@ There are three ways in which the map can be distorted:
 
 Cartograms became popular in 1934 when cartographer Erwin Raisz published the first statistical rectengular cartograms.[^tyner]
 
-## Purpose
 The main advantage of a cartogram is its ability to grab a reader's attention and show an unusual view of the world or an area that are otherwise familiar.[^tyner2]
 
 Another advantage of cartograms is that data does not need to be classified or range graded, as is the case with [proportional symbols maps](/bubble-map).
  
-
-## Usage
 Information designers have noticed that representing true geography is not always the most important feature of a map. For example, on the map of the United States it is difficult to even see densely-populated states like New York, while large states like Wyoming have few people living there.
 Showing data that has little to do with the actual land area is often best done with a cartogram.  
 
 The main caveat with cartograms is that the readers have to be familiar with the map of an area so that even when distorted it is still recognizable. For this, provide at least those points along country or state outlines that are proven to be the visual cues for shape identification.[^rittschof]
 
 ## Variations
-1. The Density-Equalizing Cartogram - map features bulge to show a specific variable.
+### The Density-Equalizing Cartogram 
+Cartogram with map features bulging to represent values.
 
-2. The Non-Contiguous Cartogram - map features are split from each other to emphasize the difference in size.
+### The Non-Contiguous Cartogram
+Map features are split from each other to emphasize the difference in size.
 
-3. The Dorling Cartogram - shapes such a circles, squares, or sexagons are used to mimic the features of a map.
+### The Dorling Cartogram 
+Shapes such a circles, squares, or sexagons are used to mimic the features of a map.
 
 ## Alternatives
 1. [*Choropleth map*](/choropleth-map) uses colored areas to represent the measurement of a variable proportional to the colored area.

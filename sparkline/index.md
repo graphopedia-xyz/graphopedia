@@ -26,12 +26,16 @@ synonyms:
 
 ---
 
-is a small chart without axes or coordinates, usually intended to be shown inline with text or as part of small multiples. The purpose of a sparkline is showing variation in a value, such as price. Most commonly, sparklines are line charts. However,the term "sparkline" can also means any embedded contextual information graphic, such as a histogram without scale and axes, for example.
-
+is a small chart without axes or coordinates, usually intended to be shown inline with text, in a data table, or in a [small multiples](/small-multiples) matrix. The purpose of a sparkline is to quickly communicate the shape of the graph without communicating its specific values. 
 <!--more-->
+The concept of a sparkline was invented by American statistician Edward Tufte. He calls sparklines *data-words* and describes them as "data-intense, design-simple, word-sized graphics" that are "embedded in a context of words, numbers, images".[^tufte]
 
-## Origin
+Tufte explains that sparklines are readable despite their small size because the human eye is already trained to see differences in typefaces.
+
+Most commonly, sparklines are line charts. However, the term "sparkline" can also mean any inline embedded contextual information graphic, such as a [histogram](/histogram), without scale and axes, for example. The end data point is often written as a number following the sparkline.
+
+Sparklines are commonly used for financial data. The use of sparklines has been proposed in medical reports to increase accuracy in medical diagnosis.[^radecki]
 
 ## Sources
-1. [Tufte, E. (2006). Beautiful Evidence](https://web.archive.org/web/20070311173343/http://www.bissantz.com/sparklines/)
-2. [Cognitive Debiasing through Sparklines in Clinical Data Displays](http://telemedicina.unifesp.br/pub/amia/2007%20AMIA%20Proceedings/data/papers/posters/AMIA-0076-S2007.pdf)
+[^tufte]: Edward Tufte (2006). Beautiful Evidence. Graphics Press. p. 47
+[^radecki]: [Radecki, Ryan & A Medow, Mitchell. (2007). Cognitive debiasing through sparklines in clinical data displays. AMIA ... Annual Symposium proceedings / AMIA Symposium. AMIA Symposium. 1085. 1085. ](https://pdfs.semanticscholar.org/bb6a/af662ea8a9503f15eb01882002a4a637926c.pdf)

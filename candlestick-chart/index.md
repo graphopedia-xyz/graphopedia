@@ -32,11 +32,10 @@ Candlestick chart are similar to [box plots](/box-plot) in that both show maximu
 
 Candlestick charts were first described by a wealthy Japanese rice trader Munehisa Homma, who wrote 160 rules describing various patterns of trading.[^nison]
 
-## Purpose
+
 Today the Japanese Candlestick chart is still widely used in financial trading. To gain the skill of analyzing a lot of data fast, traders study the patterns that candlestick charts can form. In infographics and data visualization, candlestick charts can be used with large data sets when it is important to show the median values and how they change over time.
 
 
-## Usage
 The data needed for creating a candlestick is similar to that of a stock price bar chart:  open, high, low, and close prices. [^morris]
 Candlestick charts are used to discover patterns in the change of values. Such patterns have been extensively studied and many of them have specific names.
 

@@ -51,13 +51,16 @@ synonyms:
 
 ---
 
-is a series of graphs using the same scale and similar stylistics such that they can be easily compared.
+is a series of graphs of the same scale arranged such that they can be easily compared. The most common arrangement is a matrix.
 
 <!--more-->
+Small multiples were popularized by statistician Edward Tufte in his 1983 book *The Visual Display of Quantitative Information*. [^tufte] Before Tufte, Jacques Bertin proposed a similar method called *reorderable matrix* in 1967.[^perin]
 
-## Origin
+Small multiples technique can be applied to virtually any type of charts, maps, or illustrations as long as the differences between the charts are legible even at the small size. The order in which the charts are presented should follow a logical sequence: time, alphabet, similarity, etc.
 
-One of the earliest known examples of this type of visualization is the 1886 photographic series <cite>Horse In Motion</cite> by Eadweard Muybridge. Small multiples were popularized by Edward Tufte in his book *Envisioning Information*, page 67.
+The main advantage of small multiples technique is that it allows comparison across multiples variable and complex relationships between them in a single infographic. The disadvantage of displaying a lot of charts is that readers may not be able to track the relationships as well as they would with other techniques, as for example, with animation. [^archambault]
 
 ## Sources
-1. [Tufte, Edward (1983). Visual Display of Quantitative Information] (https://www.edwardtufte.com/tufte/books_vdqi)
+[^tufte]: [Tufte, E. R. (1983). The visual display of quantitative information. Cheshire, CT: Graphics Press.](https://www.edwardtufte.com/tufte/books_vdqi)
+[^perin]: [Charles Perin, Jean-Daniel Fekete, Pierre Dragicevic. Jacques Bertin’s Legacy in Information Visualization and the Reorderable Matrix. Cartography and Geographic Information Science, Taylor](https://hal.inria.fr/hal-01786606v2/document)
+[^archambault]: [D. Archambault, H. Purchase and B. Pinaud, "Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs," in IEEE Transactions on Visualization and Computer Graphics, vol. 17, no. 4, pp. 539-552, April 2011.]()

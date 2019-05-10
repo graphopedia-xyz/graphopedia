@@ -1,84 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1200px" height="1317px" viewBox="0 0 1200 1317" enable-background="new 0 0 1200 1317" xml:space="preserve">
-<rect x="411" y="4" fill="#C8CDEB" width="327" height="61"/>
-<rect x="186" y="127" fill="#939FD5" width="225" height="61"/>
-<rect x="237" y="249" fill="#939FD5" width="174" height="123"/>
-<rect x="774" y="127" fill="#7581BA" width="225" height="61"/>
+	 viewBox="0 0 1148 1214" style="enable-background:new 0 0 1148 1214;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#514361;}
+	.st1{font-family:'RobotoMono-Regular';}
+	.st2{font-size:32px;}
+	.st3{fill:none;stroke:#909090;stroke-width:4;stroke-miterlimit:10;}
+	.st4{fill:#BABABA;}
+	.st5{fill:#D5D5D5;}
+	.st6{enable-background:new    ;}
+	.st7{fill:#565656;}
+	.st8{font-size:28.0764px;}
+</style>
 <g>
-	<text transform="matrix(1 0 0 1 464.1289 49.668)" fill="#37246D" font-family="'Roboto-Regular'" font-size="51.1111px">root node</text>
+	<text transform="matrix(0.9552 0 0 1 489.46 908.9927)" class="st0 st1 st2">root node</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 244.3516 172.3359)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</text>
+	<text transform="matrix(0.9552 0 0 1 221.4322 1024.4587)" class="st0 st1 st2">parent node</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 288.7285 305.2246)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">leaf</tspan><tspan x="-14.113" y="51.111" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
+	<text transform="matrix(0.9552 0 0 1 751.9468 1024.4587)" class="st0 st1 st2">parent node</text>
 </g>
-<rect x="2" y="249" fill="#939FD5" width="174" height="123"/>
+<path class="st3" d="M570.9,956.6v-28.8"/>
+<path class="st3" d="M322.3,1093.5v-54.9"/>
+<path class="st3" d="M851.8,1093.5v-54.9"/>
+<path class="st4" d="M578.2,194.4v138.9c55.6,2.2,99.9,48,99.9,104.1c0,56.1-44.4,101.8-99.9,104.1v138.9
+	C710.3,678,817,569.9,817,437.3S710.3,196.6,578.2,194.4L578.2,194.4z"/>
+<path class="st5" d="M469.8,437.3c0-55.8,43.9-101.4,99.1-104V194.4c-131.7,2.7-238,110.6-238,243s106.3,240.3,238,243V541.4
+	C513.8,538.7,469.8,493.2,469.8,437.3L469.8,437.3z"/>
 <g>
-	<text transform="matrix(1 0 0 1 53.6152 305.2246)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">leaf</tspan><tspan x="-14.113" y="51.111" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
+	<path class="st4" d="M752.4,258.9c14.3,14.3,26.6,30,36.9,46.7l134.7-76.9C853.5,110.8,725.2,31.5,578.2,30v155.1
+		C644,186.2,705.7,212.3,752.4,258.9L752.4,258.9z"/>
+	<path class="st4" d="M752.4,615.7c-46.7,46.7-108.4,72.8-174.2,73.8v155.1c147-1.5,275.3-80.8,345.7-198.7L789.3,569
+		C779,585.8,766.6,601.5,752.4,615.7L752.4,615.7z"/>
+	<path class="st4" d="M826.3,437.3c0,44-11.2,86.4-32.3,123.7l134.6,76.9c33.6-59.2,52.7-127.7,52.7-200.6
+		c0-72.9-19.2-141.4-52.7-200.6L794,313.6C815.1,351,826.3,393.3,826.3,437.3L826.3,437.3z"/>
 </g>
-<rect x="794" y="249" fill="#7581BA" width="174" height="123"/>
+<path class="st5" d="M395.6,258.9c46.5-46.5,107.9-72.6,173.4-73.8V30c-221,2.7-399.7,181.4-402.3,402.4h155.1
+	C323,366.9,349.1,305.4,395.6,258.9L395.6,258.9z"/>
+<path class="st5" d="M395.6,615.7c-46.6-46.6-72.7-108.3-73.8-174.1H166.7C169,663,347.7,842,569,844.7V689.6
+	C503.5,688.3,442.1,662.2,395.6,615.7L395.6,615.7z"/>
 <g>
-	<text transform="matrix(1 0 0 1 835.6152 305.2246)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">leaf</tspan><tspan x="-14.113" y="51.111" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
-</g>
-<rect x="1024" y="249" fill="#7581BA" width="174" height="123"/>
-<g>
-	<text transform="matrix(1 0 0 1 1065.6152 305.2246)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">leaf</tspan><tspan x="-14.113" y="51.111" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
-</g>
-<rect x="564" y="249" fill="#7581BA" width="174" height="123"/>
-<g>
-	<text transform="matrix(1 0 0 1 605.6152 305.2246)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">leaf</tspan><tspan x="-14.113" y="51.111" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 827.0195 172.3359)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</text>
-</g>
-<line fill="none" stroke="#464A90" stroke-width="10" stroke-miterlimit="10" x1="574" y1="91" x2="574" y2="65"/>
-<line fill="none" stroke="#464A90" stroke-width="10" stroke-miterlimit="10" x1="298" y1="249" x2="298" y2="188"/>
-<line fill="none" stroke="#464A90" stroke-width="10" stroke-miterlimit="10" x1="886" y1="249" x2="886" y2="188"/>
-<path fill="#7581BA" d="M579.111,594.059v153.376c61.348,2.449,110.333,52.949,110.333,114.897
-	c0,61.949-48.985,112.448-110.333,114.898v153.375c145.813-2.501,263.667-121.875,263.667-268.273
-	C842.778,715.934,724.925,596.561,579.111,594.059z"/>
-<path fill="#939FD5" d="M459.444,862.333c0-61.649,48.512-111.965,109.444-114.864V594.07
-	c-145.404,2.97-262.778,122.161-262.778,268.263s117.374,265.293,262.778,268.263V977.197
-	C507.957,974.299,459.444,923.983,459.444,862.333z"/>
-<path fill="#7581BA" d="M771.413,665.365c15.755,15.755,29.373,33.075,40.746,51.594l148.681-84.96
-	c-77.77-130.181-219.455-217.764-381.729-219.414v171.249C651.769,585.021,719.903,613.854,771.413,665.365z"/>
-<path fill="#7581BA" d="M771.413,1059.302c-51.51,51.511-119.644,80.344-192.302,81.53v171.25
-	c162.273-1.65,303.959-89.233,381.728-219.414l-148.681-84.961C800.786,1026.227,787.168,1043.546,771.413,1059.302z"/>
-<path fill="#7581BA" d="M853,862.333c0,48.626-12.381,95.347-35.642,136.572l148.623,84.928
-	c37.07-65.386,58.241-140.969,58.241-221.5c0-80.53-21.171-156.114-58.241-221.499l-148.624,84.927
-	C840.619,766.986,853,813.707,853,862.333z"/>
-<path fill="#939FD5" d="M377.476,665.365c51.3-51.301,119.088-80.114,191.413-81.521V412.591
-	c-244.033,2.954-441.292,200.251-444.188,444.298h171.254C297.333,784.522,326.149,716.691,377.476,665.365z"/>
-<path fill="#939FD5" d="M377.476,1059.302c-51.484-51.483-80.315-119.573-81.529-192.19h-171.25
-	c2.544,244.354,199.937,442.008,444.192,444.965v-171.255C496.564,1139.415,428.776,1110.603,377.476,1059.302z"/>
-<g>
-	<text transform="matrix(1 0 0 1 525.3203 847.002)"><tspan x="0" y="0" fill="#37246D" font-family="'Roboto-Regular'" font-size="51.1111px">root</tspan><tspan x="-10.482" y="61.333" fill="#37246D" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
+	<text transform="matrix(1 0 0 1 542.5034 428.0771)" class="st6"><tspan x="0" y="0" class="st7 st1 st8">root</tspan><tspan x="0" y="33.7" class="st7 st1 st8">node</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 325.7251 877.668)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</text>
+	<text transform="matrix(1 0 0 1 696.0034 428.0771)"><tspan x="0" y="0" class="st7 st1 st8">parent</tspan><tspan x="16.8" y="33.7" class="st7 st1 st8">node</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 709.061 877.668)" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</text>
+	<text transform="matrix(1 0 0 1 350.0292 428.0771)"><tspan x="0" y="0" class="st7 st1 st8">parent</tspan><tspan x="16.8" y="33.7" class="st7 st1 st8">node</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 717.6338 545.4473)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">lead</tspan><tspan x="-8.573" y="61.333" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
+	<text transform="matrix(1 0 0 1 872.9086 428.0771)" class="st6"><tspan x="0" y="0" class="st7 st1 st8">child</tspan><tspan x="8.4" y="33.7" class="st7 st1 st8">node</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 712.5205 1158.7793)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">lead</tspan><tspan x="-8.573" y="61.333" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
+	<text transform="matrix(1 0 0 1 688.1479 145.5015)" class="st6"><tspan x="0" y="0" class="st7 st1 st8">child</tspan><tspan x="8.4" y="33.7" class="st7 st1 st8">node</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 262.7432 1097.4473)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">lead</tspan><tspan x="-8.573" y="61.333" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
+	<text transform="matrix(1 0 0 1 288.8369 194.3696)" class="st6"><tspan x="0" y="0" class="st7 st1 st8">child</tspan><tspan x="8.4" y="33.7" class="st7 st1 st8">node</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 272.9658 591.4473)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">lead</tspan><tspan x="-8.573" y="61.333" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
+	<text transform="matrix(1 0 0 1 288.8369 643.1621)" class="st6"><tspan x="0" y="0" class="st7 st1 st8">child</tspan><tspan x="8.4" y="33.7" class="st7 st1 st8">node</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 886.2979 852.1133)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">lead</tspan><tspan x="-8.573" y="61.333" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="51.1111px">node</tspan></text>
+	<text transform="matrix(1 0 0 1 697.2045 706.832)" class="st6"><tspan x="0" y="0" class="st7 st1 st8">child</tspan><tspan x="8.4" y="33.7" class="st7 st1 st8">node</tspan></text>
 </g>
-<polyline fill="none" stroke="#464A90" stroke-width="10" stroke-miterlimit="10" points="298,127 298,96 886,96 886,127 "/>
-<polyline fill="none" stroke="#464A90" stroke-width="10" stroke-miterlimit="10" points="89,249 89,218 299,218 "/>
-<polyline fill="none" stroke="#464A90" stroke-width="10" stroke-miterlimit="10" points="651,249 651,218 1106,218 1106,249 "/>
+<g>
+	<text transform="matrix(0.9552 0 0 1 1004.9913 1153.739)" class="st6"><tspan x="0" y="0" class="st0 st1 st2">child</tspan><tspan x="9.6" y="38.4" class="st0 st1 st2">node</tspan></text>
+</g>
+<g>
+	<text transform="matrix(0.9552 0 0 1 805.9727 1153.739)" class="st6"><tspan x="0" y="0" class="st0 st1 st2">child</tspan><tspan x="9.6" y="38.4" class="st0 st1 st2">node</tspan></text>
+</g>
+<g>
+	<text transform="matrix(0.9552 0 0 1 594.3472 1153.739)" class="st6"><tspan x="0" y="0" class="st0 st1 st2">child</tspan><tspan x="9.6" y="38.4" class="st0 st1 st2">node</tspan></text>
+</g>
+<g>
+	<text transform="matrix(0.9552 0 0 1 276.4586 1153.739)" class="st6"><tspan x="0" y="0" class="st0 st1 st2">child</tspan><tspan x="9.6" y="38.4" class="st0 st1 st2">node</tspan></text>
+</g>
+<g>
+	<text transform="matrix(0.9552 0 0 1 88.2466 1153.739)" class="st6"><tspan x="0" y="0" class="st0 st1 st2">child</tspan><tspan x="9.6" y="38.4" class="st0 st1 st2">node</tspan></text>
+</g>
+<path class="st3" d="M322.3,983.6v-27.9h529.5v27.9"/>
+<path class="st3" d="M134.1,1093.5v-27.9h189.1"/>
+<path class="st3" d="M640.2,1093.5v-27.9h409.7v27.9"/>
 </svg>

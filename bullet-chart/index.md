@@ -32,16 +32,14 @@ is a variation of the [bar chart](/bar-chart) with an added symbol for the targe
 
 <!--more-->
 
-## Purpose
  The purpose of the bullet chart is comparison of a value to its target. When several bullet charts are used in an infographic or a dashboard, their use allows for easier comparison of values between charts than gauge charts would allow.
  The bullet chart is not designed to display a lot of data points. For a dashboard or an infographic with dozens of data points and their targets, it may be better to use a [scatter plot](/scatter-plot).
  
- ##Usage
  Bullet charts are relatively new, and yet readers seem to understand them well because their shape reminds one of a thermometer.[^metoyer]
  The bullet chart can display negative values, which are plotted to the left or towards the bottom. [^few2]
  
  
- ##Alternative charts
+ ## Alternative charts
  1. [*Bar chart*](/bar-chart) shows values as lengths of bars. A stacked bar chart can reflect the target and current values similar to a bullet chart.
  
  2. *Gauge chart* shows values as a needle on a speedometer. The target value is usually marked.

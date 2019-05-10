@@ -30,14 +30,17 @@ examples:
 
 synonyms:
   - bar model
+  - pictorial algebra
 
 ---
 
-is a type of chart that represents ratios. The tape diagram shows units as simple geometric shapes, usually rectangles, that width of which is proportional to the number each represents. Tape diagrams may compare two different numbers by representing a unit of measure as a single rectangles and then displaying the rectangles in a line such that multiple lines can be easily compared.
+is a type of chart that represents ratios. The tape diagram shows units as simple geometric shapes, usually rectangles, the width of which is proportional to the numbers they represent. 
 
 <!--more-->
 
-## Use cases
+a word problem is a mathematical exercise where significant background information on the problem is presented as text rather than in mathematical notation.
+
+Tape diagrams may compare two different numbers by representing a unit of measure as a single rectangle and then displaying the rectangles in a line such that multiple lines can be easily compared.
 Tape diagrams are often used in teaching ratios in 5th grade mathematics.
 
 ## Sources:
