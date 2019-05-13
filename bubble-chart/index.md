@@ -1,7 +1,8 @@
 ---
 title:  bubble chart
 
-functions:  correlation
+tags:
+  - correlation
 
 related:
   - scatter-plot

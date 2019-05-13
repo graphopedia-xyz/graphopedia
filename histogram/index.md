@@ -1,9 +1,8 @@
 ---
 title:  histogram
 
-tags:
-
-functions: distribution
+tags: 
+  - distribution
 
 related:
   - bar-chart

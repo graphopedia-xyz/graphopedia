@@ -1,7 +1,8 @@
 ---
 title:  density plot
 
-functions: distribution
+tags:
+  - distribution
 
 related:
   - histogram

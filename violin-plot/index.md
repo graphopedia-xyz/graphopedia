@@ -3,7 +3,8 @@ title:  violin plot
 
 tags:
 
-functions: distribution
+tags: 
+  - distribution
 
 related:
   - box-plot
