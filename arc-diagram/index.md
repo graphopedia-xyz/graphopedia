@@ -16,6 +16,12 @@ tools:
     link:   https://bl.ocks.org/rpgove/53bb49d6ed762139f33bdaea1f3a9e1c
 
 examples:
+  - title:  Major Exporters of Goods to U.S. in 2017
+    author:  The Wall Street Journal
+    link:   https://www.wsj.com/graphics/china-emergence-of-a-trade-leviathan/
+    note:   This 3D arc diagram uses weighted arcs to represent the amount of goods moving between U.S. and other countries
+    image:  major-exporters-of-goods-to-united-states.png
+    
   - title:  Codebases- Millions of Lines of Code
     author: David McCandless 
     link:   https://informationisbeautiful.net/visualizations/million-lines-of-code/

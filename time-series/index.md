@@ -28,13 +28,36 @@ examples:
     author:  Nathan Yau
     link:  https://flowingdata.com/2017/06/26/alone-time
     image:  people-who-are-alone.png
+  
+  - title:  How Americans Spend Their Day
+    author:  The New York Times
+    link:  https://flowingdata.com/2017/06/26/alone-time
+    image:  how-americans-spend-their-day.jpg
 
 ---
 
-is a type of chart that shows discrete data points in chronological order. The most common use case is displaying equally spaces data points and the best fit line. The time is shown on the horizontal scale, progessing from left to right.
+is a type of [line chart](/line-chart) that shows discrete data points in chronological order. The most common use case is displaying equally spaced data points and the line of best fit. The time is plotted on the horizontal axis. Normally, the time is plotted at equal intervals unless the chart covers a very long period of time, in which case a logarithmic scale is used. [^harris]
 
 <!--more-->
+A time series graph consists of two axes, the horizontal and vertical. The X axis represents a time. Time units can cover minutes, hours, days, weeks, and years. The Y axis represents a quantitative value, respectively. The vertical axis can display percentages, ratios, duration and repetition.
+Depending on the underlying data, a time series can be *continuous* or *discrete*. A time series is continuous when observations are recorded and plotted continuously in time, without gaps. A time series is discrete when observations are taken at specific times, even if they are equally spaced. 
+
+## Variations
+Time series variations involve the position of multiple time series relative to others in the same graph space or positioning them in their own graph space but such that it is easy to compare them.[^javed]
+### Stacked time series
+Uses the same graph space to plot multiple time series.
+### Horizon chart
+Uses the concept of *virtual resolution* by limiting the graph space using the bands that make only the part of the graph visible.
+### Braided time series 
+Solves the problem by identifying the intersection points in time where two time series change value ordering.
+
+### Radial time series
+Use polar coordinates instead of the traditional coordinates. It is useful for showing cyclical events.
+
+### Spiral time series
+Uses polar coordinates for events that following a repeating pattern but are not necessarily cyclical.
 
 ## Sources
-1. [Information Graphics A Comprehensive Illustrated Reference, p 917](https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false)
-2. [Time Series Analysis and Forecasting by Muhammad Imdad Ullah](http://itfeature.com/time-series-analysis-and-forecasting/time-series-analysis-forecasting)
+[^harris]:[Robert L. Harris. 1999. Information Graphics: A Comprehensive Illustrated Reference. Oxford University Press, Inc., New York, NY, USA. p. 920](https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false)
+[^javed]: [W. Javed, B. McDonnel and N. Elmqvist, "Graphical Perception of Multiple Time Series," in IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 927-934, Nov.-Dec. 2010.
+ doi: 10.1109/TVCG.2010.162](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)

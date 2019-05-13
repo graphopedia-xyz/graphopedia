@@ -46,18 +46,37 @@ synonyms:
   - treemap chart
 ---
 
-is a type of chart that displays hierarchical data using nested figures, usually rectangles. Any tree map can also be represented as a tree diagram. Each parent node on a tree diagram is represented as a larger rectangle that contains a smaller rectangle that is a child node. This recursive construction allows the tree map to visualize hierarchical data with any number of levels.
+is a type of chart that displays hierarchical data using nested figures, usually rectangles, proportional to the data they represent. The area of each figure represents a data point. Any tree map can also be represented as a [tree diagram](/tree-diagram). 
 
 <!--more-->
+Each *parent node* on a tree diagram is represented as a larger rectangle that contains a smaller rectangle that is a *child node*. This recursive construction allows the tree map to visualize hierarchical data with any number of levels.
 
-## Origin
-This idea was invented by professor Ben Shneiderman at the University of Maryland Human – Computer Interaction Lab in the early 1990s.
+The tree-map is a space-filling type of data visualization allowing for a compact representation of a large dataset.
+The tree map was invented by professor Ben Shneiderman at in the early 1990s as a solution to visualizain of disk space usage. He explained that "Tree structured node-link diagrams grew too large to be useful, so I explored ways to show a tree in a space-constrained layout." [^schneiderman]
+
+Rectangle-based treemaps have two legibility and layout problems:
+1. The overlapping rectangles make it difficult to see the rectangles at the lower layers.
+2. The aspect ratio of rectangles that are made to fit certain space can be make them difficult to see.
+
+Solutions to this problem offer using other figures such as polygons as in Voronoi tree map and circles as in circle tree map. However, even at low data densities reders are able to compare the areas of rectangles faster than the bars of [bar charts](/bar-chart). [^kong]
 
 ## Variations
-- **Voronoi Treemaps** based on Voronoi diagram calculations. 
-- **Jigsaw Treemaps** based on the geometry of space-filling curves. They assume that the weights are integers and that their sum is a square number. The regions of the map are rectilinear polygons and highly non-ortho-convex. Their aspect ratio is guaranteed to be at most 4.
-- **GosperMaps** based on the geometry of Gosper curves. It is ordered and stable, but has a very high aspect ratio.
+
+### Voronoi Treemap
+Voronoi treemaps represent hierarchical data by recursively partitioning polygons using weighted centroidal Voronoi diagrams. The polygon areas represent data the same wey as in the rectangle-based tree map.
+
+###Jigsaw Treemap
+Jigsaw treemap is based on the geometry of space-filling curves. They assume that the weights are integers and that their sum is a square number. The regions of the map are rectilinear polygons and highly non-ortho-convex. Their aspect ratio is guaranteed to be at most 4.
+### Gosper Maps
+ Based on the geometry of Gosper curves. It is ordered and stable, but has a very high aspect ratio.
+
+### Circle Tree Map
+Also called *circle packing*, the circle tree map is functionally the same as the rectangle-based tree map except the human perception fof circles is limited in its ability to judge the area. That is why circle packing is recommended only for communicating the general idea of how the parts of the tree diagram relate to each other.
+
+## Alternative charts
+1. [*Marimekko chart*](/marimekko-chart) uses the area of rectangles positioned along the X and Y axes to represent three variables.
+2. [*Tree diagram*](/tree-diagram) uses nodes and links to show a hierarchical structure.
 
 ## Sources
-1. [Kong, N; Heer, J; Agrawala, M (2010). Perceptual Guidelines for Creating Rectangular Treemaps](https://ieeexplore.ieee.org/document/5613436)
-2. [Treemaps for space-constrained visualization of hierarchies](http://www.cs.umd.edu/hcil/treemap-history/index.shtml)
+[^kong]: N. Kong, J. Heer and M. Agrawala, ["Perceptual Guidelines for Creating Rectangular Treemaps"](https://ieeexplore.ieee.org/document/5613436) in IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 990-998, Nov.-Dec. 2010. doi: 10.1109/TVCG.2010.186s
+[^schneiderman]: Shneiderman, Ben. [“Treemaps for space-constrained visualization of hierarchies.”](http://www.cs.umd.edu/hcil/treemap-history/index.shtml) (2005).

@@ -58,6 +58,7 @@ examples:
 synonyms:
   - kernel density plot
   - kernel density estimates
+  - density trace
 
 ---
 
