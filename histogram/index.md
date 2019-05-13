@@ -88,6 +88,10 @@ Histograms are similar to the [density plot](/density-plot) and its bandwidth. B
 
 Histograms show raw data that is not grouped or categorized, other than binned. The vertical axis frequency - the number of data points that appear in a bin. The bin size is the tool that groups data points such that they could be represented as a single bar. The larger the bin size, the less accurate the value of each bar, at the same time, the more normal the distribution as a whole. Smaller bin size leads to more accurate individual bars and more irregular overall shape of the graph. To learn how raw data is transformed into a histogram and how the bin size affects teh shape of the histogram, see this [interactive visualization on how histograms work](http://tinlizzie.org/histograms).
 
+## Variations
+### Two-way histogram
+Two-ways histograms are also known as a *pyramid graph* or a *population pyramid* when used ni the context of polutation statistics. The histograms use both sizes of teh Y axis, with the left side showing mirroing the right side in function rather than showing negative values.
+
 ## Alternatives
 The alternatives to the histogram, the chart synonymous with distribution, are going to be other charts that show distribution.
 The general trade off between distribution charts is that the more individual data points we see, the less the overall pattern is clear, and vice versa. The charts below are somewhere along the spectrum from the more detailed to the more general.

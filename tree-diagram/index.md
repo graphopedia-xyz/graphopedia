@@ -43,16 +43,33 @@ synonyms:
 
 ---
 
-represents a series of independent events or conditional probabilities. Each node represents an event. Each parent node precedes its child nodes in sequence and its sibling nodes represents events of the same importance or occurring at the same time. The chart is named for its resemblance to a tree even those the most common tree diagrams direct the tree upside down or to the side.
+represents a series of independent events or conditional probabilities. Each node represents an event. Each parent node precedes its child nodes in the sequence and its sibling nodes represents events of the same level of hierarchy or occurring at the same time. The chart is named for its resemblance to a tree even those the most common tree diagrams direct the tree upside down or to the side.
 
 <!--more-->
+A tree diagram usually starts with a single event or person that represents the top of the hierarchy. It is connected the the lower level of the hierarchy by a *path*, also called *connector*, *branch*, *connecting line*, *link* or *arm*. The point at which a path subdivides is called a *node* or *junction*. Nodes are sometimes organized by level of hierarchy, for example to show level of management or supply chain.
 
-## Use Cases
-Tree diagrams are used to show hierarchies without numeric values attached to any of the members. There non-numeric types of charts include:
-1. Organization charts - showing the organizational structure of a company or an institution
-2. Family trees - showing the ancestors or descendants
-3. Classification - showing a taxonomy of categories in a given field
+Tree diagrams can have these orientations:
+1. *divergent* - starting with one node and branching out into many
+2. *convertent* - starting with many and merging into one
+3. *radial* - showing the top of the hierarchy at the center of a circle with the lower levels that branch out.[^harris]
+
+Additionally, a tree diagram can be orientated horizontally or vertically. The horizontal tree diagram is read from left to right. The vertical tree diagram run from top to bottom.
+
+The connecting lines can take on different forms: straight line, arc, or berzier curve. The nodes can be represented as different symbols: rectangles, circles or a slylized symbol.
+
+The tree diagram is often slylized or illustrated to resemble trees, rivers, or other objects. [^lima]
+
+## Variations
+
+### Radial tree diagram
+Orients the tree radially with the top of the hierarchy shown at the center of the circle and lower levels of the hierarchy branching out.
+### Organization charts 
+Also known as *org charts*, organization charts show the organizational structure of a company or an institution starting with the top of the hierarchy at the vertically and branching downward or outward to show the lower levels of hierarchy.
+### Family trees
+Also known as *geneology trees*, family trees show the ancestors or descendants starting from a single person or a pair of people.
+### Taxonomy trees
+Show a taxonomy of categories in a given field.
 
 ## Sources
-1. [Information Graphics A Comprehensive Illustrated Reference, p 917](https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false)
-2. [Jacques Bertin, Semiology of Graphics, 1983, University of Wisconsin Press]()
+[^harris]: for a general definition of tree diagrams, see Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 927
+[^lima]: You can find numerous illustrated tree diagrams in this compendium *The Book of Trees: Visualizing Branches of Knowledge.* By Manuel Lima. New York: Princeton Architectural Press, 2014.

@@ -35,10 +35,15 @@ synonyms:
   - tag cloud
 ---
 
-is a type of information visualizations that uses font size and color to represent word frequency in a text. Word cloud can be used as an interface for browsing the web as well as a form of data visualization.
+is a type of information visualization that uses font size and color to represent word frequency in a text. 
 
 <!--more-->
+Word clouds can be arranged by alphabet, by frequency, or by chronology. The orintation of the words can be horizontal, vertical, or mixed.
 
+Word clouds are used as interface for web browsing as well as a form of data visualization. The effectiveness of different types of word cloud structure has been studied in the context of interfaces. It was found that people can find the correct word in a cloud fastest when it is organized alphabetically.[^halvey]
+
+
+The word cloud has been criticized as a type of data visualization for giving a skewed view of the data set it represents because words cloud substitute the data about an event with what is being said about it.[^harris]
 ## Sources
-1. [An Assessment of Tag Presentation Techniques](http://www2007.org/htmlposters/poster988/)
-2. [Improving Tag-Clouds as Visual Information Retrieval Interfaces](http://www.yusef.es/improving_tagclouds.pdf)
+[^halvey]: Discussion of other types of word cloud and their effectiveness *Halvey, Martin & Keane, Mark. (2007). [An assessment of tag presentation techniques.](http://www2007.org/htmlposters/poster988/) 16th International World Wide Web Conference, WWW2007. 1313-1314. 10.1145/1242572.1242826.*
+[^harris]: Discussion of problems with word clouds in data journalism context and the alternative visualization types *Harris, Jacob [Word clouds considered harmful](https://www.labor.ucla.edu/wp-content/uploads/2015/03/word-clouds-harmful.pdf) in Nieman Journalism Lab from October 13, 2011. Retrieved May 10, 2019.*

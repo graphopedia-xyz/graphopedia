@@ -1,54 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1200px" height="911px" viewBox="0 0 1200 911" enable-background="new 0 0 1200 911" xml:space="preserve">
+	 viewBox="0 0 1723.9 1195.9" style="enable-background:new 0 0 1723.9 1195.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#514361;}
+	.st1{font-family:'RobotoMono-Regular';}
+	.st2{font-size:40px;}
+	.st3{enable-background:new    ;}
+	.st4{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+	.st5{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,11.2706;}
+	.st7{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9545;}
+	.st8{fill:none;stroke:#C4C4C4;stroke-width:2;stroke-miterlimit:10;}
+	.st9{fill:#D1D1D1;}
+	.st10{font-family:'RobotoCondensed-Regular';}
+	.st11{font-size:37.6196px;}
+	.st12{fill:#EBEBEB;}
+	.st13{fill:#BFBFBF;}
+	.st14{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9494;}
+	.st15{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.2492;}
+</style>
 <g>
 	<g>
 		<g>
-			
-				<line fill="none" stroke="#464A90" stroke-width="28.0312" stroke-miterlimit="10" x1="749.5" y1="380.508" x2="763.516" y2="380.508"/>
-			
-				<line fill="none" stroke="#464A90" stroke-width="28.0312" stroke-miterlimit="10" stroke-dasharray="26.3824,30.7794" x1="794.295" y1="380.508" x2="1121.876" y2="380.508"/>
-			
-				<line fill="none" stroke="#464A90" stroke-width="28.0312" stroke-miterlimit="10" x1="1137.266" y1="380.508" x2="1151.281" y2="380.508"/>
+			<text transform="matrix(1 0 0 1 263.2349 56.4107)" class="st0 st1 st2">timestamp</text>
 		</g>
 	</g>
-	<line fill="none" stroke="#464A90" stroke-width="28.0312" stroke-miterlimit="10" x1="58" y1="380.192" x2="787" y2="380.192"/>
-	<circle fill="#464A90" cx="425.583" cy="380.508" r="56.062"/>
-	<circle fill="#464A90" cx="76.75" cy="380.508" r="56.062"/>
-	<circle fill="#464A90" cx="1123.25" cy="380.508" r="56.062"/>
-	<circle fill="#464A90" cx="774.417" cy="380.508" r="56.062"/>
-	<rect x="2" y="492.192" fill="#AFAFAF" width="150" height="56"/>
-	<rect x="351" y="492.192" fill="#AFAFAF" width="150" height="56"/>
-	<rect x="700" y="492.192" fill="#AFAFAF" width="149" height="56"/>
-	<rect x="1048" y="492.192" fill="#AFAFAF" width="150" height="56"/>
 	<g>
-		<text transform="matrix(1 0 0 1 69.3534 58.1485)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">timestamp</text>
+		<g>
+			<text transform="matrix(1 0 0 1 513.6504 518.4107)" class="st0 st1 st2">time scale</text>
+		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 711.7362 812.6563)"><tspan x="0" y="0" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">change in rate</tspan><tspan x="0" y="78" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">of time passage</tspan></text>
+		<g>
+			<text transform="matrix(1 0 0 1 64.638 187.9037)" class="st3"><tspan x="0" y="0" class="st0 st1 st2">event </tspan><tspan x="-60" y="48" class="st0 st1 st2">description</tspan></text>
+		</g>
 	</g>
+	<line class="st4" x1="369.9" y1="211.3" x2="369.9" y2="90.3"/>
 	<g>
-		<text transform="matrix(1 0 0 1 359.7894 891.2755)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">label</text>
+		<g>
+			<line class="st5" x1="897.5" y1="432.2" x2="897.5" y2="432.2"/>
+			<line class="st6" x1="897.5" y1="443.5" x2="897.5" y2="460.4"/>
+			<line class="st5" x1="897.5" y1="466" x2="897.5" y2="466"/>
+			<line class="st7" x1="887.5" y1="466" x2="374.9" y2="466"/>
+			<line class="st5" x1="369.9" y1="466" x2="369.9" y2="466"/>
+			<line class="st6" x1="369.9" y1="454.8" x2="369.9" y2="437.9"/>
+			<line class="st5" x1="369.9" y1="432.2" x2="369.9" y2="432.2"/>
+		</g>
 	</g>
+</g>
+<path class="st8" d="M368.5,317.1h1153.3c94.7,0,171.4,76.7,171.4,171.4s-76.7,171.4-171.4,171.4H212.6
+	c-97.2,0-176.2,78.8-176.2,176.2c0,97.2,78.8,176.2,176.2,176.2h1136.9"/>
+<text transform="matrix(1 0 0 1 333.1592 613.3513)" class="st9 st10 st11">2008</text>
+<text transform="matrix(1 0 0 1 862.9062 271.1315)" class="st9 st10 st11">2000</text>
+<text transform="matrix(1 0 0 1 1411.9238 271.1315)" class="st9 st10 st11">2002</text>
+<path class="st12" d="M761.4,364.6h81.5v27.2h-81.5V364.6z"/>
+<path class="st12" d="M865.9,364.6h167.2v27.2H865.9V364.6z"/>
+<path class="st12" d="M1351.6,364.6h194.8v27.2h-194.8V364.6z"/>
+<path class="st12" d="M219.7,707.3h152.6v27.2H219.7V707.3z"/>
+<path class="st12" d="M395.2,707.3h123.3v27.2H395.2V707.3z"/>
+<text transform="matrix(1 0 0 1 234.0282 965.236)" class="st9 st10 st11">2012</text>
+<text transform="matrix(1 0 0 1 783.2861 965.236)" class="st9 st10 st11">2014</text>
+<text transform="matrix(1 0 0 1 1313.4989 965.236)" class="st9 st10 st11">2016</text>
+<g>
+	<circle class="st13" cx="368.5" cy="660.5" r="15.7"/>
+	<text transform="matrix(1 0 0 1 333.1592 268.8529)" class="st9 st10 st11">1998</text>
+	<path class="st12" d="M219.7,362.8h152.6V390H219.7V362.8z"/>
+	<path class="st12" d="M395.2,362.8h123.3V390H395.2V362.8z"/>
+	<circle class="st13" cx="368.5" cy="316" r="15.7"/>
+	<circle class="st13" cx="897.5" cy="317.7" r="15.7"/>
+	<circle class="st13" cx="1447.5" cy="317.7" r="15.7"/>
+	<circle class="st13" cx="270.5" cy="1012" r="15.7"/>
+	<circle class="st13" cx="820.3" cy="1012" r="15.7"/>
+	<circle class="st13" cx="1349.5" cy="1012" r="15.7"/>
+</g>
+<path class="st12" d="M173.5,1058.6h194.4v27.2H173.5V1058.6z"/>
+<path class="st12" d="M675.1,1058.6h98.2v27.2h-98.2V1058.6z"/>
+<path class="st12" d="M794.2,1058.6h171.4v27.2H794.2V1058.6z"/>
+<path class="st12" d="M1232.7,1058.6h48.1v27.2h-48.1V1058.6z"/>
+<path class="st12" d="M1303.8,1058.6h165.1v27.2h-165.1V1058.6z"/>
+<g>
 	<g>
-		<text transform="matrix(1 0 0 1 522.6215 693.5235)" fill="#7F7F7F" font-family="'Roboto-Regular'" font-size="65px">scale</text>
+		<line class="st5" x1="185.9" y1="379.2" x2="185.9" y2="379.2"/>
+		<line class="st14" x1="175.9" y1="379.2" x2="141.1" y2="379.2"/>
+		<line class="st5" x1="136.1" y1="379.2" x2="136.1" y2="379.2"/>
+		<line class="st15" x1="136.1" y1="369" x2="136.1" y2="261.4"/>
+		<line class="st5" x1="136.1" y1="256.3" x2="136.1" y2="256.3"/>
 	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 22.6185 273.1458)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.7188px">1884</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 371.663 273.1458)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.7188px">1984</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 714.6385 273.1458)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.7188px">2084</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 1063.5878 273.1458)" fill="#37246D" font-family="'Roboto-Medium'" font-size="46.7188px">3084</text>
-	</g>
-	<polyline fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" points="77,212 77,91 382,91 	"/>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="950" y1="733" x2="950" y2="438"/>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="600" y1="630" x2="600" y2="438"/>
-	<line fill="none" stroke="#AFAFAF" stroke-width="8" stroke-miterlimit="10" x1="426" y1="815" x2="426" y2="628"/>
 </g>
 </svg>
