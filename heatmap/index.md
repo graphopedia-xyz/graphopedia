@@ -1,7 +1,8 @@
 ---
 title:  heatmap
 
-functions:  correlation
+tags:
+  - correlation
 
 related:
   - dendrogram

@@ -1,8 +1,9 @@
 ---
 title: box plot
 
-functions: distribution
-
+tags:
+  - distribution
+  
 related:
   - violin-plot
 
