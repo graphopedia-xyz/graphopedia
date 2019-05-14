@@ -1,5 +1,5 @@
 ---
-title:  Isotype diagram
+title:  pictogram chart
   
 tags:
 
@@ -50,6 +50,7 @@ synonyms:
   - icon chart
   - pictorial chart
   - pictograph chart
+  - ISOTYPE chart
 
 ---
 

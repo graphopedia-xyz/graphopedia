@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 905 344" style="enable-background:new 0 0 905 344;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.4;fill:#CA9F9B;enable-background:new    ;}
+	.st1{opacity:0.4;fill:#968BAF;enable-background:new    ;}
+	.st2{opacity:0.2;fill:#F2836D;enable-background:new    ;}
+	.st3{opacity:0.4;fill:#FEDEB8;enable-background:new    ;}
+</style>
+<g id="Layer_1_1_">
+	<g>
+		
+			<ellipse transform="matrix(0.5734 -0.8193 0.8193 0.5734 150.4008 594.3815)" class="st0" cx="645.9" cy="152.8" rx="95.3" ry="185.9"/>
+		
+			<ellipse transform="matrix(0.481 -0.8767 0.8767 0.481 107.6933 581.6171)" class="st1" cx="545.1" cy="199.8" rx="93.1" ry="181.7"/>
+		
+			<ellipse transform="matrix(0.8193 -0.5734 0.5734 0.8193 25.2724 385.7706)" class="st2" cx="624.6" cy="152.8" rx="185.9" ry="95.3"/>
+		
+			<ellipse transform="matrix(0.8767 -0.481 0.481 0.8767 -6.2572 373.9934)" class="st3" cx="726.5" cy="199.2" rx="181.7" ry="93.1"/>
+	</g>
+</g>
+<g>
+	<circle class="st1" cx="127.7" cy="222.6" r="105.2"/>
+	<circle class="st3" cx="232.8" cy="222.6" r="105.2"/>
+	<circle class="st0" cx="127.2" cy="117.4" r="105.2"/>
+	<circle class="st2" cx="233.2" cy="117.4" r="105.2"/>
+</g>
+</svg>
