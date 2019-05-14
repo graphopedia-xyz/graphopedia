@@ -1,5 +1,5 @@
 ---
-title:  line chart
+title:  line graph
 
 tags:
 
@@ -31,7 +31,7 @@ examples:
     image:  most-popular-fields-of-study-since-1970.png
 
 synonyms: 
-  - line graph
+  - line chart
   - line plot
 
 ---
