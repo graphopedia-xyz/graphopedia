@@ -1,8 +1,6 @@
 ---
 title:  violin plot
 
-tags:
-
 tags: 
   - distribution
 

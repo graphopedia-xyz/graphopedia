@@ -37,16 +37,21 @@ examples:
     author:  Anna Vital
     link:  https://blog.adioma.com/what-is-an-infographic/
     image:  what-is-an-infographic.png
-
-  - title:  Real Number Set Diagram 
-    author:  Keith Enevoldsen
-    link:  http://thinkzone.wlonk.com/Numbers/NumberSets.pdf
-    image:  number-set-euler.png
+    
+  - title:  Shared Letters Between 3 Alphabets
+    author: Mark Vital 
+    link:   https://commons.wikimedia.org/wiki/File:Venn_diagram_gr_la_ru.svg  
+    image:   shared-letters-between-the-alphabets.png
 
   - title:  Ikigai
     author:  David McCandless
     link:  https://informationisbeautiful.net/visualizations/ikigai-japanese-concept-to-enhance-work-life-sense-of-worth
     image:  ikigai-diagram.png
+    
+  - title:  Real Number Set Diagram 
+    author:  Keith Enevoldsen
+    link:  http://thinkzone.wlonk.com/Numbers/NumberSets.pdf
+    image:  number-set-euler.png
 
 synonyms: 
   - set diagram
