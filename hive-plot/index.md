@@ -20,6 +20,7 @@ examples:
   - title:  Genes of Interest
     author: Martin Krzywinski
     link:   http://www.hiveplot.com/img/web-title-large.png
+    image:  genes-of-interest.png
 
 ---
 

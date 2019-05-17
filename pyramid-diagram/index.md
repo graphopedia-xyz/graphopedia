@@ -47,6 +47,12 @@ Even though some software programs create pyramid charts based on numeric data, 
 
 Some of the most well-known pyramid charts in science are the Maslow's hierarchy of needs and the USDA Food Guide Pyramid published in 1992. 
 
+The [population pyramid](population-pyramid) chart is a similarly names but unrelated chart that is a dual histogram, usually used for showing population trends.
+
+##Alternatives 
+
+1. [*Tornado chart*](/bar-chart#variations) is a type of bar chart that with bars sorted in ascending or descending order which creates the shape of a pyramid.
+
 ## Sources
 [^su]: [Yu-Sung Su, It’s easy to produce chartjunk using Microsoft®Excel 2007 but hard to make good graphs, Computational Statistics & Data Analysis, Volume 52, Issue 10, 2008, pp. 4594-4601,]()
 [^solon]: [Solon, C. (1980). The Pyramid Diagram: A College Study Skills Tool. Journal of Reading, 23(7), 594-597.](http://www.jstor.org/stable/40017000)

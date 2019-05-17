@@ -111,7 +111,7 @@ In either case, there are many ways to substitute a bar chart with another chart
 4. [*Bullet chart*](/bullet-chart) functionally the same as a bar chart, the bullet chart adds a symbol for the target value and a progress bar.
 5. *Slope graph* is an alternative to a stacked bar chart. A slope graph shows the relationship between two sets of categories.
 
-The need to find an alternative to a bar chart sometimes leads people to substitute it with a chart that is not functionally the same, for example, the pie chart, the bubble or the histogram. For this reason, it is important to look for an alternative that is functionally the same.[citation needed]
+The need to find an alternative to a bar chart sometimes leads people to substitute it with a chart that is not functionally the same, for example, the pie chart, the bubble or the histogram. For this reason, it is important to look for an alternative that is functionally the same.
 
 ## References
 [^harris]: [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)

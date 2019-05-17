@@ -63,7 +63,7 @@ And arc diagram consists of nodes, arcs, and an axis. The number of arc connecti
 <!--more-->
 
 In 1964, mathematician Thomas Saaty proposed the first version of the arc diagram for the purpose of showing intersecting numbers.[^4] In 2001, the arc diagram was popularized by Martin Wattenberg who diagrammed songs in his project *The Shape of Song*.[^5]
-## Purpose
+
 The main purpose of an arc diagram is in revealing the connections between a set of values and the clusters that they might form.
 
 Arc diagram nodes can be spaced along the axis either equidistantly based only on design considerations or based on data, for example, representing time that elapsed between events or geo-spatial distance represented by nodes.[^6]
@@ -72,7 +72,6 @@ The order in which nodes appear on the axis is called <dfn>node seriation</dfn>.
 Arcs can have a direction and a weight. Directional arcs can be either uni- or bi-directional. Arc weight shows
 the strength of connections between nodes. Weighted arcs tend to reveal clusters of connections between nearby nodes.
 
-## Usage
 Arc diagrams are usually drawn on a horizontal line with the arcs facing upward[^7]. Although an arc diagram is not as effective at conveying the overall structure of data as a two-dimensional layout would be, it is possible to order the nodes in a way that reveals the clusters.
 Arc connections are usually designed as semi-circles or bezier
 curves, the latter being move space saving. Color and transparency can serve as visual encoding.
@@ -81,12 +80,13 @@ Arc diagrams can be integrated with other charts, for example a bar chart or a b
 
 Arcs can be located on one or both sides of the axis.
 
-In visualizations made for the web, showing more than about a hundred nodes is impractical.
+Any arc diagram can be represented as a [network diagram](/network-diagram)
+![Network diagram and arc diagram of the same data set](network-diagram-arc-diagram-comparison.png)
 
 ## Alternatives
 [Hive plot](/hive-plot) - hive plots are essentially arc diagrams with multiple axes. When there is a need to display connections between different categories of nodes, the hive plot can be an alternative to constructing multiple arc diagrams.
 
-Network diagram - functionally the same as an arc diagram, network diagrams use two-dimentional space which makes them easier to perceive as long as they are uncluttered.
+[Network diagram](/network-diagram) - functionally the same as an arc diagram, network diagrams use two-dimensional space which makes them easier to read as long as they are uncluttered.
 
 ## References
 [^1]: ["Visual Exploration of Multivariate Graphs" by Martin Wattenberg, IBM Research](http://hint.fm/papers/pivotgraph.pdf)

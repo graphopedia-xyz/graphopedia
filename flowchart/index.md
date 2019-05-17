@@ -42,7 +42,7 @@ synonyms:
   
 ---
 
-is a graphic way of representing the *sequence* of any operation using nodes and links. [^henderson] "Flowchart" is a general name for both technical diagrams such as a block scheme and general purpose diagrams. [^chapin]
+is a graphic way of representing the *sequence* of any *operation* using nodes and links. [^henderson] "Flowchart" is often used a generic name for both technical diagrams such as a block scheme and general-purpose diagrams with connectors. [^chapin]
 
 <!--more-->
 Flowcharting is used to illustrate programs and algorithms. A standardized system of flowchart symbols is used for this purpose.[^myler] It includes blocks of various shapes to represent input/output, conditional statements, etc. 
