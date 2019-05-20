@@ -14,6 +14,11 @@ tools:
     link:   https://products.office.com/en/powerpoint
 
 examples:
+  - title:  The Longest Government Shutdown
+    author: The New York Times
+    link:   https://www.nytimes.com/interactive/2019/01/09/us/politics/longest-government-shutdown.html?mtrref=www.datavizdoneright.com
+    image:  longest-government-shutdown.png
+ 
   - title:  Abandoned Railways in Italy
     author:  Michela Lazzaroni
     link:  https://www.behance.net/gallery/57612475/Rails-La-Lettura-306-dataviz
@@ -29,8 +34,7 @@ examples:
     link:   https://www.unbounded.org/downloads/8377
     image:  algebra-problem.png
  
- 
-    
+
     
 
 synonyms:
