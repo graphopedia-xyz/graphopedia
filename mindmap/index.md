@@ -47,11 +47,9 @@ examples:
     image:  concept-map-novak.png
 
 synonyms:
-  - concept map
   - spider diagram
 
 ---
-
 is a type of knowledge representation that shows concepts as nodes and links between them as connecting lines forming an overall outward-branching hierarchical structure.[^plotnik] A mind map usually starts from a single concept at the center of the image. Major ideas are connected directly to the central concept, and minor ideas branch out from those major ideas. Mind maps are used to as a mnemonic technique for facts and their interconnections.
 
 <!--more-->
