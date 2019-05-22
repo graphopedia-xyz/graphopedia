@@ -24,11 +24,6 @@ examples:
     author:  Nathan Yau
     link:   https://flowingdata.com/2016/03/30/divorce-rates-for-different-groups/
     image:  divorce-rates-for-different-groups.png
-  
-  - title:  Most Popular Fields of Study, Since 1970
-    author:  Nathan Yau
-    link:   https://flowingdata.com/2016/12/07/fields-of-study-ranked-over-past-few-decades/
-    image:  most-popular-fields-of-study-since-1970.png
 
 synonyms: 
   - line chart
@@ -51,8 +46,8 @@ The first line chart appeared in 1786 in *The Commercial and Political Atlas* by
  A *line of best fit* is sometimes drawn on the line graph to show data points that fit a trend in the data. [^rosen]
  
  
-
-
+##Alternative
+1. [*Bump chart*](/bump-chart) shows categories ordered by ranking through time.
 
 ## Sources
 [^rosen]: [The Rosen Comprehensive Dictionary of Math](https://books.google.fr/books?id=i8sjJ1pFgIEC)
