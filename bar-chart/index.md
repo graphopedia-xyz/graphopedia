@@ -87,19 +87,34 @@ Bars can be ordered or unordered.
 Bars can be grouped and stacked. Bars can be oriented around a radial layout making a radial bar chart. The shape of the bar can be substituted with other shapes, as in a lollipop chart.
 
 ### Grouped bar chart
- Grouped bar charts show two or more data series where their respective bars are displayed side by side. This types of chart can also be called a "clustered bard chart" or a "multiple bar chart". In this types of chart the bars must be kept the same width since the chart can only show the difference in the height of the bars, not the area.
+<img src="grouped-bar-chart.svg" alt="grouped bar chart" class="f-right-half" /> Grouped bar charts show two or more data series where their respective bars are displayed side by side. This types of chart can also be called a "clustered bard chart" or a "multiple bar chart". In this types of chart the bars must be kept the same width since the chart can only show the difference in the height of the bars, not the area.
 
 ### Stacked bar chart
-  Stacked bar chart shows two or more (but in practice the number is quite limited) where each respective bar is stacked on top of the other along the vertical axis.
-
-### Radial bar chart
-  Radial bar chart positions the bars along a rounded X axis. Rounded charts are known to be harder to interpret for the human eye than the linear variation.[^thudt]
-
-### Lollipop chart
-  Lollipop chart replaces a bar with a line and a dot at the far end. Lollipop charts may be useful in situations when there are a lot of data points and bars would be either too thin to read or too wide to fit.
+<img src="stacked-bar-chart.svg" alt="stacked bar chart" class="f-right-half" /> Stacked bar chart shows two or more (but in practice the number is quite limited) where each respective bar is stacked on top of the other along the vertical axis.
 
 ### Tornado chart
-  Tornado chart also known as *tornado diagram* is a bar chart with horizontally orientated bars where bars are ordered such that the longest is at the top and the shortest as the bottom, creating a funnel-like shape.
+<img src="tornado-chart.svg" alt="tornado chart" class="f-right-half" /> Tornado chart also known as *tornado diagram* is a bar chart with horizontally orientated bars where bars are ordered such that the longest is at the top and the shortest as the bottom, creating a funnel-like shape.
+
+### Span chart
+<img src="span-chart.svg" alt="span chart" class="f-right-half" /> Span chart (also known as *range bar chart*, *range column chart*, *floating bar chart*/bar graph) is ...
+
+### Lollipop chart
+<img src="lollipop-chart.svg" alt="lollipop bar chart" class="f-right-half" /> Lollipop chart (also known as *lollipop plot*) replaces a bar with a line and a dot at the far end. Lollipop charts may be useful in situations when there are a lot of data points and bars would be either too thin to read or too wide to fit.
+
+### Dumbbell chart
+<img src="dumbbell-chart.svg" alt="dumbbell chart" class="f-right-half" /> Dumbbell chart (also known as *Dumbbell plot*, *Connected dot plot*) is a variation of lollipop chart...
+
+### Circular bar chart
+Circular bar chart positions the bars along a rounded X axis. Rounded charts are known to be harder to interpret for the human eye than the linear variation.[^thudt]
+<img src="circular-bar-chart.svg" alt="cirular bar charts" class="f-full" /> 
+
+### Radial bar chart
+Radial bar chart (also known as *radial column chart*, *polar bar chart*)...
+<img src="radial-bar-chart.svg" alt="radial bar charts" class="f-full" />
+
+### Spiral bar chart
+<img src="spiral-bar-chart.svg" alt="spiral bar charts" class="f-right-half" /> Spiral bar chart (also known as *spiral column chart*) ...
+
 
 ## Alternatives
 The bar chart being the default choice of a chart, there is often a need to find an alternative. Sometimes the need comes from the data and other times it si an editorial decision made with the purpose of diversifying charts in an article or a report to make each more memorable. 
