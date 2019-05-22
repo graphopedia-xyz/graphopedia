@@ -47,7 +47,6 @@ examples:
 synonyms:
   - ridgeline plot
   - ridgeplot
-  - density trace
 
 ---
 shows distribution of a numeric value for several categories over time or at equal intervals. Joy plots are used to compare distributions. 
