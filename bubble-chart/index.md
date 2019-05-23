@@ -36,11 +36,10 @@ examples:
     image:  national-debt-comparison.png
 
   - title:  Debt Around the World 
-    author:  IMF
+    author: IMF
     note:
-    link:  https://blogs.imf.org/2019/01/02/new-data-on-global-debt/
+    link:   https://blogs.imf.org/2019/01/02/new-data-on-global-debt/
     image:  national-debt.png
-
 
   - title:  Fortune 500 Through The Ages
     author: Nicolas Rapp
@@ -49,9 +48,9 @@ examples:
     image:  age-of-500.png
  
   - title:  China Overseas Investment
-    author:  Alberto Lucas Lopez
+    author: Alberto Lucas Lopez
     note:
-    link: 
+    link:   https://multimedia.scmp.com/china-overseas-investments/
     image:  china-overseas-investment.png
  
   - title:  The Language of the State of the Union
@@ -85,8 +84,8 @@ examples:
     image:  married-sex.png
 
   - title:  Money Race and Success
-    author:  The New York Times
-    link:  https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html?mtrref=undefined&mtrref=www.nytimes.com
+    author: The New York Times
+    link:   https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html?mtrref=undefined&mtrref=www.nytimes.com
     image:  school-district-income-race-success.png
 
 synonyms:

@@ -1,0 +1,82 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 width="650px" height="290px" viewBox="0 0 650 290" enable-background="new 0 0 650 290" xml:space="preserve">
+<style>
+  text {
+    font-family: 'Roboto Mono';
+    font-size: 14px;
+    fill: #9e9e9e;
+  }
+</style>
+<g transform="translate(100,20)">
+	<rect x="171.3" y="-8.9" fill="#989898" width="359" height="36.5"/>
+	<rect x="-42.4" y="-8.9" fill="#CBCBCB" width="213.6" height="36.5"/>
+	<rect x="171.3" y="31.3" fill="#989898" width="318.9" height="36.5"/>
+	<rect x="12.7" y="31.3" fill="#CBCBCB" width="158.6" height="36.5"/>
+	<rect x="171.3" y="71.4" fill="#989898" width="217.1" height="36.5"/>
+	<rect x="57.6" y="71.4" fill="#CBCBCB" width="113.6" height="36.5"/>
+	<rect x="171.3" y="111.5" fill="#989898" width="142.3" height="36.5"/>
+	<rect x="90.6" y="111.5" fill="#CBCBCB" width="80.7" height="36.5"/>
+	<rect x="171.3" y="151.7" fill="#989898" width="52.3" height="36.5"/>
+	<rect x="129.6" y="151.7" fill="#CBCBCB" width="41.7" height="36.5"/>
+	<rect x="171.3" y="191.8" fill="#989898" width="21.3" height="36.5"/>
+	<rect x="144.6" y="191.8" fill="#CBCBCB" width="26.7" height="36.5"/>
+	<g transform="translate(0,140)">
+		<g transform="translate(11.428571428571427,0)">
+			<text transform="matrix(1 0 0 1 -80.9833 123.3347)">-20</text>
+		</g>
+		<g transform="translate(68.57142857142857,0)">
+			<line fill="none" stroke="#888888" stroke-width="1.2281" x1="-0.1" y1="97.4" x2="-0.1" y2="105.4"/>
+			<text transform="matrix(1 0 0 1 -12.6769 123.3347)">-10</text>
+		</g>
+		<g transform="translate(125.71428571428571,0)">
+			<line fill="none" stroke="#888888" stroke-width="1.2281" x1="47" y1="97.4" x2="47" y2="105.4"/>
+			<text transform="matrix(1 0 0 1 42.69 123.3347)">0</text>
+		</g>
+		<g transform="translate(182.85714285714283,0)">
+			<line fill="none" stroke="#888888" stroke-width="1.2281" x1="94.2" y1="97.4" x2="94.2" y2="105.4"/>
+			<text transform="matrix(1 0 0 1 85.5735 123.3347)">10</text>
+		</g>
+		<g transform="translate(240,0)">
+			<line fill="none" stroke="#888888" stroke-width="1.2281" x1="141.3" y1="97.4" x2="141.3" y2="105.4"/>
+			<text transform="matrix(1 0 0 1 132.6914 123.3347)">20</text>
+		</g>
+		<g transform="translate(297.14285714285717,0)">
+			<line fill="none" stroke="#888888" stroke-width="1.2281" x1="188.4" y1="97.4" x2="188.4" y2="105.4"/>
+			<text transform="matrix(1 0 0 1 179.8093 123.3347)">30</text>
+		</g>
+		<path fill="none" stroke="#888888" stroke-width="1.2281" d="M-56.6,105.4v-7.9h594.9"/>
+	</g>
+	<g transform="translate(68.57142857142857,0)">
+		<g transform="translate(0,15)">
+			<g>
+				<text transform="matrix(1 0 0 1 -144.6818 1.3747)">F</text>
+			</g>
+		</g>
+		<g transform="translate(0,37)">
+			<g>
+				<text transform="matrix(1 0 0 1 -144.6818 19.5154)">E</text>
+			</g>
+		</g>
+		<g transform="translate(0,59)">
+			<g>
+				<text transform="matrix(1 0 0 1 -144.6818 37.656)">D</text>
+			</g>
+		</g>
+		<g transform="translate(0,81)">
+			<g>
+				<text transform="matrix(1 0 0 1 -144.6818 55.7966)">C</text>
+			</g>
+		</g>
+		<g transform="translate(0,103)">
+			<g>
+				<text transform="matrix(1 0 0 1 -144.6818 73.9372)">B</text>
+			</g>
+		</g>
+		<g transform="translate(0,125)">
+			<g>
+				<text transform="matrix(1 0 0 1 -145.9313 92.0769)">A</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
