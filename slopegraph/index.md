@@ -32,9 +32,15 @@ examples:
     link:   https://flowingdata.com/2016/12/07/fields-of-study-ranked-over-past-few-decades/
     image:  latin-america-competitiveness.png
 
+  - title: Missing Opportunities
+    author:  The Economist
+    link:   https://www.economist.com/graphic-detail/2018/09/20/citizens-basic-needs-are-being-met-but-they-lack-opportunities
+    image:  social-progress.png
+
+
 
 ---
-is a type of [line graph](/line-graph) for multiple categories with only two data points. Slopegraphs are a way of showing change along two axes by means of a connecting line and comparing those changes across multiple categorise. 
+is a type of [line graph](/line-graph) for multiple categories that are ranked, usually over time or at equal intervals . Slopegraphs are a way of showing change along two axes by means of a connecting line and comparing those changes across multiple categories. 
 
 <!--more-->
 Slopegraphs were introduced by Edward Tufte in his book *The Visual Display of Quantitative Information* (1983), calling is a "table-graphic" that organizes data both vertically and horizontally. 
