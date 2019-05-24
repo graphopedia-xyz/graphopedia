@@ -50,12 +50,19 @@ Pie charts should not be used to represent sums of parts where the sum is not me
  
  Pie charts are one of the most popular types of data visualization,[^] likely to human predisposition towards circles and radiating patterns.[^lima]
 
+
 ## Variations
 Many stylistic variations of the pie chart exist. Since the size a segment of a circle is difficult for a human eye to compare, techniques such as exploding the pie chart try to separate the segments for easier comparison. However, there is evidence that distorting the basic pie chart only makes reading it more difficult. [^kosara]
 
-1. **Doughnut chart** is a pie chart with the center cut. Doughnut charts are used to reduce the amount on ink on a page, especially when showing many pie charts side by side.
-2. **Exploded pie chart** is a stylistic variation of pie chart with one or several of the wedges shifted equally outward from the center. The intended effect is emphasis of the size of the "exploded" wedge. However, this technique may be counter-productive since stand alone wedges are not easier to compare with the rest of the wedge.
-3. **Stacked pie chart** or *nested pie chart* is a group of pie charts that are positioned concentrically.
+### Doughnut chart
+<img src="doughnut-chart.svg" alt="doughnut chart" class="f-right-half" /> Doughnut chart or *donut chart* is a pie chart with the center cut. Doughnut charts are used to reduce the amount on ink on a page, especially when showing many pie charts side by side.
+
+### Exploded pie chart
+<img src="exploded-pie-chart.svg" alt="exploded pie chart" class="f-right-half" /> Exploded pie chart is a stylistic variation of pie chart with one or several of the wedges shifted equally outward from the center. The intended effect is emphasis of the size of the "exploded" wedge. However, this technique may be counter-productive since stand alone wedges are not easier to compare with the rest of the wedge.
+
+### Stacked pie chart
+<img src="stacked-pie-chart.svg" alt="stacked pie chart" class="f-right-half" /> Stacked pie chart or *nested pie chart* is a group of pie charts that are positioned concentrically.
+
 
 ## Alternatives
 1. [*Stacked Bar Chart*](/bar-chart) a pie chart is essentially a stacked bar chart with a single bar shown in polar coordinates.[^wilkinson] Functionally absolutely the same, but the bar chart rectangles give readers an easier way to judge the areas.
