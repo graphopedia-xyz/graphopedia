@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1314.9 728.4" style="enable-background:new 0 0 1314.9 728.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A8A8A8;}
+	.st1{fill:#BCBCBC;}
+	.st2{fill:#CCCCCC;}
+	.st3{fill:#A0A0A0;}
+	.st4{font-family:'RobotoMono-Regular';}
+	.st5{font-size:39.4549px;}
+	.st6{fill:#514361;}
+	.st7{font-size:35px;}
+	
+		.st8{opacity:0.8;fill:none;stroke:#A8A8A8;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3;enable-background:new    ;}
+</style>
+<rect x="262.8" y="127.4" class="st0" width="375.8" height="375.8"/>
+<rect x="812.6" y="315.3" class="st1" width="187.9" height="187.9"/>
+<rect x="1185.3" y="409.2" class="st2" width="93.9" height="93.9"/>
+<text transform="matrix(1 0 0 1 394.2845 564.5162)" class="st3 st4 st5">40000</text>
+<text transform="matrix(1 0 0 1 850.1512 564.5162)" class="st3 st4 st5">10000</text>
+<text transform="matrix(1 0 0 1 1186.408 564.5162)" class="st3 st4 st5">2500</text>
+<text transform="matrix(1 0 0 1 20.4185 85.0441)" class="st6 st4 st7">shape area</text>
+<text transform="matrix(1 0 0 1 320.4485 688.1044)" class="st6 st4 st7">numeric value</text>
+<path class="st8" d="M638.6,85V60.4H262.8v24.5"/>
+<path class="st8" d="M221.4,127.4h-24.6v375.8h24.5"/>
+<path class="st8" d="M453.5,575.4v82"/>
+</svg>

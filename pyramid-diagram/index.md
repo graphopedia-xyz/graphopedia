@@ -14,16 +14,14 @@ tools:
     link:   https://products.office.com/en/powerpoint
 
 examples:
-  - title:  American Negro Newspapers and Periodicals
-    image:  american-negro-newspapers-and-periodicals-web-du-bois.jpg
-  
-  - title:  The Food Pyramid
-    link:   https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/
-    image:  food-pyramid.jpg
   
   - title:  Maslow's Hierarchy of Needs
     link:  https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#/media/File:Maslow%27s_Hierarchy_of_Needs.jpg
     image:  maslow-hierarchy-of-needs.jpg
+
+  - title:  Hierarchy of Disagreement
+    link:   
+    image:  graham-hierarchy-of-disagreement.png
     
   - title:  The Elements of Value Pyramid
     author: Nik Schulz, HBR
@@ -31,9 +29,15 @@ examples:
     note:   for Harvard Business Review
     image:  values-pyramid.png
 
+  - title:  The Food Pyramid
+    link:   https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/
+    image:  food-pyramid.jpg
+
   - title:  Pyramid of Capitalist System
     link:   https://en.wikipedia.org/wiki/Pyramid_of_Capitalist_System#/media/File:Pyramid_of_Capitalist_System.jpg
     image:  pyramid-of-capitalist-system.jpg
+
+
     
 
 ---
