@@ -2,6 +2,8 @@
 title:  dot distribution map
   
 tags:
+- distribution
+- geospatial data
 
 related:
   - bubble-map

@@ -2,6 +2,7 @@
 title: dasymetric map
 
 tags:
+- geospatial data
 
 related:
   - choropleth-map
@@ -37,7 +38,7 @@ Dasymetric maps show the variation inside the region by using colored symbols, u
 
 ## Alternatives
 
-1. [*Dot map*](/dot-map) shows individual data points represents as dots overlaid over a map.
+1. [*Dot map*](/dot-map) shows individual data points represented as dots overlaid over a map.
 2. [*Cartogram*](/cartogram) uses distortion of land area to represent data.
 
 ## Sources

@@ -2,6 +2,8 @@
 title: tape diagram
   
 tags:
+- part-to-whole relationship
+
 
 related:
   - isotype-diagram

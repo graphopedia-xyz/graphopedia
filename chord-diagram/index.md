@@ -2,6 +2,8 @@
 title:  chord diagram
 
 tags:
+- network of relationships
+- part-to-whole relationships
 
 related:
   - sankey-chart

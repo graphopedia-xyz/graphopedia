@@ -2,6 +2,8 @@
 title:  slopegraph
 
 tags:
+- change over time
+- correlation
 
 related:
 

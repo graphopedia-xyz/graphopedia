@@ -2,6 +2,7 @@
 title: waterfall chart
   
 tags:
+- comparison
 
 related:
   - bar-chart

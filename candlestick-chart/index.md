@@ -2,6 +2,10 @@
 title: candlestick chart
 
 related:
+  - change over time
+  - range
+
+related:
   - kagi-chart
   - box-plot
 

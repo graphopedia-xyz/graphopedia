@@ -1,12 +1,15 @@
 ---
 title:  flowchart
-
+tag:
+- 
 image:
   featured: decision-tree.png
   main: change-this.png
   anatomy: change-this.png
   
 tags:
+- network of relationships
+- part-to-whole relationship
 
 related:
   - block-scheme

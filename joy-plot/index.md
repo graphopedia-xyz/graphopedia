@@ -3,6 +3,7 @@ title:  joy plot
 
 tags:
   - distribution
+  - correlation
 
 related:
   - histogram

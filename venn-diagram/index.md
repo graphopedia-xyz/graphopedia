@@ -2,6 +2,8 @@
 title:  Venn diagram
   
 tags:
+- part-to-whole relationship
+
 
 related:
 

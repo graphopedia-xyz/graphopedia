@@ -2,6 +2,7 @@
 title:  mind map
   
 tags:
+- concept visualization
 
 related:
   - radial-tree-diagram

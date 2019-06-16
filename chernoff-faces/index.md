@@ -1,6 +1,10 @@
 ---
 title:  Chernoff faces
 
+tag:
+- comparison
+
+
 tools:
   - name:   R package
     link:   https://rdrr.io/cran/DescTools/src/R/SpecialPlots.r

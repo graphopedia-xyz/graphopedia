@@ -2,6 +2,8 @@
 title: time series
   
 tags:
+- change over time
+- correlation
 
 related:
   - line-graph

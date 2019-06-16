@@ -2,6 +2,7 @@
 title:  network diagram
   
 tags:
+- network of relationships
 
 related:
 

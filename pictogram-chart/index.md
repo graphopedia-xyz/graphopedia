@@ -2,6 +2,8 @@
 title:  pictogram chart
   
 tags:
+- part-to-whole relationship
+- comparison
 
 related:
   - tape-diagram
