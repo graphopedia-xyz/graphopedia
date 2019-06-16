@@ -2,6 +2,9 @@
 title: population pyramid
   
 tags:
+- distribution
+- correlation
+
 
 related:
 

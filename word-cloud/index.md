@@ -2,8 +2,7 @@
 title: word cloud
   
 tags:
-  - lorem
-  - ipsum
+  - comparison
 
 related:
   - bubble-chart

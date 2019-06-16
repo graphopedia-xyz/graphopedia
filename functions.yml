@@ -1,13 +1,37 @@
 # Map of chart function descriptions. Description is used on a function page and in SEO meta tag. Name is used in lists
 
 - name: distribution
-  description: Distribution was distributed to distribute. Lorem ipsum dolor...
+  description: Statistical distribution describes the number of times a variable produces each possible outcome in a number of trials.
 
 - name: correlation
-  description: Correlation used to correlate. Lorem ipsum dolor...
+  description: Visualization of mutual relationship between data series or data sets.
 
-- name: lorem
-  description: What lorem function is used for?. Lorem ipsum dolor...
+- name: change over time
+  description: Visualization of data over time or at equal intervals seeking to reveal patterns on change in the data.
 
-- name: ipsum
-  description: What ispum function is used for?. Lorem ipsum dolor...
+- name: hierarchy
+  description: A classification of data points according to their relative importance or inclusiveness.
+
+- name: network of relationships
+  description: Visualization of the network of relationships between data nodes. Related nodes are positioned closer to each other.
+
+- name: part-to-whole relationship
+  description: A visualization comparing a whole to its fraction.
+
+- name: range
+  description: A visualization of the highest and lowest values for each data point.
+
+- name: concept visualization
+  description: Connections between concepts that are not quantified.
+
+- name: uncertainty
+  description: Visualization of estimates of probability.
+
+- name: comparison
+  description: The juxtaposition of data points. This is the default function of every chart.
+
+- name: geospatial data
+  description: The juxtaposition of data points. This is the default function of every chart.
+
+
+

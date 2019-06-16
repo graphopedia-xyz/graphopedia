@@ -2,6 +2,7 @@
 title: Ishikawa diagram
   
 tags:
+- concept visualization
 
 related:
   - decision-tree

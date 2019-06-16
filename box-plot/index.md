@@ -2,7 +2,7 @@
 title: box plot
 
 tags:
-  - distribution
+  - statistical distribution
   
 related:
   - violin-plot

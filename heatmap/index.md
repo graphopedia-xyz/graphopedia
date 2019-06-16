@@ -3,6 +3,7 @@ title:  heatmap
 
 tags:
   - correlation
+  - network of relationships
 
 related:
   - dendrogram

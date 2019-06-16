@@ -2,6 +2,8 @@
 title:  tree diagram
   
 tags:
+- part-to-whole relationship
+- hierarchy
 
 related:
   - flow-map

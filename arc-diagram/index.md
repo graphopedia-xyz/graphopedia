@@ -2,6 +2,7 @@
 title:  arc diagram
 
 tags:
+- network of relationships
 
 related:
   - hive-plot

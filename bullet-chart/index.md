@@ -2,6 +2,7 @@
 title:  bullet chart
 
 tags:
+- comparison
 
 related:
 

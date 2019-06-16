@@ -2,6 +2,7 @@
 title: funnel diagram
   
 tags:
+- concept visualization
 
 related:
   - pyramid

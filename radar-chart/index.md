@@ -2,6 +2,7 @@
 title: radar chart
   
 tags:
+- correlation
 
 related:
   - parallel-coordinates

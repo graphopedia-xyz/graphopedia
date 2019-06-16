@@ -3,6 +3,8 @@ title:  bubble chart
 
 tags:
   - correlation
+  - statistical distribution
+  - change over time
 
 related:
   - scatter-plot

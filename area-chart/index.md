@@ -2,6 +2,7 @@
 title:  area chart
   
 tags:
+- change over time
 
 related:
   - line-graph

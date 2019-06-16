@@ -2,6 +2,8 @@
 title: streamgraph
   
 tags:
+- change over time
+- correlation
 
 related:
   - area-chart

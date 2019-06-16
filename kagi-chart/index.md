@@ -2,6 +2,7 @@
 title: kagi chart
   
 tags:
+- range
 
 related:
   - candlestick-chart
@@ -25,7 +26,7 @@ examples:
 shows price movements independently of time. This feature makes the Kagi a cleaner representation of the change in price and sentiment than the [candlestick chart](/candlestick-chart).
 
 <!--more-->
- Kagi charts are used in stock price analysis for tracking changes in the balance of power between buyers and sellers.[^confas]
+Kagi charts are used in stock price analysis for tracking changes in the balance of power between buyers and sellers.[^confas]
 A Kagi chart is made of with a series of vertical lines connected by short horizontal lines that reflect three variable of the price: color, thickness, and direction of the lines. The thickness/color of the line changes when the price reaches the high or low of the previous vertical line.
 
 The direction of the line changes when the price reaches a preset reversal amount, which is usually set at 4%. Only the closing price is shown on the Kagi chart, unlike in the [candlestick chart](candlestick-chart) where both closing and opening prices are shown.

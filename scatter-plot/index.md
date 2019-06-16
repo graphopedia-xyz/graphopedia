@@ -2,6 +2,8 @@
 title: scatter plot
 
 tags:
+- distribution
+- correlation
 
 functions: correlation
 

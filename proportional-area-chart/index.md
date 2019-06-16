@@ -1,6 +1,10 @@
 ---
 title:  proportional area chart
 
+tags:
+- part-to-whole relationship
+- comparison
+
 related:
   - sunburst-chart
   - venn-diagram

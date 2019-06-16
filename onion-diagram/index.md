@@ -2,6 +2,7 @@
 title:  onion diagram
   
 tags:
+- concept visualization
 
 related:
   - pyramid

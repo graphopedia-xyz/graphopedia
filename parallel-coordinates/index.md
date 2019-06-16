@@ -2,6 +2,7 @@
 title:  parallel coordinates
   
 tags:
+- distribution
 
 related:
   - alluvial-diagram

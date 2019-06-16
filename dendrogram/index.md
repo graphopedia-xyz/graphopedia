@@ -2,6 +2,7 @@
 title:  dendrogram
   
 tags:
+- hierarchy
 
 related:
   - tree-diagram

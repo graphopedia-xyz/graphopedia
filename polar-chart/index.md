@@ -2,6 +2,9 @@
 title:  polar area chart 
 
 tags:
+- change over time
+- comparison
+
 
 related:
   - pie-chart

@@ -2,6 +2,7 @@
 title:  concept map
   
 tags:
+- concept visualization
 
 tools:
   - name:   Mindmeister

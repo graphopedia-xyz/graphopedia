@@ -2,6 +2,7 @@
 title:  pie chart
   
 tags:
+- part-to-whole relationship
 
 related:
   - bar-chart
