@@ -1,7 +1,7 @@
 ---
 title:  Chernoff faces
 
-tag:
+tags:
 - comparison
 
 

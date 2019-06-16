@@ -1,7 +1,7 @@
 ---
 title: cartogram
 
-tag:
+tags:
 - geospatial data
 
 

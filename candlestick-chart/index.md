@@ -1,13 +1,9 @@
 ---
 title: candlestick chart
 
-related:
+tags:
   - change over time
   - range
-
-related:
-  - kagi-chart
-  - box-plot
 
 tools:
   - name:   Plotly

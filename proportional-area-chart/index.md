@@ -1,7 +1,7 @@
 ---
 title:  proportional area chart
 
-tag:
+tags:
 - part-to-whole relationship
 - comparison
 
