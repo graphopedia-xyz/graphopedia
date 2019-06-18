@@ -46,18 +46,27 @@ Depending on the underlying data, a time series can be *continuous* or *discrete
 
 ## Variations
 Time series variations involve the position of multiple time series relative to others in the same graph space or positioning them in their own graph space but such that it is easy to compare them.[^javed]
+
 ### Stacked time series
-Uses the same graph space to plot multiple time series.
+<img src="stacked-time-series.svg" alt="stacked time series" class="f-right-half" /> Uses the same graph space to plot multiple time series.
+
 ### Horizon chart
-Uses the concept of *virtual resolution* by limiting the graph space using the bands that make only the part of the graph visible.
+<img src="horizon-chart.svg" alt="horizon chart" class="f-right-half" />  Uses the concept of *virtual resolution* by limiting the graph space using the bands that make only the part of the graph visible.
+
 ### Braided time series 
-Solves the problem by identifying the intersection points in time where two time series change value ordering.
+<img src="braided-time-series.svg" alt="braided time series" class="f-right-half" /> Solves the problem by identifying the intersection points in time where two time series change value ordering.
+<!-- @anna please check this graph type -->
 
 ### Radial time series
-Use polar coordinates instead of the traditional coordinates. It is useful for showing cyclical events.
+<img src="radial-time-series.svg" alt="radial time series" class="f-right-half" />  Use polar coordinates instead of the traditional coordinates. It is useful for showing cyclical events.
 
 ### Spiral time series
-Uses polar coordinates for events that following a repeating pattern but are not necessarily cyclical.
+<img src="spiral-time-series.svg" alt="spiral time series" class="f-right-half" /> Uses polar coordinates for events that following a repeating pattern but are not necessarily cyclical.
+
+###  Fan chart (time series)
+<img src="fan-chart-time-series.svg" alt="fan chart (time series)" class="f-right-half" />  In time series analysis, a fan chart is a chart that joins a simple line chart for observed past data, by showing ranges for possible values of future data together with a line showing a central estimate or most likely value for the future outcomes.
+<!-- @anna rewrite this text, copy-paste from wikipedia -->
+
 
 ## Sources
 [^harris]:[Robert L. Harris. 1999. Information Graphics: A Comprehensive Illustrated Reference. Oxford University Press, Inc., New York, NY, USA. p. 920](https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false)
