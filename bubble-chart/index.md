@@ -137,9 +137,11 @@ An interactive bubble chart can be created on Gapminder, which is free desktop s
 ## Variations
 
 ### Semi-circle plot
-Since bubble charts with a lot of data points tend to become cluttered with overlapping circles, to [de-clutter a bubble chart](https://flowingdata.com/2017/10/26/how-to-make-a-semicircle-plot-in-r/), it is possible to show only half of each circle as shown in [this example from the New York Times](https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html?smid=tw-share&_r=0).
+<img src="semi-circle-plot.svg" alt="semi-circle plot" class="f-right-half" /> Since bubble charts with a lot of data points tend to become cluttered with overlapping circles, to [de-clutter a bubble chart](https://flowingdata.com/2017/10/26/how-to-make-a-semicircle-plot-in-r/), it is possible to show only half of each circle as shown in [this example from the New York Times](https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html?smid=tw-share&_r=0).
+
 ### Comparative half-bubble 
-Another variation with the semi-circles that allows comparision between two related numbers [displays two half-circles side by side](https://www.informationisbeautifulawards.com/showcase/604-the-analytical-tourism-map-of-piedmont)
+<img src="comparative-half-bubble-plot.svg" alt="comparative half bubble plot" class="f-right-half" /> Another variation with the semi-circles that allows comparision between two related numbers [displays two half-circles side by side](https://www.informationisbeautifulawards.com/showcase/604-the-analytical-tourism-map-of-piedmont)
+
 
 ## Alternatives
 
