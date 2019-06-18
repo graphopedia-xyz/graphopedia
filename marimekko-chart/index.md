@@ -2,11 +2,6 @@
 title:  Marimekko chart
   
 tags:
-- 
-
-related:
-  - tree-map
-  - bubble-chart
 
 tools:
   - name:   D3
