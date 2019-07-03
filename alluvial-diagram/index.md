@@ -2,6 +2,9 @@
 title: alluvial diagram
 
 tags:
+- change over time
+- network of relationships
+
 
 related:
   - sankey-chart
@@ -69,18 +72,14 @@ The blocks in an alluvial diagram represent clusters of nodes. The stream lines 
 Alluvial diagram can also be viewed as a variant of [Parallel Coordinates Plot](/parallel-coordinates) for categorical variables.[^4]
 
 Note: You may see the terms *sankey diagram* and *alluvial diagram* used to refer to the same type of chart, for example by D3 creator Mick Bostock[^5] and author Andy Kirk[^6].
- 
-## Purpose
 The alluvial diagram are designed to show connections between categories over time. The main purpose of this diagram is representation of splitting and merging of parts of categories into each other. 
-
-## Usage
 To create an alluvial diagram, at least two categories are needed and at least two time points at which we will show the how the connections between these parts have changed.
 
-## Alternative Charts
+## Alternatives
 
-[Chord chart](chord-chart) - a chord chart represents weighted relationships between categories. Unlike the alluvial diagram, it does not show the change over time, but a single snapshot in time. Another restriction is that all the categories in a cord chart have to be of the same type - for example all countries and not a combination of countries and cities.
+[Chord chart](/chord-chart) - a chord chart represents weighted relationships between categories. Unlike the alluvial diagram, it does not show the change over time, but a single snapshot in time. Another restriction is that all the categories in a cord chart have to be of the same type - for example all countries and not a combination of countries and cities.
 
-## Sources:
+## Sources
 
 [^1]: [Rosvall M, Bergstrom CT (2010) Mapping Change in Large Networks](https://arxiv.org/pdf/0812.1242.pdf)
 [^2]: [M. Schmidt, Energy use in a passenger car](https://Www.Ifu.Com/En/e-Sankey/Sankey-Diagram/)

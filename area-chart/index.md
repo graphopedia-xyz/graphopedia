@@ -2,6 +2,7 @@
 title:  area chart
   
 tags:
+- change over time
 
 related:
   - line-graph
@@ -75,15 +76,21 @@ William Playfair first introduced an area chart in 1786 in his book *The Commerc
 
 <!--more-->
 
-## Purpose
 Area charts show the change of a single variable. Generally, area charts are not used to show a specific value but rather emphasize a trend, a change or the relationship between values. For this purposes part of the area of in the chart can be colored or textured for emphasis.[^2]
-## Usage
+ 
 Area charts can have three types of curves depending on how the data was aggregated: segmented, stepped, and smoothed.
 
-##Types
 
-Stacked area chart - area charts that show multiple data curves and the area between them are stacked area charts. Normally, the curve with less variation should be shown at the bottom, closer to the X axis.[^5] Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^6]
+## Variations
 
+### Stacked area chart
+<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and the area between them are stacked area charts. Normally, the curve with less variation should be shown at the bottom, closer to the X axis.[^5] Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^6]
+
+### Range area chart
+<img src="range-area-chart.svg" alt="range area chart" class="f-right-half" />  A range area chart is a variation of an area chart that lets you plot ranges of data.
+
+### Circular area chart
+Circular area chart is area chart plotted in polar coordinates. It's like a [radar chart](/radar-chart)... <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" />
 
 
 ## Alternative Charts

@@ -2,6 +2,7 @@
 title:  choropleth map
   
 tags:
+- geospatial data
 
 related:
   - dot-distribution-map

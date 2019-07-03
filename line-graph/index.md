@@ -2,6 +2,8 @@
 title:  line graph
 
 tags:
+- change over time
+- correlation
 
 related:
   - density-plot

@@ -2,6 +2,8 @@
 title: bar chart
   
 tags:
+- comparison
+- range
 
 related:
   - histogram

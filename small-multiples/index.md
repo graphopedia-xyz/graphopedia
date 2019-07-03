@@ -2,6 +2,8 @@
 title:  small multiples
   
 tags:
+- change over time
+- comparison
 
 related:
   - sparkline

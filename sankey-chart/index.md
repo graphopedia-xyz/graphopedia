@@ -2,6 +2,9 @@
 title: Sankey chart
   
 tags:
+- network of relationships
+- change over time
+- part-to-whole relationships
 
 related:
   - alluvial-diagram

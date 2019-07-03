@@ -2,6 +2,8 @@
 title:  sunburst chart
 
 tags:
+- hierarchy
+- network of relationships
 
 related:
   - tree-diagram

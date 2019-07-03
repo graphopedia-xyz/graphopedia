@@ -2,6 +2,8 @@
 title: sparkline
   
 tags:
+- change over time
+- correlation
 
 related:
   - small-multiples

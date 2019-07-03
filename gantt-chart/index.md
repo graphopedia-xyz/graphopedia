@@ -2,6 +2,7 @@
 title:  Gantt chart
   
 tags:
+- change over time
 
 related:
   - bar-chart

@@ -1,16 +1,9 @@
 ---
 title:  flowchart
 
-image:
-  featured: decision-tree.png
-  main: change-this.png
-  anatomy: change-this.png
-  
 tags:
-
-related:
-  - block-scheme
-  - mindmap
+  - network of relationships
+  - part-to-whole relationship
 
 tools:
   - name:   Drawio

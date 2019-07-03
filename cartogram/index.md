@@ -1,6 +1,10 @@
 ---
 title: cartogram
 
+tags:
+- geospatial data
+
+
 related:
   - bubble-map
   - dasymetric-map

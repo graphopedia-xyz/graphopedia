@@ -3,10 +3,6 @@ title:  Marimekko chart
   
 tags:
 
-related:
-  - tree-map
-  - bubble-chart
-
 tools:
   - name:   D3
     link:   https://www.jasondavies.com/mekko/
@@ -51,6 +47,11 @@ Although Marimekko charts can look similar to [tree maps](/tree-map), they are d
 
 The Marimekko chart was introduced in 1981 as an adaptation of [histogram](/histogram) for showing two-variables.[^hartigan]
 The area of a tile is known as the *bin size* which is a concept derived from histogram.
+
+## Alternatives
+
+[*Stacked bar chart*](/bar-chart) uses bar length to represent values for a category. In a stacked bar chart each category contains multiple values.
+
 
 ## Sources
 [^wilkinson]: [Wilkinson, L. (2005), The Grammar of Graphics(2nd ed.). Statistics and Computing, New York: Springer. p. 342 ](https://cds.cern.ch/record/1250322/files/9780387245447_TOC.pdf)

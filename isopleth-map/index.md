@@ -2,6 +2,7 @@
 title:  isopleth map
 
 tags:
+- geospatial data
 
 related:
   - choropleth-map
