@@ -66,7 +66,7 @@ Many stylistic variations of the pie chart exist. Since the size a segment of a 
 
 
 ## Alternatives
-1. [*Stacked Bar Chart*](/bar-chart) a pie chart is essentially a stacked bar chart with a single bar shown in polar coordinates.[^wilkinson] Functionally absolutely the same, but the bar chart rectangles give readers an easier way to judge the areas.
+1. [*Stacked Bar Chart*](/bar-chart) a pie chart is essentially a stacked bar chart with a single bar shown in polar coordinates.[^wilkinson2] Functionally absolutely the same, but the bar chart rectangles give readers an easier way to judge the areas.
 2. [*Polar area chart*](/polar-area-chart) is a type of pie chart in which all sectors have equal angles but they differ in how far each sector extends from the center of the circle. The polar area chart is used to plot cyclic phenomena, for example, the amount of rain each month would be plotted as 12 sectors at 30 degrees each.
  
 ## Sources
@@ -74,7 +74,7 @@ Many stylistic variations of the pie chart exist. Since the size a segment of a 
 [^tufte]: [Tufte, Edward. The Visual Display of Quantitative Information. Graphics Press, 2001](https://cyber.rms.moe/books/03%20-%20General%20Science/The%20Visual%20Display%20of%20Quantitative%20Information%20-%20Edward%20Tufte.pdf)
 [^good]: Good P.I., Hardin J.W. Common errors in statistics, and how to avoid them (Wiley, 2003). p.117
 [^wilkinson]: [Wilkinson, L., 2005. The Grammar of Graphics, Second Edition. Springer. pp.251-252](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
-[^wikkinson]:[[Wilkinson, L., 2005. The Grammar of Graphics, Second Edition. Springer. p. 23](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
+[^wilkinson2]:[Wilkinson, L., 2005. The Grammar of Graphics, Second Edition. Springer. p. 23](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
 [^lima]: [Lima, Manuel. "Why humans love pie charts: an historical and evolutionary perspective," Noteworthy, retrieved May 10, 2019](https://blog.usejournal.com/why-humans-love-pie-charts-9cd346000bdc)
 [^kosara]: [Kosara, Robert and Skau.Drew,  2016. Judgment error in pie chart variations. In Proceedings of the Eurographics / IEEE VGTC Conference on Visualization: Short Papers (EuroVis '16). Eurographics Association, Goslar Germany, Germany, 91-95.](https://kosara.net/papers/2016/Kosara-EuroVis-2016.pdf)
 

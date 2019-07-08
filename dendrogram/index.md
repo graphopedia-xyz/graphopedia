@@ -47,21 +47,22 @@ synonyms:
 ---
 
 is a type of a tree diagram that represents hierarchies and clustering. The root node of the dendrogram represents the whole data set and the top of the hierarchy. Each leaf node is one step lower in hierarchy. 
-The intermediate nodes between any two levels of the hierarchy describe the extent that the nodes are removed from each other in the hierarchy or in other words the degree of their dissimilarity.[^] The height of the dendrogram represents the distance between each pair of clusters.
+The intermediate nodes between any two levels of the hierarchy describe the extent that the nodes are removed from each other in the hierarchy or in other words the degree of their dissimilarity. The height of the dendrogram represents the distance between each pair of clusters.
 
 <!--more-->
 
-***Purpose*** showing hierarchy and clustering
-***Data type*** multivariate (three or more variables)
+The purpose of a dendrogram is the display of hierarchy and clustering. It represents multivariate data that shows that level of each node within the hierarchy, the similarity of each node relative to other nodes and the parent and child relatnship of each node.
 
-## Usage
 Dendrograms are used in genetics to show the pairing of genes. Heatmaps are often used in combination with dendrograms.
  dendrograms are also used in sports to illustrate the results of elimination tournaments.
+ 
+ 
+ The order of nodes within a dendrogram is called *seriation*. The ordering of the nodes is such that nodes representing similar items are placed near each other according to some metric without violating the hierarchy of the nodes. With large data sets, seriation becomes a problem worthy of an algorithmic solution.[^earle]
  
  Dendrograms can have horizontal, vertical orientation. The layout can be linear or circular.
 
 
 ## Sources
 
-[]:
+[^earle]: [Earle, Denise. Dendrogram seriation in data visualisation: algorithms and applications. Diss. National University of Ireland Maynooth, 2010.](http://mural.maynoothuniversity.ie/2442/)
 

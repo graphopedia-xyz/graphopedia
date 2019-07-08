@@ -84,9 +84,13 @@ In general, the human eye can differentiate chromatic colors easier than shades 
 ## Variations
 Heatmap variations have to do with the orientation and layout of the map as well as adding another type fo chart - the [dedrogram](/dendrogram). A special case of heatmap usage when no relevant data exists for large parts of the matrix as in the tennis example below, produces a chart that does not show the entire matrix. 
 
-1. *Circular heat map* displays the axes along the radius of the circles and its perimeter. This layout is normally used for cyclical events such as climate visualizations.
-2. *Spiral heat map* winds the X axis along a spiral. This space-saving layout has the disadvantage of difficulty when labeling the chart.
-3. *Cluster heatmap* also called "double dendrograms* [^ncss] is a combination of heatmap and [dendrogram](/dendrogram) showing how the ordering of the cells in the heatmap matrix was obtained, showing one dedrogram for the matrix rows and one for the columns. The cluster heat simultaneously reveals row and column hierarchical cluster structure.
+### Circular heat map
+*Circular heat map* displays the axes along the radius of the circles and its perimeter. This layout is normally used for cyclical events such as climate visualizations.
+### Spiral heat map
+*Spiral heat map* winds the X axis along a spiral. This space-saving layout has the disadvantage of difficulty when labeling the chart.
+
+### Cluster heat map 
+*Cluster heatmap* also called "double dendrograms* [^ncss] is a combination of heatmap and [dendrogram](/dendrogram) showing how the ordering of the cells in the heatmap matrix was obtained, showing one dedrogram for the matrix rows and one for the columns. The cluster heat simultaneously reveals row and column hierarchical cluster structure.
                                                                            
 ## Sources
 

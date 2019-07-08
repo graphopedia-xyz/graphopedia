@@ -36,10 +36,8 @@ show multiple variables using features of a human face that vary in size and sha
 
 Chernoff faces are named after their inventor American statistician Herman Chernoff who proposed this technique in 1973 to visualize geological data. [^chernoff] In his proposal, Chernoff proposes to visualize up to 18 data variables using faces.
 
-## Purpose
 Since Chernoff faces allow for a fast comparison across many variables, the purpose of using them is to draw attention to how data sets or data series compare to each other in a generalized way. Since Chernoff faces do not communicate exact values, they should not be used in visualizations where reading precise numbers is important.
 
-## Usage
 Making the faces recognizable and yet unique is one of the main challenges of using this method in information graphics. 
 Chernoff faces have been criticized for misunderstanding perception of faces happens: that we do not perceive separate facial features, but the entire face in a holistic way. [^kosara]
 

@@ -63,12 +63,9 @@ is a type of thematic map in which areas are colored to represent the measuremen
 
 The first choropleth map was introduced by Baron Pierre Charles Dupin in 1826. The term "choropleth map" appeared in 1938 in <cite>Problems in Population Mapping</cite> by the geographer John Kirtland Wright.
 
-***Purpose***: showing how data changes across geographic regions.
+The purpose of a choropleth maps is representation of how data changes across geographic regions. For this the data needs to be normalized, which means expressed in rates or ratios.
 
-***Data type***: univariate (one variable) and normalized (rates or ratios)
-
-## Usage
-To make a choropleth map, you need one variable and a color value scale that will encode the values of your variable. It is possible to create a bivariate, or two variable choropleth map by creating two color scales, making them semi transparent and overlaying them. [^stevens]
+To make a choropleth map, you need one variable and a color value scale that encodes the values of that variable. It is possible to create a bivariate, or two variable choropleth map by creating two color scales, making them semi transparent and overlaying them. [^stevens]
 
 Color in choropleth maps is especially important because
 1. colors influence readers' perception of patterns in the map or make them see patterns where there are none);

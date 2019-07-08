@@ -49,7 +49,6 @@ is a map type that uses a dot symbol to show the presence of a feature emphasizi
 <!--more-->
 The dot distribution map was first introduced in the early 1830 by a French monk Armand Joseph Frère de Montizon. The map showed the population of France by administrative district.[^palsky]
 
-## Usage
 Dot distribution maps use dots or another symbol to mark the location of specific data points.
 
 There are two types of these maps:

@@ -102,4 +102,4 @@ Charts that show distributions are all potential alternatives to a box plot. Wit
 [^potter]: [Methods for Presenting Statistical Information: The Box Plot, p 97](http://www.sci.utah.edu/~kpotter/publications/potter-2006-MPSI.pdf)
 [^potter2]: [Methods for Presenting Statistical Information: The Box Plot by Kristin Potter p. 100](http://www.sci.utah.edu/~kpotter/publications/potter-2006-MPSI.pdf)
 [^kampstra]: [Beanplot: A Boxplot Alternative for Visual Comparison of Distributions by Peter Kampstra, p. 4](https://cran.r-project.org/web/packages/beanplot/vignettes/beanplot.pdf)
-[^tud][R package by Aron Charles Eklund, Ph.D., Technical University of Denmark, retrieved Apr. 8, 2019](http://www.cbs.dtu.dk/~eklund/beeswarm/)
+[^tud]: [R package by Aron Charles Eklund, Ph.D., Technical University of Denmark, retrieved Apr. 8, 2019](http://www.cbs.dtu.dk/~eklund/beeswarm/)

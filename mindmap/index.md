@@ -63,6 +63,11 @@ The process of making a mind map starts with a list of concepts made in a brains
 
 Mind-mapping has been studied as a learning technique that could improve recall and critical-thinking skills.[^novak] Mind-mapping was shown to improve long-term recall by 10%.[^farrand] In a study with medical students taking notes using a mind-mapping technique, it was not found to increase short-term recall or critical thinking compared to students taking written notes.[^antoni] 
 
+## Alternatives
+
+1. [Concept map](/concept-map) a diagram representing ideas and their connections as a network of nodes and links with the each link labeled with a description of the type of relationship.
+2. [Word cloud](/word-cloud) representation of the frequency of words in a given text by using the size of the font.
+
 
 ## Sources
 [^plotnik]: ["Concept Mapping: A Graphical System for Understanding the Relationship between Concepts" by Eric Plotnik, 1997. ERIC Clearinghouse on Information and Technology Syracuse NY](https://files.eric.ed.gov/fulltext/ED407938.pdf)

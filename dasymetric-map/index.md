@@ -32,7 +32,9 @@ is a technique of thematic mapping that represents density across the entire sta
 
 The dasymetric map was developed in 1911 by Benjamin Semenov-Tyan-Shansky and popularized by American geographer J.K. Wright.
 
-Dasymetric maps are a solution to a known problem of over generalization in choropleth maps. Since choropleth maps only show density at the scale of a geographic or political region and not inside, they can hide the variation within that geographic region which leads readers to assume that the entire region has that density. [^kostelnick] This kind of statistical misrepresentation is known as *ecological fallacy*.
+Dasymetric maps are a solution to a known problem of *over-generalization* in choropleth maps. Since choropleth maps only show density at the scale of a geographic or political region and not inside them they tend to hide possible variations within that geographic region which can lead readers to assume that the entire region is uniform. [^kostelnick] 
+
+This kind of visual statistical misrepresentation is known as *ecological fallacy* which is the assumption that something that is true about a population is also true about an individual.
 
 Dasymetric maps show the variation inside the region by using colored symbols, usually rectangles, color to represent change in value by changing color or color hue.
 

@@ -53,9 +53,6 @@ Parallel coordinates plot was first used by American geographer Henry Gannetts i
 
 Parallel coordinates shows multivariate data by imitating a multi-dimensional space. Multi-dimensional space is hard to image. Normally we see up to 3 dimensions in graphs. Parallel coordinates plot imitates what multi-dimensional graph would look like by showing multiple axes in parallel. [^inselberg] [^andrews]
 Still, the limitation is that the reader can only compare a maximum of two other dimensions directly to any value. This does not allow for all possible patterns to emerge. Parallel coordinates plot also has the disadvantage of presenting overly general view of the data with visually overwhelming complexity. [^wilkinson2]
-
-## Variations
-1. *Andrews plot* is a smoothened version of a parallel coordinate plot.
  
 
 ## Alternatives
