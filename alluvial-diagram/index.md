@@ -69,15 +69,15 @@ The alluvial diagram was first described in 2010[^1] and defined as showing "cha
 
 The blocks in an alluvial diagram represent clusters of nodes. The stream lines between the blocks represent changes in the composition of these clusters over time. The height of a block represents the size of the cluster and the height of a stream line shows the size of the component.
 
-Alluvial diagram can also be viewed as a variant of [Parallel Coordinates Plot](/parallel-coordinates) for categorical variables.[^4]
+Alluvial diagrams can also be viewed as a variant of [parallel coordinates plot](/parallel-coordinates) for categorical variables.[^4]
 
-Note: You may see the terms *sankey diagram* and *alluvial diagram* used to refer to the same type of chart, for example by D3 creator Mick Bostock[^5] and author Andy Kirk[^6].
-The alluvial diagram are designed to show connections between categories over time. The main purpose of this diagram is representation of splitting and merging of parts of categories into each other. 
-To create an alluvial diagram, at least two categories are needed and at least two time points at which we will show the how the connections between these parts have changed.
+Note: You may see the terms *Sankey diagram* and *alluvial diagram* used to refer to the same type of chart, for example by D3 creator Mick Bostock[^5] and author Andy Kirk[^6].
+The alluvial diagram is designed to show connections between categories over time. The main purpose of this diagram is the representation of splitting and merging of parts of categories into each other. 
+To create an alluvial diagram, at least two categories and two time points or stages are necessary.
 
 ## Alternatives
 
-[Chord chart](/chord-chart) - a chord chart represents weighted relationships between categories. Unlike the alluvial diagram, it does not show the change over time, but a single snapshot in time. Another restriction is that all the categories in a cord chart have to be of the same type - for example all countries and not a combination of countries and cities.
+[Chord diagram](/chord-diagram) - a chord diagram represents weighted relationships between categories. Unlike the alluvial diagram, it does not show the change over time, but a single snapshot in time. Another restriction is that all the categories in a chord diagram have to be of the same type, for example, all countries and not a combination of countries and cities.
 
 ## Sources
 

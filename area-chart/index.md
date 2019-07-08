@@ -69,17 +69,18 @@ examples:
 
 ---
 
-represents data as the area between the data curve and the horizontal axis. [^1] Area charts show the change of a single variable. The X axis can have a numeric or categorical scale, while the Y axis is usually categorical. Functionally, the area chart is the same as a [line chart](/line-chart).
+represents data as the area between the data curve and the horizontal axis. [^1] Area charts show the change of a single variable. The X axis can have a numeric or categorical scale, while the Y axis is usually categorical. 
 
-
-William Playfair first introduced an area chart in 1786 in his book *The Commercial and Political Atlas*.
 
 <!--more-->
 
-Area charts show the change of a single variable. Generally, area charts are not used to show a specific value but rather emphasize a trend, a change or the relationship between values. For this purposes part of the area of in the chart can be colored or textured for emphasis.[^2]
- 
+Area charts show the change of a single variable. Generally, area charts are not used to show a specific value but rather emphasize a trend, a change or the relationship between values. For this purpose part of the area of in the chart can be colored or textured for emphasis.[^2]
+
+Functionally, the area chart is the same as a [line chart](/line-chart). The use of area makes the overall shape of the data easier to see than in a line chart unless there are several lines charts that have to be shown in the same coordinates plane.
+
 Area charts can have three types of curves depending on how the data was aggregated: segmented, stepped, and smoothed.
 
+William Playfair first introduced an area chart in 1786 in his book *The Commercial and Political Atlas*.
 
 ## Variations
 
@@ -90,14 +91,14 @@ Area charts can have three types of curves depending on how the data was aggrega
 <img src="range-area-chart.svg" alt="range area chart" class="f-right-half" />  A range area chart is a variation of an area chart that lets you plot ranges of data.
 
 ### Circular area chart
-Circular area chart is area chart plotted in polar coordinates. It's like a [radar chart](/radar-chart)... <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" />
+A circular area chart is an area chart plotted in polar coordinates. Even though it is visually similar to the [radar chart](/radar-chart)... <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" />, their data structures are different with the radar chart having multiple radial axes that each represents a different variable. Circlular are charts are useful for showing cyclical data, for example, annual weather patterns or crop seasons.
 
 
 ## Alternative Charts
 
 [Line chart](/line-chart) - functionally similar to area charts, line charts can be stacked and grouped more easily than area charts.
 
-[Streamgraph](/stream-graph) - a stream graph is a type of stacked area chart which is shown relative to a central axis. Stream graphs have a smoothed curve. They are normally oriented horizontally.
+[Streamgraph](/stream-graph) - a streamgraph is a type of stacked area chart which is shown relative to a central axis. Streamgraphs have a smoothed curve. They are normally oriented horizontally.
 
 
 ## Sources
