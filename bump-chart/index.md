@@ -42,11 +42,11 @@ examples:
 is a type of [line chart](/line-graph) for multiple categories that are ranked, usually through time.
 
 <!--more-->
-The "bumps chart" was originally created by Tim Granger using 14 years of data from the Cambridge "Bumps" races which is a rowing team tournament. In this book *Beautiful Evidence* Edward Tufte cite this particular chart as an example of "800 interwoven [sparklines](/sparkline)" meaning this chart is data rich.[^tufte]
+The "bumps chart" was created by Tim Granger using 14 years of data from the Cambridge "Bumps" races which is a rowing team tournament. In this book *Beautiful Evidence* Edward Tufte cite this particular chart as an example of "800 interwoven [sparklines](/sparkline)" meaning this chart is data-rich.[^tufte]
 
-In software packages such as Tableau the chart is now called "bump chart". [^sleeper]
+In software packages such as Tableau, the chart is now called "bump chart". [^sleeper]
 
-Bump charts have no axes, unlike a stacked line graph. The categories are labeled on both right and left of the graph so that the initial and final ranking can be compared. The time intervals are labeled for each vertical. The line graph for each category are reordered according to the rank for each time interval.
+Bump charts have no axes, unlike a stacked line graph. The categories are labeled on both the right and the left of the graph so that the initial and final ranking can be compared. The time intervals are labeled for each vertical. The line graph for each category is reordered according to the rank for each time interval.
 
 Bump charts emphasize ranking through time. The time is normally displayed at equal intervals. Bump charts can also be thought of as slope graphs with a time dimension.
 
