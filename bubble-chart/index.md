@@ -69,7 +69,7 @@ examples:
     
   - title:  Lunar Conversations 
     author: Nicholas Rougeux
-    note:   A timeline of the conversations between Earth and the spacecraft of the Apollo 11 mission from liftoff to splashdown. The                 number of words spoken is visualized as a bubble chart along the timeline. 
+    note:   A timeline of the conversations between Earth and the spacecraft of the Apollo 11 mission from liftoff to splashdown. The number of words spoken is visualized as a bubble chart along the timeline. 
     link:   https://www.c82.net/work/?id=368
     image:  lunar-chats.png
     
@@ -81,7 +81,7 @@ examples:
     
   - title:  Frequency of Sex Among Married and Unmarried Couples
     author: Nathan Yau
-    note:   A bubble chart comparing frequency of sex for married and unmarried people sorted by age
+    note:   A bubble chart comparing the frequency of sex for married and unmarried people sorted by age
     link:   https://flowingdata.com/2017/07/03/married-people-sex
     image:  married-sex.png
 
@@ -102,9 +102,9 @@ Bubble charts are useful for showing *correlation*.[^1] The independent variable
 
 Importantly, bubble size always means the circle area, not diameter or radius. Since the human eye cannot easily interpret the size of a circle into a number, bubble charts are not used in cases where readers need to see the precise numbers. <sup>3</sup>
 
-The minimum number of variables for a bubble chart is three. For example, weight, height, and foot size. Another example, age, occupation, and number of children. As you notice, the variables have to be dependent. An anti-example would be age, income, and nose size. Since nose size does not change with income, these data points are not dependent and cannot be used in a bubble chart.
+The minimum number of variables for a bubble chart is three. For example, weight, height, and foot size. Another example, age, occupation, and the number of children. As you notice, the variables have to be dependent. An anti-example would be age, income, and nose size. Since nose size does not change with income, these data points are not dependent and cannot be used in a bubble chart.
 
-You can show more than three variables on a bubble chart.[^2] First, the circles can be grouped using color to represent a fourth variable, for example a category. Second, a bubble chart can be animated to show a fifth variable such as time, for example.
+You can show more than three variables on a bubble chart.[^2] First, the circles can be grouped using color to represent the fourth variable, for example, a categorical one. Second, a bubble chart can be animated to show the fifth variable such as time, for example.
 
 Clusters, outliers, and overall trends reveal themselves well on a bubble chart. To maximize this effect, overplotting should be avoided. [^3]
 
@@ -114,24 +114,13 @@ The main advantage of bubble charts is their ability to show large trends in you
 
 A known problem of bubble charts, as well as all types of information graphics that use circles, is that circle sizes are difficult to compare. For this reason, bubble charts are not used for comparing precise values but to show a general trend in the data and the outliers. [^4]
 
-Another disadvantage of bubble charts is their lack of means of representing negative values or zero. Like scatter plots, they can become cluttered. Over-plotting is another issue with bubble charts that comes up when a lor of values are concentrated in one area of the chart or when there are simple too many data points. Making the circles partially transparent can solve this problem for overlap of two to three circles.
+Another disadvantage of bubble charts is their lack of means of representing negative values or zero. Like scatter plots, they can become cluttered. Over-plotting is another issue with bubble charts that comes up when a lot of values are concentrated in one area of the chart or when there are too many data points. Making the circles partially transparent can solve this problem for overlap of two to three circles.
 
 You can use a bubble chart if you have at least 3 variables, also called *data series*. 
 
-For example, we can show the connection between life expectancy with the state of the economy in their country and the population size. The steps of making a bubble chart for this data would look like this:
-
-1. On the X axis, we plot the Gross Domestic Product (GDP), from lowest to highest. 
-2. On the Y axis, we plot the life expectancy, from 1 to 100. (We plot life expectancy on the Y axis because there is less of a range in numbers. Life expectancy cannot have a wide range. But GDP can vary a lot by country.) 
-3. We use population size data to create circles with the area that represents those numbers.
-4. (Optional) If we want to add one more variable, for example, to divide countries by continent, then we can use color to group the circles by continent.
-5. (Optional) If we can animate the bubble chart or make it interactive, we could add a fifth variable, for example time. Each frame could show a one-year snapshot in the animation.
-
-The bubble chart was used by Swedish statistician Hans Rosling who showed macro trends in world population in his widely popular videos. In [this video called "Don't Panic"](https://youtu.be/FACK2knC08E?t=452) Rosling shows how life expectancy impacts the number of children a woman has and how both are connected to population size. Countries are grouped and colored  by continent. His bubble chart is animated which allows him to show a fifth variable which is time.
+The bubble chart was famously used by Swedish statistician Hans Rosling who showed macro trends in world population in his widely popular videos. In [this video called "Don't Panic"](https://youtu.be/FACK2knC08E?t=452) Rosling shows how life expectancy impacts the number of children a woman has and how both are connected to population size. Countries are grouped and colored  by continent. His bubble chart is animated which allows him to show a fifth variable which is time.
 
 The use of circle area makes creating bubble charts by hand difficult. For example, if you want to compare two bubble where the first one show 1 and the other shows 2, you cannot do that by making circles with radius one and two. So, when making a bubble chart it is best to use a tool, such as MS Excel, MS PowerPoint, or Apple Numbers, that will apply the circle area formula for circle area for you.
-
-Bubble charts can be created using templates in MS PowerPoint, MS Excel, Apple Keynote and Apple Numbers. These common programs already have pre-built tools that create bubble charts. 
-An interactive bubble chart can be created on Gapminder, which is free desktop software used by Hans Rosling.
 
 
 ## Variations
