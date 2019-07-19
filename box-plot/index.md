@@ -51,21 +51,21 @@ synonyms:
 
 ---
 
-shows a summary of distribution of data from its minimum to its maximum values, the upper and lower quartiles, and the median. The box represents 50% of data points and the whiskers the other 50%. The middle band always represents
-the median which means that 50% of data is above the live and the other 50% is below. Outliers are plotted outside the box and whiskers as dots.
+shows a summary of the distribution of data from its minimum to its maximum values, the upper and lower quartiles, and the median. The box represents 50% of data points and the whiskers the other 50%. The middle band always represents
+the median which means that 50% of data is above the line and the other 50% is below. Outliers are plotted outside the box and whiskers as dots.
 
 <!--more--> 
 The box plot was first introduced in 1970 by American Statistician John Tukey [^wickham] who early in his career worked on developing statistical methods for computers at Bell Labs where he invented the term "bit".[^billinger]
 
-The main function of a box plot is generalized comparison of distributions. Since box plots only summarize the distribution, they can only show a generalized comparison of medians, minimums, maximums and quartiles. Box plots can also be used to show variation and uncertainty. 
+The main function of a box plot is a *generalized comparison of distributions*. Since box plots only summarize the distribution, they can only show a generalized comparison of medians, minimums, maximums, and quartiles. Box plots can also be used to show variation and uncertainty. 
 
-A single box in a box plot shows a summary of distribution of data by showing the median, the upper and lower quartiles and the maximum and minimum.[^potter]
+A single box in a box plot shows a summary of the distribution of data by showing the median, the upper and lower quartiles, and the maximum and minimum.[^potter]
 
-This generalized view does not show where exactly the data points fall. If it is important to show the exact location all all data points, then a scatter plot is best for a single data series or a bees swarm plot for comparing multiple data series.
+This generalized view does not show where exactly the data points fall. If it is important to show the exact location of all data points then a [scatter plot](/scatter-plot) is best for a single data series or a beeswarm plot for comparing multiple data series.
  
 Box plots are best for comparing minimums, maximums, and the middles (medians) of data series.
 
-Box plots are shown on the X, Y axes, where the X axis can be categorical or numeric. The Y axis is numeric. The median is usually shown as a line or a line with a dot in the middle. The outliers are show as dots. They always fall outside the whiskers of the box since any number that falls between the maximum and minimum is not an outlier.
+Box plots are shown on the X and Y axes of the coordinate grid. The X-axis can be categorical or numeric. The Y-axis is numeric. The median is usually shown as a line or a line with a dot in the middle. The outliers are shown as dots. They always fall outside the whiskers of the box since any number that falls between the maximum and minimum is not an outlier.
 
 Tick marks on both axes help a reader locate the corresponding values since box plots tend to be visually complex.
 
@@ -75,24 +75,24 @@ Tick marks on both axes help a reader locate the corresponding values since box 
 Histplots estimate the distribution of data at the median and the two quartiles. The width of the box plot at these locations is then modified to be proportional to the density estimation. The box shape becomes a polygon. [^potter2] 
 
 ### Beanplot 
-Bean plots show individual observations as lines while the showing the distribution as area, similar to a density plot.[^kampstra]
+Bean plots show individual observations as lines while showing the distribution as area, similar to a density plot.[^kampstra]
 
 ### Vase plot 
  Vase plots add estimated densities for every point between the upper and lower quartiles to the histplot. 
 
 ### Box-percentile plot
- Box-percentile plots use both sides of the box plot to show the distribution at each point. For each point in the plot, the width of the box is proportional to the percentile of that data value, up to the 50th percentile. After that it switches to being proportional to values outside the percentile. The the plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to a violin plot, the advantages of this plot is that it covers the entire range of data.
+ Box-percentile plots use both sides of the box plot to show the distribution at each point. For each point in the plot, the width of the box is proportional to the percentile of that data value, up to the 50th percentile. After that, it switches to being proportional to values outside the percentile. The plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to the [violin plot](violin-plot), the advantages of this plot is that it covers the entire range of data.
 
 
 
 ## Alternatives
-Charts that show distributions are all potential alternatives to a box plot. With few data series, using a histogram ofr a density plot may be possible, otherwise, to compare multiple data sets, the violin plot or the beeswarm plot are better.
+Charts that show distributions are all potential alternatives to a box plot. With a small number of data series, using a histogram or a density plot may be possible. To compare multiple data series, the violin plot or the beeswarm plot are better.
 
-1. [*Histogram*](/histogram) shows a estimate of the probability distribution of a continuous variable using discrete values.
+1. [*Histogram*](/histogram) shows an estimate of the probability distribution of a continuous variable using discrete values.
 
 2. [*Violin plot*](/violion-plot) displays the density for all data points, not just the middle half.
 
-3. [*Scatter plot*](/scatter-plot) shows distribution by plotting every data point on the X, Y coordinates. The overall shape as well as individual data points are best seen on a scatter plot unlike the box plot that does not show how individual data points are distributed.
+3. [*Scatter plot*](/scatter-plot) shows distribution by plotting every data point on the X, Y coordinates. The overall shape, as well as individual data points, are better seen on a scatter plot than the box plot.
 
 4. *Beeswarm Plot* is a one-dimensional scatter plot with closely-packed points that do not overlap[^tud].
 
