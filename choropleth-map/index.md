@@ -63,17 +63,17 @@ is a type of thematic map in which areas are colored to represent the measuremen
 
 The first choropleth map was introduced by Baron Pierre Charles Dupin in 1826. The term "choropleth map" appeared in 1938 in <cite>Problems in Population Mapping</cite> by the geographer John Kirtland Wright.
 
-The purpose of a choropleth maps is representation of how data changes across geographic regions. For this the data needs to be normalized, which means expressed in rates or ratios.
+The purpose of a choropleth map is the representation of changes in data across geographic regions. For this, the data needs to be normalized which means the data must be expressed in rates or ratios.
 
-To make a choropleth map, you need one variable and a color value scale that encodes the values of that variable. It is possible to create a bivariate, or two variable choropleth map by creating two color scales, making them semi transparent and overlaying them. [^stevens]
+To create a choropleth map, one needs a single variable and a color value scale that encodes the values of that variable. It is possible to create a bivariate, or two-variable, choropleth map by creating two color scales, making them semi- transparent and overlaying them. [^stevens]
 
 Color in choropleth maps is especially important because
-1. colors influence readers' perception of patterns in the map or make them see patterns where there are none);
-2. readers can misinterpret the symbolism of colors used in a map. [^brewer] Colors should also be is a logical relationship with the data they represent. For example, showing density of population, it makes to show lower density as a less saturated hue and higher density as a more saturated hue of the same color. This [coloring tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) chooses the colors automatically based on the data.
+1. colors influence a reader's perception of patterns in the map or makes readers see patterns where there are none;
+2. readers can misinterpret the symbolism of colors used in a map. [^brewer] Additionally, colors should be is a logical relationship with the data they represent. For example, showing density of population, it makes sense to show lower densities as less saturated hues and higher densities as more saturated hues of the same color. The ColorBrewer [coloring tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) is a commonly used tool for choosing colors automatically based on data.
 
-With a greyscale color scheme, one has to adjust for the tendency of the human eye to underestimate the lightness and darkness of a colors. In other words, there should be more difference between grey than when using chromatic colors. [^kemp]
+With a greyscale color scheme,  there should be more difference between grey than when using chromatic colors. [^kemp] The reason is that the map createor has to adjust for the tendency of the human eye to underestimate the lightness and darkness of a colors.
 
-The disadvantage of a choropleth map is that it tends to visually over-represent areas that happen to be geographically larger but are not as important in terms of the data that is being shown. An example of this, is population maps that show densely populated areas such as New York, Hong Kong, or Singapore as barely visible areas. 
+The disadvantage of a choropleth map is that it tends to visually over-represent areas that happen to be geographically larger but are not as important in terms of the data being shown. An example of this is a population map that showsgit densely populated areas such as New York, Hong Kong, or Singapore as barely visible areas on a world map. 
 
 [Cartograms](/cartogram) solve this problem by distorting the land area to represent population density or any other data.
 

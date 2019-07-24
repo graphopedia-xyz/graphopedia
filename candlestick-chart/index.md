@@ -25,27 +25,20 @@ examples:
 
 ---
 
-shows price movements over time of a security, derivative, or currency. Usually one candlestick shows a single day.
-Candlestick chart are similar to [box plots](/box-plot) in that both show maximum and minimum values. Box plots, however, carry more information showing the values in between. 
+shows price movements over time for securities, derivatives, or currencies. Usually, one candlestick shows a single day.
+Candlestick charts are similar to [box plots](/box-plot) in that both show maximum and minimum values. Box plots, however, carry more information showing the values in between. 
 
 <!--more-->
 
 Candlestick charts were first described by a wealthy Japanese rice trader Munehisa Homma, who wrote 160 rules describing various patterns of trading.[^nison]
 
 
-Today the Japanese Candlestick chart is still widely used in financial trading. To gain the skill of analyzing a lot of data fast, traders study the patterns that candlestick charts can form. In infographics and data visualization, candlestick charts can be used with large data sets when it is important to show the median values and how they change over time.
+Today the Japanese candlestick chart is still widely used in financial trading. To gain the skill of analyzing a lot of data fast, traders study the patterns candlestick charts can form. In infographics and data visualization, candlestick charts can be used with large data sets when it is important to show the median values and how they change over time.
 
 
 The data needed for creating a candlestick is similar to that of a stock price bar chart:  open, high, low, and close prices. [^morris]
-Candlestick charts are used to discover patterns in the change of values. Such patterns have been extensively studied and many of them have specific names.
+Candlestick charts are used to discover patterns in the change of values. Such patterns have been extensively studied and many of them have specific names such as, for example, "hanging man" and "doji pattern".
 
-*Doji pattern* resembles a plus sign or a cross. It has no real body (or a very small one), and its shadows vary in length. A Doji means indecision.
-
-*Hanging Man* appers at the upper end of the trading range with a small body, a long lower shadow, and no upper shadow. It means an upcoming reversal during an upward trend. The longer its lower shadow, the more likely the reversal.
-
-*Harami* a long-bodied candle that is the same color as the current trend during an upward or downward trend, followed by a small candle of the opposite color that opens and closes within the first candle’s body. There is both a bullish and a bearish form of the Harami pattern.
-
-*Engulfing* When a second candle (of opposing color) “engulfs” the first candle by opening higher than the previous day’s open and closing lower than the previous day’s close, Engulfing pattern forms. This signal can be bearish or bullish, depending on the colors of the candles. When you spot an Engulfing pattern, a reversal is likely just around the corner.
 
 
 ## Sources

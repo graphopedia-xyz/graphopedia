@@ -69,16 +69,16 @@ There are three ways in which the map can be distorted:
 2. splitting map features (non-contiguous cartogram);
 3. representing each map feature as a simple geometric shape such as a circle.
 
-Cartograms became popular in 1934 when cartographer Erwin Raisz published the first statistical rectengular cartograms.[^tyner]
+Cartograms became popular in 1934 when cartographer Erwin Raisz published the first statistical rectangular cartograms.[^tyner]
 
 The main advantage of a cartogram is its ability to grab a reader's attention and show an unusual view of the world or an area that are otherwise familiar.[^tyner2]
 
 Another advantage of cartograms is that data does not need to be classified or range graded, as is the case with [proportional symbols maps](/bubble-map).
  
-Information designers have noticed that representing true geography is not always the most important feature of a map. For example, on the map of the United States it is difficult to even see densely-populated states like New York, while large states like Wyoming have few people living there.
+Information designers have noticed that representing true geography is not always the most important feature of a map. For example, on the map of the United States, it is difficult to even see densely-populated states like New York, while large states like Wyoming have few people living there.
 Showing data that has little to do with the actual land area is often best done with a cartogram.  
 
-The main caveat with cartograms is that the readers have to be familiar with the map of an area so that even when distorted it is still recognizable. For this, provide at least those points along country or state outlines that are proven to be the visual cues for shape identification.[^rittschof]
+The main caveat with cartograms is that the readers have to be familiar with the map of an area so that even when distorted it is still recognizable. For this, provide at least those points along the country outlines that are proven to be the visual cues for shape identification.[^rittschof]
 
 ## Variations
 ### The Density-Equalizing Cartogram 
@@ -88,12 +88,12 @@ Cartogram with map features bulging to represent values.
 Map features are split from each other to emphasize the difference in size.
 
 ### The Dorling Cartogram 
-Shapes such a circles, squares, or sexagons are used to mimic the features of a map.
+Shapes such circles, squares, or sexagons are used to mimic the features of a map.
 
 ## Alternatives
 1. [*Choropleth map*](/choropleth-map) uses colored areas to represent the measurement of a variable proportional to the colored area.
 
-2. [*Bubble map*](/bubble-map) represents data as scaled symbols overlappng a map without distorting the map features.
+2. [*Bubble map*](/bubble-map) represents data as scaled symbols overlapping a map without distorting the map features.
 
 3. [*Dot Distribution Map*](/dot-distribution-map) uses a dot symbol to represent a data point showing the distribution of values through the scatter pattern similar to a scatter plot.
 

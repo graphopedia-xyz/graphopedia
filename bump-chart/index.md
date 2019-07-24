@@ -36,7 +36,7 @@ examples:
     image:  most-popular-fields-of-study-since-1970.png
 
 
-
+git 
 ---
 
 is a type of [line chart](/line-graph) for multiple categories that are ranked, usually through time.
