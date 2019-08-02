@@ -49,10 +49,10 @@ examples:
 is a combination of a map and a flow chart or a Sankey diagram that shows the movement of objects from one location to another. This type of chart is often used to show migration, trade, and data transfers between locations.[^phan]
 
 <!--more-->
-The first flow maps are attributed to Henry Drury Harness who created a detailed atlas of the irish Railways in 1837. [^tamassia]
-Flow maps are used for showing connections between the origin of moving objects and its destinations. The flow map can have weighted or unweighted connecting lines. The weight refers to the width of the line. It can be either directional showing movement in a single direction, or non-directional, presuming that the movement is happening in both directions. [^harris]
+The first flow maps are attributed to Henry Drury Harness who created a detailed atlas of the Irish Railways in 1837. [^tamassia]
+Flow maps are used for showing connections between the origin of moving objects and their destinations. The flow map can have weighted or unweighted connecting lines. The weight refers to the width of the line. It can be either directional showing movement in a single direction or non-directional, presuming that the movement is happening in both directions. [^harris]
 
-A known challenge in flow maps design is avoiding visual clutter made by intersecting flow lines. The solution is in routing the connecting lines such that every child connector branches out from the main flow at a point when it is closest to its destination. [^tamassia]
+A known challenge in flow map design is the visual clutter made by intersecting flow lines. The solution is in routing the connecting lines such that every child connector branches out from the main flow at a point when it is the closest to its destination. [^tamassia]
 
 ## Sources
 [^phan]: ["Flow Map Layout" by Doantam Phan et.al. Proceedings of the 2005 IEEE Symposium on Information Visualization (InfoVis '05): 219–224](http://graphics.stanford.edu/papers/flow_map_layout/flow_map_layout.pdf)

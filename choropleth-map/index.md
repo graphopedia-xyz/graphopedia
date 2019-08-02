@@ -65,7 +65,7 @@ The first choropleth map was introduced by Baron Pierre Charles Dupin in 1826. T
 
 The purpose of a choropleth map is the representation of changes in data across geographic regions. For this, the data needs to be normalized which means the data must be expressed in rates or ratios.
 
-To create a choropleth map, one needs a single variable and a color value scale that encodes the values of that variable. It is possible to create a bivariate, or two-variable, choropleth map by creating two color scales, making them semi- transparent and overlaying them. [^stevens]
+To create a choropleth map, one needs a single variable and a color value scale that encodes the values of that variable. It is possible to create a bivariate, or two-variable, choropleth map by creating two color scales, making them semi-transparent and overlaying them. [^stevens]
 
 Color in choropleth maps is especially important because
 1. colors influence a reader's perception of patterns in the map or makes readers see patterns where there are none;
@@ -79,7 +79,7 @@ The disadvantage of a choropleth map is that it tends to visually over-represent
 
 There are two problems with choropleth maps in terms of statistical accuracy:
 1. *Normalization* - using raw data (for example total population per state) rather than showing normalized data (in this case population for square mile).
-2. *Ecological fallacy* also known as *aggregation bias* - assumes that data measured at a group level is also true at the individual level. For example, a state can be shown as having a high crime rate whereas in reality only one city in that state hass an unusually crime rate that drove up the crime rate of the entire state.
+2. *Ecological fallacy* also known as *aggregation bias* - assumes that data measured at a group level is also true at the individual level. For example, a state can be shown as having a high crime rate whereas in reality only one city in that state has an unusually crime rate that drove up the crime rate of the entire state.
 
 ## Alternatives
 

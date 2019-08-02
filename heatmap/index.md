@@ -67,7 +67,7 @@ synonym:
   -heat map
 ---
 
-is a table in which values in every cell are represented with color. Functionally, heatmaps are best at revealing the lowest and highest values and patterns, and sometimes patterns. Heatmaps represent a single variable (univariate data) by using color that either corresponds exactly to the value or to its range, if the data is grouped. 
+is a table in which values in every cell are represented with color. Functionally, heatmaps are best at revealing the lowest and highest values as well as general patterns. Heatmaps represent a single variable (univariate data) by using color. A color either corresponds to a single value or to a range of values where the data is grouped. 
 <!--more-->
 Heatmaps originate from shading matrices that were used as far back as 1873. [^wilkinson]
 
@@ -75,14 +75,14 @@ Heatmaps originate from shading matrices that were used as far back as 1873. [^w
 The rows and columns in a heat map represent either numbers or categories. 
 The advantage of using heatmaps is that encoding quantitative data with color requires a very small area which allows for displaying a lot of data within a small space. [^munzer]
 As with all information graphics that use color to represent data, the choice of the color scheme is important in a heatmap. The designer can choose between greyscale and color. 
-In general, the human eye can differentiate chromatic colors easier than shades of gray; however, there is no obvious ordering of colors that is universally perceived the same way. [^ware] For example, showing red is perceived hotter than orange, but purple may or may not be perceived as hotter than red.
+In general, the human eye can differentiate chromatic colors easier than shades of gray. Still, even with chromatic color schemes, an obvious ordering of colors perceived the same way universally does not exist. [^ware] For example, in the context of temperatures red is perceived as being hotter than orange, but purple may or may not be perceived as hotter than red.
  
- Another issue with colors is their influence on each other - adjacent cells of different can create the perception of a gradient even when it is not there.
+ Another issue with colors is their influence on each other - adjacent cells of different colors can produce the perception of a gradient even when it is not there.
  
- Despite its name, *heatmap* normally does not refer to a type of map but a table with color-coded values. Maps that use color coding with a rainbow pattern are also sometimes called heatmaps. But they are not to be confused with [choropleth maps](/choropleth-map) that use a single color per geographic region to represent data.
+ Despite its name, a heatmap normally does not refer to a type of map but a table with color-coded values. Maps that use color coding with a rainbow pattern are also sometimes called heatmaps. But they are not to be confused with [choropleth maps](/choropleth-map) that use a single color per geographic region to represent data.
  
 ## Variations
-Heatmap variations have to do with the orientation and layout of the map as well as adding another type fo chart - the [dedrogram](/dendrogram). A special case of heatmap usage when no relevant data exists for large parts of the matrix as in the tennis example below, produces a chart that does not show the entire matrix. 
+Heatmap variations have to do with the orientation and layout of the map. The addition of a [dedrogram](/dendrogram) produces a heatmap that also shows the hierarchy of the values.
 
 ### Circular heat map
 *Circular heat map* displays the axes along the radius of the circles and its perimeter. This layout is normally used for cyclical events such as climate visualizations.
@@ -90,7 +90,7 @@ Heatmap variations have to do with the orientation and layout of the map as well
 *Spiral heat map* winds the X axis along a spiral. This space-saving layout has the disadvantage of difficulty when labeling the chart.
 
 ### Cluster heat map 
-*Cluster heatmap* also called "double dendrograms* [^ncss] is a combination of heatmap and [dendrogram](/dendrogram) showing how the ordering of the cells in the heatmap matrix was obtained, showing one dedrogram for the matrix rows and one for the columns. The cluster heat simultaneously reveals row and column hierarchical cluster structure.
+*Cluster heatmap* also called *double dendrograms* [^ncss] is the combination of a heatmap and a [dendrogram](/dendrogram) showing one dedrogram for the matrix rows and one for the columns. The cluster heatmap simultaneously reveals row and column hierarchical cluster structure.
                                                                            
 ## Sources
 

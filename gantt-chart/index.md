@@ -42,18 +42,18 @@ examples:
 
 ---
 
-is a type of [bar chart](/bar-chart) that shows progress of events over time and their inter-dependencies, usually in the context of project management. Each event in a Gantt chart displays its timeline, the person or team who whom it is assigned, and any connections to other events or projects.
-The Gantt chart was first introduced in 1910s by American engineer Henry Gantt.[^wallace]
+is a type of [bar chart](/bar-chart) that shows the progress of events over time and their inter-dependencies, usually in the context of project management. Each event in a Gantt chart displays its timeline, the person or team who whom it is assigned, and any connections to other events or projects.
+The Gantt chart was introduced in the 1910s by American engineer Henry Gantt.[^wallace]
 <!--more-->
 A task in a Gantt chart is shown as a bar, the length of which corresponds to the
-duration of the task. The bars run horizontally along a timeline which is displayed on the X axis. 
+duration of the task. The bars run horizontally along a timeline which is displayed on the X-axis. 
 
 The scale of the timeline can be measured in days, weeks, quarters, or years. The tasks are usually ordered such that those that have to be completed first are at the top.
 
-The disadvantage of using a Gantt charts is that it does not show all the possible connections between events within a project, as for example a network diagram (/network-diagram) would.[^wisocki] Another disadvantage is that the collaboration between people involved in the project is not visualized. [^burkhard]
+The disadvantage of using a Gantt chart is that it does not show all the possible connections between events within a project as, for example, in a [network diagram](/network-diagram).[^wisocki] Another disadvantage is that the collaboration between members of the project team is not visualized. [^burkhard]
 
 ## Alternatives
-For project management use cases, there are charts that show more detailed interactions between issues and people. These charts emphasize how people, resources, and events relate to each other.
+For project management use cases, other chart types can show more detailed interactions between issues and people. These charts emphasize how people, resources, and events relate to each other.
 Another reason to choose an alternative to a Gantt chart might be that Gantt charts have no way of showing the likely project completion time.
 
 1. [*Network diagram*](/network-diagram) uses nodes and links to show the hierarchy and connections between entities.
