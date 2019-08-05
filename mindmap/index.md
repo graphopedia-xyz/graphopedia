@@ -51,32 +51,32 @@ synonyms:
   - spider diagram
 
 ---
-is a type of knowledge representation that shows concepts as nodes and links between them as connecting lines forming an overall outward-branching hierarchical structure.[^plotnik] A mind map usually starts from a single concept at the center of the image. Major ideas are connected directly to the central concept, and minor ideas branch out from those major ideas. Mind maps are used to as a mnemonic technique for facts and their interconnections.
+is a type of knowledge representation that shows concepts as nodes and links between them as connecting lines forming an overall outward-branching hierarchical structure.[^plotnik] A mind map usually starts from a single concept at the center of the image. Major ideas are connected directly to the central concept, and minor ideas branch out from those major ideas. Mind maps serve as a mnemonic technique for facts and their interconnections.
 
 <!--more-->
 
-The mind map has ancient origins with the earliest known example being the The Tree of Porphyry or the Porphyrian tree created by the 3rd century CE Greek philosopher and logician Porphyry. [^cyclopedia] Although the Porphyrian tree had no connecting lines yet, it already used spatial mapping. In the 1970s, American educator Joseph D. Novak introduced the term "concept mapping". The term "mind-mapping" appeared in the 1970s popularized by British author Tony Buzan along with the idea of mental literacy.[^buzan]
+The mind map has ancient origins with the earliest known example being The Tree of Porphyr, or the Porphyrian tree, created by the 3rd century CE Greek philosopher and logician Porphyry. [^cyclopedia] Although the Porphyrian tree had no connecting lines yet, it already used spatial mapping. In the 1970s, American educator Joseph D. Novak introduced the term "concept mapping." Mind-mapping appeared in the 1970s popularized by British author Tony Buzan along with the idea of mental literacy.[^buzan]
 
-Concept maps and mind maps are similar in structure and purpose, the main difference being the presence of connecting words and phrases along the connecting lines in a concept map.
+Mind maps are similar in structure and purpose to [concept maps](/concept-map), the main difference being the presence of connecting words and phrases along the connecting lines in a concept map.
 
-The process of making a mind map starts with a list of concepts made in a brainstorming session. The concepts are then organized in hierarchical order and connectors are added. [^novak2]
+The process of making a mind map starts with a list of concepts created during a brainstorming session. The concepts then appear in the mind map in hierarchical order with connecting lines drawn between concept. [^novak2]
 
-Mind-mapping has been studied as a learning technique that could improve recall and critical-thinking skills.[^novak] Mind-mapping was shown to improve long-term recall by 10%.[^farrand] In a study with medical students taking notes using a mind-mapping technique, it was not found to increase short-term recall or critical thinking compared to students taking written notes.[^antoni] 
+Mind-mapping is as a learning technique with potential to improve recall and critical-thinking skills.[^novak] Mind-mapping was shown to improve long-term recall by 10%.[^farrand] In a study with medical students taking notes in class, mind-mapping did not increase either short-term recall or critical thinking compared to students taking written notes.[^antoni] 
 
 ## Alternatives
 
-1. [Concept map](/concept-map) a diagram representing ideas and their connections as a network of nodes and links with the each link labeled with a description of the type of relationship.
+1. [Concept map](/concept-map) is a diagram representing ideas and their connections as a network of nodes and links with each link labeled with a description of the type of relationship.
 2. [Word cloud](/word-cloud) representation of the frequency of words in a given text by using the size of the font.
 
 
 ## Sources
 [^plotnik]: ["Concept Mapping: A Graphical System for Understanding the Relationship between Concepts" by Eric Plotnik, 1997. ERIC Clearinghouse on Information and Technology Syracuse NY](https://files.eric.ed.gov/fulltext/ED407938.pdf)
 
-[^cyclopedia]:[Cyclopædia, or an Universal Dictionary of Arts and Sciences](http://digicoll.library.wisc.edu/cgi-bin/HistSciTech/HistSciTech-idx?type=turn&id=HistSciTech.Cyclopaedia01&entity=HistSciTech.Cyclopaedia01.p0168)
+[^cyclopedia]:[Cyclopædia, or a Universal Dictionary of Arts and Sciences](http://digicoll.library.wisc.edu/cgi-bin/HistSciTech/HistSciTech-idx?type=turn&id=HistSciTech.Cyclopaedia01&entity=HistSciTech.Cyclopaedia01.p0168)
 
-[^buzan]: Buzan, T., and B. Buzan. 1993. The Mind Map book: How to use radiant thinking to maximize your brain's untapped potential. New York: Plume.
+[^buzan]: Buzan, T., and B. Buzan. 1993. The Mind Map Book: How to use radiant thinking to maximize your brain's untapped potential. New York: Plume.
 
-[^novak2]: [Novak, J. D. & Cañas  A. J.(2008) The Theory Underlying Concept Maps and How to Construct Them, Technical Report IHMC CmapTools 2006-01 Rev 01-2008, Florida Institute for Human and Machine Cognition](https://web.stanford.edu/dept/SUSE/projects/ireport/articles/concept_maps/The%20Theory%20Underlying%20Concept%20Maps.pdf) 
+[^novak2]: [Novak, J. D. & Cañas  A. J. (2008) The Theory Underlying Concept Maps and How to Construct Them, Technical Report IHMC CmapTools 2006-01 Rev 01-2008, Florida Institute for Human and Machine Cognition](https://web.stanford.edu/dept/SUSE/projects/ireport/articles/concept_maps/The%20Theory%20Underlying%20Concept%20Maps.pdf) 
 
 [^novak]: [ Novak, J.D. & Gowin, D.B. (1984). Learning How to Learn. New York: Cambridge Univ. Press.](https://doi.org/10.1017/CBO9781139173469)
 [^farrand]: [Farrand, Paul, Fearzana Hussain, and Enid Hennessy. “The Efficacy of the ‘Mind Map’ Study Technique.” Medical Education, vol. 36, no. 5, 2002, pp. 426-31.](https://doi.org/10.1046/j.1365-2923.2002.01205.x)

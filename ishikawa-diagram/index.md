@@ -41,9 +41,9 @@ Ishikawa diagrams were first popularized in the 1960s by Kaoru Ishikawa who used
 
 Before Ishikawa, the basic concept was already in use in the 1920s. Mazda Motors used an Ishikawa diagram in the development of the Miata (MX5) sports car.
 
-The Ishikawa diagram is widey used within the manufacturing quality control field to map causes of manufacturing defects related to human error, machine malfunction, material defects, and process failures. [^luca]  The Ishikawa diagram is used in the medical field for diagramming causes that lead to a medical condition. [^wong]
+The Ishikawa diagram is widely used in the manufacturing quality control field to map causes of manufacturing defects related to human error, machine malfunction, material defects, and process failures. [^luca]  The Ishikawa diagram is used in the medical field for diagramming causes that lead to a medical condition. [^wong]
 
-The limitation of Ishikawa diagrams may be in their ability to show complexity. Researchers who translated an epidemological study findings into an Ishikawa diagram found that student understood tables of findings better than Ishikawa diagrams. [^gartlehner]
+The limitation of Ishikawa diagrams may be in their ability to show complexity. Researchers who translated an epidemiological study findings into an Ishikawa diagram found that student understood tables of findings better than Ishikawa diagrams. [^gartlehner]
 
 
 
