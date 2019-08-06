@@ -71,30 +71,49 @@ Tick marks on both axes help a reader locate the corresponding values since box 
 
 ## Variations
 
+<!-- @anna should it be removed? -->
+<!--
 ### Histplot 
 Histplots estimate the distribution of data at the median and the two quartiles. The width of the box plot at these locations is then modified to be proportional to the density estimation. The box shape becomes a polygon. [^potter2] 
+-->
 
 ### Beanplot 
-Bean plots show individual observations as lines while the showing the distribution as area, similar to a density plot.[^kampstra]
+<img src="bean-plot.svg" alt="bean plot" class="f-right-half" /> Bean plots show individual observations as lines while the showing the distribution as area, similar to a density plot.[^kampstra]
+<!-- @anna  maybe add that beanplots can be assymetric (as per P.Kampstra)-->
 
 ### Vase plot 
- Vase plots add estimated densities for every point between the upper and lower quartiles to the histplot. 
+<img src="vase-plot.svg" alt="vase plot" class="f-right-half" /> Vase plots add estimated densities for every point between the upper and lower quartiles to the histplot. 
 
 ### Box-percentile plot
- Box-percentile plots use both sides of the box plot to show the distribution at each point. For each point in the plot, the width of the box is proportional to the percentile of that data value, up to the 50th percentile. After that it switches to being proportional to values outside the percentile. The the plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to a violin plot, the advantages of this plot is that it covers the entire range of data.
+<img src="box-percentile-plot.svg" alt="box-percentile plot" class="f-right-half" /> Box-percentile plots use both sides of the box plot to show the distribution at each point. For each point in the plot, the width of the box is proportional to the percentile of that data value, up to the 50th percentile. After that it switches to being proportional to values outside the percentile. The the plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to a violin plot, the advantages of this plot is that it covers the entire range of data.
+<!-- @anna maybe add this paper to sources? >> http://dx.doi.org/10.18637/jss.v008.i17 -->
 
+### Letter-value box plot
+<img src="letter-value-box-plot.svg" alt="letter-value box plot" class="f-right-half" /> Letter-value box plot was designed to overcome the shortcomings of the boxplot for large data...
+<!-- @anna rewrite this, adding this paper http://vita.had.co.nz/papers/letter-value-plot.pdf -->
 
+### Notched box plot
+<img src="notched-box-plot.svg" alt="notched box plot" class="f-right-half" /> Notched box plot displays confidence intervals around the medians, supporting visual assessment of statistical significance.
+<!-- @anna rewrite this, copy-paste -->
+
+### Variable width box plot
+<img src="variable-width-box-plot.svg" alt="variable width box plot" class="f-right-half" /> Uses the width of the box to represent ...
+<!-- @anna rewrite this -->
+
+### HDR box plot
+<img src="hdr-box-plot.svg" alt="HDR box plot" class="f-right-half" /> HDR Box Plot, or the *highest density region* (HDR) boxplot (Hyndman, 1996) is a compromise between a boxplot and a density boxplot.
+<!-- @anna rewrite this, copy-pasted from paper -->
 
 ## Alternatives
 Charts that show distributions are all potential alternatives to a box plot. With few data series, using a histogram ofr a density plot may be possible, otherwise, to compare multiple data sets, the violin plot or the beeswarm plot are better.
 
 1. [*Histogram*](/histogram) shows a estimate of the probability distribution of a continuous variable using discrete values.
 
-2. [*Violin plot*](/violion-plot) displays the density for all data points, not just the middle half.
+2. [*Violin plot*](/violin-plot) displays the density for all data points, not just the middle half.
 
 3. [*Scatter plot*](/scatter-plot) shows distribution by plotting every data point on the X, Y coordinates. The overall shape as well as individual data points are best seen on a scatter plot unlike the box plot that does not show how individual data points are distributed.
 
-4. *Beeswarm Plot* is a one-dimensional scatter plot with closely-packed points that do not overlap[^tud].
+4. [*Beeswarm Plot*](/scatter-plot/#beeswarm-plot) is a one-dimensional scatter plot with closely-packed points that do not overlap[^tud].
 
 ## Sources
 [^wickham]: [40 Years of Boxplots](http://vita.had.co.nz/papers/boxplots.pdf)
@@ -102,4 +121,4 @@ Charts that show distributions are all potential alternatives to a box plot. Wit
 [^potter]: [Methods for Presenting Statistical Information: The Box Plot, p 97](http://www.sci.utah.edu/~kpotter/publications/potter-2006-MPSI.pdf)
 [^potter2]: [Methods for Presenting Statistical Information: The Box Plot by Kristin Potter p. 100](http://www.sci.utah.edu/~kpotter/publications/potter-2006-MPSI.pdf)
 [^kampstra]: [Beanplot: A Boxplot Alternative for Visual Comparison of Distributions by Peter Kampstra, p. 4](https://cran.r-project.org/web/packages/beanplot/vignettes/beanplot.pdf)
-[^tud][R package by Aron Charles Eklund, Ph.D., Technical University of Denmark, retrieved Apr. 8, 2019](http://www.cbs.dtu.dk/~eklund/beeswarm/)
+[^tud]: [R package by Aron Charles Eklund, Ph.D., Technical University of Denmark, retrieved Apr. 8, 2019](http://www.cbs.dtu.dk/~eklund/beeswarm/)

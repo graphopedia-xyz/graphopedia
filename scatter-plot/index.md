@@ -56,9 +56,19 @@ The scatter plot first appeared in the work of English statistician Francis Galt
  
  Since scatter plots display a dot for every data point, overplotting is a common problem. [^carr] The existing solutions include representations of densities, not individual data points, using greyscale or using a symbol, often a hexagon. An example of such a density distribution scatter plot is a hexagonal bin plot.
 
+
 ## Variations
-1. *Radial scatter plot* is functionally the same but set into polar coordinates. This type of scatter plot is useful for visualizaing cyclical or seasonal phenomena. One example below shows incidence of disease by month.
-2. *Hexagonal bin plot* is a scatter plot where individual observations were put into bins as then each bin represented as a symbol colored to show the density.
+
+### Radial scatter plot
+<img src="radial-scatterplot.svg" alt="radial scatter plot" class="f-right-half" /> Radial scatter plot is functionally the same but set into polar coordinates. This type of scatter plot is useful for visualizaing cyclical or seasonal phenomena. One example below shows incidence of disease by month.
+
+### Hexagonal bin plot
+<img src="hexagonal-bin-plot.svg" alt="hexagonal bin plotlot" class="f-right-half" /> Hexagonal bin plot is a scatter plot where individual observations were put into bins as then each bin represented as a symbol colored to show the density.
+
+### Beeswarm plot
+<img src="beswarm-plot.svg" alt="beswarm plotlot" class="f-right-half" /> Beeswarm plot is a one-dimensional scatter plot like "stripchart", but with closely-packed, non-overlapping points.
+<!-- @anna rewrite this -->
+
 
 ### Sources
 [^friendly]: [Friendly, Michael and Daniel J. Denis. “The early origins and development of the scatterplot.” Journal of the history of the behavioral sciences 41 2 (2005): 103-30 .](http://datavis.ca/papers/friendly-scat.pdf)
