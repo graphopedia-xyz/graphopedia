@@ -53,14 +53,14 @@ synonyms:
 
 ---
 
-is a series of graphs of the same scale arranged such that they can be easily compared. The most common arrangement is a matrix.
+is a visualization technique of producing a series of graphs of the same scale arranged and aligned to allow for maximum visual comparison. The order of the graphs is usually chronological or alphabetical. The graphs appear either in a row or in a table.
 
 <!--more-->
-Small multiples were popularized by statistician Edward Tufte in his 1983 book *The Visual Display of Quantitative Information*. [^tufte] Before Tufte, Jacques Bertin proposed a similar method called *reorderable matrix* in 1967.[^perin]
+Statistician Edward Tufte introduced small multiples in his 1983 book *The Visual Display of Quantitative Information*. [^tufte] Before Tufte, Jacques Bertin proposed a similar method called *reorderable matrix* in 1967.[^perin]
 
-Small multiples technique can be applied to virtually any type of charts, maps, or illustrations as long as the differences between the charts are legible even at the small size. The order in which the charts are presented should follow a logical sequence: time, alphabet, similarity, etc.
+Small multiples technique can be applied to virtually any type of charts, maps, or illustrations as long as the differences between the charts are legible despite the small size. The order in which the charts appear should follow a logical sequence: time, alphabet, similarity, etc.
 
-The main advantage of small multiples technique is that it allows comparison across multiples variable and complex relationships between them in a single infographic. The disadvantage of displaying a lot of charts is that readers may not be able to track the relationships as well as they would with other techniques, as for example, with animation. [^archambault]
+The main advantage of small multiples technique is that it allows comparison across multiples variable and complex relationships between them in a single infographic. The disadvantage of displaying a lot of charts is that readers may not be able to track the relationships as well as they would with other techniques, as with animation. [^archambault]
 
 ## Sources
 [^tufte]: [Tufte, E. R. (1983). The visual display of quantitative information. Cheshire, CT: Graphics Press.](https://www.edwardtufte.com/tufte/books_vdqi)

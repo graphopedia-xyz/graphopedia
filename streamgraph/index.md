@@ -37,16 +37,15 @@ examples:
 
 ---
 
-is a type of [stacked area chart](/area-chart) which is shown relative to a central axis.[^byron] The function the Streamgraph is showing many individual time series and displaying their sum at the same time.
+is a type of [stacked area chart](/area-chart) that displays the data curves relative to its central axis.[^byron] The function of the Streamgraph is the display of multiple individual time-series while showing their sum.
 
 <!--more-->
-Similar to the area chart, the height of each area represents value along the Y axis. Time is usually plotted on the X axis.
+Similar to the area chart, the height of each area represents values along the Y-axis. The X-axis reflects the time.
 
-The Streamgraph is centered on the horizontal axis as opposed to the traditional stacked area chart that is aligned at the bottom along the X axis. The center alignment is what makes the Streamgraph aesthetically beautiful. At the same time, it makes the chart less readable since it is more difficult to compare heights when they are not aligned on a straight line.
+Unlike stacked area charts with bottom alignment, Streamgraphs align to their centers. The center alignment is what makes the Streamgraphs aesthetically beautiful. At the same time, it makes it less readable since comparing heights of shapes not aligned in a straight line is less intuitive.
 
-The layers of the Streamgraph are usually ordered and there can be no spaces between them since that would skew the other layers.
+The layers of the Streamgraph are ordered, and there can be no spaces between them since that would skew the other layers.
 
 
 ## Sources
-[^byron]: [L. Byron, M. Wattenberg, "Stacked graphs &minus geometry & aesthetics", IEEE Trans. Vis. and Comp. Graphics, vol. 14, no. 6, pp. 1245-1252, 2008.](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf)
-
+[^byron]: [L. Byron, M. Wattenberg, "Stacked graphs &minus geometry & aesthetics," IEEE Trans. Vis. and Comp. Graphics, vol. 14, no. 6, pp. 1245-1252, 2008.](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf)
