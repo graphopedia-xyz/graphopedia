@@ -57,12 +57,12 @@ synonyms:
 is a type of pie chart in which all sectors have equal angles differing only in how far each sector extends from the center of the circle. [^friendly] The polar area chart is used to plot circular data[^fisher] such as cyclical trends, for example.
 
 <!--more-->
-The polar area diagram was popularized by Florence Nightingale, who famously plotted seasonal mortality of soldiers from preventable causes against against war casualties.
-Polar area charts are plotted on polar coordinates. Each segment of the chart represents a value through its area, not arc length or radius. The segments can be stacked, similar to a stacked bar chart, only presented in polar coordinates.
+The polar area diagram was popularized by Florence Nightingale, who famously plotted seasonal mortality of soldiers from preventable causes against war casualties.
+Polar area charts are plotted in polar coordinates. Each segment of the chart represents a value through its area, not arc length or radius. The segments can be stacked, similar to a stacked bar chart, only presented in polar coordinates.
 
 Cyclical phenomena, such as monthly weather patterns, are the best use case of the polar area chart. However, the drawback of the polar chart is that it makes the outward segments seem more significant. 
 
-The polar area chart is not be confused with a [radial bar chart](/bar-chart) that is also layed out radially but uses the bar length, not the area to represent a value.
+The polar area chart is not be confused with a [radial bar chart](/bar-chart). It also laid out radially but it uses the bar length, not the area, to represent a value.
 
 
 ## Sources
