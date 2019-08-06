@@ -59,18 +59,18 @@ The scatter plot first appeared in the work of English statistician Francis Galt
 
 ## Variations
 
-### Radial scatter plot
-<img src="radial-scatterplot.svg" alt="radial scatter plot" class="f-right-half" /> Radial scatter plot is functionally the same but set into polar coordinates. This type of scatter plot is useful for visualizaing cyclical or seasonal phenomena. One example below shows incidence of disease by month.
+### Radial Scatter plot
+<img src="radial-scatterplot.svg" alt="radial scatter plot" class="f-right-half" /> Radial scatter plot is functionally the same but set into polar coordinates. This variety of scatter plot is useful for visualizing cyclical or seasonal phenomena. One example below shows the incidence of disease by birth month.
 
 ### Hexagonal bin plot
 <img src="hexagonal-bin-plot.svg" alt="hexagonal bin plotlot" class="f-right-half" /> Hexagonal bin plot is a scatter plot where individual observations were put into bins as then each bin represented as a symbol colored to show the density.
 
 ### Beeswarm plot
 <img src="beswarm-plot.svg" alt="beswarm plotlot" class="f-right-half" /> Beeswarm plot is a one-dimensional scatter plot like "stripchart", but with closely-packed, non-overlapping points.
-<!-- @anna rewrite this -->
+<!-- @anna rewrite this, copy-paste -->
 
 
-### Sources
+## Sources
 [^friendly]: [Friendly, Michael and Daniel J. Denis. “The early origins and development of the scatterplot.” Journal of the history of the behavioral sciences 41 2 (2005): 103-30 .](http://datavis.ca/papers/friendly-scat.pdf)
 [^tufte]: Tufte, E. R. (1983). The visual display of quantitative information. Cheshire, CT: Graphics Press.
 [^carr]: [Carr, D., Littlefield, R., Nicholson, W., & Littlefield, J. (1987). Scatterplot Matrix Techniques for Large N. Journal of the American Statistical Association, 82(398), 424-436. doi:10.2307/2289444](https://www.jstor.org/stable/2289444)

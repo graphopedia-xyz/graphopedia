@@ -2,6 +2,8 @@
 title:  bubble map
   
 tags:
+- comparison
+- geospatial data
 
 related:
 
@@ -50,12 +52,12 @@ visualizes numeric data referring to locations on a map by using a scaled symbol
  Each circle is sized based on its area, not the diameter or the radius, following the same principle as in a bubble chart. The underlying map is divided into regions, with a single circle per region.
 
 <!--more-->
-## Purpose
+
 Bubble maps are used to compare data among geographic regions on a map. The comparison can be shown between data points, percentages and ratios.
 
-## Usage
 One of the main challenges in a bubble map is the choice of bubble sizing.  There are three ways in which bubbles can be scales:
 mathematical scaling, perceptual scaling, and range grading. [^cabello]
+
 *Mathematical scaling* reflects the data as it is. And yet, the human eye is known to not judge the relative areas of shapes, especially circles, correctly. 
 To compensate for this, *perceptual scaling*, also called "apparent value scaling" turns larger symbols on the map even larger. 
 

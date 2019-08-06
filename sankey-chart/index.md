@@ -18,7 +18,7 @@ examples:
     image:  why-breakups-happen.jpg
     
   - title:  The Race To Save The River Ganges
-    author: Simon Scarr, Weiyi Cai, Vinod Kumar and Alasdair Pal
+    author: Simon Scarr, Weiyi Cai, Vinod Kumar, and Alasdair Pal
     link:   https://graphics.reuters.com/INDIA-RIVER/010081TW39P/index.html
     image:  ganges-river-pollution.png
     
@@ -48,21 +48,22 @@ examples:
     image:  income-statement.jpg
 
 ---
-
-is a type of visualization used to represent a flow of any kind, where the width of each line corresponds to the quantity of the flow. Sankey diagrams emphasize the transfers or flows within a system. [^schmidt] 
+is a type of graph that represents change over time or distance as the width of a flowing line that is proportional to a quantity. Sankey diagrams emphasize the transfers in a system by splitting the flow line. [^schmidt] 
 <!--more-->
- One of the most famous Sankey diagrams is Charles Minard's *Map of Napoleon's Russian Campaign of 1812* created in 1869. It is a Sankey diagram overlaid onto a map which makes it a [flow map](/flow-map). Sankey chart is named after the Irish engineer Riall Sankey. In 1898 he created a diagram of steam engine efficiency that used arrows with widths proportional to heat loss. [^schmidt2]
+Sankey diagram flow lines branch out, but they do not re-cluster as they do in the [alluvial-diagram](/alluvial-diagram). 
 
-Sankey diagram flow lines can branch out but they do not re-cluster as they do in the [alluvial-diagram](alluvial-diagram). Sankey diagrams use the metaphor of a river which follows the principle that the width of the main stream is equal to the sum of its downstream branches. 
+Sankey diagrams use the metaphor of a river with tributaries which follows the principle that the width of the main stream is equal to the sum of its downstream branches. 
 
-Sankey diagrams are often used to show energy flow, migrant flow, money flow, or any other system where the amount of items at the beginning is equal to the amount at the end after the items were re-distributed.
+Sankey diagrams are often used to show energy flow, migrant flow, and money flow. Any other system where the amount of items at the start equals the end amount after redistribution fits the use case of Sankey diagrams.
+
+A famous example of a Sankey diagram, cited by Edward Tufte as one of the greatest information graphics ever made, is Charles Minard's *Map of Napoleon's Russian Campaign of 1812* created in 1869. It is a Sankey diagram overlaid onto a map which makes it a [flow map](/flow-map). Sankey chart received its name from the Irish engineer Riall Sankey. In 1898, he created a diagram of steam engine efficiency that used arrows with widths proportional to heat loss. [^schmidt2]
 
 ## Alternatives
-1. [*Alluvial diagram*](/alluvial-diagram) uses the width of line to represent amount of flow between categories, as in [parallel coordinates plot](/parallel-coordinates). Unlike Sankey diagram, it allows flow lines to re-group.
+1. [*Alluvial diagram*](/alluvial-diagram) uses the width of a line to represent the amount of flow between categories, as in [parallel coordinates plot](/parallel-coordinates). Unlike the Sankey diagram, it allows flow lines to re-cluster.
 
 2. [*Flow map*](/flow-map) is essentially a Sankey diagram overlaid onto a map.
 
-3. *Grassmann diagram* is the same as the Sankey diagram, but it mainly depicts energy transformations in thermodynamics.
+3. *Grassmann diagram* is a special case of Sankey diagrams for visualizing energy transformations in thermodynamics.
 
 ## Sources
 [^schmidt]: [M. Schmidt, The Sankey Diagram in Energy and Material Flow Management: Part I: History, J. Ind. Ecol. 12 (2008)](doi:10.1111/j.1530-9290.2008.00004.x.) 

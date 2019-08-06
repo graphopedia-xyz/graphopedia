@@ -76,13 +76,13 @@ examples:
 
 ---
 
-is a graphic representation of distribution of one continuous variable. Histograms are built using raw data that is split into intervals, called *bins*. The larger the bin size, the wider is the bar of the histogram. The distribution of data is shown as the frequency of data points in each bin. If the bins are set to equal intervals, then all the bars will be the same width. The height of each bar reflects the frequency. If the bin size varies, it is the *area*, not the height that will show frequency.
-Histograms are the most common way of showing distribution because they allows to see its shape, a possible skewness, and outliers.
+is a graphic representation of the distribution of one continuous variable. Histograms are built using raw data that is split into intervals, called *bins*. The larger the bin size, the wider is the bar of the histogram. The distribution of data is shown as the frequency of data points in each bin. If the bins are set to equal intervals, then all the bars will be the same width. The height of each bar reflects the frequency. If the bin size varies, it is the *area*, not the height that will show frequency.
+Histograms are the most common way of showing distribution because they allow to see its shape, a possible skewness, and outliers.
 
 <!--more-->
-Histograms were introduced by English mathematician Karl Pearson in 1895.[^pearson] Pearson proposed the histogram as a  'time-gram' to show change of over time.[^flood]
+Histograms were introduced by English mathematician Karl Pearson in 1895.[^pearson] Pearson proposed the histogram as a  'time-gram' to show change over time.[^flood]
 
-Even though a histogram is visually similar to a [bar chart](/bar-chart), functionally it is a different. Unlike a bar chart, a histogram shows only one variable's distribution, whereas a bar chart relates two. In a histogram data points are grouped by setting bin size, while in a bar chart data points are already grouped in categories.[^wilkinson] 
+Even though a histogram is visually similar to a [bar chart](/bar-chart), functionally it is different. Unlike a bar chart, a histogram shows the distribution of only one variable whereas a bar chart relates two. In a histogram, data points are grouped by setting bin size, while in a bar chart data points are already grouped in categories.[^wilkinson] 
 
 Histograms are similar to the [density plot](/density-plot) and its bandwidth. But unlike a density plot, a histogram shows the distribution discretely, not continuously.
 
@@ -99,16 +99,14 @@ Histograms show raw data that is not grouped or categorized, other than binned. 
 
 ## Alternatives
 The alternatives to the histogram, the chart synonymous with distribution, are going to be other charts that show distribution.
-The general trade off between distribution charts is that the more individual data points we see, the less the overall pattern is clear, and vice versa. The charts below are somewhere along the spectrum from the more detailed to the more general.
+The general trade-off among distribution charts is that the more individual data points they disply the less the overall pattern is clear, and vice versa. The charts below are somewhere along the spectrum from the more detailed to the more general.
 
 1. *Dot plot* also known as *unit chart* shows individual data points for each point in time plotted on the x-axis. Functionally, it is similar to histogram. Visually, the dots may be more difficult to read and compare than the bars of a histogram.
-
 2. [*Scatter plot*](/scatter-plot) shows individual data points of bivariate (two-variable) data.
 3. *Beeswarm plot* shows individual data points along a single axis. Normally, it is used to compare several distributions.
 4. [*Density plot*](/density-plot) shows density estimate of a distribution as a smooth curve.
-5. *Strip plot*
-6. *Violin plot* shows a double-sided density estimate of the distribution, comparing several such distributions.
-7. *Barcode chart*
+5. *Violin plot* shows a double-sided density estimate of the distribution, comparing several such distributions.
+6. *Barcode chart* shows a distribution using lines that represent individual points along a single axis. Bar code chart compares multiple distributions within compact space.
 
 ## Sources
 [^pearson]: Karl Pearson, Gresham Lecture on ‘Maps and Chartograms’(20 November 1891) KP:UCL/49/21.

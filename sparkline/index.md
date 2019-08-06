@@ -28,15 +28,15 @@ synonyms:
 
 ---
 
-is a small chart without axes or coordinates, usually intended to be shown inline with text, in a data table, or in a [small multiples](/small-multiples) matrix. The purpose of a sparkline is to quickly communicate the shape of the graph without communicating its specific values. 
+is a small chart without axes or coordinates, usually intended to be shown inline with text, in a data table, or a [small multiples](/small-multiples) matrix. The purpose of a sparkline is to quickly communicate the shape of the graph without communicating its specific values. 
 <!--more-->
-The concept of a sparkline was invented by American statistician Edward Tufte. He calls sparklines *data-words* and describes them as "data-intense, design-simple, word-sized graphics" that are "embedded in a context of words, numbers, images".[^tufte]
+The concept of a sparkline comes from American statistician Edward Tufte. He calls sparklines *data-words* and describes them as "data-intense, design-simple, word-sized graphics" that are "embedded in a context of words, numbers, images."[^tufte]
 
 Tufte explains that sparklines are readable despite their small size because the human eye is already trained to see differences in typefaces.
 
-Most commonly, sparklines are line charts. However, the term "sparkline" can also mean any inline embedded contextual information graphic, such as a [histogram](/histogram), without scale and axes, for example. The end data point is often written as a number following the sparkline.
+Most commonly, sparklines are line charts. However, the term "sparkline" can also mean any inline embedded contextual information graphic, such as a [histogram](/histogram), without scale and axes, for example. The end data point appears as a number following the sparkline.
 
-Sparklines are commonly used for financial data. The use of sparklines has been proposed in medical reports to increase accuracy in medical diagnosis.[^radecki]
+Sparklines are common in visualizations of financial data. The use of sparklines has been proposed in medical reports to increase accuracy in medical diagnosis.[^radecki]
 
 ## Sources
 [^tufte]: Edward Tufte (2006). Beautiful Evidence. Graphics Press. p. 47

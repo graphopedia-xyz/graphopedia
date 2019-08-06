@@ -38,20 +38,20 @@ synonyms:
   - vertex-edge diagram
   - network graph
 ---
-is a visualization of entities and their relationships that together form a structure. Each entity is represented by a node and each relationship by a link. Any node can be connected to any other node.
+is a visualization of entities and their relationships that together form a network structure. Each entity is a node, and each connection between nodes is a link. Any node can connect to any other node. There is no limit on the number of connects a node can have.
 
 <!--more-->
-A network diagram consists of any number of nodes that can be represented by a symbol or text and the connections between them. A node can have an unlimited number of connections. 
+A network diagram consists of any number of nodes that visually appear as a symbol or a block of text and the connections between them that appear as connecting lines. A node can have an unlimited number of connections. 
 
-A connection is represented by a line. In *undirected network diagrams* connectors only show a relationship, not a direction is which it might move.  *Directed network diagrams* can show a one-way relationship or a two-way reciprocal relationship represented by arrows.
+A line between nodes represents a connection. In *undirected network diagrams* connectors only show a relationship, not a direction in which it might move.  *Directed network diagrams* can show a one-way relationship or a two-way reciprocal relationship represented by arrows.
 
-Nodes link to similar nodes forming groups by similarity. This follows the first law of geography: things that are closer are more similar. So two nodes should be linked via the shortest route. Clusters of similar nodes can also be combined into groups represented for example with color. [^saket]
+Nodes link to similar nodes forming groups by similarity. This kind of grouping follows the first law of geography: near things are more alike than distant things. Therefore, any two nodes should be linked via the shortest route. Clusters of similar nodes can form larger groups that can be marked with color, for example. [^saket]
 
-Both nodes and links can have a weight that represents a value. Weighted nodes are proportional in size to their importance, number of connections or some other variable. Weighted links use the thinkness of the connecting line to represent importance or another variable.
+Both nodes and links can have a weight that represents a value. Weighted nodes are proportional in size to their importance, number of connections, or some other variable. Weighted links use the thickness of the connecting lines to represent importance or another variable.
 
-Any network diagram can represented as a matrix. There is a debate about which of these types of visualization is more effective. Network diagrams are more effective for showing connections and clusters. The matrix is better for group analysis and finding specific values. [^okoe]  
+Any network diagram can be represented as a matrix. The relative effectiveness of network diagrams versus matrices is a matter of a long-standing debate. In short, network diagrams are more useful for showing connections and clusters. The matrix is better for group analysis and finding specific values. [^okoe]
 
 
 ## Sources
-[^saket]: The effectiveness of node-link diagrams with with nodes in groups were found more effective in *Saket, Bahador & Simonetto, Paolo & Kobourov, Stephen & Borner, Katy. (2014). [Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation.](https://arxiv.org/pdf/1404.1911.pdf) IEEE Transactions on Visualization and Computer Graphics. 20. 10.1109/TVCG.2014.2346422.*
+[^saket]: The effectiveness of node-link diagrams with nodes in groups were found more effective in *Saket, Bahador & Simonetto, Paolo & Kobourov, Stephen & Borner, Katy. (2014). [Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation.](https://arxiv.org/pdf/1404.1911.pdf) IEEE Transactions on Visualization and Computer Graphics. 20. 10.1109/TVCG.2014.2346422.*
 [^okoe]: Comparison of human performance over 14 different tasks with network diagrams and matrices *Okoe, Mershack & Jianu, Radu & G. Kobourov, Stephen. (2018). [Node-link or Adjacency Matrices: Old Question, New Insights.](https://www2.cs.arizona.edu/~kobourov/NL-AM-TVCG18.pdf) IEEE Transactions on Visualization and Computer Graphics. PP. 1-1. 10.1109/TVCG.2018.2865940.*

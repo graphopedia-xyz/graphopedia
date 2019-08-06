@@ -16,6 +16,11 @@ tools:
     link:   https://products.office.com/en/powerpoint
 
 examples:
+  - title:  A Lifetime of Plastic
+    author: National Geographic
+    link:   https://www.nationalgeographic.com/magazine/2018/06/plastic-planet-waste-pollution-trash-crisis
+    image:  plastics-timeline.png
+
   - title:  The Longest Government Shutdown
     author: The New York Times
     link:   https://www.nytimes.com/interactive/2019/01/09/us/politics/longest-government-shutdown.html?mtrref=www.datavizdoneright.com
@@ -49,14 +54,18 @@ synonyms:
 is a type of chart that represents relationships between quantities. The tape diagram is used to solve mathematics word problems by using a repeating unit of measurement. 
 
 <!--more-->
-Tape diagrams usually represents a unit with a rectangle. The rectangle is repeated without spaces to represent numbers and ratios. 
-The concept of tape diagrams is based on the idea of forming units, a visual representation of numbers and their fractions.[^minds]
-The name of the diagram comes from its resemblance to a piece to measuring tape.
+Tape diagrams usually represent a unit with a rectangle. The rectangle repeats without spaces to represent numbers and ratios. 
+The concept of tape diagrams derives from the idea of forming units, a visual representation of numbers and their fractions.[^minds]
+The name of the chart comes from its resemblance to a piece to measuring tape.
 
-Tape diagrams are used for illustrating arithmetic problems as well as for introducing students to algebra. There are two main ways the tape diagrams used: 1. illustrating part-to-whole relationships by drawing a diagram in a single row containing two or more numbers symbols, 2. illustrating comparison of two or more numbers by stacking tape diagrams vertically and aligning their starting points. 
-Tape diagrams are considered an effective way to teach proportional thinking. [^cohen]
+Tape diagrams are used for illustrating arithmetic problems as well as for introducing students to algebra. 
+
+Tape diagrams typically appear in these two use cases:
+ 1. illustrating part-to-whole relationships by drawing the diagram in a single row containing two or more number symbols; 
+2. illustrating comparison of two or more numbers by stacking tape diagrams vertically and aligning their starting points. 
+Tape diagrams are considered an effective way of teaching proportional thinking. [^cohen]
 
 ## Sources:
 [^minds]: [Eureka Math Grade 2 Study Guide By Great Minds](https://books.google.com/books?id=r5IvCgAAQBAJ&pg=PA128&redir_esc=y#v=onepage&q&f=false)
 [^cohen]: [Jessica S. Cohen. (2013). Strip Diagrams: Illuminating Proportions. Mathematics Teaching in the Middle School, 18(9), 536-542. doi:10.5951/mathteacmiddscho.18.9.0536)
-[NYS COMMON CORE MATHEMATICS CURRICULUM.Lesson 17: Comparing Tape Diagram Solutions to Algebraic Solutions ]()
+

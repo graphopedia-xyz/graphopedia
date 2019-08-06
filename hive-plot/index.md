@@ -30,8 +30,8 @@ is a visualization method for drawing networks where nodes are mapped to and loc
 <!--more-->
 The hive plot was conceived as an alternative to a [network diagram](network-diagram) for handling large datasets that display multiple connections in biostatistics.[^krzywinski] Functionally, the hive plot is a [parrallel coordinates plot](/parallel-coordinates) with the axes positioned radially. It is also similar to the [arc diagram](arc-diagram) if it had multiple axes. 
 
-The axes in a hive plot can each have their own lengths or normalized lengths and own scale. The scale can be linear or logarithmic. 
-The edges connect nodes via the shortest route. In plots with more than three axes it is not always possible to rout them without intersection. To avoid intersection, edges can be draw around the axes or the axes can be duplicated.
+The axes in a hive plot can each have different lengths and scales or normalized lengths and scales. The scale can be linear or logarithmic. 
+The edges also known as arcs connect nodes via the shortest route. In plots with more than three axes, it is not always possible to route them without intersecting. To avoid the intersection, edges can be drawn around the axes or the axes can be duplicated.
 
 To prevent edges from intersecting, hive plots normally position axes at equal angles to each other. 
 Hive plots are useful for revealing patterns and clusters. They are less useful for communicating specific values.

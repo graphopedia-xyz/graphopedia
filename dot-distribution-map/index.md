@@ -47,25 +47,24 @@ synonyms:
 is a map type that uses a dot symbol to show the presence of a feature emphasizing the distribution of values through the scatter pattern similar to a scatter plot.
 
 <!--more-->
-The dot distribution map was first introduced in the early 1830 by a French monk Armand Joseph Frère de Montizon. The map showed the population of France by administrative district.[^palsky]
+The dot distribution map was first introduced in the early 1830s by a French monk Armand Joseph Frère de Montizon. The map showed the population of France by administrative district.[^palsky]
 
-## Usage
 Dot distribution maps use dots or another symbol to mark the location of specific data points.
 
-There are two types of these maps:
+There are two types of dot density maps:
 
 1. One-to-one dot distribution shows a single dot per data point.
 
 2. One-to-many dost distribution allows a single dot to represent equal groups of data points per dot. This is called "subsampling".[^castillo]
 
-The advantage of a dot distribution map is in displaying the pattern formed by the data point, similar to a [scatter plot](/scatter-plot). An important dor distribution map made by John Snow revealed a pattern of cholera a outbreak connected to the location of water pumps. (See the example section below.)
+The advantage of a dot distribution map is in displaying the pattern formed by the data point, similar to a [scatter plot](/scatter-plot). An important dor distribution map made by John Snow revealed a pattern of cholera an outbreak connected to the location of water pumps. (See the example section below.)
 
 In the reverse situation, where data cannot be tied to a specific location on a map, the use of dot distribution can be misleading. [^meirelles]
 
 ## Alternatives
 
 1. [Choropleth map](/choropleth map) shows data per geographic unit. It does not show individual data points but rather the average for the region.
-2. [Bubble map](/bubble-map) show grouped data linked to a geographic location by scaling a symbol, usually a circle, proportionally to data value.
+2. [Bubble map](/bubble-map) show grouped data linked to a geographic location by scaling a symbol, usually a circle, proportionally to the data value.
 
 
 ## Sources 

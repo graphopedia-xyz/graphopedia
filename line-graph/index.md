@@ -33,17 +33,17 @@ synonyms:
 
 ---
 
-shows data using a single line connecting data points. The line can be either straight or curved. [^rosen] The slope of the lines indicated the overall pattern of change. The data points are ordered, usually along the horizontal axis. A line chart that shows change over time has the time plotted at equal intervals.
+shows data using a single line connecting data points. The line can be either straight or curved. [^rosen] The slope of the lines indicates the overall pattern of change. The data points are ordered, usually along the horizontal axis. A line chart that shows change over time has the time plotted at equal intervals.
 
 <!--more-->
 
-The first line chart appeared in 1786 in *The Commercial and Political Atlas* by Scottish engineer (also secret agent and convicted criminal)[^spence] William Playfair. [^friendly]
+The first line chart appeared in 1786 in *The Commercial and Political Atlas* by Scottish engineer (also a secret agent and convicted criminal)[^spence] William Playfair. [^friendly]
 
  Line charts differ from [scatter plots](/scatter-plot) in that the points are ordered and connected by a line, usually along the horizontal axis. 
  
- A line chart is often used to visualize a trend in data over intervals of time.[^salkind] In this case it is called a [time series](/time-series).
+ Line charts often visualize a trend in data over intervals of time.[^salkind] In this case it is called a [time series](/time-series).
  
- The vertical axis of the line chart should start at a zero since readers rely on the lengths to judge the change between data points. A truncated line chart with the vertical axis starting above zero will exaggerate the difference in height for all the other data points, misrepresenting the trend shown in the chart. [^huff]
+ The vertical axis of the line chart should start at a zero since readers rely on the lengths to judge the change between data points. A truncated line chart with the vertical axis starting above zero will exaggerate the difference in height for all the other data points, misrepresenting the trend shown in the graph. [^huff]
  
  A *line of best fit* is sometimes drawn on the line graph to show data points that fit a trend in the data. [^rosen]
  

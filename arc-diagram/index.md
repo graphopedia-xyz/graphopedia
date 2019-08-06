@@ -58,17 +58,18 @@ examples:
 
 ---
 
-is a type of network diagram, also called "node and link" diagram. [^1] It shows connections between any two nodes out of multiple nodes positioned on a single axis.[^2] Any network diagram which is a two-dimensional chart, can be represented as an arc diagram which is one-dimensional.
-And arc diagram consists of nodes, arcs, and an axis. The number of arc connections that come out of a single node is usually represented as a bubble that is sized proportionally to the total number of connections come in and going out[^3]. In practice, an arc diagram usually does not show all possible connected pairs because of the resulting clutter, but rather it shows a subset of connections.
+is a type of network diagram, also called "node and link" diagram. [^1] It shows connections between any two nodes out of multiple nodes positioned on a single axis.[^2] Any network diagram which is a two-dimensional chart can be represented as an arc diagram which is a one-dimensional chart.
 
 <!--more-->
+
+An arc diagram consists of nodes, arcs, and an axis. The number of arc connections that come out of a single node is usually represented as a bubble that is sized proportionally to the total number of connections come in and going out[^3]. In practice, an arc diagram usually does not show all possible connected pairs because of the resulting clutter, but rather it shows a subset of connections.
 
 In 1964, mathematician Thomas Saaty proposed the first version of the arc diagram for the purpose of showing intersecting numbers.[^4] In 2001, the arc diagram was popularized by Martin Wattenberg who diagrammed songs in his project *The Shape of Song*.[^5]
 
 The main purpose of an arc diagram is in revealing the connections between a set of values and the clusters that they might form.
 
-Arc diagram nodes can be spaced along the axis either equidistantly based only on design considerations or based on data, for example, representing time that elapsed between events or geo-spatial distance represented by nodes.[^6]
-The order in which nodes appear on the axis is called <dfn>node seriation</dfn>. Node seriation can be already present in the data if it is already sorted by time or distance. Otherwise, there is an option of artificially sorting data following one of the principles of information architecture, for example, alphabetically.
+Arc diagram nodes can be spaced along the axis either equidistantly based only on design considerations or based on data, for example, representing the time elapsed between events or the geographic distance represented by nodes.[^6]
+The order in which nodes appear on the axis is called *node seriation*. Node seriation can be already present in the data if it is already sorted by time or distance. Otherwise, there is an option of artificially sorting data following one of the principles of information architecture, for example, alphabetically.
 
 Arcs can have a direction and a weight. Directional arcs can be either uni- or bi-directional. Arc weight shows
 the strength of connections between nodes. Weighted arcs tend to reveal clusters of connections between nearby nodes.
@@ -77,7 +78,7 @@ Arc diagrams are usually drawn on a horizontal line with the arcs facing upward[
 Arc connections are usually designed as semi-circles or bezier
 curves, the latter being move space saving. Color and transparency can serve as visual encoding.
 
-Arc diagrams can be integrated with other charts, for example a bar chart or a bubble chart in which each bar or circle represents the number of connections in a node.
+Arc diagrams can be integrated with other charts, for example, a bar chart or a bubble chart in which each bar or circle represents the number of connections in a node.
 
 Arcs can be located on one or both sides of the axis.
 

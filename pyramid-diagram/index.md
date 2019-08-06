@@ -16,7 +16,7 @@ tools:
 
 examples:
   
-  - title:  Maslow's Hierarchy of Needs
+  - title: Maslow's Hierarchy of Needs
     link:  https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#/media/File:Maslow%27s_Hierarchy_of_Needs.jpg
     image:  maslow-hierarchy-of-needs.jpg
 
@@ -43,22 +43,22 @@ examples:
 
 ---
 
-is type of non-numeric visualization of hierarchies and groups. The pyramid is a metaphor for any quantities or qualities that are scarce at the top and abundant at the bottom of the hierarchy. The bottom of the pyramid represents the largest group. The top shows the smallest group. The pyramid sections are usually not sized to represent numeric data.
+is a type of non-numeric visualization for hierarchies and groups. Pyramids are a metaphor for quantities or qualities scarce at the top but abundant at the bottom of a hierarchy. The bottom of the pyramid represents the largest group. The top shows the smallest group. The pyramid sections are usually not sized proportionally to represent numeric data.
 
 <!--more-->
-Pyramid charts are used as learning aids [^solon] in classrooms as well as visual aids in presentations.
+Pyramid charts are useful as visual aids [^solon] in classrooms and in presentations.
 
-Even though some software programs create pyramid charts based on numeric data, it is best to use other charts such as a stacked bar chart to represent the numbers[^su] and separately use the pyramid diagram as a metaphor.
+Even though some software programs create pyramid charts based on numeric data, the pyramid diagram only suits metaphoric use. Graphs such as the [stacked bar chart](/bar-chart) visualize quantities without the confusion of pyramid diagrams [^su].
 
-Some of the most well-known pyramid charts in science are the Maslow's hierarchy of needs and the USDA Food Guide Pyramid published in 1992. 
+Some of the most well-known pyramid charts in science are the Maslow's hierarchy of needs and the USDA Food Guide Pyramid. 
 
-The [population pyramid](population-pyramid) chart is a similarly names but unrelated chart that is a dual histogram, usually used for showing population trends.
+The [population pyramid](/population-pyramid) chart is a similarly named but an unrelated chart that is a dual histogram, usually used for showing population trends.
 
 ##Alternatives 
 
 1. [*Tornado chart*](/bar-chart#variations) is a type of bar chart that with bars sorted in ascending or descending order which creates the shape of a pyramid.
 
 ## Sources
-[^su]: [Yu-Sung Su, It’s easy to produce chartjunk using Microsoft®Excel 2007 but hard to make good graphs, Computational Statistics & Data Analysis, Volume 52, Issue 10, 2008, pp. 4594-4601,]()
+[^su]: [Yu-Sung Su, It's easy to produce chartjunk using Microsoft®Excel 2007 but hard to make good graphs, Computational Statistics & Data Analysis, Volume 52, Issue 10, 2008, pp. 4594-4601,]()
 [^solon]: [Solon, C. (1980). The Pyramid Diagram: A College Study Skills Tool. Journal of Reading, 23(7), 594-597.](http://www.jstor.org/stable/40017000)
 

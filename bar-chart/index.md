@@ -3,7 +3,7 @@ title: bar chart
   
 tags:
 - comparison
-- range
+- change over time
 
 related:
   - histogram
@@ -69,33 +69,32 @@ synonyms:
 
 ---
 
-displays the relationship of a category to a number in the form of a rectangle bar. The bar height along the Y axis or its length along the X axis represents a number.  Each bar represents a single number. For this reason, bar charts can be used to compare discrete numbers but not continuously changing numbers.[^harris]
+displays the relationship of a *category* to a *numeric variable* in the form of a rectangle bar. The bar height along the Y axis or its length along the X axis represents a number.  Each bar represents only one number. For this reason, bar charts can be used to compare *discrete* numbers and not continuously changing numbers.[^harris]
 
 <!--more-->
 
-The bar chart was first introduced by William Playfair. It has become the default choice of chart. The New Work Times graphics Editor Amanda Cox says, "There’s a strand of the data viz world that argues that everything could be a bar chart. That’s possibly true but also possibly a world without joy."[^beniato]
+Bar charts are often used to compare the change of a value over time. The basic application os the representation of change in numbers across categories. This is a very broad application which explains the popularity of a bar chart. 
 
-Often, bar charts are used to compare the change of a value over time. The basic application os the representation of change in numbers across categories. This is a very broad application which explains the popularity of a bar chart. 
-
-Since the bar chart is often a default, it is worth mentioning what it does not show: distribution, median or mean, ratios, correlation, relationships or connections, or anything more than a single data point.
 
 The baseline of a bar chart should always start at zero. Otherwise, the bar length will not be interpreted correctly by the reader. [^yau] While there are not many rules about chart design, this particular one is. A bar chart with the Y axis not starting at zero can never represent its data truthfully and so it defeats the purpose of the chart.
 
-The bar width is equal and cannot be used to represent data. Using the width of the bar would turn the bar chart into a [Marimekko Chart](/marimekko-chart). The distance between bars is also equal and not indicative of data values.
+The bar width is equal and cannot be used to represent data. Using the width of the bar would turn the bar chart into a [Marimekko Chart](/marimekko-chart). The distance between bars is also equal and not indicative of data values. Bars can be ordered or unordered.
 
-Bars can be ordered or unordered.
+The bar chart was first introduced by William Playfair in 1786. Although not popular initially, it has since become the default choice of chart because of its graphic simplicity and familiarity. However, data journalism and information graphics fields tend to explore alternatives to and variations of the bar chart.  *The New Work Times* graphics editor Amanda Cox says, "There’s a strand of the data viz world that argues that everything could be a bar chart. That’s possibly true but also possibly a world without joy."[^beniato]
+
+Functionally, a bar chart is not suited to show distribution, median or mean, ratios, correlation, relationships or connections, or anything more than a single data point per category. 
 
 ## Variations
-Bars can be grouped and stacked. Bars can be oriented around a radial layout making a radial bar chart. The shape of the bar can be substituted with other shapes, as in a lollipop chart.
+Bars in a chart can be grouped and stacked to show more groups of categories. For layout purposes and for readability, bars can be oriented horizontally vertically and around a radial layout making a *radial bar chart*. The shape of the bar can be substituted with other shapes, as in the *lollipop chart*. In general, shapes other than the rectangle are more difficult for the eye to interpret in a bar chart.
 
 ### Grouped bar chart
-<img src="grouped-bar-chart.svg" alt="grouped bar chart" class="f-right-half" /> Grouped bar charts show two or more data series where their respective bars are displayed side by side. This types of chart can also be called a "clustered bard chart" or a "multiple bar chart". In this types of chart the bars must be kept the same width since the chart can only show the difference in the height of the bars, not the area.
+<img src="grouped-bar-chart.svg" alt="grouped bar chart" class="f-right-half" /> Grouped bar charts show two or more data series where their respective bars are displayed side by side. This types of chart can also be called a *clustered bar chart* or a *multiple bar chart*. In this types of chart the bars must be kept the same width since the chart can only show the difference in the height of the bars, not the area.
 
 ### Stacked bar chart
-<img src="stacked-bar-chart.svg" alt="stacked bar chart" class="f-right-half" /> Stacked bar chart shows two or more (but in practice the number is quite limited) where each respective bar is stacked on top of the other along the vertical axis.
+<img src="stacked-bar-chart.svg" alt="stacked bar chart" class="f-right-half" /> Stacked bar chart shows two or more (but in practice the number is quite limited) data series where each respective bar is stacked on top of the other along the vertical axis. The data series are stacked in the same order across all the bars.
 
 ### Tornado chart
-<img src="tornado-chart.svg" alt="tornado chart" class="f-right-half" /> Tornado chart also known as *tornado diagram* is a bar chart with horizontally orientated bars where bars are ordered such that the longest is at the top and the shortest as the bottom, creating a funnel-like shape.
+<img src="tornado-chart.svg" alt="tornado chart" class="f-right-half" /> The tornado chart also known as *tornado diagram* is a bar chart with horizontally orientated bars where bars are ordered such that the longest is at the top and the shortest at the bottom, creating a funnel-like shape. Tornado charts are useful for situation where descending ordering of the bars points to an insight in the data.
 
 ### Span chart
 <img src="span-chart.svg" alt="span chart" class="f-right-half" /> Span chart (also known as *range bar chart*, *range column chart*, *floating bar chart*/bar graph) is ...

@@ -45,22 +45,19 @@ examples:
 
 ---
 
-is displays multiple variables along vertical axes while tracing the relationship between them using a connecting line. [^wilkinson] Each variable has its own axis and all the axes are parallel to each other. Each axis may have a different scale expressed in a different unit of measurement. Values are displayed as a series of lines that are connected between all the axes.
+is displays multiple variables along vertical axes while tracing the relationship between them using a connecting line. [^wilkinson] Each variable has its axis, and all the axes are parallel to each other. Each axis may have a different scale expressed in its unit of measurement. Values show up as a series of lines connected between all the axes.
 
 <!--more-->
 
 Parallel coordinates plot was first used by American geographer Henry Gannetts in 1880 when he ranked the U.S. states by economic performance such as manufacturing, taxation, and education. [^rumsey]
 
-Parallel coordinates shows multivariate data by imitating a multi-dimensional space. Multi-dimensional space is hard to image. Normally we see up to 3 dimensions in graphs. Parallel coordinates plot imitates what multi-dimensional graph would look like by showing multiple axes in parallel. [^inselberg] [^andrews]
-Still, the limitation is that the reader can only compare a maximum of two other dimensions directly to any value. This does not allow for all possible patterns to emerge. Parallel coordinates plot also has the disadvantage of presenting overly general view of the data with visually overwhelming complexity. [^wilkinson2]
-
-## Variations
-1. *Andrews plot* is a smoothened version of a parallel coordinate plot.
+Parallel coordinates show multivariate data by imitating a multi-dimensional space. Multi-dimensional space is hard to image because normally we see only up to 3 dimensions in graphs. Parallel coordinates plot imitates what multi-dimensional graph would look like by showing multiple axes in parallel. [^inselberg] [^andrews]
+Still, the limitation is that the reader can only compare the two adjacent dimensions directly to any value. This limitation does not allow for all possible patterns to emerge. Parallel coordinates plot also has the disadvantage of presenting an overly general view of the data with visually overwhelming complexity. [^wilkinson2]
  
 
 ## Alternatives
 1. [*Radar chart*](/radar-chart) is in principle a parallel coordinates chart plotted in polar coordinates.
-2. [*Alluvial diagram*](/alluvial-diagram) is a combination of parallel coordinates plot and [Sankey chart](/Sankey-chart) for categorical variables that are represented as clusters linked with flow lines of different thickness. They represent changes in the composition of these clusters over time.
+2. [*Alluvial diagram*](/alluvial-diagram) is a combination of parallel coordinates plot and [Sankey chart](/Sankey-chart) for categorical variables represented as clusters linked with flow lines of different thickness. They represent changes in the composition of these clusters over time.
 
 
 ## Sources

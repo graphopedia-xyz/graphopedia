@@ -30,18 +30,18 @@ examples:
 
 ---
 
-show multiple variables using features of a human face that vary in size and shape reflecting a value. Chernoff faces rely ofn the feature of human psychology to recognize even small changes in facial features.
+show multiple variables using features of a human face that vary in size and shape reflecting a value. Chernoff faces rely on the feature of human psychology to recognize even small differences in facial features.
 
 <!--more-->
 
 Chernoff faces are named after their inventor American statistician Herman Chernoff who proposed this technique in 1973 to visualize geological data. [^chernoff] In his proposal, Chernoff proposes to visualize up to 18 data variables using faces.
 
-## Purpose
-Since Chernoff faces allow for a fast comparison across many variables, the purpose of using them is to draw attention to how data sets or data series compare to each other in a generalized way. Since Chernoff faces do not communicate exact values, they should not be used in visualizations where reading precise numbers is important.
+Chernoff faces allow for a fast comparison across many variables. For that reason, they draw attention to how data sets or data series compare to each other in a generalized way. Since Chernoff faces do not communicate exact values, they should be used in visualizations where the reading of precise values is not important.
 
-## Usage
 Making the faces recognizable and yet unique is one of the main challenges of using this method in information graphics. 
-Chernoff faces have been criticized for misunderstanding perception of faces happens: that we do not perceive separate facial features, but the entire face in a holistic way. [^kosara]
+
+
+Chernoff faces have been criticized for misunderstanding of how the perception of faces happens: that people do not perceive separate facial features but the entire face in a holistic way. [^kosara]
 
 Another problem is using the width and length of the face to encode variables which results in some faces being too large and some too small. To solve this problem, face size needs to be normalized, which in turn leads to features of the faces being distorted. [^raciborski]
 
