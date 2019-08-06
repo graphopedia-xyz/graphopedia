@@ -22,7 +22,7 @@ examples:
     author:  Otto Neurath
     image:  world-car-industry.jpg
 
-  - title:  United States And Great Britain In The World
+  - title:  The United States And Great Britain In The World
     author:  Otto Neurath 
     link:  
     image:  united-states-and-great-britain-in-the-world.jpg
@@ -59,12 +59,12 @@ synonyms:
 is a method of visualizing numbers by repeating identical pictographs that refer to objects or concepts depicting the data being visualized. The pictographs are graphically uniform abstracted symbols optimized for swift visual recognition. [^holmes]
 
 <!--more-->
-ISOTYPE, an acronym for "International System Of Typographic Picture Education", appeared around 1935. [^neurath] Its creator Otto Neurath was a statistician and a philosopher who devised a system of using pictographs for displaying statistics aimed at the general public.[^nino]
+ISOTYPE, an acronym for "International System Of Typographic Picture Education," appeared around 1935. [^neurath] Its creator Otto Neurath was a statistician and a philosopher who devised a system of using pictographs for displaying statistics aimed at the general public.[^nino]
 
-The idea behind pictograph charts comes from logical positivism - the idea that the human brain can only access knowledge through direct observation and that any word of a language can be reduced to a pictograph. [^lupton] Those pictographs can then be observed by a reader and their relationships, quantities, and other attributes learned by the reader.
+The idea behind pictograph charts comes from logical positivism, which is the idea that the human brain can only access knowledge through seeing. And gaining knowledge though seeing means that any word of a language can be reduced to a picture. [^lupton] Those pictographs can then be observed by a reader and their relationships, quantities, and other attributes learned by the reader.
 
 The basic rule of ISOTYPE is that pictograms must not be enlarged in size to show an increase in
-quantity. Instead they should be repeated in numbers reflecting the data, at the same size and with equal spacing. [^burke]
+quantity. Instead, they should be repeated in numbers reflecting the data, at the same size, and with equal spacing. [^burke]
 
 Research on memory and comprehension of pictographic charts shows that they can enhance the recall of data. [^haroz]
 
@@ -75,6 +75,6 @@ Research on memory and comprehension of pictographic charts shows that they can 
 [^nino]: [Niño Zambrano R., Engelhardt Y. (2008) Diagrams for the Masses: Raising Public Awareness – From Neurath to Gapminder and Google Earth. In: Stapleton G., Howse J., Lee J. (eds) Diagrammatic Representation and Inference. Diagrams 2008. Lecture Notes in Computer Science, vol 5223. Springer, Berlin, Heidelberg](https://link.springer.com/chapter/10.1007/978-3-540-87730-1_26)
 
 [^lupton]: ["Reading Isotype" by Ellen Lupton (1989) pp. 48-49"](https://www.jstor.org/stable/1511484)
-[^haroz]:["ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs" by Steve Haroz et. al.  in Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, Pages 1191-1200 (2015)](https://research.tableau.com/sites/default/files/Haroz_CHI_2015.pdf)
+[^haroz]:["ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs" by Steve Haroz et al.  in Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, Pages 1191-1200 (2015)](https://research.tableau.com/sites/default/files/Haroz_CHI_2015.pdf)
 [^burke]: ["The Linguistic Status of Isotype" by Christopher Burke](http://wittgensteinrepository.org/agora-ontos/article/view/2189/2451)
 
