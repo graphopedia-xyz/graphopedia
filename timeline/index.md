@@ -41,24 +41,24 @@ synonyms:
 
 ---
 
-is a type of chart that display events in chronological order. Timelines can represent time to scale or only represent the sequence of events at equal intervals. Timelines covering a relatively small span of time use a linear scale. For distant events in the past of the future, a logarithmic scale is used.
+is a type of diagram that displays events along a line in chronological order. Timelines can represent events and periods between them to scale or display only the sequence of events without periods. Typically, timelines use a linear scale, but for distant past or future events, a logarithmic scale is more suitable.
 <!--more-->
-Joseph Priestley’s 1765 Chart of Biography is cited as the most influential timeline of the 18th century that  had the first “complete and fully theorized visual vocabulary for a time map, and was the first to compete with the matrix as a normative structure for representing regular chronology”. [^grafton]
+Joseph Priestley's 1765 Chart of Biography is cited as the most influential timeline of the 18th century that had the first "complete and fully theorized visual vocabulary for a time map." It became a worthy alternative to visualizing time as tables. [^grafton]
 
-A timeline uses a line to represent the flow of time and symbols on that line to represent events. The event are positioned in chronological order, spaced either to reflect the time elapsed between events or spaced at equal interval to only reflect the sequence of events.
+A timeline uses a line to represent the flow of time and symbols on that line to describe events. The events appear in chronological order spaced to either reflect the time elapsed or spaced at equal intervals.
 
-The orientation of the timeline can be vertical, horizontal, curved, perspective, and spiral.  The *vertical timeline* shows past events at the top and future at the bottom of the page. The *horizontal timeline* runs from left to right. The *curved timeline* runs from left to right and top to bottom, following the standard reading direction. The *spiral timeline* is used as a space-saving technique. The *perspective timeline* orients itself along the sagittal Z axis, which creates the impression of staring into the depth of the page.[^boyd]
+The orientation of the timeline can be vertical, horizontal, curved, perspective, and spiral.  The *vertical timeline* shows past events at the top and future at the bottom. The *horizontal timeline* runs from left to right. The *curved timeline* runs from left to right and top to bottom, following the standard reading direction and spanning the full width of the available space. The *spiral timeline* is used as a space-saving technique. The *perspective timeline* orients itself along the sagittal Z-axis, which creates the impression of staring into the depth of the page.[^boyd]
 
 ## Variations
 
-### Cicular timeline
-A timeline set in parallel coordinated representing time as a cyclical space.
+### Circular timeline
+A timeline set in parallel coordinated representing time as a cyclical space. This variation is useful for visualizing cyclical events such as seasonal weather patterns.
 
 ### Parallel timelines
-Two or more timelines that are aligned by time stamp and run in parallel to each other depicting contemporaneous events.
+Two or more timelines that are aligned by timestamp and run in parallel to each other depicting contemporaneous events.
 
 ### Metaphorical timeline
-Timelines stylized as trees with branching limbs, rivers with tributaries, and other natural objects are often found in antique information graphics. Many examples can be found in *Cartographies of Time: A History of the Timeline*. [^grafton]
+Timelines stylized as trees with branching limbs, rivers with tributaries, and other natural objects often appear in vintage information graphics. A collection of such notable examples is the book *Cartographies of Time: A History of the Timeline*. [^grafton]
 
 ## Sources
 

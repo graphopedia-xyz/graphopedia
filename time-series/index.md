@@ -21,7 +21,7 @@ examples:
     link:   https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html
     image:  how-recession-reshaped-economy-in-255-charts.png
     
-  - title:  Earth’s Relentless Warming Sets a Brutal New Record in 2017
+  - title: Earth's Relentless Warming Sets a Brutal New Record in 2017
     author: Bloomberg
     link:   https://www.bloomberg.com/graphics/hottest-year-on-record/
     image:  hottest-year-on-record.png
@@ -38,37 +38,38 @@ examples:
 
 ---
 
-is a type of [line chart](/line-chart) that shows discrete data points in chronological order. The most common use case is displaying equally spaced data points and the line of best fit. The time is plotted on the horizontal axis. Normally, the time is plotted at equal intervals unless the chart covers a very long period of time, in which case a logarithmic scale is used. [^harris]
+is a type of [line chart](/line-chart) that shows discrete data points in chronological order. The most common use case is displaying equally spaced data points and the line of best fit. The time appears on the horizontal axis. Typically, the time is plotted at equal intervals unless the chart covers a very long period, in which case a logarithmic scale is more useful. [^harris]
 
 <!--more-->
-A time series graph consists of two axes, the horizontal and vertical. The X axis represents a time. Time units can cover minutes, hours, days, weeks, and years. The Y axis represents a quantitative value, respectively. The vertical axis can display percentages, ratios, duration and repetition.
-Depending on the underlying data, a time series can be *continuous* or *discrete*. A time series is continuous when observations are recorded and plotted continuously in time, without gaps. A time series is discrete when observations are taken at specific times, even if they are equally spaced. 
+A time series graph consists of two axes, the horizontal and vertical. The X-axis represents time. Time units can cover minutes, hours, days, weeks, and years. The Y-axis represents a quantitative value. The vertical axis can display percentages, ratios, duration, and repetition.
+
+
+Depending on the underlying data, a time series can be *continuous* or *discrete*. A time series is continuous when observations are recorded and plotted without interruptions in time. A time series is discrete when observations are taken at specific points in time, even if they are equally spaced. 
 
 ## Variations
-Time series variations involve the position of multiple time series relative to others in the same graph space or positioning them in their own graph space but such that it is easy to compare them.[^javed]
+Time series variations involve positioning multiple time series in the same graph space. Another possibility is arranging separate time series graphs in a grid or a row for comparison.[^javed]
 
 ### Stacked time series
-<img src="stacked-time-series.svg" alt="stacked time series" class="f-right-half" /> Uses the same graph space to plot multiple time series.
+<img src="stacked-time-series.svg" alt="stacked time series" class="f-right-half" /> Uses the same graph space to plot multiple time series. The space below each data curve is filled, similar to a [stacked area chart](/area-chart), to help the reader distinguish the often tightly-packed graphs. 
 
 ### Horizon chart
-<img src="horizon-chart.svg" alt="horizon chart" class="f-right-half" />  Uses the concept of *virtual resolution* by limiting the graph space using the bands that make only the part of the graph visible.
+<img src="horizon-chart.svg" alt="horizon chart" class="f-right-half" />  Uses the concept of *virtual resolution* by limiting the graph space using bands that make only part of the graph visible. Horizon charts are useful for comparing time series in a generalized way.
 
 ### Braided time series 
-<img src="braided-time-series.svg" alt="braided time series" class="f-right-half" /> Solves the problem by identifying the intersection points in time where two time series change value ordering.
-<!-- @anna please check this graph type -->
+<img src="braided-time-series.svg" alt="braided time series" class="f-right-half" /> Consists of at least two intersecting time series with the areas under the data curve filled. The areas are sorted in depth order for each position along the time axis. The purpose of the braided time series is helping the reader see multiple color-coded time series. [^javed2]
+<!-- @anna please check this graph type @mark, checked it and it was invented in this paper (https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf) so we need to update the illustration because it is not quite right-->
 
 ### Radial time series
-<img src="radial-time-series.svg" alt="radial time series" class="f-right-half" />  Use polar coordinates instead of the traditional coordinates. It is useful for showing cyclical events.
+<img src="radial-time-series.svg" alt="radial time series" class="f-right-half" />  Use polar coordinates instead of the traditional coordinates plotting the time series around a central point. This orientation is useful for visualizing cyclical events such as seasonal weather patterns.
 
 ### Spiral time series
 <img src="spiral-time-series.svg" alt="spiral time series" class="f-right-half" /> Uses polar coordinates for events that following a repeating pattern but are not necessarily cyclical.
 
 ###  Fan chart (time series)
-<img src="fan-chart-time-series.svg" alt="fan chart (time series)" class="f-right-half" />  In time series analysis, a fan chart is a chart that joins a simple line chart for observed past data, by showing ranges for possible values of future data together with a line showing a central estimate or most likely value for the future outcomes.
-<!-- @anna rewrite this text, copy-paste from wikipedia -->
+<img src="fan-chart-time-series.svg" alt="fan chart(time series)" class="f-right-half" /> Combines a standard line chart based on past data with a range of projections of future data values. The center of the fan pattern represents the most likely outcomes with the outer edges of the fan pattern showing the higher and lowest estimates.
 
 
 ## Sources
 [^harris]:[Robert L. Harris. 1999. Information Graphics: A Comprehensive Illustrated Reference. Oxford University Press, Inc., New York, NY, USA. p. 920](https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false)
-[^javed]: [W. Javed, B. McDonnel and N. Elmqvist, "Graphical Perception of Multiple Time Series," in IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 927-934, Nov.-Dec. 2010.
- doi: 10.1109/TVCG.2010.162](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)
+[^javed]: [Javed, W., McDonnel, B., and Elmqvist, N. Graphical Perception of Multiple Time Series. IEEE Transactions on Visualization and Computer Graphics (2010). doi: 10.1109/TVCG.2010.162](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)
+[^javed2]: [Javed, W., 2010, p. 927,](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)
