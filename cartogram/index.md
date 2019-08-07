@@ -80,15 +80,29 @@ Showing data that has little to do with the actual land area is often best done 
 
 The main caveat with cartograms is that the readers have to be familiar with the map of an area so that even when distorted it is still recognizable. For this, provide at least those points along the country outlines that are proven to be the visual cues for shape identification.[^rittschof]
 
+<!-- @anna [Q] should we add combining tile grid cartogram with other graphs like pie chart, area, waffle chart (as shown here http://datavizcatalogue.com/blog/chart-combinations-tile-grid-maps/)? Not sure it should go into variations (there are too many of them)... -->
+
 ## Variations
-### The Density-Equalizing Cartogram 
-Cartogram with map features bulging to represent values.
 
-### The Non-Contiguous Cartogram
-Map features are split from each other to emphasize the difference in size.
+### Contiguous Cartogram
+<img src="contiguous-cartogram.svg" alt="contiguos cartogram" class="f-right-half" /> Also called *density-equalizing cartogram* is a cartogram with map features bulging to represent values.
 
-### The Dorling Cartogram 
-Shapes such circles, squares, or sexagons are used to mimic the features of a map.
+### Non-Contiguous Cartogram
+<img src="non-contiguous-cartogram.svg" alt="non-contiguos cartogram" class="f-right-half" />  Map features are split from each other to emphasize the difference in size.
+
+### Dorling Cartogram 
+<img src="dorling-cartogram.svg" alt="dorling cartogram" class="f-right-half" /> Shapes such circles, squares, or sexagons are used to mimic the features of a map.
+<!-- @anna should be re-written, dorling is only circles (no 'sexagons' and squares). Please check -->
+
+### Demers Cartogram
+<img src="demers-cartogram.svg" alt="demers cartogram" class="f-right-half" />
+
+### Mosaic Cartogram
+<img src="mosaic-cartogram.svg" alt="mosaic cartogram" class="f-right-half" /> Also called *tile grid map* or *tile cartograms* ...
+
+### Hexbin map
+<img src="hexbin-map.svg" alt="hexbin map" class="f-right-half" /> Also called *hexagonal cartogram* is same as mosaic cartogram, but uses hexagons as tiles
+<!-- @anna Please check if I researched the names right -->
 
 ## Alternatives
 1. [*Choropleth map*](/choropleth-map) uses colored areas to represent the measurement of a variable proportional to the colored area.
@@ -105,3 +119,5 @@ Shapes such circles, squares, or sexagons are used to mimic the features of a ma
 
 [^rittschof]: ["The Use of Cartograms in Visualizing Data Associated with Familiar and Unfamiliar Areas" by Kent A. Rittschof et. al." 1995](https://archive.org/details/ERIC_ED384624/page/n3)
 
+<!-- @anna consider adding this paper, 'The State of the Art in Cartograms' : https://www2.cs.arizona.edu/~kobourov/star.pdf -->
+<!-- @anna another interesting paper 'Evaluating Cartogram Effectiveness' https://arxiv.org/pdf/1504.02218.pdf -->
