@@ -2,6 +2,8 @@
 title: treemap
   
 tags:
+- part-to-whole relationship
+- hierarchy
 
 related:
   - sunburst-chart

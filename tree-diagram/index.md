@@ -45,33 +45,37 @@ synonyms:
 
 ---
 
-represents a series of independent events or conditional probabilities. Each node represents an event. Each parent node precedes its child nodes in the sequence and its sibling nodes represents events of the same level of hierarchy or occurring at the same time. The chart is named for its resemblance to a tree even those the most common tree diagrams direct the tree upside down or to the side.
+is a schematic representation of events and their connections forming a hierarchy. Each node represents an event. Each parent node precedes its child nodes in the sequence while its sibling nodes represent events of the same level of the hierarchy. Despite its name, the tree in tree diagrams typically runs upside down or sideways.
 
 <!--more-->
-A tree diagram usually starts with a single event or person that represents the top of the hierarchy. It is connected the the lower level of the hierarchy by a *path*, also called *connector*, *branch*, *connecting line*, *link* or *arm*. The point at which a path subdivides is called a *node* or *junction*. Nodes are sometimes organized by level of hierarchy, for example to show level of management or supply chain.
+A tree diagram usually starts with a single entity that represents the top of the hierarchy. The root node connects to its children via a *path*, also called *connector*, *branch*, *connecting line*, *link* or *arm*. The point at which a path subdivides is called a *node* or *junction*. 
 
-Tree diagrams can have these orientations:
+The orientation of a tree diagram can be
 1. *divergent* - starting with one node and branching out into many
-2. *convertent* - starting with many and merging into one
+2. *convergent* - starting with many and merging into one
 3. *radial* - showing the top of the hierarchy at the center of a circle with the lower levels that branch out.[^harris]
 
-Additionally, a tree diagram can be orientated horizontally or vertically. The horizontal tree diagram is read from left to right. The vertical tree diagram run from top to bottom.
+In addition to the orientation,  a tree diagram can run horizontally from left to right or vertically from top to bottom.
 
-The connecting lines can take on different forms: straight line, arc, or berzier curve. The nodes can be represented as different symbols: rectangles, circles or a slylized symbol.
+The connecting lines can take on different forms: straight line, arc, or bezier curve. The nodes can take on the form of rectangles, circles or symbols.
 
-The tree diagram is often slylized or illustrated to resemble trees, rivers, or other objects. [^lima]
+The tree diagram is often stylized to resemble trees, rivers, roots or other familiar objects, especially where the illustration fits the subject matter. [^lima]
 
 ## Variations
 
 ### Radial tree diagram
-Orients the tree radially with the top of the hierarchy shown at the center of the circle and lower levels of the hierarchy branching out.
+Orients the tree radially with the top of the hierarchy shown at the center of the circle and the lower levels of the hierarchy branching out.
+
 ### Organization charts 
-Also known as *org charts*, organization charts show the organizational structure of a company or an institution starting with the top of the hierarchy at the vertically and branching downward or outward to show the lower levels of hierarchy.
+Also known as *org charts*, organization charts show the management structure of a company or an institution starting with the top of the hierarchy and branching downward or outward.
+
 ### Family trees
 Also known as *geneology trees*, family trees show the ancestors or descendants starting from a single person or a pair of people.
+
 ### Taxonomy trees
-Show a taxonomy of categories in a given field.
+A special case of a tree diagram, a taxonomy tree displays a hierarchy of terms, names, and categories in a given field.
 
 ## Sources
 [^harris]: for a general definition of tree diagrams, see Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 927
 [^lima]: You can find numerous illustrated tree diagrams in this compendium *The Book of Trees: Visualizing Branches of Knowledge.* By Manuel Lima. New York: Princeton Architectural Press, 2014.
+
