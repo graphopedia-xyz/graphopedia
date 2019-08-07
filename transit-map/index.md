@@ -31,14 +31,13 @@ synonyms:
   - subway map
   - metro map
 ---
-is a type of thematic map used for plotting transit systems. In information design, it can be used as a metaphor to depict flows and junctions systems other than transportation.
+is a type of thematic map used for displaying the structure of transportation systems. In information design, it can be used as a metaphor to depict flows and connections in systems unrelated to transit.
 
 <!--more-->
-The idea behind a transit map is that it is a universally understood visualization of route lines, stations, and junctions. The equal spacing between the stations makes this map easier to read than traditional maps with proportional spacing.[^guo]
+A transit map is a universally understood visualization of route lines, stations, and junctions. Using the abstraction of lines, stations, and junctions, a designer can use transit maps to, by analogy, describe systems in other domains. The equal spacing between the stations simplifies this map compared to traditional maps with proportional spacing.[^guo]
 
-Using the abstraction of lines, stations and junctions, a transit map can be used by analogy to describe other systems.
 
-The usage of a transit map in infographic design relies on the reader's familiarity with how this map works and on the analogy between the transportation system and other systems that have flow such as the human circulatory system, for example.
+A transit map relies on the readers' familiarity with how transit maps work. Its success as an infographic depends on whether the intended audience is familiar with transit maps.
 
 ## Sources
 [^guo]: Guo, Zhan. ["Mind the map! The impact of transit maps on path choice in public transit."](https://www.researchgate.net/publication/268003042_Mind_the_Map_The_Impact_of_Transit_Maps_on_Travel_Decisions_in_Public_Transit) Transportation Research Part A: Policy and Practice 45.7 (2011): 625-639.
