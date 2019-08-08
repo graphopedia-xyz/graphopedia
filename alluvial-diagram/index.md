@@ -55,29 +55,29 @@ examples:
     link:  https://www.flickr.com/photos/densitydesign/31613433722/in/album-72157677740884236/
     image:  the-complexity-of-the-climate-change-flow.jpg
   
-
-
+  
+  
 
 ---
 
-is a type of network diagram that shows changes of flow over time. Alluvial diagrams are a type of Sankey diagram. Both show the amount of flow between nodes using the width of the line. The difference between the two is that the alluvial diagram shows clusters arranged by time or stages.
+is a type of [network diagram](/network-diagram) that shows changes in network structure over time. It is also a type of [Sankey diagram](/sankey-diagram) with both showing the amount of flow between nodes using the width of the line. The difference is in alluvial diagrams' ability to re-cluster flow lines back into the main flow line.
 
 <!--more-->
 
-The alluvial diagram was first described in 2010[^1] and defined as showing "changes in the clustering structure from one time period to the next are represented by the mergers and divergences that occur in the ribbons linking the blocks". In other words, in alluvial diagrams, lines can both split and merge back into the flow. Importantly, the clusters have to be displayed in temporal order[^3].
+The alluvial diagrams first appeared in 2010[^1] defined as showing "changes in the clustering structure from one period to the next are represented by the mergers and divergences that occur in the ribbons linking the blocks." In other words, in alluvial diagrams, lines can both split and merge back into the flow. Importantly, the clusters have to appear in temporal order[^3].
 
 
-The blocks in an alluvial diagram represent clusters of nodes. The stream lines between the blocks represent changes in the composition of these clusters over time. The height of a block represents the size of the cluster and the height of a stream line shows the size of the component.
+The blocks in an alluvial diagram represent clusters of nodes. The stream lines between the blocks represent changes in the composition of these clusters over time. Block height represents cluster size, and flow line height shows the size of the component.
 
-Alluvial diagrams can also be viewed as a variant of [parallel coordinates plot](/parallel-coordinates) for categorical variables.[^4]
+Alluvial diagrams can also be considered a variant of [parallel coordinates plot](/parallel-coordinates) for categorical variables.[^4]
 
 Note: You may see the terms *Sankey diagram* and *alluvial diagram* used to refer to the same type of chart, for example by D3 creator Mick Bostock[^5] and author Andy Kirk[^6].
-The alluvial diagram is designed to show connections between categories over time. The main purpose of this diagram is the representation of splitting and merging of parts of categories into each other. 
-To create an alluvial diagram, at least two categories and two time points or stages are necessary.
+The alluvial diagram is designed to show connections between categories over time. The purpose of this diagram is the representation of splitting and merging parts of categories into each other. 
+To create an alluvial diagram, at least two categories and time points or stages are necessary.
 
 ## Alternatives
 
-[Chord diagram](/chord-diagram) - a chord diagram represents weighted relationships between categories. Unlike the alluvial diagram, it does not show the change over time, but a single snapshot in time. Another restriction is that all the categories in a chord diagram have to be of the same type, for example, all countries and not a combination of countries and cities.
+[Chord diagram](/chord-diagram) - a chord diagram represents weighted relationships between categories. Unlike the alluvial diagram, it does not show the change over time, but a single snapshot in time. Another requirement is that all categories have to be of the same type. For example, a chord diagram can show connections between countries but not between countries and cities.
 
 ## Sources
 
@@ -85,5 +85,5 @@ To create an alluvial diagram, at least two categories and two time points or st
 [^2]: [M. Schmidt, Energy use in a passenger car](https://Www.Ifu.Com/En/e-Sankey/Sankey-Diagram/)
 [^3]: [Atlas of Knowledge: Anyone Can Map by Katy Börner, page 63](https://books.google.com/books?id=Fe-cBwAAQBAJ&pg=PA63&lpg=PA63&dq=alluvial+diagram+ribbons&source=bl&ots=kELwexv5TN&sig=ACfU3U0C3u3tM4f7B3LTesoUHajwArSEVg&hl=en&sa=X&ved=2ahUKEwjlsv7Sz5DhAhUixIUKHYChAAI4ChDoATADegQICBAB#v=onepage&q=alluvial%20diagram%20ribbons&f=false)
 [^4]: [Creating Alluvial Diagrams by Michał Bojanowski](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
-[^5]: [Data Visualisation: A Handbook for Data Driven Design by Andy Kirk](https://books.google.com/books?id=wNpsDAAAQBAJ&lpg=PA190&dq=alluvial%20diagram&pg=PA190#v=onepage&q=alluvial%20diagram&f=false)
+[^5]: [Data Visualisation: A Handbook for Data-Driven Design by Andy Kirk](https://books.google.com/books?id=wNpsDAAAQBAJ&lpg=PA190&dq=alluvial%20diagram&pg=PA190#v=onepage&q=alluvial%20diagram&f=false)
 [^6]: [Mike Bostock's D3 gallery website](https://bost.ocks.org/mike/sankey/)
