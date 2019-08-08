@@ -60,22 +60,29 @@ Rectangle-based treemaps have two legibility and layout problems:
 
 Solutions to this problem offer using other figures such as polygons as in Voronoi tree map and circles as in circle tree map. However, even at low data densities reders are able to compare the areas of rectangles faster than the bars of [bar charts](/bar-chart). [^kong]
 
+
 ## Variations
 
 ### Voronoi Treemap
-Voronoi treemaps represent hierarchical data by recursively partitioning polygons using weighted centroidal Voronoi diagrams. The polygon areas represent data the same wey as in the rectangle-based tree map.
+<img src="voronoi-treemap.svg" alt="voronoi treemap" class="f-right-half" /> Voronoi treemaps represent hierarchical data by recursively partitioning polygons using weighted centroidal Voronoi diagrams. The polygon areas represent data the same wey as in the rectangle-based tree map.
+<!-- @anna Add that voronoi treemap could be 'packed' into different shapes square/rect, circle/ellipse, triangle, pentagon, etc. -->
 
-###Jigsaw Treemap
-Jigsaw treemap is based on the geometry of space-filling curves. They assume that the weights are integers and that their sum is a square number. The regions of the map are rectilinear polygons and highly non-ortho-convex. Their aspect ratio is guaranteed to be at most 4.
+### Jigsaw Treemap
+<img src="jigsaw-treemap.svg" alt="jigsaw treemap" class="f-right-half" />  Jigsaw treemap is based on the geometry of space-filling curves. They assume that the weights are integers and that their sum is a square number. The regions of the map are rectilinear polygons and highly non-ortho-convex. Their aspect ratio is guaranteed to be at most 4.
+<!-- @anna copy-pasted from wikipedia -->
+<!-- @anna is Gosper type of Jigsaw treemaps or same thing? -->
+
 ### Gosper Maps
- Based on the geometry of Gosper curves. It is ordered and stable, but has a very high aspect ratio.
-
+ Based on the geometry of Gosper curves. It is ordered and stable, but has a very high aspect ratio. <!-- @anna copy-pasted from wikipedia -->
+<!-- GosperMap: Using a Gosper Curve for Layingout Hierarchical Data, https://hal.archives-ouvertes.fr/hal-00959383/document
+also found this: http://hint.fm/papers/158-wattenberg-final3.pdf -->
 ### Circle Tree Map
-Also called *circle packing*, the circle tree map is functionally the same as the rectangle-based tree map except the human perception fof circles is limited in its ability to judge the area. That is why circle packing is recommended only for communicating the general idea of how the parts of the tree diagram relate to each other.
+<img src="circle-packing.svg" alt="circle packing" class="f-right-half" /> Also called *circle packing*, the circle tree map is functionally the same as the rectangle-based tree map except the human perception fof circles is limited in its ability to judge the area. That is why circle packing is recommended only for communicating the general idea of how the parts of the tree diagram relate to each other.
 
 ## Alternative charts
 1. [*Marimekko chart*](/marimekko-chart) uses the area of rectangles positioned along the X and Y axes to represent three variables.
 2. [*Tree diagram*](/tree-diagram) uses nodes and links to show a hierarchical structure.
+
 
 ## Sources
 [^kong]: N. Kong, J. Heer and M. Agrawala, ["Perceptual Guidelines for Creating Rectangular Treemaps"](https://ieeexplore.ieee.org/document/5613436) in IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 990-998, Nov.-Dec. 2010. doi: 10.1109/TVCG.2010.186s
