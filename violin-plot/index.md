@@ -36,18 +36,24 @@ examples:
 
 
 ---
-is a combination of a box plot and a kernel density plot. It is a [box plot](/box-plot) with kernel [density plots](density-plot) added to each side. Similar to a box plot, a violin plot shows four types of values. The outer shape represents all possible results with the thickest section representing the mode average. The next layer inside represents the values that occur 95% of the time. The layer inside represents the values that occur 50% of the time. The central dot represents the median value.
+is a combination of a [box plot](/box-plot) and a kernel [density plot](/density-plot) added on both sides. Similar to a box plot, a violin plot shows four types of values. The outer shape represents all possible results with the thickest section representing the mode average.
 
 <!--more-->
-Violin plot aims to solve the problem of over-generalization on a box plot by showing how the values are distributed using the density plot.
+The violin plot aims to solve the problem of over-generalization in a box plot by showing how the values are distributed using the density plot. In data sets with *multimodal distributions*, those with multiple peaks, box plots would not reveal them.  Violin plots offer the advantage of comparing both the distributions and the medians across categories. 
 
-Violin plots are useful for comparing the distributions and the medians across categories. Violins can be ordered by the median, or by another metric.
+Violin plot anatomy is similar to the box plot. The media is the white dot in the middle. The thick bar along the center shows the interquartile range, which is the two middle quartiles. The thin line in the center is the 95% confidence interval, which is the rest of the distribution except the outliers. 
+
+The distribution of all the data points is shown symmetrically as density plots on both sides. The thicker parts mean a higher probability that a data point falls in that range, and thinner sections show a lower probability.
+
+The violins in the chart typically have an ordering, often by the median.
 
 ## Variations
 
+### Grouped violin plot
+A grouped violin plot displays two violins per category each representing a sub-category, for example, male and female.
+
 ### Split violin plot
-A split violin plot shows two different groups of data on the left and right side of the central axis. This is useful in examples where all data can be divided into two groups, for example male and female.
+A split violin plot shows two different groups of data on the left and right side of its central axis. In data sets with two categories, for example, male and female, the split violin allows for a compact comparison.
 
 ## Sources
-[^hintze]: The violin plot was first introduced in this paper Hintze, Jerry & Nelson, Ray. (1998). [Violin Plots: A Box Plot-Density Trace Synergism.](https://search.proquest.com/openview/dcd68eb137d2d6b08aa23f37e34e0b01/1?pq-origsite=gscholar) American Statistician - AMER STATIST. 52. 181-184. 10.1080/00031305.1998.10480559. 
- 
+[^hintze]: The violin plot first appeared in this paper by Hintze, Jerry & Nelson, Ray. (1998). [Violin Plots: A Box Plot-Density Trace Synergism.](https://search.proquest.com/openview/dcd68eb137d2d6b08aa23f37e34e0b01/1?pq-origsite=gscholar) American Statistician - AMER STATIST. 52. 181-184. 10.1080/00031305.1998.10480559. 

@@ -62,25 +62,26 @@ synonyms:
   
 ---
 
-shows all possible logical relationships between one or more sets. The sets are represented as simple shapes, usually circles or rectangles. Each area of overlap is labeled.  Unlike the Venn diagram, the [Euler diagram](/euler-diagram) shows not all but only relevant relationships.
+shows all possible logical relationships between one or more sets. The sets appear as simple shapes, usually circles or rectangles. Each area of overlap is labeled.  Unlike the Venn diagram, the Euler diagram shows not all but only relevant relationships.
 
 <!--more-->
 There are two types of Venn diagrams: 
-1. Quantitative - representing numbers. These diagrams do not scale the circle proportionally to the number they represent but the numbers are written on the circles and their intersections[^harris]. If the shapes are proportional, the diagram is limited to 4 shapes since it is not possible to create symmetric Venn diagrams with more than four sets that are are -proportional. 
-2. Qualitative - representing categories.
+1. Quantitative - representing numbers. These diagrams typically do not scale the circle proportionally to the number they represent, but the numbers are written inside the circles and their intersections[^harris]. 
+If the shapes are proportional to their values, the diagram is limited to 4 sets since it is impossible to create symmetric Venn diagrams with more than four proportional sets. 
+2. Qualitative - representing categories. The intersections of sets form a subset that is a new category.
 
-Venn diagrams may be built for any number of sets, however, the layout becomes increasingly difficult to both build and read beyond four sets. [^heberle]
+In theory, Venn diagrams work for any number of sets, but the layout becomes increasingly difficult to both build and read beyond just four sets. [^heberle] 
 
-For 3 sets, we can use circles. 
+Certain shapes are unusable for Venn diagrams of more than three sets. For three sets, it is possible to use circles.  For four and five sets, it is not possible to use circles such that each one intersects each of the others separately. Ellipses have to be used for four-and five-set Venn diagram.  
 
-For 4 and 5 sets, we cannot use circles such that all of them intersect uniquely - we have to use *ellipses*. In the illustration below, the red and blue circles do not overlap uniquely. The same is true for the yellow and brown.
+The illustration below shows why circles are not possible in a four-set  Venn diagram. The red and blue circles do not overlap uniquely; the same is true for the yellow and brown.
 ![Four sets in a Venn diagram](venn-diagram-of-four-sets.svg)
 
-For more than 5 sets, we cannot use ellipses but other shapes, such as squares and triangles can be used.
+For more than five sets, ellipses become unsuitable, but rectangles and triangles can be used.
 
-The Venn diagram was invented in 1880 by John Venn. He did not call them "Venn diagrams" but "Eulerian circles". Euler diagrams are similar to Venn diagrams because they also use shapes to represent sets, but Euler diagrams are less restrictive since they do not require showing all the possible relationships.
+The Venn diagram appeared in 1880, created by John Venn. He did not call it "Venn diagram" but "Eulerian circles." Euler diagrams are similar to Venn diagrams because both use shapes to represent sets, but Venn diagrams are more restrictive. They require labeling all the possible intersections.
 
 ## Sources
-[^harris]: Harris explains the the differences between the quantitative and qualitative Venn diagrams, see *Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 961*
+[^harris]: Harris explains the differences between the quantitative and qualitative Venn diagrams, see *Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 961*
 [^heberle]: Discussion of Venn diagrams of 4 and more sets *Heberle, Henry & Meirelles, Gabriela & da Silva, Felipe & P Telles, Guilherme & Minghim, Rosane. (2015). [InteractiVenn: A web-based tool for the analysis of sets through Venn diagrams.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0611-3) BMC Bioinformatics. 16.*
 

@@ -45,7 +45,7 @@ synonyms:
 
 ---
 
-is a schematic representation of events and their connections forming a hierarchy. Each node represents an event. Each parent node precedes its child nodes in the sequence while its sibling nodes represent events of the same level of the hierarchy. Despite its name, the tree in tree diagrams typically runs upside down or sideways.
+is a schematic representation of events and their connections forming a hierarchy. Each node represents an event. Each parent node precedes its child nodes in the sequence while its sibling nodes represent events of the same level of the hierarchy.
 
 <!--more-->
 A tree diagram usually starts with a single entity that represents the top of the hierarchy. The root node connects to its children via a *path*, also called *connector*, *branch*, *connecting line*, *link* or *arm*. The point at which a path subdivides is called a *node* or *junction*. 
@@ -55,9 +55,9 @@ The orientation of a tree diagram can be
 2. *convergent* - starting with many and merging into one
 3. *radial* - showing the top of the hierarchy at the center of a circle with the lower levels that branch out.[^harris]
 
-In addition to the orientation,  a tree diagram can run horizontally from left to right or vertically from top to bottom.
+In addition to the orientation, a tree diagram can run horizontally from left to right or vertically from top to bottom.
 
-The connecting lines can take on different forms: straight line, arc, or bezier curve. The nodes can take on the form of rectangles, circles or symbols.
+The connecting lines can take on different forms: straight line, arc, or bezier curve. The nodes can have the form of rectangles, circles, or symbols. Despite its name, the tree in tree diagrams typically runs upside down or sideways.
 
 The tree diagram is often stylized to resemble trees, rivers, roots or other familiar objects, especially where the illustration fits the subject matter. [^lima]
 

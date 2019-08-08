@@ -41,16 +41,18 @@ synonyms:
   - bridge chart
 ---
 
-is a type of [bar chart](/bar-chart) that tracks the change from an initial value through a series of intermediate positive or negative values to the end value. The first column is an initial value, the last column is a cumulative total.  
+is a type of [bar chart](/bar-chart) that tracks the change from an initial value through a series of intermediate values to the end value. The first column is the initial value. The last column is a cumulative total.  The intermediate values reflect positive or negative changes.
 <!--more-->
-In a waterfall chart, the first value is represented with a bar, exactly as in a bar chart. The subsequent values are shown as bars that start where the previous bar ended. The intermediate bars reflect the change between a column and its neighboring columns. Each intermediate bar either rises above the previous bar reflecting positive change or descends below reflecting negative change. 
+In a waterfall chart, the first value appears as a bar, exactly as in a bar chart. A subsequent value shows up as a bar starting where the previous bar ended. 
 
-The intermediate bars form a cascading pattern that resembles a waterfall.
+The intermediate bars reflect the change between a column and its neighboring columns. Each intermediate bar either rises above the previous bar reflecting a positive change or descends below reflecting a negative change. 
+
+The chart has its name from the intermediate bars that make up a cascading pattern resembling a waterfall.
 
 ## Alternatives
-1. [*Bar chart*](/bar-chart) uses rectangles height to relate two variables. Functionally it is the same as the waterfall chart[^borkin] but the visual focus is not on the change between bars.
-2. [*Area chart*](/area-chart) uses the area between the X axis and the data line. It is an alternative because the variation in the line would also emphasize change.
-3. [*Line chart*](/line-chart) uses data points connected by a straight line. The overall shape reveals the change pattern.
+1. [*Bar chart*](/bar-chart) uses rectangles height to relate two variables. Functionally it is the same as the waterfall chart[^borkin], but the visual focus is not on the change between bars.
+2. [*Area chart*](/area-chart) uses the area between the X-axis and the data curve. It is an alternative because the variation in the area would also emphasize change.
+3. [*Line chart*](/line-chart) uses data points connected by a straight line. The overall shape reveals the changing pattern.
 
 ### Sources
-[^borkin]: This paper mentions the waterfall chart as a sub-type of a bar chart.[What Makes a Visualization Memorable?](http://cvcl.mit.edu/papers/Borkin_etal_MemorableVisualization_TVCG2013.pdf)
+[^borkin]: This paper mentions the waterfall chart as a sub-type of a bar chart. [What Makes a Visualization Memorable?](http://cvcl.mit.edu/papers/Borkin_etal_MemorableVisualization_TVCG2013.pdf)
