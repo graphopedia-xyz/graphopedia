@@ -91,7 +91,13 @@ William Playfair first introduced an area chart in 1786 in his book *The Commerc
 <img src="range-area-chart.svg" alt="range area chart" class="f-right-half" />  A range area chart is a variation of an area chart that lets you plot ranges of data.
 
 ### Circular area chart
-A circular area chart is an area chart plotted in polar coordinates. Even though it is visually similar to the [radar chart](/radar-chart)... <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" />, their data structures are different with the radar chart having multiple radial axes that each represents a different variable. Circlular are charts are useful for showing cyclical data, for example, annual weather patterns or crop seasons.
+A circular area chart is an area chart plotted in polar coordinates. Even though it is visually similar to the [radar chart](/radar-chart) their data structures are different with the radar chart having multiple radial axes that each represents a different variable. Circlular are charts are useful for showing cyclical data, for example, annual weather patterns or crop seasons. <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" />,
+
+### Stepped area chart
+<img src="stepped-area-chart.svg" alt="stepped area chart" class="f-right-half" /> Also called *stepped area graph*
+
+### Spline area chart
+<img src="spline-area-chart.svg" alt="stepped area chart" class="f-right-half" /> Also called *spline area graph*
 
 
 ## Alternative Charts

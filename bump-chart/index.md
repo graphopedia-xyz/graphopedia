@@ -35,8 +35,7 @@ examples:
     link:   https://flowingdata.com/2016/12/07/fields-of-study-ranked-over-past-few-decades/
     image:  most-popular-fields-of-study-since-1970.png
 
-
-git 
+  
 ---
 
 is a type of [line chart](/line-graph) for multiple categories that are ranked, usually through time.

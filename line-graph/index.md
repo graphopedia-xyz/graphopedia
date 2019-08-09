@@ -46,7 +46,15 @@ The first line chart appeared in 1786 in *The Commercial and Political Atlas* by
  The vertical axis of the line chart should start at a zero since readers rely on the lengths to judge the change between data points. A truncated line chart with the vertical axis starting above zero will exaggerate the difference in height for all the other data points, misrepresenting the trend shown in the graph. [^huff]
  
  A *line of best fit* is sometimes drawn on the line graph to show data points that fit a trend in the data. [^rosen]
- 
+
+
+## Variations
+
+### Stepped line chart
+<img src="stepped-line-chart.svg" alt="stepped line chart" class="f-right-half" /> Also called *stepped line graph* ...
+
+### Spline chart
+<img src="spline-chart.svg" alt="splene chart" class="f-right-half" /> Also called *spline graph* ...
  
 ##Alternative
 1. [*Bump chart*](/bump-chart) shows categories ordered by ranking through time.
