@@ -62,23 +62,28 @@ Rectangle-based treemaps, the most typical kind,  suffer from legibility problem
 
 Another solution is using other figures such as polygons as in Voronoi treemap or circles as in circle treemap. However, even in uncomplicated data visualizations, readers can judge the areas of rectangles more effectively than areas of polygons and especially circles. [^kong]
 
+
 ## Variations
 
 ### Voronoi Treemap
-Voronoi treemaps represent hierarchical data by recursively partitioning polygons using weighted centroidal Voronoi diagrams. The polygon areas represent data the same way as rectangle-based treemaps.
+<img src="voronoi-treemap.svg" alt="voronoi treemap" class="f-right-half" /> Voronoi treemaps represent hierarchical data by recursively partitioning polygons using weighted centroidal Voronoi diagrams. The polygon areas represent data the same way as rectangle-based treemaps.
+<!-- @anna Maybe add that voronoi treemap could be 'packed' into different shapes square/rect, circle/ellipse, triangle, pentagon, etc. -->
+
+### Circle Treemap
+<img src="circle-packing.svg" alt="circle packing" class="f-right-half" /> Also called *circle packing*, the circle treemap is the same as the rectangle-based treemap functionally except its readability. The human eye can estimate the areas of rectangles much more accurately than of circles. That is why circle treemaps are useful only for showing a general idea of how the parts of a treemap relate.
 
 ###Jigsaw Treemap
-The jigsaw treemap cuts rectangles of a treemap into equally-sized squares and then reassembles them into jigsaw-resembling shapes that are fitted without gaps. This layout allows every leaf node to be roughly square and therefore legible and selectable. [^wattenberg] The tradeoff is the unfamiliar shapes that readers cannot easily evaluate, either for the area or for tree topology.
+<img src="jigsaw-treemap.svg" alt="jigsaw treemap" class="f-right-half" /> The jigsaw treemap cuts rectangles of a treemap into equally-sized squares and then reassembles them into jigsaw-resembling shapes that are fitted without gaps. This layout allows every leaf node to be roughly square and therefore legible and selectable. [^wattenberg] The tradeoff is the unfamiliar shapes that readers cannot easily evaluate, either for the area or for tree topology.
+<!-- @anna is Gosper type of Jigsaw treemaps or same thing? -->
 
 ### Gosper Maps
 Gosper maps are based on fractal geometry - shapes that are self-similar and when repeated form a pattern that looks like the basic shape itself. The map resembles a cartographic map with a visible nested structure. [^auber]
 
-### Circle Treemap
-Also called *circle packing*, the circle treemap is the same as the rectangle-based treemap functionally except its readability. The human eye can estimate the areas of rectangles much more accurately than of circles. That is why circle treemaps are useful only for showing a general idea of how the parts of a treemap relate.
 
 ## Alternative charts
 1. [*Marimekko chart*](/marimekko-chart) uses the area of rectangles positioned along the X and Y axes to represent three variables. Unlike the treemap, it cannot reflect hierarchies.
 2. [*Tree diagram*](/tree-diagram) uses nodes and links to show a hierarchical structure.
+
 
 ## Sources
 [^schneiderman]: Shneiderman, Ben. ["Treemaps for space-constrained visualization of hierarchies."](http://www.cs.umd.edu/hcil/treemap-history/index.shtml) (2005).
