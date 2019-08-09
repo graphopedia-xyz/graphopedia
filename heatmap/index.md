@@ -80,18 +80,21 @@ In general, the human eye can differentiate chromatic colors easier than shades 
  Another issue with colors is their influence on each other - adjacent cells of different colors can produce the perception of a gradient even when it is not there.
  
  Despite its name, a heatmap normally does not refer to a type of map but a table with color-coded values. Maps that use color coding with a rainbow pattern are also sometimes called heatmaps. But they are not to be confused with [choropleth maps](/choropleth-map) that use a single color per geographic region to represent data.
- 
+
+
 ## Variations
 Heatmap variations have to do with the orientation and layout of the map. The addition of a [dedrogram](/dendrogram) produces a heatmap that also shows the hierarchy of the values.
 
 ### Circular heat map
-*Circular heat map* displays the axes along the radius of the circles and its perimeter. This layout is normally used for cyclical events such as climate visualizations.
+<img src="circular-heatmap.svg" alt="circular heat map" class="f-right-half" /> Also called *radial heat map* displays the axes along the radius of the circles and its perimeter. This layout is normally used for cyclical events such as climate visualizations.
+
 ### Spiral heat map
-*Spiral heat map* winds the X axis along a spiral. This space-saving layout has the disadvantage of difficulty when labeling the chart.
+<img src="spiral-heatmap.svg" alt="spiral heat map" class="f-right-half" /> *Spiral heat map* winds the X axis along a spiral. This space-saving layout has the disadvantage of difficulty when labeling the chart.
 
 ### Cluster heat map 
-*Cluster heatmap* also called *double dendrograms* [^ncss] is the combination of a heatmap and a [dendrogram](/dendrogram) showing one dedrogram for the matrix rows and one for the columns. The cluster heatmap simultaneously reveals row and column hierarchical cluster structure.
-                                                                           
+<img src="clustered-heatmap.svg" alt="clustered heat map" class="f-right-half" /> *Cluster heatmap* also called *double dendrograms* [^ncss] is the combination of a heatmap and a [dendrogram](/dendrogram) showing one dedrogram for the matrix rows and one for the columns. The cluster heatmap simultaneously reveals row and column hierarchical cluster structure.
+
+                                                                       
 ## Sources
 
 [^wilkinson]: ["The History of the Cluster Heatmap" by Leland Wilkinson and Michael Friendly, The American Statistician, May 2009, Vol. 63, No. 2, pp.](https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf)
