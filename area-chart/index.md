@@ -69,14 +69,14 @@ examples:
 
 ---
 
-represents data as the area between the data curve and the horizontal axis. [^1] Area charts show the change of a single variable. The X-axis can have a numeric or categorical scale. The Y-axis is usually categorical. 
+represents data as the area between the data curve and the horizontal axis. [^1] Area charts show the change of a single variable. The X axis can have a numeric or categorical scale, while the Y axis is usually categorical. 
 
 
 <!--more-->
 
-Area charts show the change of a single variable. Area charts are useful for displaying a trend, a change, or a relationship between values. Parts of an area chart can use color or texture for emphasis.[^2]
+Area charts show the change of a single variable. Generally, area charts are not used to show a specific value but rather emphasize a trend, a change or the relationship between values. For this purpose part of the area of in the chart can be colored or textured for emphasis.[^2]
 
-Functionally, the area chart is the same as a [line chart](/line-chart). The use of area makes the overall shape of the data more obvious than in a line chart.
+Functionally, the area chart is the same as a [line chart](/line-chart). The use of area makes the overall shape of the data easier to see than in a line chart unless there are several lines charts that have to be shown in the same coordinates plane.
 
 Area charts can have three types of curves depending on how the data was aggregated: segmented, stepped, and smoothed.
 
@@ -85,7 +85,7 @@ William Playfair first introduced an area chart in 1786 in his book *The Commerc
 ## Variations
 
 ### Stacked area chart
-<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and the area between them are stacked area charts. Normally, the curve with less variation should be shown at the bottom, closer to the X-axis.[^5] Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^6]
+<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and the area between them are stacked area charts. Normally, the curve with less variation should be shown at the bottom, closer to the X axis.[^5] Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^6]
 
 ### Range area chart
 <img src="range-area-chart.svg" alt="range area chart" class="f-right-half" />  A range area chart is a variation of an area chart that lets you plot ranges of data.
@@ -93,12 +93,18 @@ William Playfair first introduced an area chart in 1786 in his book *The Commerc
 ### Circular area chart
 A circular area chart is an area chart plotted in polar coordinates. Even though it is visually similar to the [radar chart](/radar-chart)... <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" />, their data structures are different with the radar chart having multiple radial axes that each represents a different variable. Circular charts are useful for showing cyclical data, for example, seasonal weather patterns or crop seasons.
 
+### Stepped area chart
+<img src="stepped-area-chart.svg" alt="stepped area chart" class="f-right-half" /> Also called *stepped area graph*
+
+### Spline area chart
+<img src="spline-area-chart.svg" alt="stepped area chart" class="f-right-half" /> Also called *spline area graph*
+
 
 ## Alternative Charts
 
 [Line chart](/line-chart) - functionally similar to area charts, line charts can be stacked and grouped more easily than area charts.
 
-[Streamgraph](/stream-graph) - a streamgraph is a type of stacked area chart aligned relative to a central axis. Streamgraphs have a smoothed data curve.
+[Streamgraph](/stream-graph) - a streamgraph is a type of stacked area chart which is shown relative to a central axis. Streamgraphs have a smoothed curve. They are normally oriented horizontally.
 
 
 ## Sources
