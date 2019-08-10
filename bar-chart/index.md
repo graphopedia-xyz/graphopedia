@@ -38,7 +38,7 @@ examples:
     link:  https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/
     image:  paintings-of-bob-ross.png
 
-  - title: The space race is dominated by new contenders
+  - title: The Space Race Is Dominated By New Contenders
     author: The Economist
     link: https://www.economist.com/graphic-detail/2018/10/18/the-space-race-is-dominated-by-new-contenders
     image: space-race.png
@@ -69,38 +69,38 @@ synonyms:
 
 ---
 
-displays the relationship of a *category* to a *numeric variable* in the form of a rectangle bar. The bar height along the Y axis or its length along the X axis represents a number.  Each bar represents only one number. For this reason, bar charts can be used to compare *discrete* numbers and not continuously changing numbers.[^harris]
+displays the relationship of a *category* to a *numeric variable* in the form of a rectangle bar. The bar height along the Y-axis or its length along the X-axis represents a number.  Each bar represents only one number. For this reason, bar charts can be used to compare *discrete* numbers and not continuously changing numbers.[^harris]
 
 <!--more-->
 
-Bar charts are often used to compare the change of a value over time. The basic application os the representation of change in numbers across categories. This is a very broad application which explains the popularity of a bar chart. 
+Bar charts are often used to compare the change of value over time or across categories. This broad application explains the popularity of the bar chart. 
 
 
-The baseline of a bar chart should always start at zero. Otherwise, the bar length will not be interpreted correctly by the reader. [^yau] While there are not many rules about chart design, this particular one is. A bar chart with the Y axis not starting at zero can never represent its data truthfully and so it defeats the purpose of the chart.
+The baseline of a bar chart should always start at zero. Otherwise, the bar length will not be interpreted correctly by the reader. [^yau] While there are not many rules about chart design, this particular one is. A bar chart with the Y-axis not starting at zero can never represent its data truthfully, and so it defeats the purpose of the chart.
 
 The bar width is equal and cannot be used to represent data. Using the width of the bar would turn the bar chart into a [Marimekko Chart](/marimekko-chart). The distance between bars is also equal and not indicative of data values. Bars can be ordered or unordered.
 
-The bar chart was first introduced by William Playfair in 1786. Although not popular initially, it has since become the default choice of chart because of its graphic simplicity and familiarity. However, data journalism and information graphics fields tend to explore alternatives to and variations of the bar chart.  *The New Work Times* graphics editor Amanda Cox says, "There’s a strand of the data viz world that argues that everything could be a bar chart. That’s possibly true but also possibly a world without joy."[^beniato]
+William Playfair introduced the bar chart in 1786. Although not popular initially, it has since become the default choice of a chart because of its graphic simplicity and familiarity. However, data journalism and information graphics fields found alternatives to and created variations of the bar chart.  *The New York Times* graphics editor Amanda Cox says, "There's a strand of the data viz world that argues that everything could be a bar chart. That's possibly true but also possibly a world without joy." [^beniato]
 
-Functionally, a bar chart is not suited to show distribution, median or mean, ratios, correlation, relationships or connections, or anything more than a single data point per category. 
+Functionally, a bar chart is not suitable for show distribution, median or mean, ratios, correlation, relationships or connections, or anything more than a single data point per category. 
 
 ## Variations
-Bars in a chart can be grouped and stacked to show more groups of categories. For layout purposes and for readability, bars can be oriented horizontally vertically and around a radial layout making a *radial bar chart*. The shape of the bar can be substituted with other shapes, as in the *lollipop chart*. In general, shapes other than the rectangle are more difficult for the eye to interpret in a bar chart.
+Bars in a chart can be grouped and stacked to show more groups of categories. Triangles and other figures can substitute the bar shape. However, shapes other than the rectangle are more difficult for the eye to interpret.
 
 ### Grouped bar chart
-<img src="grouped-bar-chart.svg" alt="grouped bar chart" class="f-right-half" /> Grouped bar charts show two or more data series where their respective bars are displayed side by side. This types of chart can also be called a *clustered bar chart* or a *multiple bar chart*. In this types of chart the bars must be kept the same width since the chart can only show the difference in the height of the bars, not the area.
+<img src="grouped-bar-chart.svg" alt=" grouped bar chart" class=" f-right-half"/> Grouped bar charts show two or more data series with their respective bars displayed side by side. This type of chart can also be called a *clustered bar chart* or a *multiple bar chart*. In all variations, bars must have the same width since the chart can only show values through the height of the bars, not the area or the width.
 
 ### Stacked bar chart
-<img src="stacked-bar-chart.svg" alt="stacked bar chart" class="f-right-half" /> Stacked bar chart shows two or more (but in practice the number is quite limited) data series where each respective bar is stacked on top of the other along the vertical axis. The data series are stacked in the same order across all the bars.
+<img src="stacked-bar-chart.svg" alt= "stacked bar chart" class=" f-right-half"/> A Stacked bar chart shows two or more data series where each respective bar stacks on top of another along the vertical axis.  In practice, the number of data series is limited. The stacking order of all data series has to be the same order across all the bars.
 
 ### Tornado chart
-<img src="tornado-chart.svg" alt="tornado chart" class="f-right-half" /> The tornado chart also known as *tornado diagram* is a bar chart with horizontally orientated bars where bars are ordered such that the longest is at the top and the shortest at the bottom, creating a funnel-like shape. Tornado charts are useful for situation where descending ordering of the bars points to an insight in the data.
+<img src= "tornado-chart.svg" alt= "tornado chart" class=" f-right-half"/> The tornado chart, also known as *tornado diagram*, is a horizontal bar chart with bars ordered from the longest at the top to the shortest at the bottom, creating a funnel-like shape. Tornado charts are useful for situations where the descending ordering of the bars points to an insight.
 
 ### Span chart
 <img src="span-chart.svg" alt="span chart" class="f-right-half" /> Span chart (also known as *range bar chart*, *range column chart*, *floating bar chart*/bar graph) is ...
 
 ### Lollipop chart
-<img src="lollipop-chart.svg" alt="lollipop bar chart" class="f-right-half" /> Lollipop chart (also known as *lollipop plot*) replaces a bar with a line and a dot at the far end. Lollipop charts may be useful in situations when there are a lot of data points and bars would be either too thin to read or too wide to fit.
+<img src="lollipop-chart.svg" alt="lollipop bar chart" class="f-right-half" /> Lollipop chart (also known as *lollipop plot*) replaces a bar with a line and a dot at the far end. Lollipop charts may be useful in large data sets where bars would be too thin.
 
 ### Dumbbell chart
 <img src="dumbbell-chart.svg" alt="dumbbell chart" class="f-right-half" /> Dumbbell chart (also known as *Dumbbell plot*, *Connected dot plot*) is a variation of lollipop chart...
@@ -118,23 +118,21 @@ Radial bar chart (also known as *radial column chart*, *polar bar chart*)...
 
 
 ## Alternatives
-The bar chart being the default choice of a chart, there is often a need to find an alternative. Sometimes the need comes from the data and other times it si an editorial decision made with the purpose of diversifying charts in an article or a report to make each more memorable. 
-In either case, there are many ways to substitute a bar chart with another chart without losing clarity, and sometimes even making the data clearer.
+With the bar chart being the ubiquitous default, there is often a need to find an alternative. 
 
-1. *Dot plot* uses a dot to represent a data point and otherwise works the same way as a bar chart. When one needs to show several types of categories, instead of showing multiple bar or stacked bar charts, dot plots allow for a more elegant way to show the same data.[^robbins]
+1. *Dot chart* uses a dot to represent a data point and otherwise works the same way as a bar chart. Dot plots allow for a more elegant way of displaying large data sets.[^robbins] This dot chart is not to be confused with the [dot plot](/dot-plot), a statistical graphic that shows the distribution of individual observations represented as dots at regular intervals. It is similar to the [histogram](/histogram), but it is more accurate since the data is not binned.
 2. [*Isotype diagram*](/isotype-diagram) uses icons to represent a data point as the total length of the row of icons. Isotype chart can help a reader see the semantic meaning of each category in the chart. [^haroz]
-3. [*Waterfall chart*](/waterfall-chart) is an alternative to a stacked bar chart. In a waterfall chart we can see each bar separated by category on the X axis which makes the size of the bar easier to perceive than in a stacked bar chart.[^knaflic]
+3. [*Waterfall chart*](/waterfall-chart) is an alternative to a stacked bar chart. It tracks the change from an initial value through a series of intermediate values to the end value. The first column is the initial value. The last column is a cumulative total.
 4. [*Bullet chart*](/bullet-chart) functionally the same as a bar chart, the bullet chart adds a symbol for the target value and a progress bar.
 5. *Slope graph* is an alternative to a stacked bar chart. A slope graph shows the relationship between two sets of categories.
 
-The need to find an alternative to a bar chart sometimes leads people to substitute it with a chart that is not functionally the same, for example, the pie chart, the bubble or the histogram. For this reason, it is important to look for an alternative that is functionally the same.
+It is worth noting that the pie chart and the bubble, both of which are other popular charts, are not functional alternatives to a bar chart.
 
 ## References
 [^harris]: [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)
-[^berinato]: ["The Power of Visualization’s “Aha!” Moments" by Scott Berinato, Harvard Business Review, retrieved Apr 3, 2019](https://hbr.org/2013/03/power-of-visualizations-aha-moment)
+[^berinato]: ["The Power of Visualization's "Aha!" Moments" by Scott Berinato, Harvard Business Review, retrieved Apr 3, 2019](https://hbr.org/2013/03/power-of-visualizations-aha-moment)
 [^yau]: [FlowingData.com by Nathan Yau, retrieved Apr 3, 2019](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/)
-[^thudt]: [Assessing the Readability of Stacked Graphs by Alice Thudt , et al. ](https://hal.inria.fr/hal-01587962/document)
+[^thudt]: [Assessing the Readability of Stacked Graphs by Alice Thudt, et al. ](https://hal.inria.fr/hal-01587962/document)
 [^robbins]: [Dot Plots: A Useful Alternative to Bar Charts by Naomi B. Robbins, p.3](http://perceptualedge.com/articles/b-eye/dot_plots.pdf)
 [^knaflic]: [Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic, pp.55-56](https://books.google.com/books?id=IheRCgAAQBAJ&printsec=frontcover&dq=alternative+to+%22bar+graph%22&hl=en&sa=X&ved=0ahUKEwib7qDuyrbhAhUlGKYKHWDxAqAQ6AEILzAB#v=onepage&q=bar%20chart&f=false)
 [^haroz]: [ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs, p.1](http://steveharoz.com/research/isotype/ISOTYPE_Visualization_CHI2015_Haroz_Kosara_Franconeri.pdf)
-
