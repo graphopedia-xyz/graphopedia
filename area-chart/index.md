@@ -69,42 +69,45 @@ examples:
 
 ---
 
-represents data as the area between the data curve and the horizontal axis. [^1] Area charts show the change of a single variable. The X axis can have a numeric or categorical scale, while the Y axis is usually categorical. 
+displays data as the area between the data curve and the horizontal axis. [^1] Area charts emphasize the change of a single variable by connecting individual data points. 
 
 
 <!--more-->
+The purpose of an area chart is visualizing the change of a single variable. Functionally, area charts are the same as [line charts](/line-chart). Visually, using the area instead of a line makes the shape of the data more noticeable. Especially for multi-line charts and stacked or grouped area charts the filled area below the data curve improves the chart's readability. 
 
-Area charts show the change of a single variable. Generally, area charts are not used to show a specific value but rather emphasize a trend, a change or the relationship between values. For this purpose part of the area of in the chart can be colored or textured for emphasis.[^2]
+Even though an area chart consists of individual data points, its purpose is not in communicating a set of specific values but in showing their relationships. For this reason, the data points typically do not have labels.
 
-Functionally, the area chart is the same as a [line chart](/line-chart). The use of area makes the overall shape of the data easier to see than in a line chart unless there are several lines charts that have to be shown in the same coordinates plane.
+The X-axis has a numeric or a categorical scale. The Y-axis is usually categorical. Dot markers typically indicate individual data points when few of them appear in the chart.
 
-Area charts can have three types of curves depending on how the data was aggregated: segmented, stepped, and smoothed.
+The primary use cases of area charts are indicating trends, comparing trends, their changes, and relationships between values. Color and texture can emphasize these relationships. [^2]
 
-William Playfair first introduced an area chart in 1786 in his book *The Commercial and Political Atlas*.
+Area charts can have three types of data curves depending on their data aggregation method: segmented, stepped, and smoothed.
+
+William Playfair introduced area charts in 1786 in his book *The Commercial and Political Atlas*.
 
 ## Variations
 
 ### Stacked area chart
-<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and the area between them are stacked area charts. Normally, the curve with less variation should be shown at the bottom, closer to the X axis.[^5] Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^6]
+<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and fills the area between them. The curve with less variation is typically drawn at the bottom, closer to the X-axis.[^5] Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^6]
 
 ### Range area chart
-<img src="range-area-chart.svg" alt="range area chart" class="f-right-half" />  A range area chart is a variation of an area chart that lets you plot ranges of data.
-
-### Circular area chart
-A circular area chart is an area chart plotted in polar coordinates. Even though it is visually similar to the [radar chart](/radar-chart)... <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" />, their data structures are different with the radar chart having multiple radial axes that each represents a different variable. Circular charts are useful for showing cyclical data, for example, seasonal weather patterns or crop seasons.
-
-### Stepped area chart
-<img src="stepped-area-chart.svg" alt="stepped area chart" class="f-right-half" /> Also called *stepped area graph*
+<img src="range-area-chart.svg" alt="range area chart" class="f-right-half" />  A range area chart is a variation of the area chart that shows two data curves to define a range in between. The area below the lower data curve typically has no fill to emphasize the range inside the space created by the two curves.
 
 ### Spline area chart
-<img src="spline-area-chart.svg" alt="stepped area chart" class="f-right-half" /> Also called *spline area graph*
+<img src="spline-area-chart.svg" alt="stepped area chart" class="f-right-half" />  Also called *spline area graph*, the spline area chart connects individual data points with a smooth curve, unlike the segmented area chart that draws a straight line.  Additional data points are necessary to draw the smooth spline curve.  They come from a spline interpolation function that estimates the values between the known data points.
+
+### Stepped area chart
+<img src="stepped-area-chart.svg" alt="stepped area chart" class="f-right-half" /> Also called *stepped area graph*, the stepped area chart resembles steps because the data it describes has abrupt changes of value. The stepped area chart is functionally identical to [stepped line chart](/line-chart).
+
+### Radial area chart
+A radial area chart is an area chart plotted in polar coordinates. Even though it is visually similar to the [radar chart](/radar-chart), its function is different. The radar chart's radial axes each represent a different variable, while a radial area chart plots the same variable on the X-axis curving around a central point.  Radial charts are useful for showing cyclical data, for example, seasonal weather patterns. <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" /> 
 
 
 ## Alternative Charts
 
 [Line chart](/line-chart) - functionally similar to area charts, line charts can be stacked and grouped more easily than area charts.
 
-[Streamgraph](/stream-graph) - a streamgraph is a type of stacked area chart which is shown relative to a central axis. Streamgraphs have a smoothed curve. They are normally oriented horizontally.
+[Streamgraph](/stream-graph) - a streamgraph is a type of stacked area chart aligned relative to central axis. Streamgraphs have a smoothed curve. They are normally oriented horizontally.
 
 
 ## Sources
