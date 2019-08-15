@@ -39,7 +39,7 @@ Today the Japanese candlestick chart is still widely used in financial trading. 
 The data needed for creating a candlestick is similar to that of a stock price bar chart:  open, high, low, and close prices. [^morris]
 Candlestick charts are used to discover patterns in the change of values. Such patterns have been extensively studied and many of them have specific names such as, for example, "hanging man" and "doji pattern".
 
-
+<!-- TODO: add candlestick chart patterns https://en.wikipedia.org/wiki/Candlestick_pattern -->
 
 ## Sources
 [^morris]: [Candlestick Charting Explained: Timeless Techniques for Trading Stocks and Futures](http://wordpress1.rm7mills.com/notasaham/wp-content/uploads/sites/3/2017/08/Candlestick-Charting-Explained-Gregory-Morris.pdf)
