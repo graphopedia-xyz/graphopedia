@@ -76,6 +76,10 @@ The main alternatives for proportional symbols are geometric shapes and pictogra
 
 Bubble map symbols need to be properly scaled to avoid clutter. Ideally, bubbles should not overlap. To avoid obstruction of the map itself, bubbles can be made partially transparent.
 
+<img src="types-of-symbols-areal.jpg" alt="areal univariate point symbols" />
+<img src="types-of-symbols-linear.jpg" alt="linear univariate point symbols" />
+<!-- redraw types of symbols as svg. From 'Beyond Graduated Circles: Varied Point Symbols for Representing Quantitative Data on Maps' by Cynthia A. Brewer, p.14 -->
+
 ## Alternatives
 
 1. [*Choropleth map*](/choropleth-map) uses colored areas to represent the measurement of a variable proportional to the colored area.
