@@ -51,23 +51,20 @@ synonyms:
 
 ---
 
-shows a summary of data distributions including the minimum, the maximum, the upper and lower quartiles, and the median. The box represents 50% of data points and the whiskers the other 50%. The middle band always represents
-the median, which means that 50% of data is above the line, and the other 50% is below. Outliers are plotted outside the whiskers as dots.
+shows a summary of data distribution, including the minimum, maximum, upper and lower quartiles, and the median.
 
 <!--more--> 
-The box plot was first introduced in 1970 by American Statistician John Tukey [^wickham] who early in his career worked on developing statistical methods for computers at Bell Labs where he invented the term "bit."[^billinger]
+The main function of a box plot is a generalized comparison of distributions. 
 
-The main function of a box plot is a generalized comparison of distributions. Since box plots only summarize the distribution, they can only show a generalized comparison of medians, minimums, maximums, and quartiles. Box plots can also be used to show variation and uncertainty. 
-
-A single box in a box plot shows a summary of the distribution of data by showing the median, the upper and lower quartiles, and the maximum and minimum.[^potter]
-
-This generalized view does not show where exactly the data points fall. If it is important to show the exact location of all data points, then a scatter plot is best for a single data series or a bees swarm plot for comparing multiple data series.
+A single box plot displays a summary of data distribution by showing the median, the upper and lower quartiles, the maximum and minimum, and the outliers.[^potter] Since box plots only show a summary of distribution, they do not show the actual shape of distribution as, for example, a [histogram](/histogram) does.
  
-Box plots are best for comparing minimums, maximums, and the middles (medians) of data series.
+Box plots are best fit for comparing minimums, maximums, and the medians across multiple data series.
 
-Box plots are shown on the X, Y axes, where the X-axis can be categorical or numeric. The Y-axis is numeric. The median is usually shown as a line or a line with a dot in the middle. The outliers are shown as dots. They always fall outside the whiskers of the box since any number that falls between the maximum and minimum is not an outlier.
+Box plots are shown on the X, Y-axes, where the X-axis can be categorical or numeric. The Y-axis is numeric. The combination of the box and whiskers represents the distribution of all data points except the outliers. The box shows the two quartiles in the middle, also called the interquartile range. The middle line is the median, which is the value separating the upper and lower halves of the data. The dots outside the whiskers represent the outliers.
 
 Tick marks on both axes help a reader locate the corresponding values since box plots tend to be visually complex.
+
+The box plot was introduced in 1970 by John Tukey [^wickham] who also invented the term "bit." [^billinger]
 
 
 ## Variations
@@ -79,7 +76,7 @@ Tick marks on both axes help a reader locate the corresponding values since box 
 <img src="vase-plot.svg" alt="vase plot" class="f-right-half" /> Vase plots add estimated densities for every point between the upper and lower quartiles to the histplot. 
 
 ### Box-percentile plot
-<img src="box-percentile-plot.svg" alt="box-percentile plot" class="f-right-half" /> Box-percentile plots use both sides of the box plot to show the distribution at each point. For each point in the plot, the width of the box is proportional to the percentile of that data value, up to the 50th percentile. After that, it switches to being proportional to values outside the percentile. The plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to a violin plot, the advantages of this plot is that it covers the entire range of data.
+<img src="box-percentile-plot.svg" alt="box-percentile plot" class="f-right-half" /> Box-percentile plots use both sides of the box plot to show the distribution at each point. For each point in the plot, the box width is proportional to the percentile of that data value, up to 50th percentile. After that, it switches to being proportional to values outside the percentile. The plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to a violin plot, the advantages of this plot is that it covers the entire range of data.
 
 ### Notched box plot
 <img src="notched-box-plot.svg" alt="notched box plot" class="f-right-half" /> Notched box plot displays confidence intervals around the medians, supporting visual assessment of statistical significance.
@@ -105,7 +102,7 @@ Charts that show distributions are all potential alternatives to a box plot. Wit
 
 2. [*Violin plot*](/violin-plot) displays the density for all data points, not just the middle half.
 
-3. [*Scatter plot*](/scatter-plot) shows distribution by plotting every data point on the X, Y coordinates. The overall shape, as well as individual data points, are best seen on a scatter plot, unlike the box plot that does not show how individual data points are distributed.
+3. [*Scatter plot*](/scatter-plot) shows distribution by plotting every data point on the X, Y coordinates. The overall shape, as well as individual data points, are better displayed on a scatter plot because the box plot only summarizes the distribution.
 
 4. [*Beeswarm Plot*](/scatter-plot/#beeswarm-plot) is a one-dimensional scatter plot with closely-packed points that do not overlap[^tud].
 

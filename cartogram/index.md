@@ -20,6 +20,12 @@ tools:
     link:   https://www.tableau.com
 
 examples:
+  - title:  National Debt
+    author: Bloomberg
+    note:
+    link:   https://www.bloomberg.com/graphics/2019-decade-of-debt/
+    image:  national-debt-comparison.png
+    
   - title:  The U.S. Foreign Aid Budget Visualized
     author: The Washington Post
     link:   https://www.washingtonpost.com/graphics/world/which-countries-get-the-most-foreign-aid/
@@ -54,6 +60,7 @@ examples:
     author: Mark Newman
     link:   https://www.washingtonpost.com/graphics/politics/2016-election/how-election-maps-lie/
     image:  us-election-cartogram.png
+    
 
 synonyms:
    - value-by-area map
