@@ -34,26 +34,50 @@ examples:
     author:  FifeThirtyEight
     link:  https://fivethirtyeight.com/features/da-gi-po-te-isnt-baby-talk-its-a-key-to-scrabble-success/
     image:  scrabble-word-dna.png
- 
-  - title: What is an Infographic - The Components
-    author:  Anna Vital
-    link:  https://blog.adioma.com/what-is-an-infographic/
-    image:  what-is-an-infographic.png
-    
+
   - title:  Shared Letters Between 3 Alphabets
     author: Mark Vital 
     link:   https://commons.wikimedia.org/wiki/File:Venn_diagram_gr_la_ru.svg  
     image:   shared-letters-between-the-alphabets.png
+    
+  - title: What is an Infographic - The Components
+    author:  Anna Vital
+    link:  https://blog.adioma.com/what-is-an-infographic/
+    image:  what-is-an-infographic.png
 
+  - title:  The Anatomy Of Determination
+    image:  the-anatomy-of-determination.png
+    author: Anna Vital 
+    link:   https://blog.adioma.com/anatomy-of-determination-in-startups-infographic/
+    note:   This 3 way venn diagram with icons explain the qualities of determination in startups based on eponymous essay by Paul Graham.
+    
   - title:  Ikigai
     author:  David McCandless
     link:  https://informationisbeautiful.net/visualizations/ikigai-japanese-concept-to-enhance-work-life-sense-of-worth
     image:  ikigai-diagram.png
-    
+
   - title:  Real Number Set Diagram 
-    author:  Keith Enevoldsen
-    link:  http://thinkzone.wlonk.com/Numbers/NumberSets.pdf
-    image:  number-set-euler.png
+    image:  real-number-set-diagram.jpg
+    author: Keith Enevoldsen
+    link:   https://thinkzone.wlonk.com/Numbers/NumberSets.htm
+    note:   This 5 set euler diagram is showing real number sets using ellipse shapes
+
+  - title:  Complex Number Set Diagram 
+    image:  complex-number-set-diagram.jpg
+    author: Keith Enevoldsen
+    link:   https://thinkzone.wlonk.com/Numbers/NumberSets.htm
+    note:   This 6 set euler diagram is showing complex number sets using rounded rectangles shapes instead of ellipses/circles
+
+  - title:  Supranational European Bodies
+    image:  supranational-european-bodies.png
+    link:   https://en.wikipedia.org/wiki/File:Supranational_European_Bodies-en.svg
+    note:   This euler diagram shows how supranational system works visualizing relationship between EU institutions and bodies in brief.
+
+  - title:  Solar System Bodies
+    image:  solar-system-bodies.png
+    link:   https://commons.wikimedia.org/wiki/File:Euler_diagram_of_solar_system_bodies.svg
+    note:   This euler diagram shows the relationship between different solar system bodies (planets, satellites, comets, etc).
+
 
 synonyms: 
   - set diagram
@@ -61,6 +85,13 @@ synonyms:
   - primary diagram
   
 ---
+
+[//]: # ( TODO add more euler diagram examples: )
+[//]: # (   https://en.wikipedia.org/wiki/Euler_diagram#/media/File:Euler_diagram_of_solar_system_bodies.svg )
+[//]: # (   maybe this? https://www.reddit.com/r/dataisbeautiful/comments/8ld4ht/venndiagram_comparison_of_biggest_religious )
+[//]: # (   find example of non-intersecting euler diagram like this:  https://visual.ly/community/infographic/humor/how-would-you-your-graphic-design )
+
+
 
 shows all possible logical relationships between one or more sets. The sets appear as simple shapes, usually circles or rectangles. Each area of overlap is labeled.  Unlike the Venn diagram, the Euler diagram shows not all but only relevant relationships.
 
@@ -79,7 +110,22 @@ The illustration below shows why circles are not possible in a four-set  Venn di
 
 For more than five sets, ellipses become unsuitable, but rectangles and triangles can be used.
 
+[//]: # ( TODO: Add complexity section with illustrations for 2-sets venn, 3 sets venn, 4 sets venn, 5 sets venn, etc )
+
 The Venn diagram appeared in 1880, created by John Venn. He did not call it "Venn diagram" but "Eulerian circles." Euler diagrams are similar to Venn diagrams because both use shapes to represent sets, but Venn diagrams are more restrictive. They require labeling all the possible intersections.
+
+
+## Variations
+
+### Proportional Venn Diagram
+<img src="proportional-venn-diagram.svg" alt="hexbin map" class="f-right-half" /> 
+
+### Euler Diagram
+<img src="euler-diagram.svg" alt="hexbin map" class="f-right-half" /> 
+
+
+[//]: # ( TODO: Add a sections with basic operations on sets: Unions, Intersections, relative complement, Absolute complement, symmetric difference. Add illustration for each iteraction, from wikipedia )
+
 
 ## Sources
 [^harris]: Harris explains the differences between the quantitative and qualitative Venn diagrams, see *Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 961*
