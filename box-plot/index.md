@@ -77,6 +77,7 @@ The box plot was introduced in 1970 by John Tukey [^wickham] who also invented t
 
 ### Box-percentile plot
 <img src="box-percentile-plot.svg" alt="box-percentile plot" class="f-right-half" /> Box-percentile plots use both sides of the box plot to show the distribution at each point. For each point in the plot, the box width is proportional to the percentile of that data value, up to 50th percentile. After that, it switches to being proportional to values outside the percentile. The plot is symmetrical. The upper quartile, median, and lower quartile are marked with a line. Similarly to a violin plot, the advantages of this plot is that it covers the entire range of data.
+[//]: # (A paper, dedicated just for box-percentile plot, can we link to it somehow? 	"The Box-Percentile Plot", Warren W. Esty, Jeff Banfield, 2003, http://dx.doi.org/10.18637/jss.v008.i17)
 
 ### Notched box plot
 <img src="notched-box-plot.svg" alt="notched box plot" class="f-right-half" /> Notched box plot displays confidence intervals around the medians, supporting visual assessment of statistical significance.
