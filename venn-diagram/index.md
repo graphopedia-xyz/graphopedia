@@ -87,19 +87,19 @@ synonyms:
 ---
 
 [//]: # ( TODO add more euler diagram examples: )
-[//]: # (   https://en.wikipedia.org/wiki/Euler_diagram#/media/File:Euler_diagram_of_solar_system_bodies.svg )
 [//]: # (   maybe this? https://www.reddit.com/r/dataisbeautiful/comments/8ld4ht/venndiagram_comparison_of_biggest_religious )
 [//]: # (   find example of non-intersecting euler diagram like this:  https://visual.ly/community/infographic/humor/how-would-you-your-graphic-design )
-
+[//]: # (   find example of proportional ven diagram, where size of circles means sets size)
+[//]: # (   find example of venn diagrmans in grid/small-multiple, possibly genetic data)
 
 
 shows all possible logical relationships between one or more sets. The sets appear as simple shapes, usually circles or rectangles. Each area of overlap is labeled.  Unlike the Venn diagram, the Euler diagram shows not all but only relevant relationships.
 
 <!--more-->
 There are two types of Venn diagrams: 
-1. Quantitative - representing numbers. These diagrams typically do not scale the circle proportionally to the number they represent, but the numbers are written inside the circles and their intersections[^harris]. 
+1. *Quantitative* - representing numbers. These diagrams typically do not scale the circle proportionally to the number they represent, but the numbers are written inside the circles and their intersections[^harris]. 
 If the shapes are proportional to their values, the diagram is limited to 4 sets since it is impossible to create symmetric Venn diagrams with more than four proportional sets. 
-2. Qualitative - representing categories. The intersections of sets form a subset that is a new category.
+2. *Qualitative* - representing categories. The intersections of sets form a subset that is a new category.
 
 In theory, Venn diagrams work for any number of sets, but the layout becomes increasingly difficult to both build and read beyond just four sets. [^heberle] 
 
