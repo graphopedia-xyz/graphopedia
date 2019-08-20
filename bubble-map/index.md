@@ -48,33 +48,27 @@ synonyms:
   - proportional symbol map
   - graduated symbol map
 ---
-visualizes numeric data referring to locations on a map by using a scaled symbol—typically a circle or a square—proportional to the number it represents and positioned in the location to which it refers.[^cabello]
- Each circle is sized based on its area, not the diameter or the radius, following the same principle as in a bubble chart. The underlying map is divided into regions, with a single circle per region.
-
+visualizes numeric data using scaled symbols positioned in locations to which they refer.[^cabello] The underlying map is divided into regions, with a single symbol displayed per region.
+ The symbols, typically circles, are sized based on their area, not diameter or radius. 
 <!--more-->
 
-Bubble maps are used to compare data among geographic regions on a map. The comparison can be shown between data points, percentages and ratios.
+Proportional symbol maps are used to compare data among geographic regions. The comparison is between data values, percentages, or ratios.
 
-One of the main challenges in a bubble map is the choice of bubble sizing.  There are three ways in which bubbles can be scales:
-mathematical scaling, perceptual scaling, and range grading. [^cabello]
+One of the challenges in creating a proportional symbol map is the choice of symbol scaling. There are three types of symbol scaling: mathematical scaling, perceptual scaling, and range grading. [^cabello2]
 
-*Mathematical scaling* reflects the data as it is. And yet, the human eye is known to not judge the relative areas of shapes, especially circles, correctly. 
-To compensate for this, *perceptual scaling*, also called "apparent value scaling" turns larger symbols on the map even larger. 
+*Mathematical scaling* reflects the data as it is. Even though this is the most accurate scaling, the human eye is known to misjudge the relative areas of shapes, especially circles and irregular shapes. To compensate for this, *perceptual scaling*, also called *apparent value scaling*, sizes the larger symbols on a map even larger.
+*Range grading* groups data into classes and represents each class with a single symbol. The need for range grading comes from the nature of maps themselves-some regions are larger than others, and yet each region is represented by a single symbol. Following a symbol-per-region logic can lead to misleading representations of data. [^cairo]
 
-*Range grading*, groups data into classes and represents each class with a single symbol. The need for range grading comes from the nature of maps themselves-some regions are larger than others and yet each region is represented by a single symbol. Following a symbol-per-region logic can lead to misleading representations of data. [^cairo]
-
-A legend that contains three sizes of symbols - small, medium, and large relative to the mapped data - is recommended as a way to help a reader to correctly judge the size of the symbols.[^cox]
+A legend that contains three sizes of symbols - small, medium, and large - is recommended as a way of helping a reader to estimate the size of the symbols correctly.[^cox]
 
 ### How to Choose the Right Symbol?
-Many studies have been done to find the geometric shape that is most accurately interpreted by the human eye. 
+Multiple scientific studies have attempted to find the symbol shape that is most intuitive for the human eye to interpret.
+Rectangular symbols were found to be more intuitive than circle-based ones.[^crawford] Scaled bars representing data as their lengths and not areas, produced even better perception results than squares.
+An exception to this rule are symbols showing percentage relationships -- readers see 25%, 50%, and 75% better when they look at wedges of a circle than parts of a bar.[^eells]
 
-Square symbols are easier for the human eye to judge correctly than a circle.[^crawford] Using scaled bars that represented data as their lengths, not area, produced even better perception results than squares. 
+The choice of proportional symbols is usually between abstract geometric shapes and pictographs. Geometric shapes reveal their size better, while pictographs are more intuitive to remember for their context.  [^montello]
 
-However, when the symbol also shows percentage relationships, readers see 25%, 50% and 75% better represented as wedges of a circle than parts of a bar.[^eells]
-
-The main alternatives for proportional symbols are geometric shapes and pictographs. Geometric shapes are generally easier to interpret correctly for their size, while pictographs are easier to remember for their context.  [^montello]
-
-Bubble map symbols need to be properly scaled to avoid clutter. Ideally, bubbles should not overlap. To avoid obstruction of the map itself, bubbles can be made partially transparent.
+Symbols need to be scaled appropriately to avoid clutter. Ideally, symbols should not overlap. Symbols have to avoid obstructing the underlying map, which can be achieved with partially transparent symbols.
 
 <img src="types-of-symbols-areal.jpg" alt="areal univariate point symbols" />
 <img src="types-of-symbols-linear.jpg" alt="linear univariate point symbols" />
@@ -92,6 +86,7 @@ Bubble map symbols need to be properly scaled to avoid clutter. Ideally, bubbles
 ## Sources
 
 [^cabello]: [Algorithmic Aspects of Proportional Symbol Maps by Sergio Cabello, et al.](https://link.springer.com/content/pdf/10.1007%2Fs00453-009-9281-8.pdf)
+[^cabello2]: [Algorithmic Aspects of Proportional Symbol Maps by Sergio Cabello, et al.](https://link.springer.com/content/pdf/10.1007%2Fs00453-009-9281-8.pdf)
 [^cairo]: ["The Functional Art: An introduction to information graphics and visualization" by Alberto Cairo, p.](https://books.google.com/books?id=xwjhh6Wu-VUC&pg=PT144&dq=%22proportional+symbol+map%22&hl=en&sa=X&ved=0ahUKEwjZsujj6MDhAhWVKqYKHfXoBr8Q6AEIRjAF#v=onepage&q=proportional%20symbol&f=false)
 [^cox]: ["Anchor effects and the estimation of graduated circles and
          squares" by Carleton Cox 1976.The American Cartographer 3(1):65-74. ](https://www.tandfonline.com/doi/abs/10.1559/152304076784080195)

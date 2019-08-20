@@ -26,18 +26,23 @@ examples:
 ---
 
 shows price movements over time for securities, derivatives, or currencies. Usually, one candlestick shows a single day.
-Candlestick charts are similar to [box plots](/box-plot) in that both show maximum and minimum values. Box plots, however, carry more information showing the values in between. 
+Candlestick charts are similar to [box plots](/box-plot) in that both show maximum and minimum values. Box plots, however, carry more information by indicating median and interquartile ranges. 
 
 <!--more-->
 
-Candlestick charts were first described by a wealthy Japanese rice trader Munehisa Homma, who wrote 160 rules describing various patterns of trading.[^nison]
+Candlestick charts were first described by a Japanese rice trader Munehisa Homma, who described 160 rules relating various patterns of trading.[^nison]
 
 
-Today the Japanese candlestick chart is still widely used in financial trading. To gain the skill of analyzing a lot of data fast, traders study the patterns candlestick charts can form. In infographics and data visualization, candlestick charts can be used with large data sets when it is important to show the median values and how they change over time.
+Today the Japanese candlestick chart is still widely used in financial trading. Traders study the candlestick charts patterns to analyze large volumes of price data quickly. 
+
+
+In infographics and data visualization, candlestick charts can be used with large data sets when it is essential to show the median values and how they change over time.
 
 
 The data needed for creating a candlestick is similar to that of a stock price bar chart:  open, high, low, and close prices. [^morris]
-Candlestick charts are used to discover patterns in the change of values. Such patterns have been extensively studied and many of them have specific names such as, for example, "hanging man" and "doji pattern".
+
+
+Candlestick charts are used to discover patterns in the change of values. Such patterns are extensively studied,  many of them referred to by specific names such as, for example, "hanging man" and "doji pattern."
 
 <!-- TODO: add candlestick chart patterns https://en.wikipedia.org/wiki/Candlestick_pattern -->
 

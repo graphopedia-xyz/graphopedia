@@ -60,23 +60,21 @@ synonyms:
   
 ---
 
-shows the weighted connections between nodes in a network. The connections between any two nodes are represented by arcs the width of which represents the strength of the connection.
+shows the weighted connections between nodes in a network. The relationships between any two nodes appear as arcs, the width of which represents the strength of the connection.
 
 <!--more-->
 
-The chord diagram was first used by *The New York Times* in [this genome chart](https://archive.nytimes.com/www.nytimes.com/imagepages/2007/01/22/science/20070123_SCI_ILLO.html); however, the use of chord diagrams has since extended beyond genomics.
+Chord diagrams show relationships between entities of the same type. These relationships are quantified, which is represented by the thickness of the arc connecting them. The arcs can also display a direction.
 
-
-The main feature on a chord diagram is its ability to show relationships between entities of the same type. These relationships are quantified which is represented by the thickness of the arc connecting them. The relationships can also show a direction.
-
-
-A chord diagram is similar to a [Sankey chart](/sankey-chart) in that both represent the strength of a connection between any two nodes as the thickness of a line. Unlike the Sankey chart, chord diagrams can only show relationships between nodes at the same level of the hierarchy.
-
-The nodes are located around the perimeter of the circle. They can be shown either individually or grouped into sectors, each sectors representing part of the whole, the whole being the circle, similar to a pie chart.
+The nodes appear around the perimeter of the circle. They can be shown either individually or grouped into sectors, each sectors representing part of the whole, the whole being the circle, similar to a pie chart.
 
 Clutter, also known as "hairballs" or overplotting is a known problem with chord diagrams. A way of grouping nodes into categories called hierarchical edge bundling [^holten] addresses this problem. 
 
+A chord diagram resembles the [Sankey diagram](/sankey-chart) since both represent the strength of connections between any two nodes as the thickness of a line. Unlike the Sankey chart, chord diagrams can only show relationships between nodes at the same level of a hierarchy.
+
 Chord diagrams are sometimes mistakenly referred to as [arc diagrams](/arc-diagram). [^kirk]
+
+The chord diagram was first used by *The New York Times* in [this genome chart](https://archive.nytimes.com/www.nytimes.com/imagepages/2007/01/22/science/20070123_SCI_ILLO.html); however, the use of chord diagrams has since extended beyond genomics.
 
 ## Alternatives
 
@@ -91,6 +89,6 @@ Chord diagrams are sometimes mistakenly referred to as [arc diagrams](/arc-diagr
 ## Sources
 
 [^holten]: ["Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data" by Danny Holten, IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, VOL. 12, NO. 5, SEPTEMBER/OCTOBER 2006](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf)
-[^kirk]: ["Data Visualisation: A Handbook for Data Driven Design" by Andy Kirk, p. 189](https://books.google.com/books?id=ZrCJDAAAQBAJ&pg=PT295&lpg=PT295&dq=%22radial+network+diagram%22&source=bl&ots=aO2AtxUx3r&sig=ACfU3U3Fk3k7Via9TpgoSqwuUHPzcCl2oA&hl=en&sa=X&ved=2ahUKEwjY74LC4srhAhVi5eAKHf-2BbwQ6AEwCXoECAgQAQ#v=onepage&q=%22chord%20diagram%22&f=false)
+[^kirk]: ["Data Visualisation: A Handbook for Data-Driven Design" by Andy Kirk, p. 189](https://books.google.com/books?id=ZrCJDAAAQBAJ&pg=PT295&lpg=PT295&dq=%22radial+network+diagram%22&source=bl&ots=aO2AtxUx3r&sig=ACfU3U3Fk3k7Via9TpgoSqwuUHPzcCl2oA&hl=en&sa=X&ved=2ahUKEwjY74LC4srhAhVi5eAKHf-2BbwQ6AEwCXoECAgQAQ#v=onepage&q=%22chord%20diagram%22&f=false)
 
 

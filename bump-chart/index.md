@@ -24,7 +24,7 @@ examples:
     link:   http://www.mcshane.org/bumps/images/mays_women.png
     image:  women-bump-race.png
     
-  - title:  Ranking China’s provinces by GDP per capita, 1978-2017
+  - title:  Ranking China's provinces by GDP per capita, 1978-2017
     author:  Trivium China
     link:   https://triviumchina.com/data-viz/40-years-of-growth-ranking-chinas-provinces-by-gdp-per-capita-1978-2017/
     note:   
@@ -41,16 +41,16 @@ examples:
 is a type of [line chart](/line-graph) for multiple categories that are ranked, usually through time.
 
 <!--more-->
-The "bumps chart" was created by Tim Granger using 14 years of data from the Cambridge "Bumps" races which is a rowing team tournament. In this book *Beautiful Evidence* Edward Tufte cite this particular chart as an example of "800 interwoven [sparklines](/sparkline)" meaning this chart is data-rich.[^tufte]
+The "bumps chart" was created by Tim Granger using 14 years of data from the Cambridge "Bumps" races which is a rowing team tournament. In his book *Beautiful Evidence*, Edward Tufte cites this particular chart as an example of "800 interwoven [sparklines](/sparkline)" meaning this chart is data-rich.[^tufte]
 
-In software packages such as Tableau, the chart is now called "bump chart". [^sleeper]
+In software packages such as Tableau, the chart is now called "bump chart." [^sleeper]
 
-Bump charts have no axes, unlike a stacked line graph. The categories are labeled on both the right and the left of the graph so that the initial and final ranking can be compared. The time intervals are labeled for each vertical. The line graph for each category is reordered according to the rank for each time interval.
+Bump charts have no axes, unlike a stacked line graph. Categories are labeled at the begining and end of each row so that the initial and final rankings are evident. The time intervals are labeled for each vertical. The line graph for each category is reordered according to the rank for each time interval.
 
-Bump charts emphasize ranking through time. The time is normally displayed at equal intervals. Bump charts can also be thought of as slope graphs with a time dimension.
+Bump charts emphasize ranking through time. The time is normally displayed at equal intervals. Bump charts can also be thought of as [slopegraphs](/slopegraph) with a time dimension.
 
 The dots or circles drawn at each point where the line graph passes through the time vertical are not required.
 
 ## Sources
 [^tufte]: Edward Tufte (2006). Beautiful Evidence. Graphics Press. p. 56 ↩
-[^sleeper]: Sleeper, Ryan. [Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master.](https://books.google.fr/books?id=mfhTDwAAQBAJ) "O'Reilly Media, Inc.", 2018. p. 271.
+[^sleeper]: Sleeper, Ryan. [Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master.](https://books.google.fr/books?id=mfhTDwAAQBAJ) "O'Reilly Media, Inc.," 2018. p. 271.

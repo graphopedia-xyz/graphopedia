@@ -7,7 +7,7 @@ tags:
 related:
 
 tools:
-  - name:   Excel (using the stacked graph tool with secondary axis for performance indicator)
+  - name:   Excel (using the stacked graph tool with a secondary axis for performance indicator)
     link:   https://www.anychart.com/products/anychart/gallery/Bullet_Charts/
       
   - name:   AnyChart
@@ -29,15 +29,16 @@ synonyms:
 
 ---
 
-is a variation of the [bar chart](/bar-chart) with an added symbol for the target value and a progress bar that approaches the target. The bullet chart includes qualitative ranges labeled from "bad" to "good", and "excellent". The bullet chart was created as an alternative to gauge charts used in dashboards. The bullet chart was invented by American author Stephen Few as a response to gauge charts.[^few] The bullet charts allow for easier comparison of values when positioned next to each other than the gauge charts.
+is a variation of the [bar chart](/bar-chart) with an added symbol for the target value and a progress bar that approaches the target. The bullet chart includes qualitative ranges labeled from "bad" to "good," and "excellent." The bullet chart was created as an alternative to gauge charts used in dashboards. American author Stephen Few invented the bullet chart as a response to gauge charts.[^few] The bullet charts allow for easier comparison of values when positioned next to each other than the gauge charts.
 
 <!--more-->
 
- The purpose of the bullet chart is the comparison of a value to its target. When several bullet charts are used in an infographic or a dashboard, their use allows for easier comparison of values between charts than gauge charts would allow.
- The bullet chart is not designed to display a lot of data points. For a dashboard or an infographic with dozens of data points and their targets, it may be better to use a [scatter plot](/scatter-plot).
+The purpose of the bullet chart is the comparison of value to its target. Several bullet charts that are aligned can be easily compared, making them more suitable for use in a dashboard or a multi-chart report than gauge charts.
+
+The bullet chart is not designed to display a lot of data points. For a dashboard or an infographic with dozens of data points and their targets, it is better to use a [scatter plot](/scatter-plot) or its variations.
  
- Bullet charts are relatively new, and yet readers seem to understand them well because their shape reminds one of a thermometer.[^metoyer]
- The bullet chart can display negative values, which are plotted to the left or towards the bottom. [^few2]
+Bullet charts are relatively new, yet readers tend to understand them well because their shape reminds one of a thermometer.[^metoyer]
+The bullet chart can display negative values, which are plotted to the left or towards the bottom. [^few2]
  
  
  ## Alternative charts
