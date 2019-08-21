@@ -37,6 +37,11 @@ examples:
     link:  https://www.cuimc.columbia.edu/news/data-scientists-find-connections-between-birth-month-and-health
     image:  birth-month-and-disease-incidence.jpg
     
+  - title:  Best in Show - The Ultimate Data Dog
+    image:  best-in-show-whats-the-top-data-dog.png
+    author: David McCandless
+    link:   https://informationisbeautiful.net/visualizations/best-in-show-whats-the-top-data-dog/
+    
 synonyms:
   - scatter graph
   - scatter chart
@@ -56,11 +61,18 @@ Scatter plots are common in scientific publications, making up to 80% of all cha
  
 Since scatter plots display a dot for every data point, overplotting is a common problem. [^carr] The existing solutions include representations of densities, not individual data points, using greyscale or using a symbol, often a hexagon. An example of such a density distribution scatter plot is a hexagonal bin plot.
 
+[//]: # (Todo: Add 3 types of correlation types: direction, form, and strength https://www.westga.edu/academics/research/vrc/assets/docs/scatterplots_and_correlation_notes.pdf
 
 ## Variations
 
-### Radial Scatter plot
-<img src="radial-scatterplot.svg" alt="radial scatter plot" class="f-right-half" /> Radial scatter plot is functionally the same but set into polar coordinates. This variety of scatter plot is useful for visualizing cyclical or seasonal phenomena. One example below shows the incidence of disease by birth month.
+### Multicolor scatter plot
+<img src="multi-color-scatterplot.svg" class="f-right-half" /> Color could be used to show different data series in one plot...
+
+### Multi symbol scatter plot
+<img src="multi-symbol-scatterplot.svg" class="f-right-half" /> Multiple symbols could be used to show different data series in one plot...
+
+### Radial scatter plot
+<img src="radial-scatterplot.svg" class="f-right-half" /> Radial scatter plot is functionally the same but set into polar coordinates. This variety of scatter plot is useful for visualizing cyclical or seasonal phenomena. One example below shows the incidence of disease by birth month.
 
 ### Hexagonal bin plot
 <img src="hexagonal-bin-plot.svg" alt="hexagonal bin plotlot" class="f-right-half" /> Hexagonal bin plot is a scatter plot where individual observations were put into bins as then each bin represented as a symbol colored to show the density.
