@@ -115,7 +115,7 @@ The circles do not reflect the true locations of regions relative to each other.
 ### Hexbin map
 <img src="hexbin-map.svg" alt="hexbin map" class="f-right-half" /> Also called a *hexagonal cartogram*, a hexbin map represents entire regions or their sub-divisions as adjacent hexagonal tiles. Hexagons have an advantage over rectangles and circles because they can show adjacency more accurately, having 6 six sides. The area of a hexagon is less evident to a reader than square area, but hexagons pack into shapes that more accurately approximate actual map region areas.
 
-
+## Combinations
 New cartogram variations are possible from combinations with other charts. For example, a Dorling cartogram with a mini-chart in place of each circle, following the principle of [small multiples](/small-multiples), becomes a new variation of more data-dense and multivariate cartogram. 
 
 Some charts that can replace circles in a Dorling cartogram include [histogram](/histogram), [pie chart](/pie-chart), [proportional area diagram](/proportional-area-diagram), [area chart](/area-chart), [sparkline](sparkline), [Chernoff faces](/chernoff-faces), [line graph](/line-graph), [slopegraph](/slopegraph).

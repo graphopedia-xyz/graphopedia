@@ -56,46 +56,44 @@ examples:
     image:  where-irs-audits-more.png
 
 ---
-
-is a type of thematic map in which areas are colored to represent the measurement of a variable proportional to the colored area.
+is a type of thematic map in which areas are colored to represent a variable proportionally to the colored area. A color legend links colors with values or value ranges.
 
 <!--more-->
+A choropleth map shows in data by geographic region. For this, the data needs to be normalized, which means the data must be expressed in rates or ratios.
 
-The first choropleth map was introduced by Baron Pierre Charles Dupin in 1826. The term "choropleth map" appeared in 1938 in <cite>Problems in Population Mapping</cite> by the geographer John Kirtland Wright.
+To create a choropleth map, one needs a single variable and a color value scale that encodes the values of that variable. It is possible to make a two-variable (bivariate) choropleth map by creating two color scales, then making each semi-transparent and overlaying them. [^stevens]
 
-The purpose of a choropleth map is the representation of changes in data across geographic regions. For this, the data needs to be normalized which means the data must be expressed in rates or ratios.
+The choice of a choropleth map color scheme has to follow a color logic that avoids these known perception issues:
+1. certain combinations of colors influence a reader's perception of map patterns, making readers see patterns where none exist;
+2. readers can misinterpret the symbolism of colors used in a map,[^brewer] for example, associating green with positive trends and red with negative trends. 
 
-To create a choropleth map, one needs a single variable and a color value scale that encodes the values of that variable. It is possible to create a bivariate, or two-variable, choropleth map by creating two color scales, making them semi-transparent and overlaying them. [^stevens]
+Colors are expected to have a logical relationship with the data they represent. For example, when showing population density, it makes sense to display lower densities as less saturated hues and higher densities as more saturated hues of the same color. The ColorBrewer [coloring tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) is a widely used tool for choosing colors based on data.
 
-Color in choropleth maps is especially important because
-1. colors influence a reader's perception of patterns in the map or makes readers see patterns where there are none;
-2. readers can misinterpret the symbolism of colors used in a map. [^brewer] Additionally, colors should be is a logical relationship with the data they represent. For example, showing density of population, it makes sense to show lower densities as less saturated hues and higher densities as more saturated hues of the same color. The ColorBrewer [coloring tool](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) is a commonly used tool for choosing colors automatically based on data.
+With a greyscale color scheme,  there should be more difference between grey than when using chromatic colors. [^kemp]  The human eye tends to underestimate the lightness and darkness of monochromatic areas.
 
-With a greyscale color scheme,  there should be more difference between grey than when using chromatic colors. [^kemp] The reason is that the map createor has to adjust for the tendency of the human eye to underestimate the lightness and darkness of a colors.
+A disadvantage of choropleth maps is the tendency to visually over-represent areas that are less significant in the context of the data but happen to be geographically larger. An example of this is a population map showing densely-populated places like Hong Kong or Singapore as barely visible areas on a world map. 
 
-The disadvantage of a choropleth map is that it tends to visually over-represent areas that happen to be geographically larger but are not as important in terms of the data being shown. An example of this is a population map that showsgit densely populated areas such as New York, Hong Kong, or Singapore as barely visible areas on a world map. 
+[Cartograms](/cartogram) solve this problem by distorting the land area to represent population density or any other data variable.
 
-[Cartograms](/cartogram) solve this problem by distorting the land area to represent population density or any other data.
+Choropleth maps also have problems in terms of statistical accuracy:
+1. *Normalization* - using raw data rather than showing normalized data leads to a false comparison. For example, comparing the total state population does not make sense since states have different land areas. Instead, the data should be normalized as population per square kilometer.
+2. *Ecological fallacy* also known as *aggregation bias* assumes that data measured at a group level is also accurate at the individual level. Since choropleth maps show data per geographic region, they do not show the variation inside that region. For example, a region appears to have a high crime rate, but in reality, it has only one unusually high-crime city driving up the numbers of the entire region. The [dasymetric map](/dasymetric-map) solves the ecological fallacy problem by dividing regions into sub-areas of the same size.
 
-There are two problems with choropleth maps in terms of statistical accuracy:
-1. *Normalization* - using raw data (for example total population per state) rather than showing normalized data (in this case population for square mile).
-2. *Ecological fallacy* also known as *aggregation bias* - assumes that data measured at a group level is also true at the individual level. For example, a state can be shown as having a high crime rate whereas in reality only one city in that state has an unusually crime rate that drove up the crime rate of the entire state.
+Baron Pierre Charles Dupin introduced the choropleth map in 1826. The term "choropleth map" appeared in 1938 in <cite>Problems in Population Mapping</cite> by the geographer John Kirtland Wright.
 
 ## Alternatives
 
-1. [*Heatmap*](/heatmap) uses color to represent grouped data, however it does not overlay the data on a map.
-2. [*Cartogram*](/cartogram) uses distortion of land area to represent data.
-3. [*Bubble map*](/bubble-map) shows data as proportionally sized symbols, usually circles, overlaid over a map.
-4. [*Dot map*](/dot-map) shows individual data points represents as dots overlaid over a map.
-5. [*Dasymetric map*](/dasymetric-map) represents a statistical surface of density, most commonly population density.
+1. [*Dasymetric map*](/dasymetric-map) uses color to represent data per unit of area. Regions are divided into equally-sized units.
+2. [*Cartogram*](/cartogram) uses the distortion of land area to represent data.
+3. [*Bubble map*](/bubble-map) shows data as proportionally sized symbols overlaid over a map, and displaying a single data point per region.
+4. [*Dot map*](/dot-map) shows individual data points represented as dots overlaid on a map.
 
 ## Sources
 
-[^brewer]: [Mapping Mortality: Evaluating Color Schemes for Choropleth Maps by Cynthia A. Brewer et.al., nnals of the Association of American Geographers, Vol. 87, No. 3 (Sep., 1997), p. 411 ](https://www.jstor.org/stable/2564061?seq=1#page_scan_tab_contents)
+[^brewer]: [Mapping Mortality: Evaluating Color Schemes for Choropleth Maps by Cynthia A. Brewer et al., Annals of the Association of American Geographers, Vol. 87, No. 3 (Sep. 1997), p. 411 ](https://www.jstor.org/stable/2564061?seq=1#page_scan_tab_contents)
 
 [^kemp]: [Encyclopedia of Geographic Information Science by Karen Kemp, p. 37-38](https://books.google.fr/books?id=FrUQHIzXK6EC&pg=PT63&dq=choropleth&hl=en&sa=X&ved=0ahUKEwivhuO7-tHhAhXJxosBHV7-Cf0Q6AEIOzAD#v=onepage&q=choropleth&f=false)
 
-[^scolum]: "Thematic Cartography and Geovisualization" by T. Slocum, et.al., 2009, 3rd ed, pages 85–86. Pearson Prentice Hall: Upper Saddle River, NJ.
+[^scolum]: "Thematic Cartography and Geovisualization" by T. Slocum et al., 2009, 3rd ed, pages 85–86. Pearson Prentice Hall: Upper Saddle River, NJ.
 
 [^stevens]: [Bivariate Choropleth Maps: A How-to Guide by Joshua Steves](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
-
