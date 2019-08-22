@@ -35,11 +35,11 @@ synonyms:
   
 ---
 
-is a graphic way of representing the *sequence* of any *operation* using nodes and links. [^henderson] "Flowchart" is often used as a generic name for both technical diagrams such as a block scheme and general-purpose diagrams with connectors.[^chapin]
+is a graphic way of representing the sequence of any operation using nodes and links. [^henderson] The word "flowchart" is often used as a generic name for both technical diagrams such as a block scheme and general-purpose diagrams with connectors.[^chapin]
 
 <!--more-->
-Flowcharting is technique of illustrating computer programs and algorithms. A standardized system of flowchart symbols is used for this purpose.[^myler] It includes blocks of various shapes representing input/output, conditional statements, etc. For example, the diamond shape represents a decision to be made. Lines with arrows show
-the flow of data from one stage or process to the next.  If there is a condition, the “if” is represented by a branching line going towards the alternatives. If the decision involves repeating a previous step, as in a loop, the line
+Flowcharting is a technique of illustrating computer programs and algorithms. A standardized system of flowchart symbols is used for this purpose.[^myler] It includes blocks of various shapes representing input/output, conditional statements, etc. For example, the diamond shape represents a decision to be made. Lines with arrows show
+the flow of data from one stage or process to the next.  If there is a condition, the "if" is represented by a branching line going towards the alternatives. If the decision involves repeating a previous step, as in a loop, the line
 goes back to the decision point; another line shows how the process continues after the loop exits.
 
 The flow in a flow chart is that of events, not of time. This allows for simultaneous events.
@@ -52,4 +52,4 @@ Aside from programming, flowcharts have been shown to improve the comprehension 
 [^chapin]: ["Encyclopedia of Computer Science" by Ned Chapin, 4th edition, pp. 714-716 ](https://dl.acm.org/citation.cfm?id=1074406&dl=ACM&coll=DL)
 [^myler]: ["Fundamentals of Engineering Programming with C and Fortran" by Harley R. Myler, p.32](https://books.google.fr/books?id=IisfMsdBe2IC&pg=PA32)
 [^marchese]: ["Knowledge Visualization Currents: From Text to Art to Culture" by Francis T Marchese et al. 2013, p.69 ](https://books.google.fr/books?id=bptfT1fVzRwC&pg=PA69)
-[^semmler]: ["Using a Flow-chart to Improve Comprehension of Jury Instructions" by Carolyn Semmler et. al.](https://www.tandfonline.com/doi/abs/10.1375/pplt.2002.9.2.262)
+[^semmler]: ["Using a Flow-chart to Improve Comprehension of Jury Instructions" by Carolyn Semmler et al.](https://www.tandfonline.com/doi/abs/10.1375/pplt.2002.9.2.262)

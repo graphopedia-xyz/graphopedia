@@ -42,18 +42,19 @@ synonyms:
   - funnel graph
 ---
 
-shows stages of a process that progressively decrease in quantity or quality starting with 100% at the top of the funnel. The funnel diagram is often used as both a chart and a metaphor. The funnel shape fits the metaphor of a sales process and the conversion process in marketing. 
+shows stages of a process that progressively decrease in quantity or quality, starting with 100% at the top of the funnel. 
 
 <!--more-->
-Sometimes, a chart based on numeric data is also referred to as a *funnel chart*; however, the type of chart that has horizontal bars ordered from top to bottom is called a *tornado chart*.[^peltier]
+The funnel diagram is often used as both a chart and a metaphor. The funnel shape fits the metaphor of a sales process and the conversion process in marketing. 
 
+Charts that use bar lengths to represent variables are not funnel charts. The chart that has horizontal bars ordered from top to bottom is called *tornado chart*.[^peltier]
 
 The most common use cases of the funnel diagram when used as a metaphor are the sales funnel and the conversion funnel. Both start at the top with prospective customers or leads and progress to paying customers or sales.
 
 
 Each segment of the funnel can represent a percentage of the top segment. The top segment is equal to 100%. The bottom segment is the final value. For the chart to be logically correct, all the segments from the second one to the bottom one should add up to 100%.
 
-Funnel diagrams usually have no axes. The area of each segment of the chart usually does not represent the percentage, but only illustrates it metaphorically. Even if the area were equal to its corresponding percentage, it would be difficult for the human eye to interpret the difference in the area, [^mackinlay] especially considering the irregular shapes created by segmenting the triangle that represents the funnel.
+Funnel diagrams usually have no axes. The area of each segment of the chart often does not represent the percentage, but only illustrates it metaphorically. Even if the area were equal to its corresponding percentage, it would be difficult for the human eye to interpret the difference in the area, [^mackinlay] especially considering the irregular shapes created by segmenting the triangle that represents the funnel.
 
 ## Sources
 [^peltier]: ["Funnel (Tornado) Chart" by Jon Peltier](https://peltiertech.com/funnel-tornado-chart/) 

@@ -78,8 +78,9 @@ The smoothness of a density plot is regulated by the bandwidth that is analogous
 
 ## Alternatives
 
-1. [Violin plot](/violin-plot) is a combination of a [box plot](/box-plot) and [density plot](/density-plot).
-2. [Joy plot](/joy-plot) also known as a *ridgeplot* is a series of partially overlapping density plots positioned on two value axes.
+1. [*Histogram*](/histogram) shows the distribution of one continuous variable represented as the height of bars. Histograms are built using raw data that is split into intervals, called bins. 
+2. [*Violin plot*](/violin-plot) is a combination of a [box plot](/box-plot) and [density plot](/density-plot).
+3. [*Joy plot*](/joy-plot) also known as a *ridgeplot* is a series of partially overlapping density plots positioned on two value axes.
  
 
 ## Sources
