@@ -42,24 +42,27 @@ examples:
 
 ---
 
-is a type of [bar chart](/bar-chart) that shows the progress of events over time and their inter-dependencies, usually in the context of project management. Each event in a Gantt chart displays its timeline, the person or team who whom it is assigned, and any connections to other events or projects.
-The Gantt chart was introduced in the 1910s by American engineer Henry Gantt.[^wallace]
+is a type of [bar chart](/bar-chart) that shows the progress of events over time and their inter-dependencies, usually in the context of project management. 
 <!--more-->
-A task in a Gantt chart is shown as a bar, the length of which corresponds to the
-duration of the task. The bars run horizontally along a timeline which is displayed on the X-axis. 
+Each event in a Gantt chart displays its timeline, the person or team who whom it is assigned, and any connections to other events or projects.
 
-The scale of the timeline can be measured in days, weeks, quarters, or years. The tasks are usually ordered such that those that have to be completed first are at the top.
+A task appears as a bar, the length of which shows the task duration. The bars run horizontally along a timeline which is displayed on the X-axis. 
+
+The scale of the timeline can measure in days, weeks, quarters, or years. The tasks typically appear in the order of priority such that tasks to be completed first are at the top.
 
 The disadvantage of using a Gantt chart is that it does not show all the possible connections between events within a project as, for example, in a [network diagram](/network-diagram).[^wisocki] Another disadvantage is that the collaboration between members of the project team is not visualized. [^burkhard]
 
+
+The Gantt chart was introduced in the 1910s by American engineer Henry Gantt. [^wallace]
+
 ## Alternatives
 For project management use cases, other chart types can show more detailed interactions between issues and people. These charts emphasize how people, resources, and events relate to each other.
-Another reason to choose an alternative to a Gantt chart might be that Gantt charts have no way of showing the likely project completion time.
+Another reason to choose an alternative to a Gantt chart is the absence of means to display expected project completion time.
 
 1. [*Network diagram*](/network-diagram) uses nodes and links to show the hierarchy and connections between entities.
-2. *PERT chart* shows the likely completion time for a project. There four types of time:  1. optimistic time - the minimum possible time required to accomplish an activity, assuming everything proceeds better than is normally expected; 2. pessimistic time - the maximum possible time required to accomplish an activity, assuming everything goes wrong (excluding major catastrophes); 3. likely time - the best estimate of the time required to accomplish an activity, assuming everything proceeds as normal; 4. expected time - the best estimate of the time required to accomplish an activity, accounting for the fact that things don't always proceed as normal.
+2. *PERT chart* shows the likely completion time for a project. There four types of time:  1. optimistic time - the minimum possible time required to accomplish an activity, assuming everything proceeds better than is typically expected; 2. pessimistic time - the maximum possible time required to finish an activity, assuming everything goes wrong (excluding major catastrophes); 3. likely time - the best estimate of the time necessary to complete an activity, assuming everything goes as normal; 4. expected time - the best estimate of the time required to accomplish an a task, accounting for the fact that things don't always proceed as expected.
 
 ## Sources
-[^wallace]: ["The Gantt chart, a working tool of management" by Clark Wallace et. al. New York, The Ronald press company 1922](https://archive.org/details/cu31924004570853/page/n6)
 [^wisocki]: ["Effective Project Management: Traditional, Agile, Extreme" by Robert Wysocki.  Wiley, 7th ed. 2014, p.277](https://books.google.fr/books?redir_esc=y&id=nhw2V6-bTNEC&q=gantt#v=snippet&q=gantt&f=false)
-[^burkhard]:["Knowledge Visualization: A Comparative Study between Project Tube Maps and Gantt Charts" by Remo Aslak Burkhard et.al. 2005, Proceedings of I-Know '05. Springer pp. 388-395](https://kar.kent.ac.uk/14324/)
+[^burkhard]:["Knowledge Visualization: A Comparative Study between Project Tube Maps and Gantt Charts" by Remo Aslak Burkhard et al. 2005, Proceedings of I-Know '05. Springer pp. 388-395](https://kar.kent.ac.uk/14324/)
+[^wallace]: ["The Gantt chart, a working tool of management" by Clark Wallace et. al. New York, The Ronald press company 1922](https://archive.org/details/cu31924004570853/page/n6)

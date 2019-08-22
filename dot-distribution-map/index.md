@@ -47,31 +47,34 @@ synonyms:
 is a map type that uses a dot symbol to show the presence of a feature emphasizing the distribution of values through the scatter pattern similar to a scatter plot.
 
 <!--more-->
-The dot distribution map was first introduced in the early 1830s by a French monk Armand Joseph Frère de Montizon. The map showed the population of France by administrative district.[^palsky]
-
 Dot distribution maps use dots or another symbol to mark the location of specific data points.
 
-There are two types of dot density maps:
+There are two types of dot distribution maps:
 
 1. One-to-one dot distribution shows a single dot per data point.
 
-2. One-to-many dost distribution allows a single dot to represent equal groups of data points per dot. This is called "subsampling".[^castillo]
+2. One-to-many dot distribution allows a single dot to represent equal groups of data points per dot. This process is called *subsampling*. [^castillo]
 
-The advantage of a dot distribution map is in displaying the pattern formed by the data point, similar to a [scatter plot](/scatter-plot). An important dor distribution map made by John Snow revealed a pattern of cholera an outbreak connected to the location of water pumps. (See the example section below.)
+The advantage of a dot distribution map is in displaying the pattern formed by the data point, similar to a [scatter plot](/scatter-plot). 
 
-In the reverse situation, where data cannot be tied to a specific location on a map, the use of dot distribution can be misleading. [^meirelles]
+A historically significant dot distribution map made by John Snow revealed a pattern in a London cholera outbreak connected to the location of water pumps. The map appears in the example section below.
+
+In the reverse situation, where data does not refer to specific locations on a map, the use of dot distribution can be misleading. [^meirelles]
+
+The dot distribution map was first introduced in the early 1830s by a French monk Armand Joseph Frère de Montizon. The map showed the population of France by administrative district. [^palsky]
 
 ## Alternatives
 
-1. [Choropleth map](/choropleth map) shows data per geographic unit. It does not show individual data points but rather the average for the region.
-2. [Bubble map](/bubble-map) show grouped data linked to a geographic location by scaling a symbol, usually a circle, proportionally to the data value.
-
+1. [*Choropleth map*](/choropleth map) shows data per geographic unit. It does not show individual data points but rather the average for the region.
+2. [*Cartogram*](/cartogram) uses the distortion of land area to represent data.
+3. [*Bubble map*](/bubble-map) shows data as proportionally sized symbols, typically circles, overlaid over a map.
+4. [*Dasymetric map*](/dasymetric-map) represents a statistical surface of density, most commonly population density.
 
 ## Sources 
 
-[^palsky]: ["La naissance de la démocartographie. Analyse historique et sémiologique" by Gilles Palsky. p.28](http://www.persee.fr/doc/espos_0755-7809_1984_num_2_2_956)
 
 [^castillo]: ["Big Crisis Data: Social Media in Disasters and Time-Critical Situations" by Carlos Castillo.  Cambridge University Press, 2016., p. 140](https://books.google.com/books?id=c1KJDAAAQBAJ)
 
 [^meirelles]: ["Design for Information: An Introduction to the Histories, Theories, and Best Practices Behind Effective Information Visualizations" by Isabel Meirelles. Rockport Publishers, 2013, p.130-131](https://books.google.fr/books?id=RFb0AwAAQBAJ)
 
+[^palsky]: ["La naissance de la démocartographie. Analyse historique et sémiologique" by Gilles Palsky. p.28](http://www.persee.fr/doc/espos_0755-7809_1984_num_2_2_956)
