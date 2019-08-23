@@ -33,31 +33,38 @@ synonyms:
 
 ---
 
-shows data using a single line connecting data points. The line can be either straight or curved. [^rosen] The slope of the lines indicates the overall pattern of change. The data points are ordered, usually along the horizontal axis. A line chart that shows change over time has the time plotted at equal intervals.
+shows trends in data using a line that connects individual data points.  The overall slope of the lines indicates the direction of the pattern of change. 
 
 <!--more-->
+The data points in a line chart are typically marked as dots unless multiple line charts are shown in the same graph space. The data points are ordered, usually along the horizontal axis. 
+
+A line chart showing change over time has the time plotted on the X-axis and typically at equal intervals. The data line can be either straight, curved, or stepped. [^rosen]
+ 
+
+The vertical axis of the line chart should start at a zero since readers rely on the distance from the axis to a data point to read its value. A truncated line chart with the vertical axis starting above zero will exaggerate the difference in height for all the other data points, misrepresenting the trend shown in the graph. [^huff]
+ 
+A *line of best fit* is sometimes drawn on the line graph to show how the data points that fit a trend in the data. [^rosen]
+
+Line charts differ from [scatter plots](/scatter-plot) in that the points are ordered and connected by a line, usually along the horizontal axis. 
+ 
+Line charts often visualize a trend in data over intervals of time. In this case, it is called a [time series](/time-series). [^salkind]
 
 The first line chart appeared in 1786 in *The Commercial and Political Atlas* by Scottish engineer (also a secret agent and convicted criminal)[^spence] William Playfair. [^friendly]
-
- Line charts differ from [scatter plots](/scatter-plot) in that the points are ordered and connected by a line, usually along the horizontal axis. 
- 
- Line charts often visualize a trend in data over intervals of time.[^salkind] In this case it is called a [time series](/time-series).
- 
- The vertical axis of the line chart should start at a zero since readers rely on the lengths to judge the change between data points. A truncated line chart with the vertical axis starting above zero will exaggerate the difference in height for all the other data points, misrepresenting the trend shown in the graph. [^huff]
- 
- A *line of best fit* is sometimes drawn on the line graph to show data points that fit a trend in the data. [^rosen]
 
 
 ## Variations
 
 ### Stepped line chart
-<img src="stepped-line-chart.svg" alt="stepped line chart" class="f-right-half" /> Also called *stepped line graph* ...
+<img src="stepped-line-chart.svg" alt="stepped line chart" class="f-right-half" /> Also called *stepped line graph*, a stepped line chart reflects abrupt changes in the data by connecting the data points with two perpendicular lines instead of a straight one. It is often seen in financial charts reflecting the hikes and drops in interest rates and tax rates.
 
 ### Spline chart
-<img src="spline-chart.svg" alt="splene chart" class="f-right-half" /> Also called *spline graph* ...
+<img src="spline-chart.svg" alt="spline chart" class="f-right-half" /> Also called *spline graph*, a spline line chart connects the individual data points with a smooth curve rather than a straight line. Even though the spline resembles the [density plot](/density-plot), functionally they have nothing in common. The spline connects individual data points only visually, while density plots use a density estimation function to calculate the probability of data points falling into an interval on the graph. 
  
 ##Alternative
 1. [*Bump chart*](/bump-chart) shows categories ordered by ranking through time.
+2. [*Slopegraph*](/slopegraph) shows multiple ranked categories, usually over time or at equal intervals, as a line connecting two values.
+3. [*Bar chart*](/bar-chart) shows values as the height of bars, with a bar per category.
+
 
 ## Sources
 [^rosen]: [The Rosen Comprehensive Dictionary of Math](https://books.google.fr/books?id=i8sjJ1pFgIEC)
