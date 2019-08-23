@@ -61,7 +61,7 @@ Scatter plots are common in scientific publications, making up to 80% of all cha
  
 Since scatter plots display a dot for every data point, overplotting is a common problem. [^carr] The existing solutions include representations of densities, not individual data points, using greyscale or using a symbol, often a hexagon. An example of such a density distribution scatter plot is a hexagonal bin plot.
 
-[//]: # (Todo: Add 3 types of correlation types: direction, form, and strength https://www.westga.edu/academics/research/vrc/assets/docs/scatterplots_and_correlation_notes.pdf
+[//]: # (Todo: Add 3 types of correlation types: direction, form, and strength https://www.westga.edu/academics/research/vrc/assets/docs/scatterplots_and_correlation_notes.pdf)
 
 ## Variations
 
@@ -76,10 +76,6 @@ Since scatter plots display a dot for every data point, overplotting is a common
 
 ### Hexagonal bin plot
 <img src="hexagonal-bin-plot.svg" alt="hexagonal bin plotlot" class="f-right-half" /> Hexagonal bin plot is a scatter plot where individual observations were put into bins as then each bin represented as a symbol colored to show the density.
-
-### Beeswarm plot
-<img src="beswarm-plot.svg" alt="beswarm plotlot" class="f-right-half" /> Beeswarm plot is a one-dimensional scatter plot like "stripchart", but with closely-packed, non-overlapping points.
-<!-- @anna rewrite this, copy-paste -->
 
 
 ## Sources
