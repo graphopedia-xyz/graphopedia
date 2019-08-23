@@ -28,12 +28,6 @@ examples:
     author: Will Chase
     link:   https://www.williamrchase.com/post/custom-fonts-and-plot-quality-with-ggplot-on-windows/
 
-  - title:  Tax Rates Across U.S. Companies
-    image:  tax-rates-across-us-companies.png
-    author: The New York Times
-    link:   https://archive.nytimes.com/www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html
-    note:   This chart is a variation of beeswarm plots and proportional area charts where each circle size represents company's earning.
-
 
 synonyms:
   - jitter plot

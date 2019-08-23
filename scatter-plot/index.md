@@ -46,7 +46,8 @@ examples:
     image:  habitable-exoplanets-asof-2014.png
     author: National Geographics
     link:   https://web.archive.org/web/20140822200552/http://news.nationalgeographic.com:80/news/2014/04/140417-exoplanet-interactive/
-    
+
+
 synonyms:
   - scatter graph
   - scatter chart
