@@ -43,7 +43,7 @@ Before Ishikawa, the basic concept was already in use in the 1920s. Mazda Motors
 
 The Ishikawa diagram is widely used in the manufacturing quality control field to map causes of manufacturing defects related to human error, machine malfunction, material defects, and process failures. [^luca]  The Ishikawa diagram is used in the medical field for diagramming causes that lead to a medical condition. [^wong]
 
-The limitation of Ishikawa diagrams may be in their ability to show complexity. Researchers who translated an epidemiological study findings into an Ishikawa diagram found that student understood tables of findings better than Ishikawa diagrams. [^gartlehner]
+The limitation of Ishikawa diagrams may be in their ability to show complexity. Researchers who translated epidemiological research findings into an Ishikawa diagram found that student understood tables of findings better than Ishikawa diagrams. [^gartlehner]
 
 
 
@@ -53,4 +53,4 @@ The limitation of Ishikawa diagrams may be in their ability to show complexity. 
 
 [^luca]: ["A new model of Ishikawa diagram for quality assessment" by Luca Liliana 2016 IOP Conf. Ser.: Mater. Sci. Eng. 161 012099 ](https://iopscience.iop.org/article/10.1088/1757-899X/161/1/012099/pdf)
 
-[^gartlehner]: ["User testing of an adaptation of fishbone diagrams to depict results of systematic reviews" by Gerald Gartlehner et. al, BMC Medical Research Methodology 2017 ](https://link.springer.com/article/10.1186/s12874-017-0452-z)
+[^gartlehner]: ["User testing of an adaptation of fishbone diagrams to depict results of systematic reviews" by Gerald Gartlehner et al., BMC Medical Research Methodology 2017 ](https://link.springer.com/article/10.1186/s12874-017-0452-z)

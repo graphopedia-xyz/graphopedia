@@ -35,14 +35,14 @@ synonyms:
 
 ---
 
-is a method for showing categorical data as rectangles with their widths and lengths proportional to quantities and categories represented as columns. [^wilkinson]
+is a type of visualization showing categorical data as rectangles with their widths and lengths proportional to quantities and categories represented as columns. [^wilkinson]
 
 <!--more-->
 The Marimekko chart is useful for discovering unusually high or low values and dependencies between variables. [^hartigan] Mosaic plots represent contingency tables, a basic statistics tool for showing distributions in a matrix for categorical data.  It uses rectangular tiles sized proportionally to values to show their distributions.[^friendly] 
 
 The Marimekko chart is similar to a stacked [bar chart](/bar-chart), but it adds one more dimension of data through varying column widths. 
 
-Although Marimekko charts can look similar to [tree maps](/tree-map), they are different in that Marimekko charts do not show a hierarchy as tree maps do. A Marimekko chart cannot have one of its rectangles include another. 
+Although Marimekko charts can look similar to [treemaps](/tree-map), they are different in that Marimekko charts do not show a hierarchy as treemaps do. A Marimekko chart cannot have one of its rectangles include another. 
 
 
 The Marimekko chart appeared in 1981 as an adaptation of [histogram](/histogram) for showing two variables.[^hartigan]
@@ -50,8 +50,8 @@ The area of a tile is known as the *bin size* which is a concept derived from hi
 
 ## Alternatives
 
-[*Stacked bar chart*](/bar-chart) uses bar length to represent values for a category. In a stacked bar chart, each category contains multiple values.
-
+1. [*Stacked bar chart*](/bar-chart) uses bar length to represent values for a category. In a stacked bar chart, each category contains multiple values.
+2. [*Proportional area chart*](/proportional-area-chart) uses proportionally sized shapes without the axes to represent one variable. A Marimekko chart can be redesigned as a series of proportional area charts when the data set is small.
 
 ## Sources
 [^wilkinson]: [Wilkinson, L. (2005), The Grammar of Graphics(2nd ed.). Statistics and Computing, New York: Springer. p. 342 ](https://cds.cern.ch/record/1250322/files/9780387245447_TOC.pdf)

@@ -61,7 +61,7 @@ is a method of visualizing numbers by repeating identical pictographs that refer
 <!--more-->
 ISOTYPE, an acronym for "International System Of Typographic Picture Education," appeared around 1935. [^neurath] Its creator Otto Neurath was a statistician and a philosopher who devised a system of using pictographs for displaying statistics aimed at the general public.[^nino]
 
-The idea behind pictograph charts comes from logical positivism, which is the idea that the human brain can only access knowledge through seeing. And gaining knowledge though seeing means that any word of a language can be reduced to a picture. [^lupton] Those pictographs can then be observed by a reader and their relationships, quantities, and other attributes learned by the reader.
+The concept behind pictograph charts comes from logical positivism. The idea is that the human brain can only access knowledge through seeing — and learning by seeing means that any word of a language can be reduced to a picture. [^lupton] Those pictographs can then be observed by a reader and their relationships, quantities, and other attributes learned.
 
 The basic rule of ISOTYPE is that pictograms must not be enlarged in size to show an increase in
 quantity. Instead, they should be repeated in numbers reflecting the data, at the same size, and with equal spacing. [^burke]

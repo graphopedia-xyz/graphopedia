@@ -79,39 +79,45 @@ examples:
 is a graphic representation of the distribution of one continuous variable.  The height of each bar shows the frequency of observations in a bin, which is the interval at which the data is split.
 
 <!--more-->
-Histograms are built using raw data that is split into intervals, called *bins*. The larger the bin size, the wider is the bar of the histogram. The distribution of data is shown as the frequency of data points in each bin. If the bins are set to equal intervals, then all the bars will be the same width. The height of each bar reflects the frequency. If the bin size varies, it is the *area*, not the height that will show frequency.
+Histograms are built using raw data that is split into intervals, called *bins*. The vertical axis shows frequency - the number of data points that appear in a bin. 
 
-Histograms are the most common way of showing distribution because they reveal its shape, a possible skewness, and outliers.
+The bin size is the tool that groups data points such that they could be represented as a single bar. The larger the bin size, the less accurate the value of each bar, at the same time, the more normal the distribution as a whole. Conversely, smaller bin size leads to more accurate individual bars and more irregular overall shape of the graph. 
 
-Histograms show raw data that is binned but otherwise not grouped or categorized. The vertical axis shows frequency - the number of data points that appear in a bin. The bin size is the tool that groups data points such that they could be represented as a single bar. The larger the bin size, the less accurate the value of each bar, at the same time, the more normal the distribution as a whole. Smaller bin size leads to more accurate individual bars and more irregular overall shape of the graph. To learn how raw data is transformed into a histogram and how the bin size affects the shape of the histogram, see this [interactive visualization on how histograms work](http://tinlizzie.org/histograms).
+Bin size is represented as the width of bars of a histogram. If the bins are set to equal intervals, then all the bars are the same width. If the bin size varies, it is the *area*, not the height that will show frequency.
+
+Histograms are the most common way of showing distributions because they reveal their shape and a possible skewness.
 
 Even though a histogram is visually similar to a [bar chart](/bar-chart), functionally it is different. Unlike a bar chart, a histogram shows the distribution of only one variable, whereas a bar chart relates two. In a histogram, data points are grouped by setting bin size, while in a bar chart data points are already grouped in categories.[^wilkinson] 
 
-Histograms are similar to the [density plot](/density-plot) in that both show distributions. The concept of bins is related to the density plot's bandwidth. But unlike a density plot, a histogram shows the distribution discretely, not continuously.
+Histograms are similar to the [density plot](/density-plot) in that both show distributions. The concept of bins is related to the density plot's bandwidth. But unlike a density plot, a histogram shows the distribution discretely, not continuously. [^tutorial]
 
 Histograms were introduced by English mathematician Karl Pearson in 1895.[^pearson] Pearson proposed the histogram as a 'time-gram' to show change over time.[^flood]
 
 ## Variations
 
 ### Two-way histogram
-<img src="two-way-histogram.svg" alt="two-way histogram" class="f-right-half" /> Two-ways histograms are also known as a *pyramid graph* or a *[population pyramid](/population-pyramid)* when used ni the context of population statistics. The histograms use both sizes of teh Y axis, with the left side showing mirroring the right side in function rather than showing negative values.
+<img src="two-way-histogram.svg" alt="two-way histogram" class="f-right-half" /> The two-way histogram is known as a *pyramid graph* or a [population pyramid](/population-pyramid) when used in the context of demographic statistics. The histograms use both sizes of the Y-axis, with the left side showing mirroring the right side in function. The left side of the graph does not show negative values.
 
 ### Spiral histogram
-<img src="spiral-histogram.svg" alt="two-way histogram" class="f-right-half" />   Spiral histogram also called *condegram* is winds the X-axis in a spiral. This space-saving layout is useful for displaying seasonal trends. The readability of this layout is lower than the linear histogram. The zero point is typically located at the beginning of the outer coil of the spiral.
+<img src="spiral-histogram.svg" alt="two-way histogram" class="f-right-half" />  Spiral histogram also called *condegram* is winds the X-axis in a spiral. This space-saving layout is useful for displaying seasonal trends. The readability of this layout is lower than the linear histogram. The zero point is typically located at the beginning of the outer coil of the spiral.
 
 ## Alternatives
 The alternatives to the histogram, the chart synonymous with distribution, are the other charts that show distribution.
 The general trade-offs among distribution-displaying charts are that the more individual data points they display, the less the overall pattern is clear, and vice versa. 
 
-1. [*Dot plot*](/dot-plot) also known as shows individual data points for each point in time plotted on the X-axis. Functionally, it is similar to the histogram. Visually, the dots may be more difficult to read and compare than the bars of a histogram. 
+1. [*Dot plot*](/dot-plot) shows individual data points for each point in time plotted on the X-axis. Functionally, it is similar to the histogram. Visually, the dots may be more difficult to read and compare than the bars of a histogram.
 2. [*Scatter plot*](/scatter-plot) shows individual data points of bivariate (two-variable) data.
-3. *Beeswarm plot* shows individual data points along a single axis. Normally, it is used to compare several distributions.
+3. [*Beeswarm plot*](/scatter-plot#beeswarm-plot) shows individual data points along a single axis. Normally, it is used to compare several distributions.
 4. [*Density plot*](/density-plot) shows a density estimate of a distribution as a smooth curve.
-5. *Violin plot* shows a double-sided density estimate of the distribution, comparing several such distributions.
+5. [*Violin plot*](/violin-plot) shows a double-sided density estimate of the distribution, comparing several such distributions.
 6. *Barcode chart* shows a distribution using lines that represent individual points along a single axis. Bar code chart compares multiple distributions within compact space.
 
 ## Sources
 
 [^wilkinson]:  ["The grammar of graphics" by Leland Wilkinson. Springer p.49](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
+[^tutorial]: To see how raw data is transformed into a histogram and how the bin size affects the shape of the histogram, see this [interactive visualization on how histograms work](http://tinlizzie.org/histograms)
 [^pearson]: Karl Pearson, Gresham Lecture on 'Maps and Chartograms' (20 November 1891) KP:UCL/49/21.
 [^flood]: ["Mathematics in Victorian Britain" by Raymond Flood et al. 2011, Oxford University Press, p. 291](https://books.google.fr/books?id=l5YiddUUfl4C)
+
+
+
