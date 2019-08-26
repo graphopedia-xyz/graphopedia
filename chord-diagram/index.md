@@ -76,6 +76,13 @@ Chord diagrams are sometimes mistakenly referred to as [arc diagrams](/arc-diagr
 
 The chord diagram was first used by *The New York Times* in [this genome chart](https://archive.nytimes.com/www.nytimes.com/imagepages/2007/01/22/science/20070123_SCI_ILLO.html); however, the use of chord diagrams has since extended beyond genomics.
 
+
+## Variations
+
+### Non-ribbon chord diagram
+<img src="non-ribbon-chord-diagram.svg" class="f-right-half" /> is ..
+
+
 ## Alternatives
 
 1. [*Sankey diagram*](/sankey-diagram) represents a flow of any kind, where the width of each arrow corresponds to the quantity of the flow. Sankey diagrams represent hierarchical data.
@@ -83,7 +90,6 @@ The chord diagram was first used by *The New York Times* in [this genome chart](
 2. [*Arc diagram*](/arc-diagram) represents connections between any two nodes on a single axis.
 
 2. [*Network diagram*](/network-diagram) displays connections between nodes of the same level in the hierarchy without showing the numeric values representing the strengths of the connections.
-
 
 
 ## Sources
