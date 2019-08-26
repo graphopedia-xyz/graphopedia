@@ -61,7 +61,7 @@ is a visualization method for showing the distribution of two variables along th
 <!--more-->
 The scatter plot first appeared in the work of English statistician Francis Galton, who also created the concept of correlation in statistics.
 
-Scatter plots are used to show a correlation between two variables because they show the exact distribution of all individual data points. To establish a correlation, one variable must be independent, and the other a dependent one correlating with the independent variable. The independent variable usually appears on the X-axis and the dependent on the Y-axis.  A trendline also called the *line of best fit* can be drawn to emphasize the outliers and identify trends. 
+Scatter plots are used to show a correlation between two variables because they show the exact distribution of all individual data points. To display a correlation, a graph must have one independent variable and one dependent variable. The independent variable usually appears on the X-axis and the dependent on the Y-axis.  A trendline also called the *line of best fit* can be drawn to emphasize the outliers and identify trends. 
  
 Scatter plots are common in scientific publications, making up to 80% of all charts.[^tufte]
  
@@ -78,10 +78,10 @@ Since scatter plots display a dot for every data point, overplotting is a common
 <img src="multi-symbol-scatterplot.svg" class="f-right-half" /> Multiple symbols could be used to show different data series in one plot...
 
 ### Radial scatter plot
-<img src="radial-scatterplot.svg" class="f-right-half" /> Radial scatter plot is functionally the same but set into polar coordinates. This variety of scatter plot is useful for visualizing cyclical or seasonal phenomena. One example below shows the incidence of disease by birth month.
+<img src="radial-scatterplot.svg" class="f-right-half" /> Radial scatter plot is functionally the same except it is set into polar coordinates. This variety of scatter plot is useful for visualizing cyclical or seasonal phenomena. One example below shows the incidence of disease by birth month.
 
 ### Hexagonal bin plot
-<img src="hexagonal-bin-plot.svg" alt="hexagonal bin plotlot" class="f-right-half" /> Hexagonal bin plot is a scatter plot where individual observations were put into bins as then each bin represented as a symbol colored to show the density.
+<img src="hexagonal-bin-plot.svg" alt="hexagonal bin plotlot" class="f-right-half" /> Hexagonal bin plot is a scatter plot where individual observations were put into bins. Binning is a process of grouping observations at a set interval, which is the bin size. Each bin is represented as a symbol colored to show the density.
 
 
 ## Sources
