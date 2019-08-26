@@ -42,12 +42,12 @@ examples:
 
 
 ---
-is a type of [line graph](/line-graph) for multiple categories that are ranked, usually over time or at equal intervals. Slopegraphs visualize change in rank along two axes using a connecting line and comparing those changes across multiple categories. 
+is a type of [line graph](/line-graph) for multiple categories that are ranked, usually over time or at equal intervals. Slopegraphs visualize a change in rank along two axes using a connecting line and comparing those changes across multiple categories. 
 
 <!--more-->
 Edward Tufte introduced Slopegraphs in his book *The Visual Display of Quantitative Information* (1983), calling it a "table-graphic" that organizes data both vertically and horizontally. [^tufte]
 
-A list of categories appears vertically followed with categories ranked based on the initial data point. 
+A list of categories appears vertically followed by ranked categories based on the initial data point. 
 
 Slopegraphs compare changes, usually over time or at equal intervals.  At least one two-point line slope appears in each category in the graph. Multiple slope lines per category are also possible. At each interval, categories appear in the order of their current rank. Their numeric values show up along the Y-axis although the axis itself does not necessarily appear.
 
@@ -63,4 +63,3 @@ Slopegraphs are also similar to [parallel coordinates plots](/parallel-coordinat
 ## Sources
 [^tufte]: Edward Tufte (1983). The Visual Display of Quantitative Information. Graphics Press. p. 158-159
 [^tufte2]: [Edward Tufte forum](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk). Retrieved May 24, 2019.
-

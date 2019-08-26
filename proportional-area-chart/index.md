@@ -55,7 +55,7 @@ examples:
 
 ---
 
-is a type of one-dimensional chart that uses area of a shape to visualize a single variable without the use of axes. A shape, usually a rectangle, is scaled proportionally to the value it represents. The amount typically appears next to the shape. The shapes appear in the order of magnitude.
+is a type of one-dimensional chart that uses area of a shape to visualize a single variable without the use of axes. A shape, usually a rectangle, is scaled proportionally to the value it represents. The amount typically appears next to the shape. The chart is typically ordered in decreasing order of magnitude.
 
 <!--more-->
 Proportional area charts communicate a single variable through the area of a figure. Rectangles are the most common shape because estimating their areas is more intuitive for the human eye than areas of circles and other polygons.
@@ -66,7 +66,7 @@ The chart uses no axes.[^harris] The shapes appear in a line or a grid. The abse
 
 With circular shapes, the area, not the radius, is used. 
 
-Pictographs and illustrations are not the best choice of shape for a proportional area chart since the areas of such complex shapes are not possible to compare effectively.
+Pictographs and illustrations are not the best choices of shape for a proportional area chart since the areas of such complex shapes are not possible to compare effectively.
 
 
 ## Variations
