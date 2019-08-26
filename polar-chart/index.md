@@ -39,7 +39,7 @@ examples:
     image:  city-street-orientations-usa.png
   
   - title:  Pollution Profile by Country
-    author:  Alberto Lucas López
+    author:  Alberto Lucas López
     link:  https://www.scmp.com/infographics/article/1674099/infographic-pollution-profile
     image:  pollution-profile-by-country.png
     
@@ -54,15 +54,16 @@ synonyms:
 
 ---
 
-is a type of pie chart in which all sectors have equal angles differing only in how far each sector extends from the center of the circle. [^friendly] The polar area chart is used to plot circular data[^fisher] such as cyclical trends, for example.
+is a type of [pie chart](/pie-chart) in which all sectors have equal angles differing only in how far each segment extends from the center of the circle. [^friendly]  The data is represented as the area, not the height, of a sector.
 
 <!--more-->
-The polar area diagram was popularized by Florence Nightingale, who famously plotted seasonal mortality of soldiers from preventable causes against war casualties.
-Polar area charts are plotted in polar coordinates. Each segment of the chart represents a value through its area, not arc length or radius. The segments can be stacked, similar to a stacked bar chart, only presented in polar coordinates.
+The polar area chart is used to plot circular data[^fisher]. Each segment of a polar area chart represents a value through its area, not arc length or radius. The segments can be stacked, similar to a stacked bar chart, only presented in polar coordinates.
 
-Cyclical phenomena, such as monthly weather patterns, are the best use case of the polar area chart. However, the drawback of the polar chart is that it makes the outward segments seem more significant. 
+Cyclical phenomena, such as monthly weather patterns, are the best use case of the polar area chart. However, the drawback of the polar chart is that it makes the outer segments seem more significant. 
 
-The polar area chart is not be confused with a [radial bar chart](/bar-chart). It also laid out radially but it uses the bar length, not the area, to represent a value.
+The difficulty in interpreting this chart comes from the limits of human perception to correctly estimate areas of circles and their sectors.
+
+The polar area chart is not to be confused with a [radial bar chart](/bar-chart#radial-bar-chart). It also laid out radially, but it uses the bar length, not the area, to represent a value.
 
 
 ## Sources

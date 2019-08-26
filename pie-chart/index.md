@@ -37,10 +37,10 @@ synonyms:
 
 ---
 
-is a type of graph that displays numbers as segments of a circle with the circle representing 100 percent. The wedge-shaped parts represent percentages equal to their arc lengths. 
+is a type of graph that displays numbers as segments of a circle with the circle representing one hundred percent. The wedge-shaped parts represent percentages equal to their arc lengths. 
 
 <!--more-->
-The function of a pie chart is the visual illustration of part-to-whole relationships. Pie charts are best used to show values of 25%, 50%, and 75%. The wedges in these cases have right angles, which is easy for the eye to interpret accurately.
+The function of a pie chart is the visual illustration of part-to-whole relationships. Pie charts are best used to show values of 25%, 50%, and 75%. The wedges in these cases have right angles, which are easy for the human eye to interpret accurately.
  
 Values smaller than 10% are difficult for viewers to estimate. Fractions such as 38.5% and unrounded numbers such as 38% are virtually impossible to see on a pie chart.
 
