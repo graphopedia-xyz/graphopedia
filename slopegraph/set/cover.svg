@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1268 418" style="enable-background:new 0 0 1268 418;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#AFAFAF;stroke:#9B8AAD;stroke-width:0.5;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#9B8AAD;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#9B8AAD;stroke-miterlimit:10;}
 	.st2{fill:#AFAFAF;}
 	.st3{font-family:'RobotoMono-Regular';}
@@ -14,10 +14,9 @@
 	.st8{fill:none;stroke:#9B8AAD;stroke-width:2;stroke-miterlimit:10;}
 	.st9{fill:#76727C;}
 	.st10{fill:#5D348C;}
-	.st11{fill:none;stroke:#DDAB45;stroke-width:3;stroke-miterlimit:10;}
-	.st12{fill:none;stroke:#76727C;stroke-width:2;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#76727C;stroke-width:2;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#DDAB45;stroke-width:3;stroke-miterlimit:10;}
 	.st13{fill:#DDAB45;}
-	.st14{fill:none;stroke:#9B8AAD;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
 <line class="st0" x1="745.3" y1="50.8" x2="1077" y2="50.8"/>
 <line class="st1" x1="1040.7" y1="50.8" x2="1040.7" y2="418"/>
@@ -129,20 +128,20 @@
 <g>
 	<text transform="matrix(1 0 0 1 742.8965 381.1796)" class="st2 st3 st6">80</text>
 </g>
-<line class="st11" x1="855" y1="165.7" x2="1040.7" y2="50.8"/>
-<line class="st12" x1="855" y1="88" x2="1041.3" y2="274"/>
-<line class="st12" x1="854.4" y1="274.1" x2="1040.6" y2="366.4"/>
+<line class="st11" x1="855" y1="165.7" x2="1041.3" y2="194"/>
+<line class="st11" x1="855" y1="88" x2="1041.3" y2="131.5"/>
+<line class="st11" x1="854.4" y1="274.1" x2="1040.6" y2="329"/>
 <g>
 	<text transform="matrix(1 0 0 1 781.8867 372.4385)" class="st2 st3 st4">Japan</text>
 </g>
-<line class="st11" x1="854.1" y1="366.4" x2="1040.3" y2="165.8"/>
+<line class="st12" x1="854.1" y1="366.4" x2="1040.3" y2="165.8"/>
 <circle class="st9" cx="854.4" cy="88" r="5.6"/>
-<circle class="st13" cx="854.4" cy="165.8" r="5.6"/>
+<circle class="st9" cx="854.4" cy="165.8" r="5.6"/>
 <circle class="st9" cx="854.4" cy="274.1" r="5.6"/>
 <circle class="st13" cx="854.1" cy="366.4" r="5.6"/>
-<circle class="st13" cx="1040.7" cy="50.8" r="5.6"/>
+<circle class="st9" cx="1040.7" cy="194" r="5.6"/>
 <circle class="st13" cx="1040.7" cy="165.8" r="5.6"/>
-<circle class="st9" cx="1040.7" cy="274.1" r="5.6"/>
-<circle class="st9" cx="1040.4" cy="366.4" r="5.6"/>
-<line class="st14" x1="745.3" y1="222.4" x2="1077" y2="222.4"/>
+<circle class="st9" cx="1040.7" cy="131.1" r="5.6"/>
+<circle class="st9" cx="1040.4" cy="329.4" r="5.6"/>
+<line class="st0" x1="745.3" y1="222.4" x2="1077" y2="222.4"/>
 </svg>
