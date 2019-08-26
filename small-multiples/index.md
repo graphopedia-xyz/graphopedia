@@ -53,7 +53,7 @@ synonyms:
 
 ---
 
-is a visualization technique of producing a series of graphs of the same scale arranged and aligned to allow for maximum visual comparison. The order of the graphs is usually chronological or alphabetical. The graphs appear either in a row or in a table.
+is a visualization technique of arranging a series of graphs, maps, or pictographs at the same scale ordered to allow for visual comparison. The order of the graphs is usually chronological or alphabetical. The graphs appear either in a row or in a table.
 
 <!--more-->
 Statistician Edward Tufte introduced small multiples in his 1983 book *The Visual Display of Quantitative Information*. [^tufte] Before Tufte, Jacques Bertin proposed a similar method called *reorderable matrix* in 1967.[^perin]

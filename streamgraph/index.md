@@ -37,15 +37,16 @@ examples:
 
 ---
 
-is a type of [stacked area chart](/area-chart) that displays the data curves relative to its central axis.[^byron] The function of the Streamgraph is the display of multiple individual time-series while showing their sum.
+is a type of [stacked area chart](/area-chart) that displays the data curves relative to its central axis.[^byron] 
 
 <!--more-->
-Similar to the area chart, the height of each area represents values along the Y-axis. The X-axis reflects the time.
+Similar to the area chart, the height of each area represents values along the Y-axis. The X-axis reflects the time. Streamgraphs use the smooth spline curve that connects individual data points along the X-axis. The data points are typically not marked with dots.
 
-Unlike stacked area charts with bottom alignment, Streamgraphs align to their centers. The center alignment is what makes the Streamgraphs aesthetically beautiful. At the same time, it makes it less readable since comparing heights of shapes not aligned in a straight line is less intuitive.
+Unlike stacked area charts with bottom alignment, a Streamgraph aligns to its centers. The alignment is what makes the Streamgraphs aesthetically beautiful. At the same time, Stramgraphs are less readable than an area chart since comparing heights of shapes not aligned in a straight line is less intuitive. [^clevelend]
 
-The layers of the Streamgraph are ordered, and there can be no spaces between them since that would skew the other layers.
+The layers of the Streamgraph are ordered by rank. There can be no gaps between them since this would skew the other layers.
 
 
 ## Sources
-[^byron]: [L. Byron, M. Wattenberg, "Stacked graphs &minus geometry & aesthetics," IEEE Trans. Vis. and Comp. Graphics, vol. 14, no. 6, pp. 1245-1252, 2008.](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf)
+[^byron]: Byron, Lee, and Martin Wattenberg. ["Stacked graphs–geometry & aesthetics."](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) IEEE transactions on visualization and computer graphics 14.6 (2008): 1245-1252.
+[^cleveland]: Cleveland, William S., and Robert McGill. ["Graphical perception: Theory, experimentation, and application to the development of graphical methods."]() Journal of the American statistical association 79.387 (1984): 531-554.
