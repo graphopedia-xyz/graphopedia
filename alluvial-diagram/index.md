@@ -66,6 +66,8 @@ is a type of [network diagram](/network-diagram) that shows changes in network s
 
 The alluvial diagrams first appeared in 2010[^1] defined as showing "changes in the clustering structure from one period to the next are represented by the mergers and divergences that occur in the ribbons linking the blocks." In other words, in alluvial diagrams, lines can both split and merge back into the flow. Importantly, the clusters have to appear in temporal order[^3].
 
+[//]: # (TODO: Check if parallel set is the same as alluvial digram? If yes, add it to the synomims https://datavizcatalogue.com/methods/parallel_sets.html )
+
 
 The blocks in an alluvial diagram represent clusters of nodes. The stream lines between the blocks represent changes in the composition of these clusters over time. Block height represents cluster size, and flow line height shows the size of the component.
 

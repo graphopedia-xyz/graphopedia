@@ -29,7 +29,12 @@ examples:
     link:  https://www.accurat.it/works/la-lettura/
     note:   
     image:  latitude-urbanism.jpg
-    
+
+  - title:  The Analytical Tourism Map of Piedmont
+    image:  the-analytical-tourism-map-of-piedmont.jpg
+    author: Marco Bernardi, Federica Fragapane, Francesco Majno
+    link:   https://www.behance.net/gallery/15058221/The-Analytical-Tourism-Map-of-Piedmont
+        
   - title:  All 786 Known Planets to Scale
     image:  all-known-exoplanets-2012.png
     author: xkcd
@@ -63,5 +68,23 @@ With circular shapes, the area, not the radius, is used.
 
 Pictographs and illustrations are not the best choices of shape for a proportional area chart since the areas of such complex shapes are not possible to compare effectively.
 
-## Source
+
+## Variations
+
+### Split proportional area chart
+<img src="split-proportional-area-chart.svg" class="f-right-half" /> is ..
+
+### Quadruple proportional area chart
+<img src="quadruple-proportional-area-chart.svg" class="f-right-half" /> is ..
+
+### Nested proportional area chart
+<img src="nested-proportional-area-chart.svg" class="f-right-half" /> is ..
+
+### Spiral proportional area chart
+<img src="spiral-proportional-area-chart.svg" class="f-right-half" /> is ..
+
+### Proportional area chart with circle packing
+<img src="circle-packing-proportional-area-chart.svg" class="f-right-half" /> is ..
+
+## Sources
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000, p.680-81.
