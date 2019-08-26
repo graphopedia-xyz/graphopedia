@@ -62,7 +62,7 @@ In theory, joy plots can be made from [histograms](/histogram), another common w
 ##Variations
 
 ### Horizon plot
-Horizon plots show distribution graphs staggered along the Y-axis while showing only a certain band of the graph. The visible part of the graph is chosen, such that it is sufficient to reveal the overall pattern.
+<img src="horizon-chart.svg" class="f-right-half" /> Horizon plots show distribution graphs staggered along the Y-axis while showing only a certain band of the graph. The visible part of the graph is chosen, such that it is sufficient to reveal the overall pattern.
 
 ## Sources
 [^wilke]: Wilke, Claus O. [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures.](https://books.google.com/books?id=WmmNDwAAQBAJ) O'Reilly Media, 2019. p. 89
