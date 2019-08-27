@@ -73,7 +73,7 @@ Another solution is using other figures such as polygons as in Voronoi treemap o
 <img src="circle-packing.svg" alt="circle packing" class="f-right-half" /> Also called *circle packing*, the circle treemap is the same as the rectangle-based treemap functionally except its readability. The human eye can estimate the areas of rectangles much more accurately than of circles. That is why circle treemaps are useful only for showing a general idea of how the parts of a treemap relate.
 
 ###Jigsaw Treemap
-<img src="jigsaw-treemap.svg" alt="jigsaw treemap" class="f-right-half" /> The jigsaw treemap cuts rectangles of a treemap into equally-sized squares and then reassembles them into jigsaw-resembling shapes that are fitted without gaps. This layout allows every leaf node to be roughly square and therefore legible and selectable. [^wattenberg] The tradeoff is the unfamiliar shapes that readers cannot easily evaluate, either for the area or for tree topology.
+<img src="jigsaw-treemap.svg" alt="jigsaw treemap" class="f-right-half" /> The jigsaw treemap cuts rectangles of a treemap into equally-sized squares and then reassembles them into jigsaw-resembling shapes that are fitted without gaps. This layout allows every leaf node to be roughly square and therefore, legible and selectable. [^wattenberg] The tradeoff is the unfamiliar shapes that readers cannot easily evaluate, either for the area or for tree topology.
 <!-- @anna is Gosper type of Jigsaw treemaps or same thing? -->
 
 ### Gosper Maps
@@ -91,10 +91,3 @@ Gosper maps are based on fractal geometry - shapes that are self-similar and whe
 [^wattenberg]: Wattenberg, Martin. ["A note on space-filling visualizations and space-filling curves." IEEE Symposium on Information Visualization, 2005. InfoVis 2005. IEEE ](http://hint.fm/papers/158-wattenberg-final3.pdf) (2005). 
 [^bruls]: Bruls, Mark, Kees Huizing, and Jarke J. Van Wijk. ["Squarified treemaps."](https://www.win.tue.nl/~vanwijk/stm.pdf) Data Visualization, 2000. Springer, Vienna, 2000. 33-42.
 [^auber]: Auber, David, et al. ["Gospermap: Using a gosper curve for laying out hierarchical data."](https://hal.archives-ouvertes.fr/hal-00959383/document) IEEE Transactions on Visualization and Computer Graphics 19.11 (2013): 1820-1832.
-
-
-
-
-
-
-

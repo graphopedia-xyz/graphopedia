@@ -8,22 +8,19 @@
 	.st2{font-family:'RobotoMono-Regular';}
 	.st3{font-size:32.4114px;}
 	.st4{fill:none;stroke:#BABABA;stroke-width:8;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#EBEBEB;stroke-width:10;stroke-miterlimit:10;}
-	.st6{font-size:40px;}
-	.st7{enable-background:new    ;}
+	.st5{fill:#E5E5E5;}
+	.st6{fill:none;stroke:#EBEBEB;stroke-width:10;stroke-miterlimit:10;}
+	.st7{font-size:40px;}
 	.st8{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
-	.st9{fill:#A5A5A5;}
-	.st10{fill:#919191;}
-	.st11{fill:#7F7F7F;}
-	.st12{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
-	.st13{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.8056;}
-	.st14{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9324;}
-	.st15{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.6667;}
-	.st16{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.0288;}
+	.st9{fill:#D8D8D8;}
+	.st10{fill:#C6C6C6;}
+	.st11{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#7C7C7C;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.0288;}
+	.st13{fill:#BABABA;}
 </style>
 <g>
-	<path class="st0" d="M405.1,923.4h163.6c19.2,0,34.7,15.5,34.7,34.7v0c0,19.2-15.5,34.7-34.7,34.7H405.1
-		c-19.2,0-34.7-15.5-34.7-34.7v0C370.4,939,385.9,923.4,405.1,923.4z"/>
+	<path class="st0" d="M405.1,923.4h163.6c19.2,0,34.7,15.5,34.7,34.7l0,0c0,19.2-15.5,34.7-34.7,34.7H405.1
+		c-19.2,0-34.7-15.5-34.7-34.7l0,0C370.4,939,385.9,923.4,405.1,923.4z"/>
 	<path class="st0" d="M245.7,1043.1h90.7c19.2,0,34.7,15.5,34.7,34.7l0,0c0,19.2-15.5,34.7-34.7,34.7h-90.7
 		c-19.2,0-34.7-15.5-34.7-34.7l0,0C211,1058.7,226.6,1043.1,245.7,1043.1z"/>
 	<path class="st0" d="M263.4,1162.8H318c19.2,0,34.7,15.5,34.7,34.7l0,0c0,19.2-15.5,34.7-34.7,34.7h-54.5
@@ -61,73 +58,75 @@
 	<line class="st4" x1="291.1" y1="1163.6" x2="291.1" y2="1112.6"/>
 	<path class="st4" d="M291.1,1043.1L291.1,1043.1c0-14.1,11.4-25.5,25.5-25.5h366.9c14.1,0,25.5,11.4,25.5,25.5l0,0"/>
 	<path class="st4" d="M141.6,1163.6L141.6,1163.6c0-14.1,11.4-25.5,25.5-25.5h123.2"/>
-	<rect x="106" y="19" class="st0" width="856" height="856"/>
-	<path class="st5" d="M452.5,857.5"/>
-	<path class="st5" d="M452.5,118.5"/>
-	<path class="st5" d="M780.5,857.5"/>
-	<path class="st5" d="M780.5,423.5"/>
-	<path class="st5" d="M452.5,621.5"/>
-	<path class="st5" d="M123.5,621.5"/>
-	<path class="st5" d="M944.5,423.5"/>
-	<path class="st5" d="M452.5,423.5"/>
+	<rect x="106" y="19" class="st5" width="856" height="856"/>
+	<path class="st6" d="M452.5,857.5"/>
+	<path class="st6" d="M452.5,118.5"/>
+	<path class="st6" d="M780.5,857.5"/>
+	<path class="st6" d="M780.5,423.5"/>
+	<path class="st6" d="M452.5,621.5"/>
+	<path class="st6" d="M123.5,621.5"/>
+	<path class="st6" d="M944.5,423.5"/>
+	<path class="st6" d="M452.5,423.5"/>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 137.546 81.0969)" class="st1 st2 st6">A</text>
+			<text transform="matrix(1 0 0 1 137.546 81.0969)" class="st1 st2 st7">A</text>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 992.1759 107)" class="st7"><tspan x="0" y="0" class="st1 st2 st6">top of</tspan><tspan x="0" y="48" class="st1 st2 st6">hierarchy</tspan></text>
+		<text transform="matrix(1 0 0 1 992.1759 107)" class="st1 st2 st7">top of</text>
+		<text transform="matrix(1 0 0 1 992.1759 155)" class="st1 st2 st7">hierarchy</text>
 	</g>
 </g>
 <line class="st8" x1="890" y1="118.5" x2="977.2" y2="118.5"/>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 986.1759 890.75)" class="st7"><tspan x="0" y="0" class="st1 st2 st6">bottom of</tspan><tspan x="0" y="48" class="st1 st2 st6">hierarchy</tspan></text>
+		<text transform="matrix(1 0 0 1 986.1759 890.75)" class="st1 st2 st7">bottom of</text>
+		<text transform="matrix(1 0 0 1 986.1759 938.75)" class="st1 st2 st7">hierarchy</text>
 	</g>
 </g>
 <rect x="120.5" y="146" class="st9" width="648" height="711.5"/>
 <rect x="140.5" y="351.3" class="st10" width="342.6" height="486.7"/>
-<rect x="497.4" y="568.1" class="st11" width="257.1" height="269.9"/>
+<rect x="497.4" y="568.1" class="st10" width="257.1" height="269.9"/>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 149.8915 208)" class="st1 st2 st6">B</text>
+		<text transform="matrix(1 0 0 1 149.8915 208)" class="st1 st2 st7">B</text>
 	</g>
 </g>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 169.8916 417.5)" class="st1 st2 st6">D</text>
+		<text transform="matrix(1 0 0 1 169.8916 417.5)" class="st1 st2 st7">D</text>
 	</g>
 </g>
 <g>
 	<g>
-		<line class="st12" x1="490.5" y1="812" x2="490.5" y2="812"/>
-		<line class="st13" x1="490.5" y1="821.8" x2="490.5" y2="895.3"/>
+		<line class="st11" x1="490.5" y1="812" x2="490.5" y2="812"/>
+		<line class="st12" x1="490.5" y1="821.8" x2="490.5" y2="895.3"/>
 		<line class="st12" x1="490.5" y1="900.2" x2="490.5" y2="900.2"/>
-		<line class="st14" x1="500.4" y1="900.2" x2="972.2" y2="900.2"/>
-		<line class="st12" x1="977.2" y1="900.2" x2="977.2" y2="900.2"/>
+		<line class="st12" x1="500.4" y1="900.2" x2="972.2" y2="900.2"/>
+		<line class="st11" x1="977.2" y1="900.2" x2="977.2" y2="900.2"/>
 	</g>
 </g>
-<rect x="780.4" y="307.8" class="st10" width="166.6" height="546.6"/>
+<rect x="780.4" y="307.8" class="st13" width="166.6" height="546.6"/>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 529.998 626.0001)" class="st1 st2 st6">E</text>
-	</g>
-</g>
-<g>
-	<g>
-		<text transform="matrix(1 0 0 1 811.998 367.0001)" class="st1 st2 st6">C</text>
+		<text transform="matrix(1 0 0 1 529.998 626.0001)" class="st1 st2 st7">E</text>
 	</g>
 </g>
 <g>
 	<g>
-		<line class="st12" x1="661" y1="783" x2="661" y2="783"/>
-		<line class="st15" x1="661" y1="792.7" x2="661" y2="807.2"/>
+		<text transform="matrix(1 0 0 1 811.998 367.0001)" class="st1 st2 st7">C</text>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="661" y1="783" x2="661" y2="783"/>
+		<line class="st12" x1="661" y1="792.7" x2="661" y2="807.2"/>
 		<line class="st12" x1="661" y1="812" x2="661" y2="812"/>
-		<line class="st16" x1="651" y1="812" x2="325" y2="812"/>
+		<line class="st12" x1="651" y1="812" x2="325" y2="812"/>
 		<line class="st12" x1="320" y1="812" x2="320" y2="812"/>
-		<line class="st15" x1="320" y1="802.3" x2="320" y2="787.8"/>
+		<line class="st12" x1="320" y1="802.3" x2="320" y2="787.8"/>
 		<line class="st12" x1="320" y1="783" x2="320" y2="783"/>
 	</g>
 </g>
