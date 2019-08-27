@@ -46,6 +46,7 @@ A time series graph consists of two axes, the horizontal and vertical. The X-axi
 
 Depending on the underlying data, a time series can be *continuous* or *discrete*. A time series is continuous when observations are recorded and plotted without interruptions in time. A time series is discrete when observations are taken at specific points in time, even if they are equally spaced. 
 
+
 ## Variations
 Time series variations involve positioning multiple time series in the same graph space. Another possibility is arranging separate time series graphs in a grid or a row for comparison.[^javed]
 
@@ -57,7 +58,6 @@ Time series variations involve positioning multiple time series in the same grap
 
 ### Braided time series 
 <img src="braided-time-series.svg" alt="braided time series" class="f-right-half" /> Consists of at least two intersecting time series with the areas under the data curve filled. The areas are sorted in depth order for each position along the time axis. The purpose of the braided time series is helping the reader see multiple color-coded time series. [^javed2]
-<!-- @anna please check this graph type @mark, checked it and it was invented in this paper (https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf) so we need to update the illustration because it is not quite right-->
 
 ### Radial time series
 <img src="radial-time-series.svg" alt="radial time series" class="f-right-half" />  Use polar coordinates instead of the traditional coordinates plotting the time series around a central point. This orientation is useful for visualizing cyclical events such as seasonal weather patterns.
