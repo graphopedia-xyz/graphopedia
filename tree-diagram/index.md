@@ -41,14 +41,16 @@ examples:
 synonyms:
   - tree chart
   - tree structure
-  - org chart
+  - tree structure diagram
 
 ---
 
-is a schematic representation of events and their connections forming a hierarchy. Each node represents an event. Each parent node precedes its child nodes in the sequence while its sibling nodes represent events of the same level of the hierarchy.
+is a schematic representation of a hierarchy consisting of entities and their connections. Tree diagrams are [network diagrams](/network-diagram) with a hierarchical structure.
 
 <!--more-->
-A tree diagram usually starts with a single entity that represents the top of the hierarchy. The root node connects to its children via a *path*, also called *connector*, *branch*, *connecting line*, *link* or *arm*. The point at which a path subdivides is called a *node* or *junction*. 
+A tree diagram usually starts with a single entity that represents the top of the hierarchy. 
+
+The root node connects to its children via a *path*, also called *connector*, *branch*, *connecting line*, *link* or *arm*. The point at which a path subdivides is called a *node* or *junction*. Nodes that are at the same level of the hierarchy and sharing a parent are called *sibling nodes*. The terminal nodes of the diagram are called *leaf nodes*.
 
 The orientation of a tree diagram can be
 1. *divergent* - starting with one node and branching out into many
@@ -59,23 +61,26 @@ In addition to the orientation, a tree diagram can run horizontally from left to
 
 The connecting lines can take on different forms: straight line, arc, or bezier curve. The nodes can have the form of rectangles, circles, or symbols. Despite its name, the tree in tree diagrams typically runs upside down or sideways.
 
-The tree diagram is often stylized to resemble trees, rivers, roots or other familiar objects, especially where the illustration fits the subject matter. [^lima]
+
+Common uses of the tree diagram include the organizational charts, or "org charts," displaying the hierarchy of management within an organization; a family tree reflecting the genealogical tree, and a taxonomy tree showing the hierarchy of categories and terminology.
 
 ## Variations
 
 ### Radial tree diagram
-Orients the tree radially with the top of the hierarchy shown at the center of the circle and the lower levels of the hierarchy branching out.
+Orients the tree radially with the top of the hierarchy shown at the center of the circle and the lower levels of the hierarchy branching outward. This is a space-saving layout allowing for more data density. The drawback of the radial layout is the low readability for data labels.
 
-### Organization charts 
-Also known as *org charts*, organization charts show the management structure of a company or an institution starting with the top of the hierarchy and branching downward or outward.
+### Metaphorical tree
 
-### Family trees
-Also known as *geneology trees*, family trees show the ancestors or descendants starting from a single person or a pair of people.
+The tree structure in information graphics is used as a metaphor to depict the hierarchies of concepts and ideas. The most common of the metaphorical trees are *the knowledge tree* and *the tree of life*. In this case, the tree diagram is often stylized to resemble trees, rivers, roots, or other natural objects, especially where the illustration fits the subject matter. [^lima]
 
-### Taxonomy trees
-A special case of a tree diagram, a taxonomy tree displays a hierarchy of terms, names, and categories in a given field.
+## Alternatives
+1. [*Flow chart*](/flow-chart) is a tree diagram that depicts the steps of a process or an algorithm.
+
+
+2. [*Sankey chart*](/sankey-chart) represents a change in flow, usually over time, as the width of a flowing line that is proportional to a quantity. Sankey diagrams emphasize the transfers in a system by splitting the flow line. They can also reflect a hierarchy with weighted connections.
+
 
 ## Sources
-[^harris]: for a general definition of tree diagrams, see Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 927
+[^harris]: For a general definition of tree diagrams, see Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 927
 [^lima]: You can find numerous illustrated tree diagrams in this compendium *The Book of Trees: Visualizing Branches of Knowledge.* By Manuel Lima. New York: Princeton Architectural Press, 2014.
 
