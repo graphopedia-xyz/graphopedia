@@ -4,7 +4,7 @@ title: Sankey chart
 tags:
 - network of relationships
 - change over time
-- part-to-whole relationships
+- part-to-whole relationship
 
 related:
   - alluvial-diagram

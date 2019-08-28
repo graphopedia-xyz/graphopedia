@@ -3,7 +3,7 @@ title:  chord diagram
 
 tags:
 - network of relationships
-- part-to-whole relationships
+- part-to-whole relationship
 
 related:
   - sankey-chart
