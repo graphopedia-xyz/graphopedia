@@ -1,112 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1268 418" enable-background="new 0 0 1268 418" xml:space="preserve">
-<g id="Layer_1">
-	<text transform="matrix(1 0 0 1 44.3723 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Jan</text>
-	<path opacity="0.4" fill="#EABB98" d="M108,371.5h27c0-167-105.6-158.9-105.6-325.9H2.6C2.6,212.7,108,204.5,108,371.5z"/>
-	<path opacity="0.4" fill="#EABB98" d="M214,371.5h99c0-167-183.1-158.9-183.1-325.9H29.4C29.4,212.7,214,204.5,214,371.5z"/>
-	<path opacity="0.4" fill="#EABB98" d="M455,371.5h70c0-167-322.9-158.9-322.9-325.9h-72.2C129.9,212.7,455,204.5,455,371.5z"/>
-	<path opacity="0.4" fill="#EABB98" d="M555,371.5h76c0-167-351.6-158.9-351.6-325.9h-77.4C202.1,212.7,555,204.5,555,371.5z"/>
-	<path opacity="0.4" fill="#EABB98" d="M850,371.5h65c0-167-545.1-158.9-545.1-325.9h-64.7C305.2,212.7,850,204.5,850,371.5z"/>
-	<path opacity="0.4" fill="#EABB98" d="M744,371.5h24c0-167-463.1-158.9-463.1-325.9h-25.5C279.4,212.7,744,204.5,744,371.5z"/>
-	<path opacity="0.4" fill="#EABB98" d="M1062,371.5h23c0-167-642.5-158.9-642.5-325.9h-23.1C419.4,212.7,1062,204.5,1062,371.5z"/>
-	<path opacity="0.4" fill="#EABB98" d="M956,371.5h50c0-167-586.6-158.9-586.6-325.9h-49.7C369.7,212.7,956,204.5,956,371.5z"/>
-	<text transform="matrix(1 0 0 1 150.7253 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Feb</text>
-	<text transform="matrix(1 0 0 1 256.2139 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Mar</text>
-	<text transform="matrix(1 0 0 1 360.6472 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Apr</text>
-	<text transform="matrix(1 0 0 1 464.5065 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">May</text>
-	<text transform="matrix(1 0 0 1 577.3508 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Jun</text>
-	<text transform="matrix(1 0 0 1 677.9653 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Jul</text>
-	<text transform="matrix(1 0 0 1 786.6553 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Aug</text>
-	<text transform="matrix(1 0 0 1 892.9536 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Sep</text>
-	<text transform="matrix(1 0 0 1 1000.4189 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Oct</text>
-	<text transform="matrix(1 0 0 1 1106.3281 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Nov</text>
-	<text transform="matrix(1 0 0 1 1208.5352 409.9534)" fill="#D1CDC9" font-family="'RobotoCondensed-Regular'" font-size="18px">Dec</text>
-	<path fill="#C6BFCF" d="M1141.9,23.5L1141.9,23.5c0,0-2.3,4.7-2.4,4.8c-0.1,0.2-0.2,0.6-0.2,0.9c0,1.3,1.1,2.4,2.5,2.4
-		c1.4,0,2.5-1.1,2.5-2.4c0-0.5-0.2-0.9-0.2-0.9L1141.9,23.5z M1124.2,28.2c0,0,0.2,0.4,0.2,0.9c0,1.3-1.1,2.4-2.5,2.4
-		c-1.4,0-2.5-1.1-2.5-2.4c0-0.3,0.1-0.6,0.2-0.9c0-0.1,2.4-4.8,2.4-4.8v0L1124.2,28.2z M1134.2,30.9c0,0,0.2,0.4,0.2,0.9
-		c0,1.3-1.1,2.4-2.5,2.4c-1.4,0-2.5-1.1-2.5-2.4c0-0.3,0.1-0.6,0.2-0.9c0-0.1,2.4-4.8,2.4-4.8v0L1134.2,30.9z M1149,15.9
-		c0,2.9-2.3,5.4-5.2,5.4c-0.2,0-23.1,0-23.1,0c-2.1,0-3.7-1.7-3.7-3.8s1.7-3.7,3.7-3.7c0.2,0,0.5,0,0.7,0.1c0,0,0,0,0-0.1
-		c0-2.9,2.4-5.3,5.3-5.3c0.6,0,1.1,0.1,1.6,0.3c0.5-3.7,3.7-6.6,7.6-6.6c4.2,0,7.7,3.4,7.7,7.7c0,0.2,0,0.5,0,0.7c0.1,0,0.1,0,0.2,0
-		C1146.6,10.6,1149,13,1149,15.9z"/>
-	<rect x="69" y="371.5" fill="#6C5F82" width="32" height="6.1"/>
-	<rect x="2.5" y="39.5" fill="#E3AF8D" width="440" height="6.1"/>
-	<path opacity="0.35" fill="#968BAF" d="M2,371.5h67c0-167,464.3-158.9,464.3-325.9h-66.7C466.7,212.7,2,204.5,2,371.5z"/>
-	<path opacity="0.35" fill="#968BAF" d="M135,371.5h55c0-167,397.6-158.9,397.6-325.9h-54.3C533.3,212.7,135,204.5,135,371.5z"/>
-	<path opacity="0.35" fill="#968BAF" d="M321,371.5h44c0-167,267-158.9,267-325.9h-44.3C587.6,212.7,321,204.5,321,371.5z"/>
-	<path opacity="0.35" fill="#968BAF" d="M426,371.5h29c0-167,205.3-158.9,205.3-325.9H632C632,212.7,426,204.5,426,371.5z"/>
-	<path opacity="0.35" fill="#968BAF" d="M532,371.5h23c0-167,127.7-158.9,127.7-325.9h-22.4C660.3,212.7,532,204.5,532,371.5z"/>
-	<path opacity="0.4" fill="#A697A6" d="M69,371.5h32c0-167,799.5-158.9,799.5-325.9h-31.8C868.7,212.7,69,204.5,69,371.5z"/>
-	<path opacity="0.4" fill="#A697A6" d="M190,371.5h17c0-167,710.9-158.9,710.9-325.9h-17.4C900.5,212.7,190,204.5,190,371.5z"/>
-	<path opacity="0.4" fill="#A697A6" d="M638,371.5h39c0-167,279.8-158.9,279.8-325.9h-38.8C917.9,212.7,638,204.5,638,371.5z"/>
-	<path opacity="0.45" fill="#CA9F9B" d="M677,371.5h60c0-167,375.9-158.9,375.9-325.9h-60.1C1052.8,212.7,677,204.5,677,371.5z"/>
-	<path opacity="0.45" fill="#CA9F9B" d="M1131,371.5h30c0-167,105.1-158.9,105.1-325.9h-29.5C1236.7,212.7,1131,204.5,1131,371.5z"
-		/>
-	<path opacity="0.45" fill="#CA9F9B" d="M1006,371.5h49c0-167,181.7-158.9,181.7-325.9h-48.8C1187.9,212.7,1006,204.5,1006,371.5z"
-		/>
-	<path opacity="0.45" fill="#CA9F9B" d="M768,371.5h75c0-167,344.9-158.9,344.9-325.9h-75C1112.9,212.7,768,204.5,768,371.5z"/>
-	<path opacity="0.45" fill="#CA9F9B" d="M365,371.5h54c0-167,633.8-158.9,633.8-325.9h-53.7C999.1,212.7,365,204.5,365,371.5z"/>
-	<path opacity="0.4" fill="#A697A6" d="M1249,371.5h18c0-167-292.8-158.9-292.8-325.9h-17.4C956.8,212.7,1249,204.5,1249,371.5z"/>
-	<path opacity="0.35" fill="#968BAF" d="M1168,371.5h81c0-167-405.3-158.9-405.3-325.9h-81.1C762.6,212.7,1168,204.5,1168,371.5z"/>
-	<path opacity="0.35" fill="#968BAF" d="M1085,371.5h46c0-167-368.4-158.9-368.4-325.9h-46.1C716.5,212.7,1085,204.5,1085,371.5z"/>
-	<path opacity="0.35" fill="#968BAF" d="M915,371.5h34c0-167-232.5-158.9-232.5-325.9h-33.8C682.7,212.7,915,204.5,915,371.5z"/>
-	<rect x="190" y="371.5" fill="#6C5F82" width="17" height="6.1"/>
-	<rect x="1249" y="371.5" fill="#6C5F82" width="18" height="6.1"/>
-	<rect x="638" y="371.5" fill="#6C5F82" width="39" height="6.1"/>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1268 418" style="enable-background:new 0 0 1268 418;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D1CDC9;}
+	.st1{font-family:'RobotoCondensed-Regular';}
+	.st2{font-size:18px;}
+	.st3{opacity:0.4;fill:#AE99CE;enable-background:new    ;}
+	.st4{fill:#6C5F82;}
+	.st5{opacity:0.4;fill:#8069B7;enable-background:new    ;}
+	.st6{opacity:0.35;fill:#968BAF;enable-background:new    ;}
+	.st7{opacity:0.4;fill:#A697A6;enable-background:new    ;}
+	.st8{opacity:0.45;fill:#9BAAC6;enable-background:new    ;}
+	.st9{opacity:0.45;fill:#3B6FBC;enable-background:new    ;}
+	.st10{fill:#968BAF;}
+	.st11{fill:#756686;}
+</style>
+<g id="Layer_1_1_">
+	<text transform="matrix(1 0 0 1 44.3723 409.9534)" class="st0 st1 st2">Jan</text>
+	<path class="st3" d="M108,371.5h27c0-167-105.6-196.9-105.6-363.9H2.6C2.6,174.7,108,204.5,108,371.5z"/>
+	<path class="st3" d="M214,371.5h99c0-167-183.1-196.9-183.1-363.9H29.4C29.4,174.7,214,204.5,214,371.5z"/>
+	<path class="st3" d="M455,371.5h70c0-167-322.9-196.9-322.9-363.9h-72.2C129.9,174.7,455,204.5,455,371.5z"/>
+	<path class="st3" d="M555,371.5h76c0-167-351.6-196.9-351.6-363.9H202C202.1,174.7,555,204.5,555,371.5z"/>
+	<path class="st3" d="M850,371.5h65c0-167-545.1-196.9-545.1-363.9h-64.7C305.2,174.7,850,204.5,850,371.5z"/>
+	<path class="st3" d="M744,371.5h24c0-167-463.1-196.9-463.1-363.9h-25.5C279.4,174.7,744,204.5,744,371.5z"/>
+	<path class="st3" d="M1062,371.5h23c0-167-642.5-196.9-642.5-363.9h-23.1C419.4,174.7,1062,204.5,1062,371.5z"/>
+	<path class="st3" d="M956,371.5h50c0-167-586.6-196.9-586.6-363.9h-49.7C369.7,174.7,956,204.5,956,371.5z"/>
+	<text transform="matrix(1 0 0 1 150.7253 409.9534)" class="st0 st1 st2">Feb</text>
+	<text transform="matrix(1 0 0 1 256.2139 409.9534)" class="st0 st1 st2">Mar</text>
+	<text transform="matrix(1 0 0 1 360.6472 409.9534)" class="st0 st1 st2">Apr</text>
+	<text transform="matrix(1 0 0 1 464.5065 409.9534)" class="st0 st1 st2">May</text>
+	<text transform="matrix(1 0 0 1 577.3508 409.9534)" class="st0 st1 st2">Jun</text>
+	<text transform="matrix(1 0 0 1 677.9653 409.9534)" class="st0 st1 st2">Jul</text>
+	<text transform="matrix(1 0 0 1 786.6553 409.9534)" class="st0 st1 st2">Aug</text>
+	<text transform="matrix(1 0 0 1 892.9536 409.9534)" class="st0 st1 st2">Sep</text>
+	<text transform="matrix(1 0 0 1 1000.4189 409.9534)" class="st0 st1 st2">Oct</text>
+	<text transform="matrix(1 0 0 1 1106.3281 409.9534)" class="st0 st1 st2">Nov</text>
+	<text transform="matrix(1 0 0 1 1208.5352 409.9534)" class="st0 st1 st2">Dec</text>
+	<rect x="69" y="371.5" class="st4" width="32" height="6.1"/>
+	<rect x="2.5" y="1.5" class="st5" width="440" height="6.1"/>
+	<path class="st6" d="M2,371.5h67c0-167,464.3-196.9,464.3-363.9h-66.7C466.7,174.7,2,204.5,2,371.5z"/>
+	<path class="st6" d="M135,371.5h55c0-167,397.6-196.9,397.6-363.9h-54.3C533.3,174.7,135,204.5,135,371.5z"/>
+	<path class="st6" d="M321,371.5h44c0-167,267-196.9,267-363.9h-44.3C587.6,174.7,321,204.5,321,371.5z"/>
+	<path class="st6" d="M426,371.5h29c0-167,205.3-196.9,205.3-363.9H632C632,174.7,426,204.5,426,371.5z"/>
+	<path class="st6" d="M532,371.5h23c0-167,127.7-196.9,127.7-363.9h-22.4C660.3,174.7,532,204.5,532,371.5z"/>
+	<path class="st7" d="M69,371.5h32c0-167,799.5-196.9,799.5-363.9h-31.8C868.7,174.7,69,204.5,69,371.5z"/>
+	<path class="st7" d="M190,371.5h17c0-167,710.9-196.9,710.9-363.9h-17.4C900.5,174.7,190,204.5,190,371.5z"/>
+	<path class="st7" d="M638,371.5h39c0-167,279.8-196.9,279.8-363.9H918C917.9,174.7,638,204.5,638,371.5z"/>
+	<path class="st8" d="M677,371.5h60c0-167,375.9-196.9,375.9-363.9h-60.1C1052.8,174.7,677,204.5,677,371.5z"/>
+	<path class="st8" d="M1131,371.5h30c0-167,105.1-196.9,105.1-363.9h-29.5C1236.7,174.7,1131,204.5,1131,371.5z"/>
+	<path class="st8" d="M1006,371.5h49c0-167,181.7-196.9,181.7-363.9h-48.8C1187.9,174.7,1006,204.5,1006,371.5z"/>
+	<path class="st8" d="M768,371.5h75c0-167,344.9-196.9,344.9-363.9h-75C1112.9,174.7,768,204.5,768,371.5z"/>
+	<path class="st8" d="M365,371.5h54c0-167,633.8-196.9,633.8-363.9h-53.7C999.1,174.7,365,204.5,365,371.5z"/>
+	<path class="st7" d="M1249,371.5h18c0-167-292.8-196.9-292.8-363.9h-17.4C956.8,174.7,1249,204.5,1249,371.5z"/>
+	<path class="st6" d="M1168,371.5h81c0-167-405.3-196.9-405.3-363.9h-81.1C762.6,174.7,1168,204.5,1168,371.5z"/>
+	<path class="st6" d="M1085,371.5h46c0-167-368.4-196.9-368.4-363.9h-46.1C716.5,174.7,1085,204.5,1085,371.5z"/>
+	<path class="st6" d="M915,371.5h34c0-167-232.5-196.9-232.5-363.9h-33.8C682.7,174.7,915,204.5,915,371.5z"/>
+	<rect x="190" y="371.5" class="st4" width="17" height="6.1"/>
+	<rect x="1249" y="371.5" class="st4" width="18" height="6.1"/>
+	<rect x="638" y="371.5" class="st4" width="39" height="6.1"/>
 	<g>
-		<rect x="1131" y="371.5" fill="#BB837F" width="30" height="6.1"/>
-		<rect x="677" y="371.5" fill="#BB837F" width="60" height="6.1"/>
-		<rect x="365" y="371.5" fill="#BB837F" width="54" height="6.1"/>
-		<rect x="768" y="371.5" fill="#BB837F" width="75" height="6.1"/>
-		<rect x="1006" y="371.5" fill="#BB837F" width="49" height="6.1"/>
+		<rect x="1131" y="371.5" class="st9" width="30" height="6.1"/>
+		<rect x="677" y="371.5" class="st9" width="60" height="6.1"/>
+		<rect x="365" y="371.5" class="st9" width="54" height="6.1"/>
+		<rect x="768" y="371.5" class="st9" width="75" height="6.1"/>
+		<rect x="1006" y="371.5" class="st9" width="49" height="6.1"/>
 	</g>
-	<rect x="466.5" y="39.5" fill="#968BAF" width="377" height="6.1"/>
+	<rect x="466.5" y="1.5" class="st10" width="377" height="6.1"/>
 	<g>
-		<rect x="2" y="371.5" fill="#968BAF" width="67" height="6.1"/>
-		<rect x="135" y="371.5" fill="#968BAF" width="55" height="6.1"/>
-		<rect x="915" y="371.5" fill="#968BAF" width="34" height="6.1"/>
-		<rect x="1168" y="371.5" fill="#968BAF" width="81" height="6.1"/>
-		<rect x="321" y="371.5" fill="#968BAF" width="44" height="6.1"/>
-		<rect x="1085" y="371.5" fill="#968BAF" width="46" height="6.1"/>
-		<rect x="532" y="371.5" fill="#968BAF" width="23" height="6.1"/>
-		<rect x="426" y="371.5" fill="#968BAF" width="29" height="6.1"/>
+		<rect x="2" y="371.5" class="st10" width="67" height="6.1"/>
+		<rect x="135" y="371.5" class="st10" width="55" height="6.1"/>
+		<rect x="915" y="371.5" class="st10" width="34" height="6.1"/>
+		<rect x="1168" y="371.5" class="st10" width="81" height="6.1"/>
+		<rect x="321" y="371.5" class="st10" width="44" height="6.1"/>
+		<rect x="1085" y="371.5" class="st10" width="46" height="6.1"/>
+		<rect x="532" y="371.5" class="st10" width="23" height="6.1"/>
+		<rect x="426" y="371.5" class="st10" width="29" height="6.1"/>
 	</g>
-	<rect x="868.5" y="39.5" fill="#756686" width="106" height="6.1"/>
-	<rect x="999.5" y="39.5" fill="#BB837F" width="267" height="6.1"/>
+	<rect x="868.5" y="1.5" class="st11" width="106" height="6.1"/>
+	<rect x="999.5" y="1.5" class="st9" width="267" height="6.1"/>
 	<g>
-		<rect x="108" y="371.5" fill="#E3AF8D" width="27" height="6.1"/>
-		<rect x="850" y="371.5" fill="#E3AF8D" width="65" height="6.1"/>
-		<rect x="455" y="371.5" fill="#E3AF8D" width="70" height="6.1"/>
-		<rect x="956" y="371.5" fill="#E3AF8D" width="50" height="6.1"/>
-		<rect x="1062" y="371.5" fill="#E3AF8D" width="23" height="6.1"/>
-		<rect x="744" y="371.5" fill="#E3AF8D" width="24" height="6.1"/>
-		<rect x="555" y="371.5" fill="#E3AF8D" width="76" height="6.1"/>
-		<rect x="214" y="371.5" fill="#E3AF8D" width="99" height="6.1"/>
+		<rect x="108" y="371.5" class="st5" width="27" height="6.1"/>
+		<rect x="850" y="371.5" class="st5" width="65" height="6.1"/>
+		<rect x="455" y="371.5" class="st5" width="70" height="6.1"/>
+		<rect x="956" y="371.5" class="st5" width="50" height="6.1"/>
+		<rect x="1062" y="371.5" class="st5" width="23" height="6.1"/>
+		<rect x="744" y="371.5" class="st5" width="24" height="6.1"/>
+		<rect x="555" y="371.5" class="st5" width="76" height="6.1"/>
+		<rect x="214" y="371.5" class="st5" width="99" height="6.1"/>
 	</g>
-	<path fill="#C6BFCF" d="M672,22.6c0,3.1-2.4,5.8-5.5,5.8c-0.2,0-24.6,0-24.6,0c-2.2,0-3.9-1.8-3.9-4s1.8-4,4-4c0.3,0,0.5,0,0.8,0.1
-		c0,0,0,0,0-0.1c0-3.1,2.5-5.6,5.6-5.6c0.6,0,1.2,0.1,1.7,0.3c0.5-4,3.9-7,8.1-7c4.5,0,8.2,3.6,8.2,8.2c0,0.3,0,0.5,0,0.8
-		c0.1,0,0.1,0,0.2,0C669.5,17,672,19.5,672,22.6z"/>
-	<path fill="#C6BFCF" d="M935.4,26.2c-0.2,0.3-0.4,0.4-0.7,0.4c-0.2,0-0.3,0-0.4-0.1l-4.1-2.4v4.2c0,0.5-0.4,0.8-0.8,0.8
-		c-0.5,0-0.8-0.4-0.8-0.8v-5.2l-6.1-3.5v7l4.5,2.6c0.4,0.2,0.5,0.8,0.3,1.2c-0.2,0.3-0.4,0.4-0.7,0.4c-0.2,0-0.3,0-0.4-0.1l-3.6-2.1
-		v4.8c0,0.5-0.4,0.8-0.8,0.8c-0.5,0-0.8-0.4-0.8-0.8v-4.8l-3.6,2.1c-0.1,0.1-0.3,0.1-0.4,0.1c-0.3,0-0.6-0.2-0.7-0.4
-		c-0.2-0.4-0.1-0.9,0.3-1.2l4.5-2.6v-7l-6,3.5v5.2c0,0.5-0.4,0.8-0.8,0.8c-0.5,0-0.8-0.4-0.8-0.8v-4.2l-4.1,2.4
-		c-0.1,0.1-0.3,0.1-0.4,0.1c-0.3,0-0.6-0.2-0.7-0.4c-0.2-0.4-0.1-0.9,0.3-1.2l4.1-2.4l-3.6-2.1c-0.4-0.2-0.5-0.8-0.3-1.2
-		c0.2-0.4,0.8-0.5,1.2-0.3l4.5,2.6l6-3.5l-6-3.5l-4.5,2.6c-0.1,0.1-0.3,0.1-0.4,0.1c-0.3,0-0.6-0.2-0.7-0.4
-		c-0.2-0.4-0.1-0.9,0.3-1.2l3.6-2.1l-4.1-2.4c-0.4-0.2-0.5-0.8-0.3-1.2c0.2-0.4,0.8-0.5,1.2-0.3l4.1,2.4V8c0-0.5,0.4-0.8,0.8-0.8
-		c0.5,0,0.8,0.4,0.8,0.8v5.2l6.1,3.5v-7l-4.5-2.6c-0.4-0.2-0.5-0.8-0.3-1.2c0.2-0.4,0.8-0.5,1.2-0.3l3.6,2.1V3
-		c0-0.5,0.4-0.8,0.8-0.8c0.5,0,0.8,0.4,0.8,0.8v4.8l3.6-2.1c0.4-0.2,0.9-0.1,1.2,0.3s0.1,0.9-0.3,1.2l-4.5,2.6v7l6-3.5V8
-		c0-0.5,0.4-0.8,0.8-0.8c0.5,0,0.8,0.4,0.8,0.8v4.2l4.1-2.4c0.4-0.2,0.9-0.1,1.2,0.3c0.2,0.4,0.1,0.9-0.3,1.2l-4.1,2.4l3.6,2.1
-		c0.4,0.2,0.5,0.8,0.3,1.2c-0.2,0.3-0.4,0.4-0.7,0.4c-0.2,0-0.3,0-0.4-0.1l-4.5-2.6l-6,3.5l6,3.5l4.5-2.6c0.4-0.2,0.9-0.1,1.2,0.3
-		c0.2,0.4,0.1,0.9-0.3,1.2l-3.6,2.1l4.1,2.4C935.5,25.3,935.6,25.8,935.4,26.2z"/>
-	<path id="_x30__2_" fill="#C6BFCF" d="M240.1,19c0,0.9-0.6,1.4-1.4,1.4h-4.4c-0.3,2.2-1,4-2.3,5.6l3.1,3.2c0.5,0.5,0.5,1.4,0,2
-		c-0.2,0.3-0.7,0.4-1,0.4c-0.2,0-0.7-0.1-1-0.4l-3.1-3.1c-1.6,1.2-3.4,2-5.6,2.3v4.3c0,0.9-0.6,1.4-1.4,1.4c-0.9,0-1.4-0.6-1.4-1.4
-		v-4.4c-2.2-0.3-4-1-5.6-2.3l-3.2,3.2c-0.2,0.3-0.8,0.4-1,0.4c-0.2,0-0.7-0.1-1-0.4c-0.5-0.5-0.5-1.4,0-2l3.1-3.1
-		c-1.2-1.6-2-3.4-2.3-5.6h-4.4c-0.9,0-1.4-0.6-1.4-1.4c0-0.9,0.6-1.4,1.4-1.4h4.4c0.3-2.2,1-4,2.3-5.6L211,8.9c-0.5-0.5-0.5-1.4,0-2
-		c0.5-0.5,1.4-0.5,2,0l3.2,3.1c1.6-1.2,3.4-2,5.6-2.3V3.4c0-0.9,0.6-1.4,1.4-1.4c0.9,0,1.4,0.6,1.4,1.4v4.4c2.2,0.3,4,1,5.6,2.3
-		l3.2-3.3c0.5-0.5,1.4-0.5,2,0s0.5,1.4,0,2l-3.2,3.2c1.2,1.6,2,3.4,2.3,5.6h4.4C239.6,17.5,240.1,18.1,240.1,19z"/>
 </g>
-<g id="Layer_2">
+<g id="Layer_2_1_">
 </g>
 <g id="Layer_3">
 </g>

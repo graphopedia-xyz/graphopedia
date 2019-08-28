@@ -55,28 +55,29 @@ examples:
     link:  https://www.flickr.com/photos/densitydesign/31613433722/in/album-72157677740884236/
     image:  the-complexity-of-the-climate-change-flow.jpg
   
-  
+synonyms:
+  - parallel sets
   
 
 ---
 
-is a type of [network diagram](/network-diagram) that shows changes in network structure over time. 
+is a type of graph that shows changes in the amount of flow between entities as the thickness of a line. Alluvial diagrams can be considered a type of [network diagram](/network-diagram) that shows changes in network structure over time. 
 <!--more-->
 
 
-The alluvial diagrams is also a type of [Sankey diagram](/sankey-diagram) with both showing the amount of flow between nodes using the width of the line. The difference is in alluvial diagrams' ability to re-cluster flow lines back into the main flow line.
+In an alluvial diagram, categories are represented as bands from which the flow lines originate. 
 
-The blocks in an alluvial diagram represent clusters of nodes. The stream lines between the blocks represent changes in the composition of these clusters over time. Block height represents cluster size, and flow line height shows the size of the component.
+Each flowline represents a variable, and its thickness at any point - its value. Where flow lines re-cluster, a new band forms. All lines can both split and merge back into the flow. The bands are scaled according to the number of incoming flow lines and their widths. 
+ 
+The X-axis and Y-axis are normally not shown with only the category labels appearing next to the bands. Typically, the direction of the flow lines represents time. Importantly, the clusters have to appear in the temporal order. [^borner]
+The diagram begins and ends with the bands reflecting the current composition of the categories.
+ 
+The alluvial diagram first appeared in 2010[^rosvall] defined as showing "changes in the clustering structure from one period to the next are represented by the mergers and divergences that occur in the ribbons linking the blocks." 
 
-Alluvial diagrams can also be considered a variant of [parallel coordinates plot](/parallel-coordinates) for categorical variables.[^bojanowski]
+Alluvial diagrams can also be considered a variant of [parallel coordinates plot](/parallel-coordinates) for categorical variables. [^kosara]
 
-Note: You may see the terms *Sankey diagram* and *alluvial diagram* used to refer to the same type of chart, for example by D3 creator Mick Bostock[^kirk] and author Andy Kirk[^bostock].
-The alluvial diagram is designed to show connections between categories over time. The purpose of this diagram is the representation of splitting and merging parts of categories into each other. 
-To create an alluvial diagram, at least two categories and time points or stages are necessary.
-
-The alluvial diagram first appeared in 2010[^rosvall] defined as showing "changes in the clustering structure from one period to the next are represented by the mergers and divergences that occur in the ribbons linking the blocks." In other words, in alluvial diagrams, lines can both split and merge back into the flow. Importantly, the clusters have to appear in temporal order[^borner].
-
-[//]: # (TODO: Check if parallel set is the same as alluvial digram? If yes, add it to the synomims https://datavizcatalogue.com/methods/parallel_sets.html )
+The terms *Sankey diagram* and *alluvial diagram* are sometimes used to refer to the same type of chart, for example by D3 creator Mick Bostock [^bostock] and author Andy Kirk. [^kirk]
+Unlike [Sankey diagrams](/sankey-chart), alluvial diagrams can re-cluster the streams.
 
 ## Alternatives
 
@@ -84,10 +85,8 @@ The alluvial diagram first appeared in 2010[^rosvall] defined as showing "change
 2. [*Tree diagram*](/tree-diagram) displays a hierarchical structure consisting of nodes and links.
 
 ## Sources
-
-[^rosvall]: [Rosvall M, Bergstrom CT (2010) Mapping Change in Large Networks](https://arxiv.org/pdf/0812.1242.pdf)
-[^schmidt]: [M. Schmidt, Energy use in a passenger car](https://Www.Ifu.Com/En/e-Sankey/Sankey-Diagram/)
-[^borner]: [Atlas of Knowledge: Anyone Can Map by Katy Börner, page 63](https://books.google.com/books?id=Fe-cBwAAQBAJ&pg=PA63&lpg=PA63&dq=alluvial+diagram+ribbons&source=bl&ots=kELwexv5TN&sig=ACfU3U0C3u3tM4f7B3LTesoUHajwArSEVg&hl=en&sa=X&ved=2ahUKEwjlsv7Sz5DhAhUixIUKHYChAAI4ChDoATADegQICBAB#v=onepage&q=alluvial%20diagram%20ribbons&f=false)
-[^bojanowski]: [Creating Alluvial Diagrams by Michał Bojanowski](https://cran.r-project.org/web/packages/alluvial/vignettes/alluvial.html)
-[^kirk]: [Data Visualisation: A Handbook for Data-Driven Design by Andy Kirk](https://books.google.com/books?id=wNpsDAAAQBAJ&lpg=PA190&dq=alluvial%20diagram&pg=PA190#v=onepage&q=alluvial%20diagram&f=false)
+[^borner]: Börner, Katy. [Atlas of knowledge: Anyone can map.](https://books.google.com/books?id=Fe-cBwAAQBAJ) MIT Press, 2015. p. 63.
+[^rosvall]: Rosvall, Martin, and Carl T. Bergstrom. ["Mapping change in large networks."](https://doi.org/10.1371/journal.pone.0008694) PloS one 5.1 (2010): e8694. [PDF](https://arxiv.org/pdf/0812.1242.pdf)
+[^kosara]: Bendix, Fabian, Robert Kosara, and Helwig Hauser. ["Parallel sets: visual analysis of categorical data."](https://doi.org/10.1145/1124772.1124891) IEEE Symposium on Information Visualization, 2005. InfoVis 2005. IEEE, 2005. [PDF](https://kosara.net/papers/2005/Bendix-InfoVis-2005.pdf)
 [^bostock]: [Mike Bostock's D3 gallery website](https://bost.ocks.org/mike/sankey/)
+[^kirk]: Kirk, Andy. [Data visualisation: a handbook for data driven design.](https://books.google.com/books?id=wNpsDAAAQBAJ) Sage, 2016. 

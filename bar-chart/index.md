@@ -122,19 +122,19 @@ Radial bar chart, also known as *radial column chart* and *polar bar chart*, is 
 ## Alternatives
 With the bar chart being the ubiquitous default, there is often a need to find an alternative. 
 
-1. *Dot chart* uses a dot to represent a data point and otherwise works the same way as a bar chart. Dot plots allow for a more elegant way of displaying large data sets.[^robbins] This dot chart is not to be confused with the [dot plot](/dot-plot), a statistical graphic that shows the distribution of individual observations represented as dots at regular intervals. It is similar to the [histogram](/histogram), but it is more accurate since the data is not binned.
+1. *Dot chart* uses a dot to represent a data point and otherwise works the same way as a bar chart. Dot plots allow for a more elegant way of displaying large data sets.[^robbins] The dot chart is not to be confused with the [dot plot](/dot-plot), a statistical graphic that shows the distribution of individual observations represented as dots at regular intervals. It is similar to the [histogram](/histogram), but it is more accurate since the data is not binned.
 2. [*Isotype diagram*](/isotype-diagram) uses icons to represent a data point as the total length of the row of icons. Isotype chart can help a reader see the semantic meaning of each category in the chart. [^haroz]
 3. [*Waterfall chart*](/waterfall-chart) is an alternative to a stacked bar chart. It tracks the change from an initial value through a series of intermediate values to the end value. The first column is the initial value. The last column is a cumulative total.
 4. [*Bullet chart*](/bullet-chart) functionally the same as a bar chart, the bullet chart adds a symbol for the target value and a progress bar.
-5. *Slope graph* is an alternative to a stacked bar chart. A slope graph shows the relationship between two sets of categories.
+5. [*Slopegraph*](/slopegraph) is an alternative to a stacked bar chart. A slope graph shows the relationship between two sets of categories.
 
 It is worth noting that the pie chart and the bubble, both of which are other popular charts, are not functional alternatives to a bar chart.
 
 ## References
-[^harris]: [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)
+[^harris]: Harris, Robert L. [Information graphics: A comprehensive illustrated reference.](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 59
 [^berinato]: ["The Power of Visualization's "Aha!" Moments" by Scott Berinato, Harvard Business Review, retrieved Apr 3, 2019](https://hbr.org/2013/03/power-of-visualizations-aha-moment)
 [^yau]: [FlowingData.com by Nathan Yau, retrieved Apr 3, 2019](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/)
-[^thudt]: [Assessing the Readability of Stacked Graphs by Alice Thudt, et al. ](https://hal.inria.fr/hal-01587962/document)
-[^robbins]: [Dot Plots: A Useful Alternative to Bar Charts by Naomi B. Robbins, p.3](http://perceptualedge.com/articles/b-eye/dot_plots.pdf)
-[^knaflic]: [Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic, pp.55-56](https://books.google.com/books?id=IheRCgAAQBAJ&printsec=frontcover&dq=alternative+to+%22bar+graph%22&hl=en&sa=X&ved=0ahUKEwib7qDuyrbhAhUlGKYKHWDxAqAQ6AEILzAB#v=onepage&q=bar%20chart&f=false)
-[^haroz]: [ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs, p.1](http://steveharoz.com/research/isotype/ISOTYPE_Visualization_CHI2015_Haroz_Kosara_Franconeri.pdf)
+[^thudt]: Thudt, Alice, et al. ["Assessing the Readability of Stacked Graphs."](https://dx.doi.org/10.20380/GI2016.21) 2016. [PDF](https://hal.inria.fr/hal-01587962/document)
+[^robbins]: Robbins, Naomi B. ["Dot Plots: A Useful Alternative to Bar Charts."]((http://perceptualedge.com/articles/b-eye/dot_plots.pdf)) Business Intelligence Network Newsletter (2006). p.3
+[^knaflic]: Knaflic, Cole Nussbaumer. [Storytelling with data: A data visualization guide for business professionals.](https://books.google.com/books?id=IheRCgAAQBAJ) John Wiley & Sons, 2015. pp.55-56 
+[^haroz]: Haroz, Steve, Robert Kosara, and Steven L. Franconeri. ["Isotype visualization: Working memory, performance, and engagement with pictographs."](https://doi.org/10.1145/2702123.2702275) Proceedings of the 33rd annual ACM conference on human factors in computing systems. ACM, 2015. [PDF](http://steveharoz.com/research/isotype/ISOTYPE_Visualization_CHI2015_Haroz_Kosara_Franconeri.pdf)

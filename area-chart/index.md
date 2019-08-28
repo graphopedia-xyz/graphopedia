@@ -69,7 +69,7 @@ examples:
 
 ---
 
-displays data as the area between the data curve and the horizontal axis. [^1] Area charts emphasize the change of a single variable by connecting individual data points. 
+displays data as the area between the data curve and the horizontal axis. [^wilkinson] Area charts emphasize the change of a single variable by connecting individual data points. 
 
 
 <!--more-->
@@ -79,7 +79,9 @@ Even though an area chart consists of individual data points, its purpose is not
 
 The X-axis has a numeric or a categorical scale. The Y-axis is usually categorical. Dot markers typically indicate individual data points when few of them appear in the chart.
 
-The primary use cases of area charts are indicating trends, comparing trends, their changes, and relationships between values. Color and texture can emphasize these relationships. [^2]
+The primary use cases of area charts are indicating trends, comparing trends, their changes, and relationships between values. Color and texture can emphasize these relationships. [^harris]
+
+Like [bar charts](/bar-chart), area charts emphasize change and trends. But an area chart can display more data points in the same space. 
 
 Area charts can have three types of data curves depending on their data aggregation method: segmented, stepped, and smoothed.
 
@@ -88,7 +90,7 @@ William Playfair introduced area charts in 1786 in his book *The Commercial and 
 ## Variations
 
 ### Stacked area chart
-<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and fills the area between them. The curve with less variation is typically drawn at the bottom, closer to the X-axis.[^5] Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^6]
+<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and fills the area between them. The curve with less variation is typically drawn at the bottom, closer to the X-axis. Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^thud] The fill in a stacked area chart is necessary for readability. [^koponenen]
 
 ### Range area chart
 <img src="range-area-chart.svg" alt="range area chart" class="f-right-half" />  A range area chart is a variation of the area chart that shows two data curves to define a range in between. The area below the lower data curve typically has no fill to emphasize the range inside the space created by the two curves.
@@ -103,16 +105,17 @@ William Playfair introduced area charts in 1786 in his book *The Commercial and 
 A radial area chart is an area chart plotted in polar coordinates. Even though it is visually similar to the [radar chart](/radar-chart), its function is different. The radar chart's radial axes each represent a different variable, while a radial area chart plots the same variable on the X-axis curving around a central point.  Radial charts are useful for showing cyclical data, for example, seasonal weather patterns. <img src="circular-area-chart.svg" alt="circular area chart" class="f-full" /> 
 
 
-## Alternative Charts
+## Alternatives
 
-[Line chart](/line-chart) - functionally similar to area charts, line charts can be stacked and grouped more easily than area charts.
+1. [*Bar chart*](/line-chart) displays the relationship of a category to a numeric variable as the height a rectangle bar.
 
-[Streamgraph](/stream-graph) - a streamgraph is a type of stacked area chart aligned relative to central axis. Streamgraphs have a smoothed curve. They are normally oriented horizontally.
+2. [*Line chart*](/line-chart), functionally the same as an area chart, a line chart is more suitable for cases where multiple line charts are displayed in the same graph space.
 
+3. [*Streamgraph*](/stream-graph) is a type of stacked area chart aligned relative to central axis. Streamgraphs have a smoothed curve. They are normally oriented horizontally.
 
 ## Sources
 
-[^1]: ["The Grammar of Graphics" by Leland Wilkinson, p. 87](https://books.google.com/books?id=ZiwLCAAAQBAJ&printsec=frontcover&dq=%22area+diagram%22+visualization&hl=en&sa=X&ved=0ahUKEwj6gIWivrPhAhWiyosBHfXzDPYQ6AEIKDAA#v=snippet&q=area%20chart&f=false)
-[^2]: ["Information Graphics: A Comprehensive Illustrated Reference" by Robert L. Harris, p. 10](https://books.google.fr/books?id=qusmDAAAQBAJ&printsec=frontcover&dq=%22area+graph%22+visualization&hl=en&sa=X&ved=0ahUKEwjz_cjqv7PhAhW9yIsBHc6dDQMQ6AEIWzAJ#v=onepage&q=%22area%20graph%22%20visualization&f=false)
-[^5]: ["Data Visualization Handbook" by Juuso Koponen and Jonatan Hilden, p. 210](https://shop.aalto.fi/p/971-data-visualization-handbook/)
-[^6]: [Assessing the Readability of Stacked Graphs](https://hal.inria.fr/hal-01587962/document)
+[^wilkinson]:  Wilkinson, Leland. ["The grammar of graphics."](https://books.google.com/books?id=ZiwLCAAAQBAJ) Handbook of Computational Statistics. Springer, Berlin, Heidelberg, 2012. 375-414.
+[^harris]: Harris, Robert L. [Information graphics: A comprehensive illustrated reference.](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 10
+[^thud]: Thudt, Alice, et al. ["Assessing the Readability of Stacked Graphs."](https://dx.doi.org/10.20380/GI2016.21) 2016. [PDF](https://hal.inria.fr/hal-01587962/document)
+[^koponen]: Koponen, Juuso, and Jonatan Hildén. [Data visualization handbook.](https://shop.aalto.fi/p/971-data-visualization-handbook/) Aalto korkeakoulusäätiö, 2019 p. 210 
