@@ -11,10 +11,10 @@ tools:
 
 examples:
 
-  - title: Chart of Neural Networks
+  - title:  Chart of Neural Networks
     author: Fjodor Van Veen
-    link: http://www.asimovinstitute.org
-    image: types-of-neural-networks.png
+    link:   http://www.asimovinstitute.org/neural-network-zoo/
+    image:  types-of-neural-networks.png
 
   - title: The Strengths of Nations
     author: Kevin Boyack, Dick Klavans, W. Bradford Paley
@@ -51,6 +51,7 @@ Both nodes and links can have a weight that represents a value. Weighted nodes a
 
 Any network diagram can be represented as a matrix. The relative effectiveness of network diagrams versus matrices is a matter of a long-standing debate. In short, network diagrams are more useful for showing connections and clusters. The matrix is better for group analysis and finding specific values. [^okoe]
 
+[//]: # (TODO: Maybe add bubble network diagram, where nodes are weighted?)
 
 ## Sources
 [^saket]: The effectiveness of node-link diagrams with nodes in groups were found more effective in *Saket, Bahador & Simonetto, Paolo & Kobourov, Stephen & Borner, Katy. (2014). [Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation.](https://arxiv.org/pdf/1404.1911.pdf) IEEE Transactions on Visualization and Computer Graphics. 20. 10.1109/TVCG.2014.2346422.*
