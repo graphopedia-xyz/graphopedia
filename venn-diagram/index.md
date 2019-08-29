@@ -49,7 +49,7 @@ examples:
     image:  the-anatomy-of-determination.png
     author: Anna Vital 
     link:   https://blog.adioma.com/anatomy-of-determination-in-startups-infographic/
-    note:   This 3 way venn diagram with icons explain the qualities of determination in startups based on eponymous essay by Paul Graham.
+    note:   This 3-way Venn diagram with icons explains the qualities of determination in startups based on the eponymous essay by Paul Graham.
     
   - title:  Ikigai
     author:  David McCandless
@@ -60,23 +60,23 @@ examples:
     image:  real-number-set-diagram.jpg
     author: Keith Enevoldsen
     link:   https://thinkzone.wlonk.com/Numbers/NumberSets.htm
-    note:   This 5 set euler diagram is showing real number sets using ellipse shapes
+    note:   This 5 set Euler diagram is showing real number sets using ellipse shapes
 
   - title:  Complex Number Set Diagram 
     image:  complex-number-set-diagram.jpg
     author: Keith Enevoldsen
     link:   https://thinkzone.wlonk.com/Numbers/NumberSets.htm
-    note:   This 6 set euler diagram is showing complex number sets using rounded rectangles shapes instead of ellipses/circles
+    note:   This 6 set Euler diagram is showing complex number sets using rounded rectangles shapes instead of ellipses/circles
 
   - title:  Supranational European Bodies
     image:  supranational-european-bodies.png
     link:   https://en.wikipedia.org/wiki/File:Supranational_European_Bodies-en.svg
-    note:   This euler diagram shows how supranational system works visualizing relationship between EU institutions and bodies in brief.
+    note:   This Euler diagram shows how supranational system works visualizing the relationship between EU institutions and bodies in brief.
 
   - title:  Solar System Bodies
     image:  solar-system-bodies.png
     link:   https://commons.wikimedia.org/wiki/File:Euler_diagram_of_solar_system_bodies.svg
-    note:   This euler diagram shows the relationship between different solar system bodies (planets, satellites, comets, etc).
+    note:   This Euler diagram shows the relationship between different solar system bodies (planets, satellites, comets, etc.).
 
 
 synonyms: 
@@ -124,7 +124,7 @@ The Venn diagram appeared in 1880, created by John Venn. He did not call it "Ven
 <img src="euler-diagram.svg" alt="hexbin map" class="f-right-half" /> 
 
 
-[//]: # ( TODO: Add a sections with basic operations on sets: Unions, Intersections, relative complement, Absolute complement, symmetric difference. Add illustration for each iteraction, from wikipedia )
+[//]: # ( TODO: Add sections with basic operations on sets: Unions, Intersections, relative complement, Absolute complement, symmetric difference. Add illustration for each interaction, from Wikipedia )
 
 
 ## Sources

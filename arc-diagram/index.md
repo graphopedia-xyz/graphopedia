@@ -23,11 +23,6 @@ examples:
     note:   This 3D arc diagram uses weighted arcs to represent the number of goods moving between the U.S. and other countries
     image:  major-exporters-of-goods-to-united-states.png
     
-  - title:  Codebases- Millions of Lines of Code
-    author: David McCandless 
-    link:   https://informationisbeautiful.net/visualizations/million-lines-of-code/
-    note:   Uses an arc diagram to show connections between two versions of the software
-    image:  lines-of-code.png
 
   - title:  Bible Cross-References
     author: Chris Harrison
@@ -52,49 +47,58 @@ examples:
     link:   http://www.matthiasdittrich.com/projekte/dliste/visualisations/index.html
     note:   An arc diagram showing the pairs on days on which an email was received and answered.
     image:  email-reply-procrastination.png
+
+  - title:  Codebases- Millions of Lines of Code
+    author: David McCandless 
+    link:   https://informationisbeautiful.net/visualizations/million-lines-of-code/
+    note:   This is a combination of the arc diagram with a bar chart. The arcs here connect versions of software that share parts of their code.
+    image:  lines-of-code.png
  
  
 
 
 ---
 
-is a type of network diagram, also called "node and link" diagram.[^1] It shows connections between any two nodes out of multiple nodes positioned on a single axis.[^2] Any network diagram, which is a two-dimensional chart, can be represented as an arc diagram, which is a one-dimensional chart.
+is a type of one-dimensional diagram showing connections between any two nodes out of multiple nodes positioned on a single axis.[^wattenberg] 
 
 <!--more-->
 
-An arc diagram consists of nodes, arcs, and an axis. The number of arc connections that come out of a single node appears as a bubble sized proportionally to the total number of links coming in and going out.[^3] In practice, an arc diagram usually does not show all possible connected pairs because of the resulting clutter, but rather it shows a subset of connections.
+An arc diagram consists of nodes, arcs, and an axis. Node spacing along the X-axis is either equidistant or at distances based on the data, for example, representing the time elapsed.[^nagel]
+                                                     The order in which nodes appear on the axis is called *node seriation*.[^heer] Node seriation can be already present in sorted data ordered by time or distance. 
 
-In 1964, mathematician Thomas Saaty proposed the first version of the arc diagram to show intersecting numbers.[^4] In 2001, the arc diagram was popularized by Martin Wattenberg who diagrammed songs in his project *The Shape of Song*.[^5]
+The purpose of an arc diagram is in revealing the connections between a set of values and the clusters that they might form.
 
-The primary purpose of an arc diagram is in revealing the connections between a set of values and the clusters that they might form.
+In practice, arc diagrams do not show all possible connected pairs because of the resulting clutter, but rather it shows a subset of connections.
 
-Node spacing along the X-axis is either equidistant or at distances based on the data, for example, representing the time elapsed or the geographic distances.[^6]
-The order in which nodes appear on the axis is called *node seriation*.[^7] Node seriation can be already present in sorted data ordered by time or distance. 
 
-Arcs can have a direction and a weight with directional arcs being either uni- or bi-directional. Arc weight shows the strength of connections between nodes. Weighted arcs tend to reveal clusters of connections between nearby nodes.
 
-Any arc diagram can be represented as a [network diagram](/network-diagram)
+Arcs can have a direction and a weight with directional arcs being either uni- or bi-directional. Arc weight shows the strength of a connection between two nodes. Weighted arcs tend to reveal clusters of connections between nearby nodes. The arcs typically face upward, but they can also appear on both sides of the axis.  The number of arc connections that come out of a single node appears as a bubble sized proportionally to the total number of links coming in and going out.[^sanchez]
+
+
+An arc diagram is a type of [network diagram](/network-diagram).[^wattenberg2] Any network diagram, which is a two-dimensional chart, can be represented as an arc diagram, which is a one-dimensional chart.
+
+
 ![Network diagram and arc diagram of the same data set](network-diagram-arc-diagram-comparison.png)
-Generally, arc diagrams are less useful for revealing clusters than network diagrams. Still, it is possible to order the nodes in a way that reveals clusters.
+
+
+Arc diagrams are less useful for revealing clusters than network diagrams. Still, it is possible to order the nodes in a way that reveals clusters.
 
 Arc connections typically use semi-circles or bezier curves, the latter being more space-saving. Color and transparency can encode an additional layer of data.
 
 Arc diagrams can combine with other charts, for example, a [bar chart](/bar-chart) or a [bubble chart ](/bubble-chart) in which each bar or circle is proportional to the number of connections in a node.
 
-Arc diagrams typically have a horizontal orientation with the arcs facing upward,[^8] but they can also appear on both sides of the axis.
+In 1964, mathematician Thomas Saaty proposed the first version of the arc diagram to show intersecting numbers.[^saaty] In 2001, the arc diagram was popularized by Martin Wattenberg who diagrammed songs in his project *The Shape of Song*.[^wattenberg3]
 
 ## Alternatives
-[Hive plot](/hive-plot) - hive plots are essentially arc diagrams with multiple axes. When there is a need to display connections between different categories of nodes, the hive plot can be an alternative to constructing multiple arc diagrams.
+1. [*Hive plot*](/hive-plot) are essentially arc diagrams with multiple axes. When there is a need to display connections between different categories of nodes, the hive plot can be an alternative to constructing multiple arc diagrams.
 
-[Network diagram](/network-diagram) - functionally the same as an arc diagram, network diagrams use two-dimensional space, which makes them easier to read as long as they are uncluttered.
+2. [*Network diagram*](/network-diagram) is functionally the same as an arc diagram, network diagrams use two-dimensional space, which makes them easier to read as long as they are uncluttered.
 
 ## References
-[^1]: ["Visual Exploration of Multivariate Graphs" by Martin Wattenberg, IBM Research](http://hint.fm/papers/pivotgraph.pdf)
-[^2]: ["Arc Diagrams: Visualizing Structure in Strings", IBM Research](http://ieg.ifs.tuwien.ac.at/~aigner/teaching/ws06/infovis_ue/papers/arcdiagram_01173155.pdf)
-[^3]: ["Arc Diagrams in R: Les Miserables" by Gaston Sanchez](http://www.gastonsanchez.com/visually-enforced/got-plot/how-to/2013/02/02/Arc-Diagrams-in-R-Les-Miserables/)
-[^4]: [The Minimum Number of Intersections in Complete Graphs](https://www.pnas.org/content/52/3/688)
-[^5]: ["The Shape of Song" by Martin Wattenburg"](http://turbulence.org/Works/song/gallery/gallery.html)
-[^6]: [A Visual Survey of Arc Diagrams by Till Nagel and Erik Duval](https://uclab.fh-potsdam.de/wp/wp-content/uploads/2013-a-visual-survey-of-arc-diagrams.pdf)
-[^7]: [A Tour through the Visualization Zoo by Jeffrey Heer, Michael Bostock, and Vadim Ogievetsky](https://queue.acm.org/detail.cfm?searchterm=Mind+Maps&id=1805128) Section on Arc Diagrams. Retrieved Aug-1-2019
-[^8]: [Graphs on Surfaces and Their Applications by Sergei K. Lando, Alexander K. Zvonkin, page 339](https://books.google.fr/books?id=nFnyCAAAQBAJ&pg=PA339&dq=arc+diagram&hl=en&sa=X&ved=0ahUKEwj3wNS_jZHhAhWi2uAKHQEgCi0Q6AEILTAB#v=onepage&q=arc%20diagram&f=false)
-
+[^wattenberg]: Wattenberg, Martin. ["Visual exploration of multivariate graphs."](http://hint.fm/papers/pivotgraph.pdf) Proceedings of the SIGCHI conference on Human Factors in computing systems. ACM, 2006.
+[^nagel]: Nagel, Till, and Erik Duval. ["A visual survey of arc diagrams."](https://uclab.fh-potsdam.de/wp/wp-content/uploads/2013-a-visual-survey-of-arc-diagrams.pdf) IEEE Visualization. 2013.
+[^heer]: Heer, Jeffrey, Michael Bostock, and Vadim Ogievetsky. ["A tour through the visualization zoo."](https://queue.acm.org/detail.cfm?searchterm=Mind+Maps&id=1805128) Commun. Acm 53.6 (2010): 59-67.
+[^sanchez]: ["Arc Diagrams in R: Les Miserables" by Gaston Sanchez](http://www.gastonsanchez.com/visually-enforced/got-plot/how-to/2013/02/02/Arc-Diagrams-in-R-Les-Miserables/)
+[^wattenberg2]: Wattenberg, Martin. ["Arc diagrams: Visualizing structure in strings."](http://ieg.ifs.tuwien.ac.at/~aigner/teaching/ws06/infovis_ue/papers/arcdiagram_01173155.pdf) IEEE Symposium on Information Visualization, 2002. INFOVIS 2002.. IEEE, 2002.]
+[^saaty]: Saaty, Thomas L. ["The minimum number of intersections in complete graphs."](https://www.pnas.org/content/52/3/688) Proceedings of the National Academy of Sciences of the United States of America 52.3 (1964): 688.
+[^wattenberg3]: ["The Shape of Song" by Martin Wattenburg"](http://turbulence.org/Works/song/gallery/gallery.html)

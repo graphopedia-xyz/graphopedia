@@ -39,7 +39,7 @@ is a type of information visualization that uses font size and color to represen
 <!--more-->
 Word clouds can be arranged by alphabet, by frequency, or by chronology. The orientation of the words can be horizontal, vertical, or mixed, with vertically-written words being less legible.
 
-Word clouds serve as atype of interface for websites as well as a form of data visualization. The effectiveness of different types of word cloud structure has been studied in the context of interfaces. A study showed that people can find the correct word in a cloud fastest when word order alphabetical.[^halvey]
+Word clouds serve as a type of interface for websites as well as a form of data visualization. The effectiveness of different types of word cloud structure has been studied in the context of interfaces. A study showed that people could find the correct word in a cloud fastest when word order alphabetical.[^halvey]
 
 
 The word cloud has been criticized as a method of data visualization for giving a skewed view of data because it substitutes the data for words used to describe it.[^harris]
