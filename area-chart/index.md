@@ -90,7 +90,7 @@ William Playfair introduced area charts in 1786 in his book *The Commercial and 
 ## Variations
 
 ### Stacked area chart
-<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and fills the area between them. The curve with less variation is typically drawn at the bottom, closer to the X-axis. Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^thud] The fill in a stacked area chart is necessary for readability. [^koponenen]
+<img src="stacked-area-chart.svg" alt="stacked area chart" class="f-right-half" />  Stacked area chart shows multiple data curves and fills the area between them. The curve with less variation is typically drawn at the bottom, closer to the X-axis. Stacked area charts are known to be difficult to perceive because the human eye does not judge area shown relative to a curved line as well as relative to a straight line.[^thud] The fill in a stacked area chart is necessary for readability. [^koponen]
 
 ### Range area chart
 <img src="range-area-chart.svg" alt="range area chart" class="f-right-half" />  A range area chart is a variation of the area chart that shows two data curves to define a range in between. The area below the lower data curve typically has no fill to emphasize the range inside the space created by the two curves.

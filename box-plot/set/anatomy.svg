@@ -5,123 +5,106 @@
 <style type="text/css">
 	.st0{fill:#A5A5B9;}
 	.st1{font-family:'RobotoMono-Regular';}
-	.st2{font-size:16.798px;}
+	.st2{font-size:18.8793px;}
 	.st3{fill:none;stroke:#A8A8A8;stroke-miterlimit:10;}
 	.st4{fill:none;stroke:#9E9E9E;stroke-width:3;stroke-miterlimit:10;}
-	.st5{fill:#FFFFFF;stroke:#9E9E9E;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:#EFEFEF;stroke:#9E9E9E;stroke-width:3;stroke-miterlimit:10;}
 	.st6{fill:#9E9E9E;}
 	.st7{fill:#514361;}
-	.st8{font-size:31.4628px;}
-	.st9{font-family:'Roboto-Italic';}
-	.st10{enable-background:new    ;}
+	.st8{font-size:25px;}
 	
-		.st11{opacity:0.8;fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3156;enable-background:new    ;}
-	.st12{opacity:0.65;fill:#9E9E9E;}
-	.st13{opacity:0.66;fill:#9E9E9E;}
+		.st9{opacity:0.8;fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3156;enable-background:new    ;}
+	.st10{opacity:0.8;enable-background:new    ;}
+	.st11{fill:none;stroke:#A8A8A8;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#A8A8A8;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.2735;}
 	
-		.st14{opacity:0.8;fill:none;stroke:#A8A8A8;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3156;enable-background:new    ;}
-	.st15{fill:none;}
+		.st13{opacity:0.8;fill:none;stroke:#A8A8A8;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3156;enable-background:new    ;}
+	.st14{fill:none;stroke:#A8A8A8;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.0345;}
+	.st15{fill:none;stroke:#A8A8A8;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.2748;}
 </style>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 74.0938 721.3789)" class="st0 st1 st2">0</text>
-		<text transform="matrix(1 0 0 1 211.1157 721.3789)" class="st0 st1 st2">A</text>
-		<text transform="matrix(1 0 0 1 337.4722 721.3789)" class="st0 st1 st2">B</text>
-		<text transform="matrix(1 0 0 1 463.8271 721.3789)" class="st0 st1 st2">C</text>
-		<text transform="matrix(1 0 0 1 590.1826 721.3789)" class="st0 st1 st2">D</text>
-		<text transform="matrix(1 0 0 1 715.2432 721.3789)" class="st0 st1 st2">E</text>
+		<text transform="matrix(1 0 0 1 38.938 776.3154)" class="st0 st1 st2">0</text>
+		<text transform="matrix(1 0 0 1 192.937 776.3154)" class="st0 st1 st2">A</text>
+		<text transform="matrix(1 0 0 1 334.9497 776.3154)" class="st0 st1 st2">B</text>
+		<text transform="matrix(1 0 0 1 476.96 776.3154)" class="st0 st1 st2">C</text>
+		<text transform="matrix(1 0 0 1 618.9717 776.3154)" class="st0 st1 st2">D</text>
+		<text transform="matrix(1 0 0 1 759.5273 776.3154)" class="st0 st1 st2">E</text>
 	</g>
-	<line class="st3" x1="90.5" y1="697.7" x2="722.3" y2="697.7"/>
+	<line class="st3" x1="57.4" y1="749.7" x2="767.5" y2="749.7"/>
 	<g>
 		<g>
-			<line class="st3" x1="90.5" y1="697.7" x2="90.5" y2="682"/>
-			<line class="st3" x1="216.9" y1="697.7" x2="216.9" y2="682"/>
-			<line class="st3" x1="343.2" y1="697.7" x2="343.2" y2="682"/>
-			<line class="st3" x1="469.6" y1="697.7" x2="469.6" y2="682"/>
-			<line class="st3" x1="596" y1="697.7" x2="596" y2="682"/>
-			<line class="st3" x1="722.3" y1="697.7" x2="722.3" y2="682"/>
+			<line class="st3" x1="57.4" y1="749.7" x2="57.4" y2="732.1"/>
+			<line class="st3" x1="199.4" y1="749.7" x2="199.4" y2="732.1"/>
+			<line class="st3" x1="341.4" y1="749.7" x2="341.4" y2="732.1"/>
+			<line class="st3" x1="483.4" y1="749.7" x2="483.4" y2="732.1"/>
+			<line class="st3" x1="625.5" y1="749.7" x2="625.5" y2="732.1"/>
+			<path class="st3" d="M767.5,749.7"/>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 60.7461 576.1445)" class="st0 st1 st2">20</text>
-		<text transform="matrix(1 0 0 1 60.7461 449.7891)" class="st0 st1 st2">40</text>
-		<text transform="matrix(1 0 0 1 60.7461 323.4336)" class="st0 st1 st2">60</text>
-		<text transform="matrix(1 0 0 1 60.7461 197.0771)" class="st0 st1 st2">80</text>
-		<text transform="matrix(1 0 0 1 48.7041 70.7197)" class="st0 st1 st2">100</text>
+		<text transform="matrix(1 0 0 1 23.9365 613.0859)" class="st0 st1 st2">20</text>
+		<text transform="matrix(1 0 0 1 23.9365 471.0742)" class="st0 st1 st2">40</text>
+		<text transform="matrix(1 0 0 1 23.9365 329.0635)" class="st0 st1 st2">60</text>
+		<text transform="matrix(1 0 0 1 23.9365 187.0513)" class="st0 st1 st2">80</text>
+		<text transform="matrix(1 0 0 1 10.4023 45.0376)" class="st0 st1 st2">100</text>
 	</g>
-	<line class="st3" x1="90.5" y1="697.7" x2="90.5" y2="65.9"/>
+	<line class="st3" x1="57.4" y1="749.7" x2="57.4" y2="39.6"/>
 	<g>
 		<g>
-			<line class="st3" x1="90.5" y1="697.7" x2="106.3" y2="697.7"/>
-			<line class="st3" x1="90.5" y1="571.3" x2="106.3" y2="571.3"/>
-			<line class="st3" x1="90.5" y1="445" x2="106.3" y2="445"/>
-			<line class="st3" x1="90.5" y1="318.6" x2="106.3" y2="318.6"/>
-			<line class="st3" x1="90.5" y1="192.3" x2="106.3" y2="192.3"/>
-			<line class="st3" x1="90.5" y1="65.9" x2="106.3" y2="65.9"/>
+			<line class="st3" x1="57.4" y1="749.7" x2="75.1" y2="749.7"/>
+			<line class="st3" x1="57.4" y1="607.6" x2="75.1" y2="607.6"/>
+			<line class="st3" x1="57.4" y1="465.7" x2="75.1" y2="465.7"/>
+			<line class="st3" x1="57.4" y1="323.6" x2="75.1" y2="323.6"/>
+			<line class="st3" x1="57.4" y1="181.7" x2="75.1" y2="181.7"/>
+			<line class="st3" x1="57.4" y1="39.6" x2="75.1" y2="39.6"/>
 		</g>
 	</g>
 </g>
-<line class="st4" x1="217.7" y1="162" x2="217.7" y2="586.6"/>
-<rect x="186.1" y="236.9" class="st5" width="64" height="279.7"/>
-<rect x="186.1" y="372" class="st6" width="64" height="4.8"/>
-<rect x="196.2" y="159.6" class="st6" width="43.8" height="4.8"/>
-<rect x="196.2" y="584.1" class="st6" width="43.8" height="4.8"/>
-<circle class="st6" cx="218.1" cy="94.4" r="5.9"/>
-<circle class="st6" cx="218.1" cy="65.8" r="5.9"/>
-<circle class="st6" cx="218.1" cy="80.1" r="5.9"/>
-<circle class="st6" cx="218.1" cy="646" r="5.9"/>
-<text transform="matrix(1 0 0 1 293.4028 34.0723)" class="st7 st1 st8">outliers</text>
-<text transform="matrix(1 0 0 1 297.6021 55.7227)" class="st7 st9 st2">more than 1.5x of upper quartile</text>
-<text transform="matrix(1 0 0 1 293.4028 157.4639)" class="st10"><tspan x="0" y="0" class="st7 st9 st2">highest value not</tspan><tspan x="0" y="20.2" class="st7 st9 st2">counting the outliers</tspan></text>
-<text transform="matrix(1 0 0 1 293.4028 132.3818)" class="st7 st1 st8">maximum</text>
-<g>
-	<text transform="matrix(1 0 0 1 293.4028 615.2051)" class="st7 st9 st2">lowest value not counting the outliers</text>
+<line class="st4" x1="200.6" y1="223.9" x2="200.6" y2="695.8"/>
+<rect x="165.1" y="308.1" class="st5" width="71.9" height="309"/>
+<rect x="165.1" y="491.7" class="st6" width="71.9" height="4.7"/>
+<rect x="176.5" y="221.2" class="st6" width="49.2" height="5.4"/>
+<rect x="176.5" y="693" class="st6" width="49.2" height="5.4"/>
+<circle class="st6" cx="200.8" cy="139.8" r="6.6"/>
+<circle class="st6" cx="200.8" cy="107.7" r="6.6"/>
+<text transform="matrix(1 0 0 1 298.9033 130.3779)" class="st7 st1 st8">outliers</text>
+<text transform="matrix(1 0 0 1 298.9033 234.4595)" class="st7 st1 st8">maximum</text>
+<text transform="matrix(1 0 0 1 298.9033 706.3545)" class="st7 st1 st8">minimum</text>
+<path class="st9" d="M267.8,696.6h-46"/>
+<text transform="matrix(1 0 0 1 298.9033 316.2441)" class="st7 st1 st8">upper quartile</text>
+<text transform="matrix(1 0 0 1 298.9038 422.335)" class="st7 st1 st8">interquartile range</text>
+<path class="st9" d="M267.8,309.4h-46"/>
+<text transform="matrix(1 0 0 1 298.9033 624.916)" class="st7 st1 st8">lower quartile</text>
+<text transform="matrix(1 0 0 1 298.9033 505.3926)" class="st7 st1 st8">median</text>
+<g class="st10">
+	<g>
+		<line class="st11" x1="276.3" y1="123.7" x2="276.3" y2="123.7"/>
+		<line class="st12" x1="273" y1="123.7" x2="238.7" y2="123.7"/>
+		<line class="st11" x1="237" y1="123.7" x2="237" y2="123.7"/>
+	</g>
 </g>
-<text transform="matrix(1 0 0 1 293.4028 595.9766)" class="st7 st1 st8">minimum</text>
-<path class="st11" d="M277.5,587.3h-40.9"/>
-<text transform="matrix(1 0 0 1 293.4028 761.8994)" class="st7 st1 st8">outlier</text>
-<text transform="matrix(1 0 0 1 293.4028 280.9551)" class="st10"><tspan x="0" y="0" class="st7 st9 st2">75th percentile = </tspan><tspan x="0" y="20.2" class="st7 st9 st2">25% of values are higher than this number</tspan></text>
-<text transform="matrix(1 0 0 1 293.4028 253.9355)" class="st7 st1 st8">upper quartile</text>
-<path class="st11" d="M277.5,238.1h-40.9"/>
-<text transform="matrix(1 0 0 1 293.4028 516.6533)" class="st10"><tspan x="0" y="0" class="st7 st9 st2">25th percentile =</tspan><tspan x="0" y="20.2" class="st7 st9 st2">25% of values lie lower than this number</tspan></text>
-<text transform="matrix(1 0 0 1 293.4028 489.6338)" class="st7 st1 st8">lower quartile</text>
-<text transform="matrix(1 0 0 1 293.4028 413.4639)" class="st10"><tspan x="0" y="0" class="st7 st9 st2">50% of data points are below</tspan><tspan x="0" y="20.2" class="st7 st9 st2">this number</tspan></text>
-<text transform="matrix(1 0 0 1 293.4028 386.4443)" class="st7 st1 st8">median</text>
-<path class="st11" d="M277.5,374.4h-40.9"/>
-<line class="st4" x1="722.1" y1="290" x2="722.1" y2="566.5"/>
-<rect x="690.1" y="414.1" class="st5" width="64" height="97.9"/>
-<rect x="690.1" y="444.3" class="st6" width="64" height="4.8"/>
-<rect x="700.6" y="287.6" class="st6" width="43.8" height="4.8"/>
-<rect x="700.6" y="562.1" class="st6" width="43.8" height="4.8"/>
-<circle class="st12" cx="722.5" cy="94.4" r="5.9"/>
-<circle class="st12" cx="722.5" cy="65.8" r="5.9"/>
-<circle class="st12" cx="722.5" cy="80.1" r="5.9"/>
-<circle class="st12" cx="722.5" cy="131.7" r="5.9"/>
-<circle class="st12" cx="722.5" cy="103.2" r="5.9"/>
-<circle class="st12" cx="722.5" cy="117.4" r="5.9"/>
-<circle class="st12" cx="722.1" cy="165.1" r="5.9"/>
-<circle class="st12" cx="722.1" cy="150.9" r="5.9"/>
-<circle class="st12" cx="722.1" cy="217.5" r="5.9"/>
-<circle class="st12" cx="722.1" cy="189" r="5.9"/>
-<circle class="st12" cx="722.1" cy="203.3" r="5.9"/>
-<circle class="st12" cx="722.1" cy="252.4" r="5.9"/>
-<circle class="st12" cx="722.1" cy="223.8" r="5.9"/>
-<circle class="st12" cx="722.1" cy="238.1" r="5.9"/>
-<circle class="st13" cx="722.5" cy="597.9" r="5.9"/>
-<circle class="st13" cx="722.5" cy="606.9" r="5.9"/>
-<circle class="st13" cx="722.5" cy="621.1" r="5.9"/>
-<circle class="st13" cx="722.5" cy="631.4" r="5.9"/>
-<path class="st14" d="M285.3,26.5L224,80.1"/>
-<path class="st14" d="M285.3,125.8l-45.4,36.6"/>
-<path class="st14" d="M277.5,587.3h-37.6"/>
-<path class="st14" d="M285.3,750.8L218.1,646"/>
-<path class="st14" d="M277.5,238.1H250"/>
-<path class="st14" d="M293.4,483L250,516.7"/>
-<path class="st14" d="M277.5,374.4H259"/>
+<path class="st13" d="M276.6,224.4h-51"/>
+<path class="st13" d="M276.6,493.9h-51"/>
+<path class="st13" d="M267.8,696.6h-42.3"/>
+<path class="st13" d="M267.8,309.4h-30.9"/>
+<path class="st13" d="M272.1,617.3h-35.2"/>
+<polyline class="st13" points="251.1,309.4 251.1,393.6 267.8,415 251.1,438.6 251.1,617.1 "/>
 <g>
-	<rect x="293.4" y="774.1" class="st15" width="298.2" height="19.9"/>
-	<text transform="matrix(1 0 0 1 293.4028 786.6816)" class="st7 st9 st2">lower than 1.5x the lower quartile</text>
+	<path class="st6" d="M208.1,45.2l-4.2,5.5v0.1l6.7-0.9v3l-6.7-0.8v0.1l4.2,5.3l-2.8,1.6l-2.7-6.2h-0.1l-2.9,6.2l-2.5-1.6l4.2-5.4
+		v-0.1l-6.6,0.8v-3l6.5,0.8v-0.1l-4.2-5.4l2.7-1.5l2.7,6.2h0.1l2.7-6.2L208.1,45.2z"/>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="221.9" y1="51.5" x2="221.9" y2="51.5"/>
+		<line class="st14" x1="224.9" y1="51.5" x2="235.5" y2="51.5"/>
+		<line class="st11" x1="237" y1="51.5" x2="237" y2="51.5"/>
+		<line class="st15" x1="237" y1="54.8" x2="237" y2="144.8"/>
+		<line class="st11" x1="237" y1="146.4" x2="237" y2="146.4"/>
+		<line class="st14" x1="234" y1="146.4" x2="223.4" y2="146.4"/>
+		<line class="st11" x1="221.9" y1="146.4" x2="221.9" y2="146.4"/>
+	</g>
 </g>
 </svg>
