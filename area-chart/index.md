@@ -74,13 +74,13 @@ displays data as the area between the data curve and the horizontal axis. [^wilk
 
 
 <!--more-->
+The ***X-axis*** has a numeric or a categorical scale. The ***Y-axis*** is usually categorical. ***Value markers*** typically indicate individual data points when few of them appear in the chart.
+
 The purpose of an area chart is visualizing the change of a single variable. Functionally, area charts are the same as [line charts](/line-chart). Visually, using the area instead of a line makes the shape of the data more noticeable. Especially for multi-line charts and stacked or grouped area charts the filled area below the data curve improves the chart's readability. 
 
 Even though an area chart consists of individual data points, its purpose is not in communicating a set of specific values but in showing their relationships. For this reason, the data points typically do not have labels.
 
-The X-axis has a numeric or a categorical scale. The Y-axis is usually categorical. Dot markers typically indicate individual data points when few of them appear in the chart.
-
-The primary use cases of area charts are indicating trends, comparing trends, their changes, and relationships between values. Color and texture can emphasize these relationships. [^harris]
+Area charts are used forindicating trends, comparing trends, their changes, and relationships between values. Color and texture can emphasize these relationships. [^harris]
 
 Like [bar charts](/bar-chart), area charts emphasize change and trends. But an area chart can display more data points in the same space. 
 

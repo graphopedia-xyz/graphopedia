@@ -66,12 +66,12 @@ is a type of graph that shows changes in the amount of flow between entities as 
 <!--more-->
 
 
-In an alluvial diagram, categories are represented as bands from which the flow lines originate. 
+In an alluvial diagram, ***categories*** are represented as boxes from which the flow lines originate. 
 
-Each flowline represents a variable, and its thickness at any point - its value. Where flow lines re-cluster, a new band forms. All lines can both split and merge back into the flow. The bands are scaled according to the number of incoming flow lines and their widths. 
+Each ***flow line*** represents a variable, and its thickness at any point - its value. Where flow lines re-***cluster***, a new box forms. All lines can both split and merge back into the flow. The box width is scaled according to the number of incoming flow lines and their widths. 
  
 The X-axis and Y-axis are normally not shown with only the category labels appearing next to the bands. Typically, the direction of the flow lines represents time. Importantly, the clusters have to appear in the temporal order. [^borner]
-The diagram begins and ends with the bands reflecting the current composition of the categories.
+The diagram begins and ends with the boxes reflecting the current composition of the categories.
  
 The alluvial diagram first appeared in 2010[^rosvall] defined as showing "changes in the clustering structure from one period to the next are represented by the mergers and divergences that occur in the ribbons linking the blocks." 
 
@@ -87,7 +87,7 @@ Unlike [Sankey diagrams](/sankey-chart), alluvial diagrams can re-cluster the st
 
 ## Sources
 [^borner]: Börner, Katy. [Atlas of knowledge: Anyone can map.](https://books.google.com/books?id=Fe-cBwAAQBAJ) MIT Press, 2015. p. 63.
-[^rosvall]: Rosvall, Martin, and Carl T. Bergstrom. ["Mapping change in large networks."](https://doi.org/10.1371/journal.pone.0008694) PloS one 5.1 (2010): e8694. [PDF](https://arxiv.org/pdf/0812.1242.pdf)
+[^rosvall]: Rosvall, Martin, and Carl T. Bergstrom. ["Mapping change in large networks."](https://doi.org/10.1371/journal.pone.0008694gatsby ) PloS one 5.1 (2010): e8694. [PDF](https://arxiv.org/pdf/0812.1242.pdf)
 [^kosara]: Bendix, Fabian, Robert Kosara, and Helwig Hauser. ["Parallel sets: visual analysis of categorical data."](https://doi.org/10.1145/1124772.1124891) IEEE Symposium on Information Visualization, 2005. InfoVis 2005. IEEE, 2005. [PDF](https://kosara.net/papers/2005/Bendix-InfoVis-2005.pdf)
 [^bostock]: [Mike Bostock's D3 gallery website](https://bost.ocks.org/mike/sankey/)
 [^kirk]: Kirk, Andy. [Data visualisation: a handbook for data driven design.](https://books.google.com/books?id=wNpsDAAAQBAJ) Sage, 2016. 

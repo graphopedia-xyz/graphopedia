@@ -3,9 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#7F7F7F;}
+	.st0{fill:#514361;}
 	.st1{font-family:'RobotoMono-Regular';}
-	.st2{font-size:70.3221px;}
+	.st2{font-size:60.7828px;}
 	.st3{fill:#E3E3E3;}
 	.st4{fill:#D5D5D5;}
 	.st5{fill:#BABABA;}
@@ -19,13 +19,19 @@
 	.st13{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
 </style>
 <g>
-	<text transform="matrix(1 0 0 1 26.3467 77.1044)" class="st0 st1 st2">data point</text>
+	<g>
+		<text transform="matrix(1 0 0 1 129.7367 73.8223)" class="st0 st1 st2">symbol</text>
+	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 1073.4004 589.6069)" class="st0 st1 st2">map</text>
+	<g>
+		<text transform="matrix(1 0 0 1 1073.4004 589.6069)" class="st0 st1 st2">map</text>
+	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 496.1053 1164.4857)" class="st0 st1 st2">legend</text>
+	<g>
+		<text transform="matrix(1 0 0 1 496.1053 1164.4857)" class="st0 st1 st2">legend</text>
+	</g>
 </g>
 <rect x="14.7" y="1103.4" class="st3" width="80.1" height="80.1"/>
 <rect x="134.8" y="1103.4" class="st4" width="80.1" height="80.1"/>
@@ -92,8 +98,8 @@
 <circle class="st3" cx="729.3" cy="425.1" r="16"/>
 <g>
 	<g>
-		<line class="st6" x1="238.1" y1="365.3" x2="238.1" y2="365.3"/>
-		<line class="st13" x1="238.1" y1="355.3" x2="238.1" y2="105.7"/>
+		<line class="st6" x1="239.2" y1="365.3" x2="239.2" y2="365.3"/>
+		<line class="st13" x1="239.2" y1="355.3" x2="239.2" y2="105.7"/>
 	</g>
 </g>
 </svg>

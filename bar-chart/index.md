@@ -76,13 +76,13 @@ displays the relationship of a category to a numeric variable as the height a re
 
 <!--more-->
 
-Bar charts are often used to compare the change of a variable over time or across categories. This broad application explains the popularity of the bar chart. Functionally, a bar chart is not suitable for showing distributions, medians or means, ratios, correlations or connections, or anything more than a single data point per category. 
+The bar chart consists of a ***categorical X-axis*** and a ***numeric Y-axis***. The bars represent categories and their heights the values along the Y-axis. 
 
+The ***bar width*** is equal and cannot be used to represent data. Using the width of the bar would transform the bar chart into a [Marimekko Chart](/marimekko-chart). The ***bar distance*** is also equal and not indicative of data values. Bars can be ordered by height or unordered.
 
-The baseline of a bar chart should always start at zero. Otherwise, the bar length will not be interpreted correctly by the reader. [^yau]
+The ***baseline*** of a bar chart should always start at zero. Otherwise, the bar length will not be interpreted correctly by the reader. [^yau]
 
-The bar width is equal and cannot be used to represent data. Using the width of the bar would transform the bar chart into a [Marimekko Chart](/marimekko-chart). The distance between bars is also equal and not indicative of data values. Bars can be ordered by height or unordered.
-
+Categories along the X-axis should have a logical ordering which can be numeric ordering intrinsic to the categories, a natural ordering, or ordering based on the data. [^knaflic] Bar charts are often used to compare the change of a variable over time or across categories. This broad application explains the popularity of the bar chart. Functionally, a bar chart is not suitable for showing distributions, medians or means, ratios, correlations or connections, or anything more than a single data point per category. 
 
 
 William Playfair introduced the bar chart in 1786. Although not popular initially, it has since become the default choice of a chart because of its graphic simplicity and familiarity. *The New York Times* graphics editor Amanda Cox says, "There's a strand of the data viz world that argues that everything could be a bar chart. That's possibly true but also possibly a world without joy." [^beniato] Alternatives to and variations of the bar chart are necessary for large-scale data visualizations.
@@ -97,14 +97,15 @@ Variations of the bar chart regroup the bars, typically to display more data or 
 ### Stacked bar chart
 <img src="stacked-bar-chart.svg" alt= "stacked bar chart" class="f-right-half"/> A stacked bar chart shows two or more data series where each respective bar stacks on top of another along the vertical axis.  In practice, the number of data series is limited. The stacking order of all data series has to be the same order across all the bars.
 
+### Dot chart
+<img src="lollipop-chart.svg" alt="lollipop bar chart" class="f-right-half" /> The dot chart, also known as *lollipop chart*, replaces the bar with a line-and-dot combination. Dot charts may be useful in large data sets where bars would be too thin. For improved readability, the dots are typically of a more high-contrast color than the lines. 1. *Dot chart* uses a dot to represent a data point and otherwise is equivalent to a bar chart in terms of a reader's ability to compare values.[^cairo] Dot charts allow for a more elegant way of displaying large data sets.[^robbins] The dot chart is not to be confused with the [dot plot](/dot-plot), a statistical graphic that shows the distribution of individual observations represented as dots at regular intervals.
+
 ### Tornado chart
 <img src="tornado-chart.svg" alt="tornado chart" class="f-right-half"/> The tornado chart, also known as *tornado diagram*, is a horizontal bar chart with bars ordered from the longest at the top to the shortest at the bottom, creating a funnel-like shape. Tornado charts are useful for situations where the descending ordering of the bars points to a pattern in the data.
 
 ### Span chart
 <img src="span-chart.svg" alt="span chart" class="f-right-half"/> Span chart, also known as *range bar chart*, *range column chart*, or  *floating bar chart*, displays two data points per bar, with the lowest point showing a minimum and the highest points showing the maximum. Functionally, the span chart is the same as the [waterfall chart](/waterfall-chart).
 
-### Lollipop chart
-<img src="lollipop-chart.svg" alt="lollipop bar chart" class="f-right-half" /> Lollipop chart, also known as *lollipop plot*, replaces the bar with a line-and-dot combination. Lollipop charts may be useful in large data sets where bars would be too thin. However, the dot and line combination is less readable than the standard bars. For improved readability, the dots are typically of a more high-contrast color than the lines.
 
 ### Dumbbell chart
 <img src="dumbbell-chart.svg" alt="dumbbell chart" class="f-right-half" /> Dumbbell chart, also known as *dumbbell plot* and *connected dot plot*, is a variation of the lollipop chart displaying two data points per category. The line connecting them emphasizes the difference between the two data points. Functionally, it is the same as the range bar chart. With large data sets it has the advantage of displaying data more compactly. The dots are typically colored such that they are more visible than the lines.
@@ -124,19 +125,19 @@ Radial bar chart, also known as *radial column chart* and *polar bar chart*, is 
 ## Alternatives
 With the bar chart being the ubiquitous default, there is often a need to find an alternative. 
 
-1. *Dot chart* uses a dot to represent a data point and otherwise works the same way as a bar chart. Dot plots allow for a more elegant way of displaying large data sets.[^robbins] The dot chart is not to be confused with the [dot plot](/dot-plot), a statistical graphic that shows the distribution of individual observations represented as dots at regular intervals. It is similar to the [histogram](/histogram), but it is more accurate since the data is not binned.
-2. [*Isotype diagram*](/isotype-diagram) uses icons to represent a data point as the total length of the row of icons. Isotype chart can help a reader see the semantic meaning of each category in the chart. [^haroz]
-3. [*Waterfall chart*](/waterfall-chart) is an alternative to a stacked bar chart. It tracks the change from an initial value through a series of intermediate values to the end value. The first column is the initial value. The last column is a cumulative total.
-4. [*Bullet chart*](/bullet-chart) functionally the same as a bar chart, the bullet chart adds a symbol for the target value and a progress bar.
-5. [*Slopegraph*](/slopegraph) is an alternative to a stacked bar chart. A slope graph shows the relationship between two sets of categories.
+1. [*Isotype diagram*](/isotype-diagram) uses icons to represent a data point as the total length of the row of icons. Isotype chart can help a reader see the semantic meaning of each category in the chart. [^haroz]
+2. [*Waterfall chart*](/waterfall-chart) is an alternative to a stacked bar chart. It tracks the change from an initial value through a series of intermediate values to the end value. The first column is the initial value. The last column is a cumulative total.
+3. [*Bullet chart*](/bullet-chart) functionally the same as a bar chart, the bullet chart adds a symbol for the target value and a progress bar.
+4. [*Slopegraph*](/slopegraph) is an alternative to a stacked bar chart. A slope graph shows the relationship between two sets of categories.
 
-It is worth noting that the pie chart and the bubble, both of which are other popular charts, are not functional alternatives to a bar chart.
+It is worth noting that neither the pie chart nor the bubble, both of which are popular charts, work as functional alternatives to a bar chart.
 
 ## References
-[^harris]: Harris, Robert L. [Information graphics: A comprehensive illustrated reference.](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 59
-[^berinato]: ["The Power of Visualization's "Aha!" Moments" by Scott Berinato, Harvard Business Review, retrieved Apr 3, 2019](https://hbr.org/2013/03/power-of-visualizations-aha-moment)
-[^yau]: [FlowingData.com by Nathan Yau, retrieved Apr 3, 2019](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/)
+[^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 59
+[^yau]: Yau, Nathan. ["Bar Chart Baselines Start at Zero"](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/) *FlowingData.com. Retrieved from https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero* (2015).
+[^knaflic]: Knaflic, Cole Nussbaumer. [*Storytelling with data: A data visualization guide for business professionals.*](https://books.google.com/books?id=IheRCgAAQBAJ) John Wiley & Sons, 2015. pp.58 
+[^cairo]: Cairo, Alberto. [*The Functional Art: An introduction to information graphics and visualization.*](https://books.google.com/books?id=xwjhh6Wu-VUC) New Riders, 2012. p. 126-127.
+[^robbins]: Robbins, Naomi B. ["Dot Plots: A Useful Alternative to Bar Charts."]((http://perceptualedge.com/articles/b-eye/dot_plots.pdf)) *Business Intelligence Network Newsletter* (2006). p.3
+[^beniato]: Berinato, S. ["The Power of Visualization's" Aha!" Moments."](https://hbr.org/2013/03/power-of-visualizations-aha-moment) *Harvard Business Review. Retrieved from http://blogs.hbr.org/2013/03/power-of-visualizations-aha-moment* (2013). 
 [^thudt]: Thudt, Alice, et al. ["Assessing the Readability of Stacked Graphs."](https://dx.doi.org/10.20380/GI2016.21) 2016. [PDF](https://hal.inria.fr/hal-01587962/document)
-[^robbins]: Robbins, Naomi B. ["Dot Plots: A Useful Alternative to Bar Charts."]((http://perceptualedge.com/articles/b-eye/dot_plots.pdf)) Business Intelligence Network Newsletter (2006). p.3
-[^knaflic]: Knaflic, Cole Nussbaumer. [Storytelling with data: A data visualization guide for business professionals.](https://books.google.com/books?id=IheRCgAAQBAJ) John Wiley & Sons, 2015. pp.55-56 
-[^haroz]: Haroz, Steve, Robert Kosara, and Steven L. Franconeri. ["Isotype visualization: Working memory, performance, and engagement with pictographs."](https://doi.org/10.1145/2702123.2702275) Proceedings of the 33rd annual ACM conference on human factors in computing systems. ACM, 2015. [PDF](http://steveharoz.com/research/isotype/ISOTYPE_Visualization_CHI2015_Haroz_Kosara_Franconeri.pdf)
+[^haroz]: Haroz, Steve, Robert Kosara, and Steven L. Franconeri. ["Isotype visualization: Working memory, performance, and engagement with pictographs."](https://doi.org/10.1145/2702123.2702275) *Proceedings of the 33rd annual ACM conference on human factors in computing systems.* ACM, 2015. [PDF](http://steveharoz.com/research/isotype/ISOTYPE_Visualization_CHI2015_Haroz_Kosara_Franconeri.pdf)

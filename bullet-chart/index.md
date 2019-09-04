@@ -31,10 +31,12 @@ order: 250
 
 ---
 
-is a variation of the [bar chart](/bar-chart) with an added symbol for the target value and a progress bar that approaches the target. The bullet chart includes qualitative ranges labeled from "bad" to "good," and "excellent." The bullet chart was created as an alternative to gauge charts used in dashboards. American author Stephen Few invented the bullet chart as a response to gauge charts.[^few] The bullet charts allow for easier comparison of values when positioned next to each other than the gauge charts.
+is a variation of the [bar chart](/bar-chart) with an added symbol for the target value and a progress bar that approaches the target.
 
 <!--more-->
-
+The bullet chart displays ***qualitative ranges*** typically labeled "bad", "good," and "excellent" against a ***progress bar*** that reflects the actual performance. More qualitative ranges are possible. The ***target market*** indicates the target performance. The bullet chart has one axis with the ***scale*** usually expressed in numbers or percentages. Each bullet chart has a ***label*** showing the units used in the scale.
+ 
+American author Stephen Few invented the bullet chart as a response to gauge charts.[^few] The bullet charts allow for easier comparison of values when positioned next to each other than the gauge charts.
 The purpose of the bullet chart is the comparison of value to its target. Several bullet charts that are aligned can be easily compared, making them more suitable for use in a dashboard or a multi-chart report than gauge charts.
 
 The bullet chart is not designed to display a lot of data points. For a dashboard or an infographic with dozens of data points and their targets, it is better to use a [scatter plot](/scatter-plot) or its variations.
@@ -49,6 +51,6 @@ The bullet chart can display negative values, which are plotted to the left or t
  2. *Gauge chart* shows values as a needle on a speedometer. The target value is usually marked.
 
 ## Sources
-[^few]: [Information Dashboard Design by Stephen Few, p.151](https://the-eye.eu/public/Books/IT%20Various/information_dashboard_design.pdf)
-[^metoyer]: [Understanding the Verbal Language and Structure of End-User Descriptions of Data Visualizations by Ronald Metoyer et. al., Proceedings of the SIGCHI Conference on Human Factors in Computing Systems,p.1661](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p1659-metoyer.pdf)
-[^few2]: [Bullet Graph Design Specification by Stephen Few](https://www.perceptualedge.com/articles/misc/Bullet_Graph_Design_Spec.pdf)
+[^few]: Few, Stephen. ["Information dashboard design."](https://the-eye.eu/public/Books/IT%20Various/information_dashboard_design.pdf) (2006). p.151 
+[^metoyer]: Metoyer, Ronald, et al. ["Understanding the verbal language and structure of end-user descriptions of data visualizations."](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p1659-metoyer.pdf) *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.* ACM, 2012. p.1661. 
+[^few2]: Few, Stephen. ["Bullet Graph Design Specification, 2010."](https://www.perceptualedge.com/articles/misc/Bullet_Graph_Design_Spec.pdf)

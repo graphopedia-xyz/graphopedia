@@ -42,7 +42,7 @@ is a type of knowledge representation that shows concepts as nodes and links bet
 
 <!--more-->
 
-The term "concept map" was coined in the 1970s by American educator Joseph D. Novak. A concept map usually starts from a single concept node at the top of the image. Major ideas are connected directly to the central concept with their and minor concepts branching out from them. Each connecting line is labeled, usually with a verb, describing the type of connection. Concept maps are used as a learning tool for remembering facts with their interconnections.
+A concept map starts with a ***root node*** at the top that typically indicates the main topic of the visualization. Major ideas are connected directly to the central concept with their and minor concepts branching out from them. Each connecting line is labeled with a ***connecting word***, usually with a verb or a verb phrase, describing the type of connection. Concept maps are used as a learning tool for remembering facts with their interconnections.
 
 Concept maps and [mind maps](/mind-map) are similar in structure and purpose with the two differences being the presence of connecting words or phrases along the connecting lines in a concept map and the concept map starting from the top and not from the center like the mind map.
 
@@ -50,14 +50,16 @@ The process of making a concept map starts with a list of ideas, typically made 
 
 There is no limit on how many connections single concept has. The connections can be uni-directional and bi-directional.
 
-Concept mapping as a learning technique can improve recall and critical-thinking skills.[^novak] 
+Concept mapping as a learning technique can improve recall and critical-thinking skills.[^novak]
+
+The term "concept map" was coined in the 1970s by American educator Joseph D. Novak.
 
 ## Sources
-[^plotnik]: ["Concept Mapping: A Graphical System for Understanding the Relationship between Concepts" by Eric Plotnik, 1997. ERIC Clearinghouse on Information and Technology Syracuse NY](https://files.eric.ed.gov/fulltext/ED407938.pdf)
+[^plotnik]: Plotnick, Eric. [*Concept mapping: A graphical system for understanding the relationship between concepts.*](https://files.eric.ed.gov/fulltext/ED407938.pdf) Syracuse, NY: ERIC Clearinghouse on Information and Technology, 1997.
 
-[^novak2]: [Novak, J. D. & Cañas  A. J. (2008) The Theory Underlying Concept Maps and How to Construct Them, Technical Report IHMC CmapTools 2006-01 Rev 01-2008, Florida Institute for Human and Machine Cognition](https://web.stanford.edu/dept/SUSE/projects/ireport/articles/concept_maps/The%20Theory%20Underlying%20Concept%20Maps.pdf) 
+[^novak2]:  Novak, Joseph D., and Alberto J. Cañas. ["The theory underlying concept maps and how to construct and use them."](https://web.stanford.edu/dept/SUSE/projects/ireport/articles/concept_maps/The%20Theory%20Underlying%20Concept%20Maps.pdf)  (2008).
 
-[^novak]: [ Novak, J.D. & Gowin, D.B. (1984). Learning How to Learn. New York: Cambridge Univ. Press.](https://doi.org/10.1017/CBO9781139173469)
+[^novak]: Novak, Joseph D., D. Bob Gowin, and Gowin D. Bob. [*Learning how to learn.*](https://doi.org/10.1017/CBO9781139173469) Cambridge University press, 1984.
 
 
 

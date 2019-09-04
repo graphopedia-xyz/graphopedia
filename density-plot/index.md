@@ -65,16 +65,16 @@ order: 260
 
 ---
 
-shows a smoothed distribution of values over a continuous period. Similar to a [histogram](/histogram), a density plot is suitable for showing continuously changing values. But compared to a histogram, the density plot is better at showing the shape of distribution because it is not affected by bin size. Density plots can be considered as plots of smoothed histograms. 
-
+shows a smoothed distribution of values over a continuous period.
 <!--more-->
 
-Density plots produce a smooth curve *estimating* the distribution function of a continuous
-variable from a set of values that are not absolutely precise.
+Density plots are displayed along the ***X-axis*** that shows frequency of observations and a ***Y-axis*** with a numeric scale. Density plots produce a smooth curve *estimating* the distribution function of a continuous variable from a set of values that are not absolutely precise.
 
 Density plots are what an averaged and smoothed histogram would look like with the gaps between bars being "filled" with estimated values.
 
 The smoothness of a density plot is regulated by the bandwidth that is analogous to the histogram bin size. The technique for estimating the bandwidth for a density plot is called *kernel smoothing*.  If the bandwidth is too small, the density estimate becomes less smooth which results in a visually busy graph. The main trends might become overpowered by the noise. Conversely, if the bandwidth is too large, the local features in the distribution of the data might not be revealed. 
+
+Similar to a [histogram](/histogram), a density plot is suitable for showing continuously changing values. But compared to a histogram, the density plot is better at showing the shape of distribution because it is not affected by bin size. Density plots can be considered as plots of smoothed histograms. 
 
 
 
@@ -87,4 +87,4 @@ The smoothness of a density plot is regulated by the bandwidth that is analogous
 
 ## Sources
 
-[^tukey]:[Tukey, J. W. (1977). Exploratory data analysis. Reading, PA: Addison-Wesley.](http://theta.edu.pl/wp-content/uploads/2012/10/exploratorydataanalysis_tukey.pdf)
+[^tukey]: Tukey, John Wilder [Exploratory data analysis.](http://theta.edu.pl/wp-content/uploads/2012/10/exploratorydataanalysis_tukey.pdf) Reading, PA: Addison-Wesley (1977).

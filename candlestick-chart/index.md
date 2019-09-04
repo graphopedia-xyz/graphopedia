@@ -49,5 +49,5 @@ Candlestick charts are used to discover patterns in the change of values. Such p
 <!-- TODO: add candlestick chart patterns https://en.wikipedia.org/wiki/Candlestick_pattern -->
 
 ## Sources
-[^morris]: [Candlestick Charting Explained: Timeless Techniques for Trading Stocks and Futures](http://wordpress1.rm7mills.com/notasaham/wp-content/uploads/sites/3/2017/08/Candlestick-Charting-Explained-Gregory-Morris.pdf)
-[^nison]: [Japanese Candlestick Charting Techniques by Steve Nison](https://www.forexfactory.com/attachment.php/2269015?attachmentid=2269015&d=1492350521)
+[^morris]: Morris, Greg L. [*Candlestick Charting Explained: Timeless Techniques for Trading Stocks and Futures: Timeless Techniques for Trading stocks and Sutures.*](http://wordpress1.rm7mills.com/notasaham/wp-content/uploads/sites/3/2017/08/Candlestick-Charting-Explained-Gregory-Morris.pdf) McGraw Hill Professional, 2006. 
+[^nison]: Nison, Steve. [*Japanese candlestick charting techniques: a contemporary guide to the ancient investment techniques of the Far East.*](https://www.forexfactory.com/attachment.php/2269015?attachmentid=2269015&d=1492350521) Penguin, 2001.

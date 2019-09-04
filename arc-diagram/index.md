@@ -62,8 +62,8 @@ is a type of one-dimensional diagram showing connections between any two nodes o
 
 <!--more-->
 
-An arc diagram consists of nodes, arcs, and an axis. Node spacing along the X-axis is either equidistant or at distances based on the data, for example, representing the time elapsed.[^nagel]
-                                                     The order in which nodes appear on the axis is called *node seriation*.[^heer] Node seriation can be already present in sorted data ordered by time or distance. 
+An arc diagram consists of ***nodes***, ***arcs***, and one ***axis***. ***Node distance*** along the X-axis is either equal or weighted, for example, representing the time elapsed.[^nagel]
+The order in which nodes appear on the axis is called *node seriation*.[^heer] Node seriation can be already present in sorted data ordered by time or distance. 
 
 The purpose of an arc diagram is in revealing the connections between a set of values and the clusters that they might form.
 

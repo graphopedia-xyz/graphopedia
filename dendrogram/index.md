@@ -50,11 +50,11 @@ order: 520
 is a type of a [tree diagram](tree-diagram) that represents hierarchies and clustering as connected nodes, starting with a root node at the top of the hierarchy and ending with leaf nodes.  
 
 <!--more-->
-The root node of the dendrogram represents the whole data set and the top of the hierarchy. Each consecutive node, called an internal node, contains either one or two sub-trees. The end nodes are called *leaf nodes*.  The leaf nodes represent the observations. 
+The ***root node*** of the dendrogram represents the whole data set and the top of the hierarchy. Each consecutive node, called an ***internal node***, contains either one or two sub-trees. The end nodes are called ***leaf nodes***.  The leaf nodes represent the observations. 
 
 Each node in a dendrogram splits into two lower-level nodes, making the dendrogram a binary tree. [^klemelä]
 
-The distance between any two nodes reflects the degree of their dissimilarity. 
+The distance between any two nodes along the ***scale axis*** reflects the degree of their dissimilarity. 
 
 The purpose of a dendrogram is the display of hierarchies and clusters. It visualizes multivariate data showing the position of each data node within the hierarchy, the similarity of each node relative to other nodes, and the parent-child relationship for each node.
 
@@ -71,4 +71,4 @@ Dendrograms can have a horizontal or vertical orientation. The layout can be lin
 
 [^klemelä]: Klemelä, Jussi Sakari. [Smoothing of multivariate data: density estimation and visualization.](https://books.google.com/?id=FFb_yy3RkL0C&pg=PA199) Vol. 737. John Wiley & Sons, 2009.
 
-[^earle]: [Earle, Denise. Dendrogram seriation in data visualisation: algorithms and applications. Diss. National University of Ireland Maynooth, 2010.](http://mural.maynoothuniversity.ie/2442/)
+[^earle]: Earle, Denise. [*Dendrogram seriation in data visualisation: algorithms and applications.*](http://mural.maynoothuniversity.ie/2442/) Diss. National University of Ireland Maynooth, 2010.
