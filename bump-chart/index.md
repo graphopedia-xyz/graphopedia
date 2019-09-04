@@ -52,5 +52,5 @@ Bump charts emphasize ranking through time. The time is normally displayed at eq
 The dots or circles drawn at each point where the line graph passes through the time vertical are not required.
 
 ## Sources
-[^tufte]: Edward Tufte (2006). Beautiful Evidence. Graphics Press. p. 56 ↩
-[^sleeper]: Sleeper, Ryan. [Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master.](https://books.google.fr/books?id=mfhTDwAAQBAJ) "O'Reilly Media, Inc.," 2018. p. 271.
+[^tufte]: Tufte, Edward R. [*Beautiful evidence*](https://www.edwardtufte.com/tufte/books_be) Vol. 1. Cheshire, CT: Graphics Press, 2006. p.56
+[^sleeper]: Sleeper, Ryan. [*Practical Tableau: 100 Tips, Tutorials, and Strategies from a Tableau Zen Master.*](https://books.google.com/books?id=mfhTDwAAQBAJ) "O'Reilly Media, Inc.," 2018. p. 271.

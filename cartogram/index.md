@@ -132,11 +132,11 @@ Some charts that can replace circles in a Dorling cartogram include [histogram](
 
 [^nusr]: Nusrat, Sabrina, and Stephen Kobourov. ["The state of the art in cartograms."](https://www2.cs.arizona.edu/~kobourov/star.pdf) Computer Graphics Forum. Vol. 35. No. 3. 2016.
 
-[^tyner3]: ["Introduction to thematic cartography" by Judith A. Tyner, 1992, Englewood Cliffs: Prentice Hall](https://www.amazon.com/Introduction-Thematic-Cartography-Judith-Tyner/dp/0134891058)
+[^tyner3]: Tyner, Judith A. [*Introduction to thematic cartography.*](https://www.amazon.com/Introduction-Thematic-Cartography-Judith-Tyner/dp/0134891058) Prentice Hall, 1992.
 
-[^tyner]: ["Principles of Map Design" by Judith A. Tyner, p. 189](https://books.google.com/books?id=385ti0DxibcC&pg=PA199&lpg=PA199&dq=A+Note+on+the+Importance+of+Shape+in+Cartogram+Communication&source=bl&ots=IDB-ahjOLF&sig=ACfU3U1i5NTS7ns7NWY9Ix9EjSW0NKrxpg&hl=en&sa=X&ved=2ahUKEwiNkvHn7sfhAhW0AWMBHcWhAYEQ6AEwBXoECAgQAQ#v=onepage&q=cartogram&f=false)
+[^tyner]: Tyner, Judith A. [*Principles of map design.*](https://books.google.com/books?id=385ti0DxibcC) Guilford Publications, 2014. p. 189 
 
-[^rittschof]: ["The Use of Cartograms in Visualizing Data Associated with Familiar and Unfamiliar Areas" by Kent A. Rittschof et al." 1995](https://archive.org/details/ERIC_ED384624/page/n3)
+[^rittschof]: Rittschof, Kent A. ["The Use of Cartograms in Visualizing Data Associated with Familiar and Unfamiliar Areas."](https://archive.org/details/ERIC_ED384624/page/n3) (1995).
 
-[^dent]: Dent, Borden D. ["Communication aspects of value-by-area cartograms."](https://www.tandfonline.com/doi/abs/10.1559/152304075784313278) The American Cartographer 2.2 (1975): 154-168.
+[^dent]: Dent, Borden D. ["Communication aspects of value-by-area cartograms."](https://www.tandfonline.com/doi/abs/10.1559/152304075784313278) *The American Cartographer* 2.2 (1975): 154-168.
 

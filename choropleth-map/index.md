@@ -59,9 +59,9 @@ examples:
 is a type of thematic map in which areas are colored to represent a variable proportionally to the colored area. A color legend links colors with values or value ranges.
 
 <!--more-->
-A choropleth map shows in data by geographic region. For this, the data needs to be normalized, which means the data must be expressed in rates or ratios.
+A choropleth map shows in data by geographic ***region***. For this, the data needs to be normalized, which means the data must be expressed in rates or ratios.
 
-To create a choropleth map, one needs a single variable and a color value scale that encodes the values of that variable. It is possible to make a two-variable (bivariate) choropleth map by creating two color scales, then making each semi-transparent and overlaying them. [^stevens]
+To create a choropleth map, one needs a single variable and a ***color value scale*** that encodes the values of that variable. It is possible to make a two-variable (bivariate) choropleth map by creating two color scales, then making each semi-transparent and overlaying them. [^stevens]
 
 The choice of a choropleth map color scheme has to follow a color logic that avoids these known perception issues:
 1. certain combinations of colors influence a reader's perception of map patterns, making readers see patterns where none exist;
@@ -90,10 +90,10 @@ Baron Pierre Charles Dupin introduced the choropleth map in 1826. The term "chor
 
 ## Sources
 
-[^brewer]: [Mapping Mortality: Evaluating Color Schemes for Choropleth Maps by Cynthia A. Brewer et al., Annals of the Association of American Geographers, Vol. 87, No. 3 (Sep. 1997), p. 411 ](https://www.jstor.org/stable/2564061?seq=1#page_scan_tab_contents)
+[^brewer]: Brewer, Cynthia A., et al. ["Mapping mortality: Evaluating color schemes for choropleth maps."](https://www.jstor.org/stable/2564061?seq=1#page_scan_tab_contents) *Annals of the Association of American Geographers* 87.3 (1997): 411-438, p. 411.
 
-[^kemp]: [Encyclopedia of Geographic Information Science by Karen Kemp, p. 37-38](https://books.google.fr/books?id=FrUQHIzXK6EC&pg=PT63&dq=choropleth&hl=en&sa=X&ved=0ahUKEwivhuO7-tHhAhXJxosBHV7-Cf0Q6AEIOzAD#v=onepage&q=choropleth&f=false)
+[^kemp]: Kemp, Karen, ed. [Encyclopedia of geographic information science.](https://books.google.com/books?id=FrUQHIzXK6EC) Sage, 2008. p. 37-38.
 
-[^scolum]: "Thematic Cartography and Geovisualization" by T. Slocum et al., 2009, 3rd ed, pages 85–86. Pearson Prentice Hall: Upper Saddle River, NJ.
+[^scolum]: Terry, A. Slocum. "Thematic cartography and geovisualization." (2010).
 
-[^stevens]: [Bivariate Choropleth Maps: A How-to Guide by Joshua Steves](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
+[^stevens]: Stevens, Joshua. ["Bivariate Choropleth Maps: A How-To Guide."](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/) Retrieved June 1 (2015): 2015.

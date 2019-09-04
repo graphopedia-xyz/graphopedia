@@ -45,6 +45,6 @@ Using the width and length of faces to encode variables is also problematic. Som
 Chernoff faces are named after their inventor American statistician Herman Chernoff who proposed this technique in 1973 to visualize geological data. [^chernoff] In his proposal, Chernoff suggests visualizing up to 18 data variables using faces.
 
 ## Sources
-[^kosara]: [A Critique of Chernoff Faces" by Robert Kosara, retrieved, Apr 11, 2019](https://eagereyes.org/criticism/chernoff-faces)
-[^raciborski]: ["Graphical representation of multivariate data using Chernoff faces" by Rafal Raciborski, The Strata Journal 2009, 9 Number 3, p. ](https://ageconsearch.umn.edu/record/142994/files/sjart_gr0038.pdf)
-[^chernoff]: ["The Use of Faces to Represent Points in K-Dimensional Space Graphically" by Herman Chernoff, Journal of the American Statistical Association, Vol. 68, No. 342. (Jun. 1973), p. 361](https://web.archive.org/web/20120415030406/http://www.apprendre-en-ligne.net/mathematica/3.3/chernoff.pdf)
+[^kosara]: Kosara, Robert. ["A Critique of Chernoff Faces."](https://eagereyes.org/criticism/chernoff-faces) Retrieved October 29 (2007): 2017.
+[^raciborski]: Raciborski, Rafal. ["Graphical representation of multivariate data using Chernoff faces."](https://ageconsearch.umn.edu/record/142994/files/sjart_gr0038.pdf) The Stata Journal 9.3 (2009): 374-387, p. 374.
+[^chernoff]: Chernoff, Herman. ["The use of faces to represent points in k-dimensional space graphically."](http://www.apprendre-en-ligne.net/mathematica/3.3/chernoff.pdf) *Journal of the American Statistical Association* 68.342 (1973): 361-368. p. 361.

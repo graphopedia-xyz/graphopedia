@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+	 viewBox="0 0 500 513" style="enable-background:new 0 0 500 513;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#E0E0E0;}
 	.st1{fill:#A5A5B9;}
@@ -10,10 +10,12 @@
 	.st4{fill:none;stroke:#A8A8A8;stroke-width:1.1052;stroke-miterlimit:10;}
 	.st5{fill:#514361;}
 	.st6{font-size:19.7303px;}
-	.st7{enable-background:new    ;}
-	.st8{font-family:'Roboto-Italic';}
-	.st9{font-size:12.6838px;}
-	.st10{opacity:0.14;fill:#E0E0E0;}
+	.st7{font-family:'Roboto-Italic';}
+	.st8{font-size:12.6838px;}
+	.st9{opacity:0.14;fill:#E0E0E0;enable-background:new    ;}
+	.st10{fill:none;stroke:#514361;stroke-linecap:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#514361;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.1913;}
+	.st12{fill:none;stroke:#514361;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,2.9893;}
 </style>
 <path class="st0" d="M46.1,439.5c129.4-38.1,149-317.6,228.4-317.6c77.2,0,103.3,268.6,204.5,317.9
 	C363.7,439.7,46.1,439.5,46.1,439.5z"/>
@@ -35,16 +37,30 @@
 <text transform="matrix(1 0 0 1 24.7476 188.7349)" class="st1 st2 st3">60</text>
 <text transform="matrix(1 0 0 1 24.7476 103.9272)" class="st1 st2 st3">80</text>
 <text transform="matrix(1 0 0 1 16.6646 19.1196)" class="st1 st2 st3">100</text>
-<path class="st4" d="M44.7,439.9V15.9"/>
-<path class="st4" d="M44.7,270.4v169.6h10.6"/>
+<path class="st4" d="M44.7,439.9v-424"/>
+<path class="st4" d="M44.7,270.4V440h10.6"/>
 <path class="st4" d="M44.7,355.1h10.6"/>
 <path class="st4" d="M44.7,185.5h10.6"/>
 <path class="st4" d="M44.7,270.4h10.6"/>
 <path class="st4" d="M44.7,100.7h10.6"/>
 <path class="st4" d="M44.7,15.9h10.6"/>
 <text transform="matrix(1 0 0 1 60.3364 28.4214)" class="st5 st2 st6">Y axis</text>
-<text transform="matrix(1 0 0 1 225.5527 346.8604)" class="st7"><tspan x="0" y="0" class="st5 st2 st6">shape of</tspan><tspan x="-23.7" y="23.7" class="st5 st2 st6">distribution</tspan></text>
-<text transform="matrix(1 0 0 1 55.3247 45.2173)" class="st5 st8 st9">typically shows a number scale</text>
-<text transform="matrix(1 0 0 1 368.5508 489.1475)" class="st5 st2 st6">X axis</text>
-<path class="st10" d="M46.1,439.5"/>
+<text transform="matrix(1 0 0 1 225.5527 346.8604)" class="st5 st2 st6">shape of</text>
+<text transform="matrix(1 0 0 1 201.8527 370.5604)" class="st5 st2 st6">distribution</text>
+<text transform="matrix(1 0 0 1 60.3247 45.2173)" class="st5 st7 st8">number scale</text>
+<text transform="matrix(1 0 0 1 386.1016 502.2174)" class="st5 st7 st8">showing frequency</text>
+<text transform="matrix(1 0 0 1 109.8301 500.3477)" class="st5 st2 st6">interval</text>
+<text transform="matrix(1 0 0 1 419.1402 482.1003)" class="st5 st2 st6">X-axis</text>
+<path class="st9" d="M46.1,439.5"/>
+<g>
+	<g>
+		<line class="st10" x1="199.4" y1="463" x2="199.4" y2="463"/>
+		<line class="st11" x1="199.4" y1="466.2" x2="199.4" y2="475.6"/>
+		<line class="st10" x1="199.4" y1="477.1" x2="199.4" y2="477.1"/>
+		<line class="st12" x1="196.4" y1="477.1" x2="117.2" y2="477.1"/>
+		<line class="st10" x1="115.7" y1="477.1" x2="115.7" y2="477.1"/>
+		<line class="st11" x1="115.7" y1="474" x2="115.7" y2="464.6"/>
+		<line class="st10" x1="115.7" y1="463" x2="115.7" y2="463"/>
+	</g>
+</g>
 </svg>

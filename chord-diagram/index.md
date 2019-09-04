@@ -80,7 +80,7 @@ The chord diagram was first used by *The New York Times* in [this genome chart](
 ## Variations
 
 ### Non-ribbon chord diagram
-<img src="non-ribbon-chord-diagram.svg" class="f-right-half" /> is ..
+<img src="non-ribbon-chord-diagram.svg" class="f-right-half" /> A non-ribbon chord diagram is a radial network diagram with unweighted connections. The nodes are positioned radially with connections linking any two nodes. This type of diagram can reveal clusters. Functionally, it is similiar to the [arc diagram](/arc-diagram) and the [hive plot](/hive-plot).
 
 
 ## Alternatives
@@ -89,12 +89,11 @@ The chord diagram was first used by *The New York Times* in [this genome chart](
 
 2. [*Arc diagram*](/arc-diagram) represents connections between any two nodes on a single axis.
 
-2. [*Network diagram*](/network-diagram) displays connections between nodes of the same level in the hierarchy without showing the numeric values representing the strengths of the connections.
+3. [*Network diagram*](/network-diagram) displays connections between nodes of the same level in the hierarchy without showing the numeric values representing the strengths of the connections.
 
 
 ## Sources
 
-[^holten]: ["Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data" by Danny Holten, IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, VOL. 12, NO. 5, SEPTEMBER/OCTOBER 2006](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf)
-[^kirk]: ["Data Visualisation: A Handbook for Data-Driven Design" by Andy Kirk, p. 189](https://books.google.com/books?id=ZrCJDAAAQBAJ&pg=PT295&lpg=PT295&dq=%22radial+network+diagram%22&source=bl&ots=aO2AtxUx3r&sig=ACfU3U3Fk3k7Via9TpgoSqwuUHPzcCl2oA&hl=en&sa=X&ved=2ahUKEwjY74LC4srhAhVi5eAKHf-2BbwQ6AEwCXoECAgQAQ#v=onepage&q=%22chord%20diagram%22&f=false)
-
+[^holten]: Holten, Danny. ["Hierarchical edge bundles: Visualization of adjacency relations in hierarchical data."](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf) *IEEE Transactions on visualization and computer graphics* 12.5 (2006): 741-748.
+[^kirk]: Kirk, Andy. [*Data visualisation: a handbook for data driven design.*](https://books.google.com/books?id=ZrCJDAAAQBAJ) Sage, 2016. p. 189. 
 

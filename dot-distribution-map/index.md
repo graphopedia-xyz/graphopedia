@@ -47,7 +47,7 @@ synonyms:
 is a map type that uses a dot symbol to show the presence of a feature emphasizing the distribution of values through the scatter pattern similar to a scatter plot.
 
 <!--more-->
-Dot distribution maps use dots or another symbol to mark the location of specific data points.
+Dot distribution maps use dots or another ***symbol*** to mark the location of specific data points. The ***legend*** indicates the meaning of symbol colors.
 
 There are two types of dot distribution maps:
 
@@ -73,8 +73,8 @@ The dot distribution map was first introduced in the early 1830s by a French mon
 ## Sources 
 
 
-[^castillo]: ["Big Crisis Data: Social Media in Disasters and Time-Critical Situations" by Carlos Castillo.  Cambridge University Press, 2016., p. 140](https://books.google.com/books?id=c1KJDAAAQBAJ)
+[^castillo]: Castillo, Carlos. [Big crisis data: social media in disasters and time-critical situations.]((https://books.google.com/books?id=c1KJDAAAQBAJ)) Cambridge University Press, 2016. p. 140.
 
-[^meirelles]: ["Design for Information: An Introduction to the Histories, Theories, and Best Practices Behind Effective Information Visualizations" by Isabel Meirelles. Rockport Publishers, 2013, p.130-131](https://books.google.fr/books?id=RFb0AwAAQBAJ)
+[^meirelles]: Meirelles, Isabel. [*Design for information: an introduction to the histories, theories, and best practices behind effective information visualizations.*](https://books.google.fr/books?id=RFb0AwAAQBAJ) Rockport publishers, 2013. p.130-131. 
 
-[^palsky]: ["La naissance de la démocartographie. Analyse historique et sémiologique" by Gilles Palsky. p.28](http://www.persee.fr/doc/espos_0755-7809_1984_num_2_2_956)
+[^palsky]: Palsky, Gilles. ["La naissance de la démocartographie. Analyse historique et sémiologique."]((http://www.persee.fr/doc/espos_0755-7809_1984_num_2_2_956)) *Espace Populations Sociétés* 2.2 (1984): 25-34. p.28.
