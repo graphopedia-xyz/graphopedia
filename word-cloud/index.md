@@ -32,6 +32,9 @@ examples:
 
 synonyms: 
   - tag cloud
+
+order: 620
+
 ---
 
 is a type of information visualization that uses font size and color to represent word frequency in a text. 

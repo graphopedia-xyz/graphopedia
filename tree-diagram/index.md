@@ -43,6 +43,8 @@ synonyms:
   - tree structure
   - tree structure diagram
 
+order: 510
+
 ---
 
 is a schematic representation of a hierarchy consisting of entities and their connections. Tree diagrams are [network diagrams](/network-diagram) with a hierarchical structure.

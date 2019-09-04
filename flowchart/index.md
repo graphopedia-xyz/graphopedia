@@ -32,7 +32,9 @@ synonyms:
   - logic chart
   - influence diagram
   - decision tree
-  
+
+order: 560
+
 ---
 
 is a graphic way of representing the sequence of any operation using nodes and links. [^henderson] The word "flowchart" is often used as a generic name for both technical diagrams such as a block scheme and general-purpose diagrams with connectors.[^chapin]

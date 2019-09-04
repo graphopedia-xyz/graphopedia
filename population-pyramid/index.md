@@ -30,6 +30,8 @@ synonyms:
   - dual histogram
   - double dual histograms
 
+order: 50
+
 ---
 
 is a pair of [histograms](/histogram) positioned back to back symmetrically along the vertical axis. The right and left sides mirror each other except in one variable, usually gender. The symmetry enables visual comparison between the lengths of bars on both sides.

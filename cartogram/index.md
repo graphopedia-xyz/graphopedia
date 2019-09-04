@@ -65,7 +65,9 @@ examples:
 synonyms:
    - value-by-area map
    - anamorphic map
-   
+
+order: 380
+
 ---
 
 is a type of map that substitutes land area with time, population or any other variable, distorting the geometry of the map. The distortion usually happens by way of resizing the map regions according to a statistical parameter, but in a way that keeps the map recognizable.

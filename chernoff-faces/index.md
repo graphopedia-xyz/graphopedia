@@ -28,6 +28,8 @@ examples:
     link:  http://www.oliveruberti.com/the-information-capital
     image:  average-personal-wellbeing-london.jpeg
 
+order: 480
+
 ---
 show multiple variables using features of a human face that vary in size and shape, reflecting a value. Chernoff faces rely on the feature of human psychology to recognize even small differences in facial features.
 

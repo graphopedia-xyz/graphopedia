@@ -23,6 +23,8 @@ examples:
     link:   http://www.hiveplot.com/img/web-title-large.png
     image:  genes-of-interest.png
 
+order: 360
+
 ---
 
 is a visualization method for drawing networks where nodes are mapped to and located on radially positioned linear axes. Arcs called *edges* are drawn to show connections between nodes.

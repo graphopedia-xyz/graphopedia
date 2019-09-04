@@ -36,6 +36,8 @@ examples:
     link:  https://flowingdata.com/2017/06/26/alone-time
     image:  how-americans-spend-their-day.jpg
 
+order: 90
+
 ---
 
 is a type of [line chart](/line-chart) that shows discrete data points in chronological order connected with line. 

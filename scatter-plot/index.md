@@ -54,6 +54,8 @@ synonyms:
   - scattergram
   - scatter diagram
 
+order: 60
+
 ---
 
 is a visualization method for showing the distribution of two variables along the horizontal and vertical axes. Scatter plots are used to show correlation and detect outliers. [^friendly]

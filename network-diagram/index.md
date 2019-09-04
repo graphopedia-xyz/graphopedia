@@ -37,6 +37,9 @@ synonyms:
   - node-link diagram
   - vertex-edge diagram
   - network graph
+
+order: 340
+
 ---
 is a visualization of entities and their relationships that together form a network structure. Each entity is a node, and each connection between nodes is a link. Any node can connect to any other node. There is no limit on the number of connects a node can have.
 

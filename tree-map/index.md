@@ -47,6 +47,9 @@ examples:
 
 synonyms:
   - treemap chart
+
+order: 490
+
 ---
 
 is a type of chart that displays hierarchical data using nested figures, usually rectangles, proportional in area to the data they represent. 

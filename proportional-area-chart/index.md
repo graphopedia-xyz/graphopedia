@@ -53,6 +53,8 @@ examples:
     note:   Spriral proportional area chart visualizing Donald Trump tweets. Each circle represent number of re-tweets and favorites. See the interactive visualizatioin to explore content of each tweet.
     link:   https://public.tableau.com/profile/neil.richards#!/vizhome/trump_5/Dashboard1
 
+order: 130
+
 ---
 
 is a type of one-dimensional chart that uses area of a shape to visualize a single variable without the use of axes. A shape, usually a rectangle, is scaled proportionally to the value it represents. The amount typically appears next to the shape. The chart is typically ordered in decreasing order of magnitude.

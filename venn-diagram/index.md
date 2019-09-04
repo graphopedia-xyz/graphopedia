@@ -83,7 +83,9 @@ synonyms:
   - set diagram
   - ballantine diagram
   - primary diagram
-  
+
+order: 290
+
 ---
 
 [//]: # ( TODO add more euler diagram examples: )

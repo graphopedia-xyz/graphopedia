@@ -57,7 +57,9 @@ examples:
 synonyms:
   - radial network diagram
   - network chord diagram
-  
+
+order: 300
+
 ---
 
 shows the weighted connections between nodes in a network. The relationships between any two nodes appear as arcs, the width of which represents the strength of the connection.

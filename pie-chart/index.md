@@ -35,6 +35,8 @@ examples:
 synonyms: 
   - circular chart
 
+order: 100
+
 ---
 
 is a type of graph that displays numbers as segments of a circle with the circle representing one hundred percent. The wedge-shaped parts represent percentages equal to their arc lengths. 

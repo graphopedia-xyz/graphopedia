@@ -27,6 +27,8 @@ examples:
 synonyms:
   - bullet graph
 
+order: 250
+
 ---
 
 is a variation of the [bar chart](/bar-chart) with an added symbol for the target value and a progress bar that approaches the target. The bullet chart includes qualitative ranges labeled from "bad" to "good," and "excellent." The bullet chart was created as an alternative to gauge charts used in dashboards. American author Stephen Few invented the bullet chart as a response to gauge charts.[^few] The bullet charts allow for easier comparison of values when positioned next to each other than the gauge charts.

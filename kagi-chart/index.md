@@ -21,6 +21,8 @@ examples:
   - title:  2-Hour Kagi Chart
     link:   https://www.flickr.com/photos/90790980@N02/10865647303/in/photolist-dRqmZN-hyahoB-9UXxeJ-fMUESf-Smfq2p-dS5PKT
 
+order: 230
+
 ---
 
 shows price movements independently of time. This feature makes the Kagi a cleaner representation of the change in price and sentiment than the [candlestick chart](/candlestick-chart).

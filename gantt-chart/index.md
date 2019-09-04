@@ -40,6 +40,8 @@ examples:
     link:   https://www.behance.net/gallery/64985395/Leaders-height
     image:  world-leaders-by-height.jpg
 
+order: 160
+
 ---
 
 is a type of [bar chart](/bar-chart) that shows the progress of events over time and their inter-dependencies, usually in the context of project management. 

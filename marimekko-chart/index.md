@@ -33,6 +33,8 @@ synonyms:
   - Mekko chart
   - eikosogram
 
+order: 140
+
 ---
 
 is a type of visualization showing categorical data as rectangles with their widths and lengths proportional to quantities and categories represented as columns. [^wilkinson]

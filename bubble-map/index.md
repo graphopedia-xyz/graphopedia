@@ -47,6 +47,9 @@ examples:
 synonyms:
   - proportional symbol map
   - graduated symbol map
+  
+order: 410
+
 ---
 visualizes numeric data using scaled symbols positioned in locations to which they refer.[^cabello] The underlying map is divided into regions, with a single symbol displayed per region.
  The symbols, typically circles, are sized based on their area, not diameter or radius. 

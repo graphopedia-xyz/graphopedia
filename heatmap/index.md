@@ -65,6 +65,9 @@ examples:
 
 synonym:
   -heat map
+
+order: 170
+
 ---
 
 is a table in which values in every cell are represented with color. Functionally, heatmaps are best at revealing the lowest and highest values as well as general patterns. Heatmaps represent a single variable (univariate data) by using color. A color either corresponds to a single value or to a range of values where the data is grouped. 

@@ -88,6 +88,9 @@ examples:
 synonyms:
   - bubble plot
   - bubble graph
+  
+order: 70
+
 ---
 
 is a type of [scatter plot](/scatter-plot) that displays three variables by using circles of varying size and their positions on the X and Y-axes. 

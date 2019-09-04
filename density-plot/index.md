@@ -61,6 +61,8 @@ synonyms:
   - kernel density estimates
   - density trace
 
+order: 260
+
 ---
 
 shows a smoothed distribution of values over a continuous period. Similar to a [histogram](/histogram), a density plot is suitable for showing continuously changing values. But compared to a histogram, the density plot is better at showing the shape of distribution because it is not affected by bin size. Density plots can be considered as plots of smoothed histograms. 

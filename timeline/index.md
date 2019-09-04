@@ -39,6 +39,8 @@ synonyms:
   - sequence chart
   - timeline diagram
 
+order: 530
+
 ---
 
 is a diagram that displays events along a line in chronological order. Timelines can represent events periods either to scale or display only the sequence of events. Typically, timelines use a linear scale, but for distant events, a logarithmic scale is more suitable.

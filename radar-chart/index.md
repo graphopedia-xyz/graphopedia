@@ -46,6 +46,8 @@ synonyms:
   - Kiviat diagram
   - polar parallel coordinates
 
+order: 120
+
 ---
 
 visualizes data with multiple variables mapped on radial axes.[^friendly]

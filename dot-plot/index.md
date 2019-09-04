@@ -39,9 +39,7 @@ examples:
     link:  https://www.economist.com/node/21603828
     image:  every-goal-scored-in-the-football-world-cup.png
 
-
-
- 
+order: 40
 
 ---
 shows the distribution of individual observations represented as dots at regular intervals. Dots are placed as close to their position along the scale as possible but without overlapping other dots. 
