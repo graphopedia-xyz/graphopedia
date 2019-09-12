@@ -43,6 +43,8 @@ examples:
     link:   http://www.studentshow.com/gallery/15893753/WIRED-ITA-Un-Mondo-di-Schiavi
     image:  indicators-of-slavery-eu.jpg
 
+order: 320
+
 ---
 
 is displays multiple variables along vertical axes while tracing the relationship between them using a connecting line. [^wilkinson] Each variable has its axis, and all the axes are parallel to each other. Each axis may have a different scale expressed in its unit of measurement. Values show up as a series of lines connected between all the axes.

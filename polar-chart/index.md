@@ -52,6 +52,8 @@ synonyms:
   - windrose chart
   - rose chart
 
+order: 110
+
 ---
 
 is a type of [pie chart](/pie-chart) in which all sectors have equal angles differing only in how far each segment extends from the center of the circle. [^friendly]  The data is represented as the area, not the height, of a sector.

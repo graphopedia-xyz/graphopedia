@@ -25,6 +25,8 @@ synonyms:
   - isoline map
   - contour line map
 
+order: 430
+
 ---
 
 shows the data as a third dimension on a map by using lines that connect all points having the same value of some measurable quantity. These lines are called *isopleths* or *isolines*.

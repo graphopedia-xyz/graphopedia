@@ -38,8 +38,7 @@ examples:
     link:   https://en.wikipedia.org/wiki/Pyramid_of_Capitalist_System#/media/File:Pyramid_of_Capitalist_System.jpg
     image:  pyramid-of-capitalist-system.jpg
 
-
-    
+order: 590
 
 ---
 

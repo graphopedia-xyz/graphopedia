@@ -40,6 +40,9 @@ examples:
 synonyms:
   - funnel chart
   - funnel graph
+
+order: 600
+
 ---
 
 shows stages of a process that progressively decrease in quantity or quality, starting with 100% at the top of the funnel. 

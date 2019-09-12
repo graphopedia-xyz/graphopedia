@@ -42,7 +42,9 @@ examples:
     
 synonyms:
   - hierarchical clustering tree
-  
+
+order: 520
+
 ---
 
 is a type of a [tree diagram](tree-diagram) that represents hierarchies and clustering as connected nodes, starting with a root node at the top of the hierarchy and ending with leaf nodes.  

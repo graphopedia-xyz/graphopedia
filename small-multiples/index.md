@@ -51,6 +51,8 @@ synonyms:
   - lattice chart
   - panel chart
 
+order: 450
+
 ---
 
 is a visualization technique of arranging a series of graphs, maps, or pictographs at the same scale ordered to allow for visual comparison. The order of the graphs is usually chronological or alphabetical. The graphs appear either in a row or in a table.

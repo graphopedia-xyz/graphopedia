@@ -55,6 +55,8 @@ examples:
     link:   https://projects.propublica.org/graphics/eitc-audit
     image:  where-irs-audits-more.png
 
+order: 390
+
 ---
 is a type of thematic map in which areas are colored to represent a variable proportionally to the colored area. A color legend links colors with values or value ranges.
 

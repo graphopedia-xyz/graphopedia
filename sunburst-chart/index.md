@@ -39,7 +39,9 @@ synonyms:
   - radial treemap
   - nested pie chart
   - stacked pie chart
-  
+
+order: 500
+
 ---
 
 is a type of [tree map](/tree-map) in a radial layout for displaying hierarchical data. Each level of hierarchy appears as a concentric circle. The outermost circle represents the bottom of the hierarchy. The highest level of the hierarchy is at the center. 

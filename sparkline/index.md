@@ -26,6 +26,8 @@ examples:
 synonyms:
   - inline chart
 
+order: 440
+
 ---
 
 is a small chart without axes or coordinates, usually intended to be shown inline with text, in a data table, or a [small multiples](/small-multiples) matrix. The purpose of a sparkline is to quickly communicate the shape of the graph without communicating its specific values. 

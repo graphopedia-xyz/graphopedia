@@ -54,8 +54,7 @@ examples:
     note:   This is a combination of the arc diagram with a bar chart. The arcs here connect versions of software that share parts of their code.
     image:  lines-of-code.png
  
- 
-
+order: 350
 
 ---
 

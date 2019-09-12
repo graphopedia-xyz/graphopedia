@@ -28,6 +28,8 @@ examples:
 synonyms:
   - concentric circles diagram
 
+order: 580
+
 ---
 is a type of non-numeric diagram that consists of concentric circles representing categories. Each outer ring represents a category that includes all of its inner circles. 
 

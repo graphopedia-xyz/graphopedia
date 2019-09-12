@@ -35,6 +35,8 @@ examples:
     link:  https://archive.nytimes.com/screenshots/www.nytimes.com/interactive/2008/02/23/movies/20080223_REVENUE_GRAPHIC.jpg
     image:  movie-box-office-receipts.jpg
 
+order: 280
+
 ---
 
 is a type of [stacked area chart](/area-chart) that displays the data curves relative to its central axis.[^byron] 

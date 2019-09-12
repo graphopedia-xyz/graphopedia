@@ -62,7 +62,8 @@ synonyms:
   - Tukey's box plot
   - schematic plot
   - quantile plot
-  
+
+order: 210
 
 ---
 

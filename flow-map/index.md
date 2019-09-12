@@ -42,6 +42,7 @@ examples:
     link:   http://hint.fm/wind
     image:  wind-map-united-states.png
     
+order: 420
 
 
 ---

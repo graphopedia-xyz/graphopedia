@@ -47,6 +47,8 @@ examples:
     link:  https://twitter.com/NadiehBremer/status/1100791165769502720
     image:  income-statement.jpg
 
+order: 330
+
 ---
 is a type of graph that represents change over time or distance as the width of a flowing line that is proportional to a quantity. Sankey diagrams emphasize the transfers in a system by splitting the flow line. [^schmidt] 
 <!--more-->

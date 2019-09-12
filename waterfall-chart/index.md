@@ -39,6 +39,9 @@ examples:
     image:  ge-valuation-sum-of-parts.png
 synonyms:
   - bridge chart
+  
+order: 150
+
 ---
 
 is a type of [bar chart](/bar-chart) that tracks the change from an initial value through a series of intermediate values to the end value. The first column is the initial value. The last column is a cumulative total.  The intermediate values reflect positive or negative changes.

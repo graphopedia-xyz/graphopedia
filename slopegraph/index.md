@@ -39,7 +39,7 @@ examples:
     link:   https://www.economist.com/graphic-detail/2018/09/20/citizens-basic-needs-are-being-met-but-they-lack-opportunities
     image:  social-progress.png
 
-
+order: 190
 
 ---
 is a type of [line graph](/line-graph) for multiple categories that are ranked, usually over time or at equal intervals. Slopegraphs visualize a change in rank along two axes using a connecting line and comparing those changes across multiple categories. 

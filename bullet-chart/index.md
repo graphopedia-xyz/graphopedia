@@ -27,6 +27,8 @@ examples:
 synonyms:
   - bullet graph
 
+order: 250
+
 ---
 
 is a variation of the [bar chart](/bar-chart) with an added symbol for the target value and a progress bar that approaches the target.

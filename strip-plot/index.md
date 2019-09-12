@@ -34,7 +34,9 @@ examples:
 synonyms:
   - jitter plot
   - jittered scatter plot
-  
+
+order: 80
+
 ---
 
 is a type of [scatter plot](/scatter-plot) where one variable is categorical.

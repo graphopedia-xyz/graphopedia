@@ -49,6 +49,8 @@ synonyms:
   - strip diagram
   - pictorial algebra
 
+order: 460
+
 ---
 
 is a type of chart that represents relationships between quantities. The tape diagram is used to solve mathematics word problems by using a repeating unit of measurement. 

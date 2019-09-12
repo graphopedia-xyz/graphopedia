@@ -66,6 +66,7 @@ examples:
     link:   https://en.wikipedia.org/wiki/Area_chart#/media/File:1786_Playfair_-_25_Interest_of_the_national_Debt_from_the_Revolution.jpg
     image:  playfair-national-debt.jpg
     
+order: 20
 
 ---
 

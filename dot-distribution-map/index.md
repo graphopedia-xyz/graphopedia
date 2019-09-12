@@ -43,6 +43,9 @@ examples:
 
 synonyms:
   - dot density map
+  
+order: 400
+
 ---
 is a map type that uses a dot symbol to show the presence of a feature emphasizing the distribution of values through the scatter pattern similar to a scatter plot.
 

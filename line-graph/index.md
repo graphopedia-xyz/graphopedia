@@ -31,6 +31,8 @@ synonyms:
   - line chart
   - line plot
 
+order: 180
+
 ---
 
 shows trends in data using a line that connects individual data points.  The overall slope of the lines indicates the direction of the pattern of change. 

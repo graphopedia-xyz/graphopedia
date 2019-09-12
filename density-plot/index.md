@@ -61,6 +61,8 @@ synonyms:
   - kernel density estimates
   - density trace
 
+order: 260
+
 ---
 
 shows a smoothed distribution of values over a continuous period.

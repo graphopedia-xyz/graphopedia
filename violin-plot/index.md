@@ -34,6 +34,7 @@ examples:
     link:  https://public.tableau.com/views/LifeExpectancyAtBirth/7
     image:  life-expectancy-at-birth.png
 
+order: 220
 
 ---
 is a combination of a [box plot](/box-plot) and a kernel [density plot](/density-plot) added on both sides. Similar to a box plot, a violin plot shows four types of values. The outer shape represents all possible results with the thickest section representing the mode average.

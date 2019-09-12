@@ -68,6 +68,8 @@ synonyms:
   - bar graph
   - column graph
 
+order: 10
+
 ---
 
 displays the relationship of a category to a numeric variable as the height a rectangle bar.  Each bar represents a single number. Bar charts compare discrete numbers and not continuously changing data.[^harris]

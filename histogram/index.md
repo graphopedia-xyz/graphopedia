@@ -71,8 +71,7 @@ examples:
     image:  what-happens-as-world-ages.jpg
     note:  Comparative histogram of age distribution now and in 2050 across all parts of the world.
 
-
- 
+order: 30
 
 ---
 

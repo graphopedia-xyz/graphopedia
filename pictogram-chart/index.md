@@ -54,6 +54,8 @@ synonyms:
   - pictograph chart
   - ISOTYPE chart
 
+order: 470
+
 ---
 
 is a method of visualizing numbers by repeating identical pictographs that refer to objects or concepts depicting the data being visualized. The pictographs are graphically uniform abstracted symbols optimized for swift visual recognition. [^holmes]

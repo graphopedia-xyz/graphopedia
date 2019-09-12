@@ -35,6 +35,8 @@ examples:
 synonyms:
   - spider diagram
 
+order: 550
+
 ---
 is a type of knowledge representation that shows concepts as nodes and links between them as connecting lines forming an overall outward-branching hierarchical structure.[^plotnik] 
 

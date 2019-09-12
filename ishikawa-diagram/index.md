@@ -31,6 +31,8 @@ synonyms:
   - cause-and-effect diagram
   - fishikawa diagram
 
+order: 570
+
 ---
 
 is a type of non-numeric diagram that shows cause and effect relationships.  Causes are grouped into categories that are positioned at the base of each "bone" in the fishbone.
