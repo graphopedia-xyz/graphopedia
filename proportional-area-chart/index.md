@@ -74,10 +74,11 @@ Pictographs and illustrations are not the best choices of shape for a proportion
 ## Variations
 
 ### Split proportional area chart
-<img src="split-proportional-area-chart.svg" class="f-right-half" /> uses halves of two circles, the area of which can be inferred from the half. This variation enables a more precise comparison of two shapes.
+<img src="split-proportional-area-chart.svg" class="f-right-half" /> uses halves of two circles, the area of which can be inferred from the half. This variation encourages a more precise comparison of the two shapes.
 
 ### Quadruple proportional area chart
-<img src="quadruple-proportional-area-chart.svg" class="f-right-half" /> Similar to a split proportional chart, the quadruple proportional chart locates a group of shapes in close proximity to each other to enable the reader to compare their areas. The square is the optimal shape for this variation.
+<img src="quadruple-proportional-area-chart.svg" class="f-right-half" /> Similar to a split proportional chart, the quadruple proportional chart locates a group of shapes in close proximity to each other to enable the reader to compare their areas. 
+Squares and circles are the optimal shapes for this variation.
 
 ### Nested proportional area chart
 <img src="nested-proportional-area-chart.svg" class="f-right-half" /> Nested proportional area charts overlap the shapes to facilitate comparison between them. The nested shapes are typically aligned either at their bottom edge or in the lower left corner.

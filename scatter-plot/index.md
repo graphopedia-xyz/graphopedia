@@ -73,17 +73,17 @@ Since scatter plots display a dot for every data point, overplotting is a common
 
 ## Variations
 
-### Multicolor scatter plot
-<img src="multi-color-scatterplot.svg" class="f-right-half" /> Color could be used to show different data series in one plot...
+### Multi-color scatter plot
+<img src="multi-color-scatterplot.svg" class="f-right-half" /> Color can be used to show different data series in one scatter plot. Color can also be used to encode one additional categorical variable. 
 
-### Multi symbol scatter plot
-<img src="multi-symbol-scatterplot.svg" class="f-right-half" /> Multiple symbols could be used to show different data series in one plot...
+### Multi-symbol scatter plot
+<img src="multi-symbol-scatterplot.svg" class="f-right-half" /> Symbols can be used in a scatter plot to encode oe additional categorical variable. Symbols can replace color variation in cases where only monochromatic color scheme is available.
 
 ### Radial scatter plot
-<img src="radial-scatterplot.svg" class="f-right-half" /> Radial scatter plot is functionally the same except it is set into polar coordinates. This variety of scatter plot is useful for visualizing cyclical or seasonal phenomena. One example below shows the incidence of disease by birth month.
+<img src="radial-scatterplot.svg" class="f-right-half" /> Radial scatter plot is functionally the same except that it is set into polar coordinates. This variety of scatter plot is useful for visualizing cyclical or seasonal phenomena. One example below shows the incidence of disease by birth month.
 
 ### Hexagonal bin plot
-<img src="hexagonal-bin-plot.svg" alt="hexagonal bin plotlot" class="f-right-half" /> Hexagonal bin plot is a scatter plot where individual observations were put into bins. Binning is a process of grouping observations at a set interval, which is the bin size. Each bin is represented as a symbol colored to show the density.
+<img src="hexagonal-bin-plot.svg" alt="hexagonal bin plotlot" class="f-right-half" /> Hexagonal bin plot is a scatter plot where individual observations were put into bins. Binning is a process of grouping observations at a set interval, which is the bin size. Each bin is represented as a symbol colored to show the density it represents. Sexagons are often the symbol of choice because of their tiling properties. 
 
 
 ## Sources
