@@ -74,19 +74,19 @@ Pictographs and illustrations are not the best choices of shape for a proportion
 ## Variations
 
 ### Split proportional area chart
-<img src="split-proportional-area-chart.svg" class="f-right-half" /> is ..
+<img src="split-proportional-area-chart.svg" class="f-right-half" /> uses halves of two circles, the area of which can be inferred from the half. This variation enables a more precise comparison of two shapes.
 
 ### Quadruple proportional area chart
-<img src="quadruple-proportional-area-chart.svg" class="f-right-half" /> is ..
+<img src="quadruple-proportional-area-chart.svg" class="f-right-half" /> Similar to a split proportional chart, the quadruple proportional chart locates a group of shapes in close proximity to each other to enable the reader to compare their areas. The square is the optimal shape for this variation.
 
 ### Nested proportional area chart
-<img src="nested-proportional-area-chart.svg" class="f-right-half" /> is ..
+<img src="nested-proportional-area-chart.svg" class="f-right-half" /> Nested proportional area charts overlap the shapes to facilitate comparison between them. The nested shapes are typically aligned either at their bottom edge or in the lower left corner.
 
 ### Spiral proportional area chart
-<img src="spiral-proportional-area-chart.svg" class="f-right-half" /> is ..
+<img src="spiral-proportional-area-chart.svg" class="f-right-half" /> Shapes in a proportional area chart can be arranged in a spiral as a space-saving technique. Partial overlap of shapes is possible when circles are used since their area can be inferred even when partially hidden.
 
 ### Proportional area chart with circle packing
-<img src="circle-packing-proportional-area-chart.svg" class="f-right-half" /> is ..
+<img src="circle-packing-proportional-area-chart.svg" class="f-right-half" /> Shapes can be arranged in a space-saving layout such that they are located closest to each other while avoiding overlapping, called circle packing. 
 
 ## Sources
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000, p.680-81.
