@@ -61,9 +61,9 @@ Still, the limitation is that the reader can only compare the two adjacent dimen
 
 
 ## Sources
-[^wilkinson]: [Wilkinson, L., 2005. The Grammar of Graphics, Second Edition. Springer. pp.251-252](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
-[^rumsey]: ["General Summary, Showing the Rank of States, by Ratios, 1880" by Henry Gannetts In: The David Rumsey Collection](https://www.davidrumsey.com/luna/servlet/s/jq78gr)
-[^inselberg]: [Inselberg A., Dimsdale B. (1987) Parallel Coordinates for Visualizing Multi-Dimensional Geometry. In: Kunii T.L. (eds) Computer Graphics 1987. Springer, Tokyo p.69](https://doi.org/10.1007/978-4-431-68057-4_3)
-[^andrews]: [Andrews, D. (1972). Plots of High-Dimensional Data. Biometrics, 28(1), 125-136. doi:10.2307/2528964](https://www.jstor.org/stable/2528964)
-[^wilkinson2]: [ L. Wilkinson, A. Anand, and R. Grossman. High-dimensional visual analytics: Interactive exploration guided by pairwise views of point distributions. Visualization and Computer Graphics, IEEE Transactions on, 12(6):1363–1372, 2006.](https://www.cs.uic.edu/~wilkinson/Publications/sorting.pdf)
+[^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. pp.251-252.
+[^rumsey]: Gannett, H., and F. W. Hewes. ["General summary showing the rank of states by ratios 1880."](https://www.davidrumsey.com/luna/servlet/s/jq78gr) *Scribner’s statistical atlas of the United States showing by graphic methods their present condition and their political, social and industrial development*, Hewes FW,(Ed.). United States. Census Office (1883): 151.
+[^inselberg]: Inselberg, Alfred, and Bernard Dimsdale. ["Parallel coordinates for visualizing multi-dimensional geometry."](https://doi.org/10.1007/978-4-431-68057-4_3) *Computer Graphics* 1987. Springer, Tokyo, 1987. 25-44. p.69.
+[^andrews]: Andrews, David F. ["Plots of high-dimensional data."](https://www.jstor.org/stable/2528964) *Biometrics* (1972): 125-136.
+[^wilkinson2]: Wilkinson, Leland, Anushka Anand, and Robert Grossman. ["High-dimensional visual analytics: Interactive exploration guided by pairwise views of point distributions."](https://doi.org/10.1109/TVCG.2006.94) *IEEE Transactions on Visualization and Computer Graphics* 12.6 (2006): 1363-1372. [PDF](https://www.cs.uic.edu/~wilkinson/Publications/sorting.pdf)
 

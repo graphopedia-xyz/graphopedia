@@ -69,7 +69,7 @@ examples:
 
 ---
 
-displays data as the area between the data curve and the horizontal axis. [^wilkinson] Area charts emphasize the change of a single variable by connecting individual data points. 
+displays data as the area between the data curve and the horizontal axis. Area charts emphasize the change of a single variable by connecting individual data points. 
 
 
 <!--more-->
@@ -115,7 +115,6 @@ A radial area chart is an area chart plotted in polar coordinates. Even though i
 
 ## Sources
 
-[^wilkinson]:  Wilkinson, Leland. ["The grammar of graphics."](https://books.google.com/books?id=ZiwLCAAAQBAJ) Handbook of Computational Statistics. Springer, Berlin, Heidelberg, 2012. 375-414.
-[^harris]: Harris, Robert L. [Information graphics: A comprehensive illustrated reference.](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 10
+[^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 10
 [^thud]: Thudt, Alice, et al. ["Assessing the Readability of Stacked Graphs."](https://dx.doi.org/10.20380/GI2016.21) 2016. [PDF](https://hal.inria.fr/hal-01587962/document)
-[^koponen]: Koponen, Juuso, and Jonatan Hildén. [Data visualization handbook.](https://shop.aalto.fi/p/971-data-visualization-handbook/) Aalto korkeakoulusäätiö, 2019 p. 210 
+[^koponen]: Koponen, Juuso, and Jonatan Hildén. [*Data visualization handbook.*](https://shop.aalto.fi/p/971-data-visualization-handbook/) Aalto korkeakoulusäätiö, 2019 p. 210 

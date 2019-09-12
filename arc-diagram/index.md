@@ -95,10 +95,10 @@ In 1964, mathematician Thomas Saaty proposed the first version of the arc diagra
 2. [*Network diagram*](/network-diagram) is functionally the same as an arc diagram, network diagrams use two-dimensional space, which makes them easier to read as long as they are uncluttered.
 
 ## References
-[^wattenberg]: Wattenberg, Martin. ["Visual exploration of multivariate graphs."](http://hint.fm/papers/pivotgraph.pdf) Proceedings of the SIGCHI conference on Human Factors in computing systems. ACM, 2006.
-[^nagel]: Nagel, Till, and Erik Duval. ["A visual survey of arc diagrams."](https://uclab.fh-potsdam.de/wp/wp-content/uploads/2013-a-visual-survey-of-arc-diagrams.pdf) IEEE Visualization. 2013.
-[^heer]: Heer, Jeffrey, Michael Bostock, and Vadim Ogievetsky. ["A tour through the visualization zoo."](https://queue.acm.org/detail.cfm?searchterm=Mind+Maps&id=1805128) Commun. Acm 53.6 (2010): 59-67.
+[^wattenberg]: Wattenberg, Martin. ["Visual exploration of multivariate graphs."](http://hint.fm/papers/pivotgraph.pdf) *Proceedings of the SIGCHI conference on Human Factors in computing systems*. ACM, 2006.
+[^nagel]: Nagel, Till, and Erik Duval. ["A visual survey of arc diagrams."](https://uclab.fh-potsdam.de/wp/wp-content/uploads/2013-a-visual-survey-of-arc-diagrams.pdf) *IEEE Visualization*. 2013.
+[^heer]: Heer, Jeffrey, Michael Bostock, and Vadim Ogievetsky. ["A tour through the visualization zoo."](https://queue.acm.org/detail.cfm?searchterm=Mind+Maps&id=1805128) *Commun. Acm 53.6* (2010): 59-67.
 [^sanchez]: ["Arc Diagrams in R: Les Miserables" by Gaston Sanchez](http://www.gastonsanchez.com/visually-enforced/got-plot/how-to/2013/02/02/Arc-Diagrams-in-R-Les-Miserables/)
-[^wattenberg2]: Wattenberg, Martin. ["Arc diagrams: Visualizing structure in strings."](http://ieg.ifs.tuwien.ac.at/~aigner/teaching/ws06/infovis_ue/papers/arcdiagram_01173155.pdf) IEEE Symposium on Information Visualization, 2002. INFOVIS 2002.. IEEE, 2002.]
-[^saaty]: Saaty, Thomas L. ["The minimum number of intersections in complete graphs."](https://www.pnas.org/content/52/3/688) Proceedings of the National Academy of Sciences of the United States of America 52.3 (1964): 688.
+[^wattenberg2]: Wattenberg, Martin. ["Arc diagrams: Visualizing structure in strings."](http://ieg.ifs.tuwien.ac.at/~aigner/teaching/ws06/infovis_ue/papers/arcdiagram_01173155.pdf) *IEEE Symposium on Information Visualization, 2002. INFOVIS 2002*. IEEE, 2002.
+[^saaty]: Saaty, Thomas L. ["The minimum number of intersections in complete graphs."](https://www.pnas.org/content/52/3/688) *Proceedings of the National Academy of Sciences of the United States of America* 52.3 (1964): 688.
 [^wattenberg3]: ["The Shape of Song" by Martin Wattenburg"](http://turbulence.org/Works/song/gallery/gallery.html)

@@ -85,4 +85,4 @@ Similar to a [histogram](/histogram), a density plot is suitable for showing con
 
 ## Sources
 
-[^tukey]: Tukey, John Wilder [Exploratory data analysis.](http://theta.edu.pl/wp-content/uploads/2012/10/exploratorydataanalysis_tukey.pdf) Reading, PA: Addison-Wesley (1977).
+[^tukey]: Tukey, John Wilder [*Exploratory data analysis.*](http://theta.edu.pl/wp-content/uploads/2012/10/exploratorydataanalysis_tukey.pdf) Reading, PA: Addison-Wesley (1977).

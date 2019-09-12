@@ -61,5 +61,5 @@ Slopegraphs are also similar to [parallel coordinates plots](/parallel-coordinat
 
 
 ## Sources
-[^tufte]: Edward Tufte (1983). The Visual Display of Quantitative Information. Graphics Press. p. 158-159
+[^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001. p. 158-159.
 [^tufte2]: [Edward Tufte forum](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk). Retrieved May 24, 2019.

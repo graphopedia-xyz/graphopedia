@@ -48,7 +48,7 @@ is a type of non-numeric visualization for hierarchies and groups. Pyramids are 
 <!--more-->
 Pyramid charts are useful as visual aids [^solon] in classrooms and in presentations.
 
-Even though some software programs create pyramid charts based on numeric data, the pyramid diagram only suits metaphoric use. Graphs such as the [stacked bar chart](/bar-chart) visualize quantities without the confusion of pyramid diagrams [^su].
+Even though some software programs create pyramid charts based on numeric data, the pyramid diagram only suits metaphoric use. Graphs such as the [stacked bar chart](/bar-chart) visualize quantities without the confusion of pyramid diagrams.
 
 Some of the most well-known pyramid charts in science are the Maslow's hierarchy of needs and the USDA Food Guide Pyramid. 
 
@@ -59,6 +59,5 @@ The [population pyramid](/population-pyramid) chart is a similarly named but an 
 1. [*Tornado chart*](/bar-chart#variations) is a type of bar chart that with bars sorted in ascending or descending order which creates the shape of a pyramid.
 
 ## Sources
-[^su]: [Yu-Sung Su, It's easy to produce chartjunk using Microsoft®Excel 2007 but hard to make good graphs, Computational Statistics & Data Analysis, Volume 52, Issue 10, 2008, pp. 4594-4601,]()
-[^solon]: [Solon, C. (1980). The Pyramid Diagram: A College Study Skills Tool. Journal of Reading, 23(7), 594-597.](http://www.jstor.org/stable/40017000)
+[^solon]: Solon, Carol. ["The pyramid diagram: A college study skills tool."](https://www.jstor.org/stable/40017000) *Journal of Reading* 23.7 (1980): 594-597.
 

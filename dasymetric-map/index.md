@@ -48,4 +48,4 @@ The dasymetric map was developed in 1911 by Benjamin Semenov-Tyan-Shansk. Americ
 
 ## Sources
 
-[^kostelnick]: Kostelnick, Charles, ed. [Visible Numbers: Essays on the History of Statistical Graphics.](https://books.google.com/books?id=gCMxDwAAQBAJ) Routledge, 2017.
+[^kostelnick]: Kostelnick, Charles, ed. [*Visible Numbers: Essays on the History of Statistical Graphics.*](https://books.google.com/books?id=gCMxDwAAQBAJ) Routledge, 2017.

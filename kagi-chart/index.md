@@ -40,4 +40,4 @@ The Kagi chart originates from Japan where during the 1870s it was used in stock
 2. *Renko chart*  represents price movements by using bricks. Each time a price increases by a preset amount, a new brick appears.
 
 ## Sources
-[^confas]: Confas, Abe [Sentiment Indicators: Renko, Price Break, Kagi, Point, and Figure - What They Are and How to Use Them to Trade](https://books.google.com/books?id=9JZ6U7JZVyQC) John Wiley & Sons, 2010, p.148
+[^confas]: Confas, Abe [*Sentiment Indicators: Renko, Price Break, Kagi, Point, and Figure - What They Are and How to Use Them to Trade*](https://books.google.com/books?id=9JZ6U7JZVyQC) John Wiley & Sons, 2010, p.148.

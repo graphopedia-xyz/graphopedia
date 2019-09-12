@@ -80,14 +80,15 @@ Another solution is using other figures such as polygons as in Voronoi treemap o
 Gosper maps are based on fractal geometry - shapes that are self-similar and when repeated form a pattern that looks like the basic shape itself. The map resembles a cartographic map with a visible nested structure. [^auber]
 
 
-## Alternative charts
+## Alternatives
+
 1. [*Marimekko chart*](/marimekko-chart) uses the area of rectangles positioned along the X and Y axes to represent three variables. Unlike the treemap, it cannot reflect hierarchies.
 2. [*Tree diagram*](/tree-diagram) uses nodes and links to show a hierarchical structure.
 
 
 ## Sources
-[^schneiderman]: Shneiderman, Ben. ["Treemaps for space-constrained visualization of hierarchies."](http://www.cs.umd.edu/hcil/treemap-history/index.shtml) (2005).
-[^kong]: N. Kong, J. Heer and M. Agrawala, ["Perceptual Guidelines for Creating Rectangular Treemaps"](https://ieeexplore.ieee.org/document/5613436) in IEEE Transactions on Visualization and Computer Graphics, vol. 16, no. 6, pp. 990-998, Nov.-Dec. 2010. doi: 10.1109/TVCG.2010.186s
-[^wattenberg]: Wattenberg, Martin. ["A note on space-filling visualizations and space-filling curves." IEEE Symposium on Information Visualization, 2005. InfoVis 2005. IEEE ](http://hint.fm/papers/158-wattenberg-final3.pdf) (2005). 
-[^bruls]: Bruls, Mark, Kees Huizing, and Jarke J. Van Wijk. ["Squarified treemaps."](https://www.win.tue.nl/~vanwijk/stm.pdf) Data Visualization, 2000. Springer, Vienna, 2000. 33-42.
-[^auber]: Auber, David, et al. ["Gospermap: Using a gosper curve for laying out hierarchical data."](https://hal.archives-ouvertes.fr/hal-00959383/document) IEEE Transactions on Visualization and Computer Graphics 19.11 (2013): 1820-1832.
+[^schneiderman]: Shneiderman, Ben, and Catherine Plaisant. "Treemaps for space-constrained visualization of hierarchies." (1998). [PDF](https://s3.amazonaws.com/academia.edu.documents/30742877/shneiderman_treemap-history_1998-2009.pdf)
+[^kong]: Kong, Nicholas, Jeffrey Heer, and Maneesh Agrawala. ["Perceptual guidelines for creating rectangular treemaps."](https://doi.org/10.1109/TVCG.2010.186) *IEEE transactions on visualization and computer graphics* 16.6 (2010): 990-998. [PDF](http://idl.cs.washington.edu/files/2010-Treemaps-InfoVis.pdf)
+[^wattenberg]: Wattenberg, Martin. ["A note on space-filling visualizations and space-filling curves."](https://doi.org/10.1109/INFVIS.2005.1532145) *IEEE Symposium on Information Visualization*, 2005. *INFOVIS* 2005. IEEE, 2005. [PDF](http://hint.fm/papers/158-wattenberg-final3.pdf).
+[^bruls]: Bruls, Mark, Kees Huizing, and Jarke J. Van Wijk. ["Squarified treemaps."](https://doi.org/10.1007/978-3-7091-6783-0_4) *Data Visualization, 2000*. Springer, Vienna, 2000. 33-42. [PDF]((https://www.win.tue.nl/~vanwijk/stm.pdf))
+[^auber]: Auber, David, et al. ["Gospermap: Using a gosper curve for laying out hierarchical data."](https://doi.org/10.1109/TVCG.2013.91) *IEEE Transactions on Visualization and Computer Graphics* 19.11 (2013): 1820-1832. [PDF]((https://hal.archives-ouvertes.fr/hal-00959383/document))

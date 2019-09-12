@@ -65,5 +65,5 @@ Jittering is only useful with sparse counts[^wilkinson]. For larger numbers of d
 
 
 ## Sources
-[^cairo]: Cairo, Alberto. [The truthful art: data, charts, and maps for communication.](http://www.thefunctionalart.com/p/the-truthful-art-book.html) New Riders, 2016, pp. 153-154.
-[^wilkinson]: Wilkinson, Leland. ["The grammar of graphics."](https://cds.cern.ch/record/1250322/files/9780387245447_TOC.pdf) Handbook of Computational Statistics. Springer, Berlin, Heidelberg, 2012. 375-414.
+[^cairo]: Cairo, Alberto. [*The truthful art: data, charts, and maps for communication.*](http://www.thefunctionalart.com/p/the-truthful-art-book.html) New Riders, 2016, pp. 153-154.
+[^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p. 175.

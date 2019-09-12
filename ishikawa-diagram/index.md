@@ -48,9 +48,9 @@ The limitation of Ishikawa diagrams may be in their ability to show complexity. 
 
 
 ## Sources
-[^ishikawa]: [Guide to quality control by Kaoru Ishikawa](https://openlibrary.org/books/OL4595409M/Guide_to_quality_control)
-[^wong]: ["Using an Ishikawa diagram as a tool to assist memory and retrieval of relevant medical cases from the medical literature" by Kam Cheong Wong, Journal of Medical Case Reports 2011 5:120 ](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/1752-1947-5-120)
+[^ishikawa]: Ishikawa, Kaoru. [*Guide to quality control.*](https://openlibrary.org/books/OL4595409M/Guide_to_quality_control) No. TS156. I3713 1994.. 1982.
+[^wong]: Wong, Kam Cheong. ["Using an Ishikawa diagram as a tool to assist memory and retrieval of relevant medical cases from the medical literature."](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/1752-1947-5-120) (2011): 120.
 
-[^luca]: ["A new model of Ishikawa diagram for quality assessment" by Luca Liliana 2016 IOP Conf. Ser.: Mater. Sci. Eng. 161 012099 ](https://iopscience.iop.org/article/10.1088/1757-899X/161/1/012099/pdf)
+[^luca]: Liliana, Luca. ["A new model of Ishikawa diagram for quality assessment."](https://iopscience.iop.org/article/10.1088/1757-899X/161/1/012099/pdf) *IOP Conference Series: Materials Science and Engineering.* Vol. 161. No. 1. IOP Publishing, 2016.
 
-[^gartlehner]: ["User testing of an adaptation of fishbone diagrams to depict results of systematic reviews" by Gerald Gartlehner et al., BMC Medical Research Methodology 2017 ](https://link.springer.com/article/10.1186/s12874-017-0452-z)
+[^gartlehner]: Gartlehner, Gerald, et al. ["User testing of an adaptation of fishbone diagrams to depict results of systematic reviews."](https://link.springer.com/article/10.1186/s12874-017-0452-z) *BMC medical research methodology* 17.1 (2017): 169.

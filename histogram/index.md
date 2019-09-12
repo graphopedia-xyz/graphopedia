@@ -91,7 +91,7 @@ Even though a histogram is visually similar to a [bar chart](/bar-chart), functi
 
 Histograms are similar to the [density plot](/density-plot) in that both show distributions. The concept of bins is related to the density plot's bandwidth. But unlike a density plot, a histogram shows the distribution discretely, not continuously. [^tutorial]
 
-Histograms were introduced by English mathematician Karl Pearson in 1895.[^pearson] Pearson proposed the histogram as a 'time-gram' to show change over time.[^flood]
+Histograms were introduced by English mathematician Karl Pearson in 1895.[^rufilanchas] Pearson proposed the histogram as a 'time-gram' to show change over time.[^flood]
 
 ## Variations
 
@@ -114,10 +114,10 @@ The general trade-offs among distribution-displaying charts are that the more in
 
 ## Sources
 
-[^wilkinson]:  ["The grammar of graphics" by Leland Wilkinson. Springer p.49](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
+[^wilkinson]:  Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p.49.
 [^tutorial]: To see how raw data is transformed into a histogram and how the bin size affects the shape of the histogram, see this [interactive visualization on how histograms work](http://tinlizzie.org/histograms)
-[^pearson]: Karl Pearson, Gresham Lecture on 'Maps and Chartograms' (20 November 1891) KP:UCL/49/21.
-[^flood]: ["Mathematics in Victorian Britain" by Raymond Flood et al. 2011, Oxford University Press, p. 291](https://books.google.fr/books?id=l5YiddUUfl4C)
+[^rufilanchas]: Rufilanchas, Daniel Riaño. "On the origin of Karl Pearson’s term “histogram”." *Estadística española* 59.192 (2017): 29-35.
+[^flood]: Flood, Raymond, Adrian Rice, and Robin Wilson, eds. [*Mathematics in Victorian Britain.*](https://books.google.com/books?id=l5YiddUUfl4C) Oxford University Press, 2011. p.291. 
 
 
 

@@ -55,7 +55,7 @@ is a type of chart that represents relationships between quantities. The tape di
 
 <!--more-->
 Tape diagrams usually represent a unit with a rectangle. The rectangle repeats without spaces to represent numbers and ratios. 
-The concept of tape diagrams derives from the idea of forming units, a visual representation of numbers and their fractions.[^minds]
+The concept of tape diagrams derives from the idea of forming units, a visual representation of numbers and their fractions.
 The name of the chart comes from its resemblance to a piece to measuring tape.
 
 Tape diagrams are used for illustrating arithmetic problems as well as for introducing students to algebra. 
@@ -66,6 +66,4 @@ Tape diagrams typically appear in these two use cases:
 Tape diagrams are considered an effective way of teaching proportional thinking. [^cohen]
 
 ## Sources:
-[^minds]: [Eureka Math Grade 2 Study Guide By Great Minds](https://books.google.com/books?id=r5IvCgAAQBAJ&pg=PA128&redir_esc=y#v=onepage&q&f=false)
-[^cohen]: [Jessica S. Cohen. (2013). Strip Diagrams: Illuminating Proportions. Mathematics Teaching in the Middle School, 18(9), 536-542. doi:10.5951/mathteacmiddscho.18.9.0536)
-
+[^cohen]: Cohen, Jessica S. ["Strip diagrams: illuminating proportions."](https://www.jstor.org/stable/10.5951/mathteacmiddscho.18.9.0536) *Mathematics Teaching in the Middle School* 18.9 (2013): 536-542.

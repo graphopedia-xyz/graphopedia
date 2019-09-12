@@ -44,5 +44,5 @@ Word clouds serve as a type of interface for websites as well as a form of data 
 
 The word cloud has been criticized as a method of data visualization for giving a skewed view of data because it substitutes the data for words used to describe it.[^harris]
 ## Sources
-[^halvey]: Discussion of other types of word clouds and their effectiveness *Halvey, Martin & Keane, Mark. (2007). [An assessment of tag presentation techniques.](http://www2007.org/htmlposters/poster988/) 16th International World Wide Web Conference, WWW2007. 1313-1314. 10.1145/1242572.1242826.*
+[^halvey]: Halvey, Martin J., and Mark T. Keane. ["An assessment of tag presentation techniques."](https://doi.org/10.1145/1242572.1242826) *Proceedings of the 16th international conference on World Wide Web.* ACM, 2007. Discussion of other types of word clouds and their effectiveness. [HTML](http://www2007.org/htmlposters/poster988/)
 [^harris]: Discussion of problems with word clouds in data journalism context and the alternative visualization types *Harris, Jacob [Word clouds considered harmful](https://www.labor.ucla.edu/wp-content/uploads/2015/03/word-clouds-harmful.pdf) in Nieman Journalism Lab from October 13, 2011. Retrieved May 10, 2019.*

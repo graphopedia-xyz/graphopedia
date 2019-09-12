@@ -81,6 +81,6 @@ The tree structure in information graphics is used as a metaphor to depict the h
 
 
 ## Sources
-[^harris]: For a general definition of tree diagrams, see Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 927
-[^lima]: You can find numerous illustrated tree diagrams in this compendium *The Book of Trees: Visualizing Branches of Knowledge.* By Manuel Lima. New York: Princeton Architectural Press, 2014.
+[^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000, p.680-81. This reference gives a general definition of tree diagrams.
+[^lima]: Lima, Manuel. [*The book of trees: Visualizing branches of knowledge.*] Princeton Architectural Press, 2014. This historical overview gives numerous examples of illustrated tree diagrams.
 

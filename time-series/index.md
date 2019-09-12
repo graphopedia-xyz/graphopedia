@@ -72,6 +72,6 @@ Time series variations involve positioning multiple time series in the same grap
 
 
 ## Sources
-[^harris]: Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.](https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false) Oxford University Press, Inc., New York, NY, USA. p. 920
-[^javed]: [Javed, W., McDonnel, B., and Elmqvist, N. Graphical Perception of Multiple Time Series. IEEE Transactions on Visualization and Computer Graphics (2010). doi: 10.1109/TVCG.2010.162](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)
-[^javed2]: [Javed, W., 2010, p. 927,](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)
+[^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p. 920.
+[^javed]: Javed, Waqas, Bryan McDonnel, and Niklas Elmqvist. ["Graphical perception of multiple time series."](https://doi.org/10.1109/TVCG.2010.162) *IEEE transactions on visualization and computer graphics* 16.6 (2010): 927-934. [PDF](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)
+[^javed2]: Javed, W., 2010, p. 927.

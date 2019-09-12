@@ -54,5 +54,5 @@ Any network diagram can be represented as a matrix. The relative effectiveness o
 [//]: # (TODO: Maybe add bubble network diagram, where nodes are weighted?)
 
 ## Sources
-[^saket]: The effectiveness of node-link diagrams with nodes in groups were found more effective in *Saket, Bahador & Simonetto, Paolo & Kobourov, Stephen & Borner, Katy. (2014). [Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation.](https://arxiv.org/pdf/1404.1911.pdf) IEEE Transactions on Visualization and Computer Graphics. 20. 10.1109/TVCG.2014.2346422.*
-[^okoe]: Comparison of human performance over 14 different tasks with network diagrams and matrices *Okoe, Mershack & Jianu, Radu & G. Kobourov, Stephen. (2018). [Node-link or Adjacency Matrices: Old Question, New Insights.](https://www2.cs.arizona.edu/~kobourov/NL-AM-TVCG18.pdf) IEEE Transactions on Visualization and Computer Graphics. PP. 1-1. 10.1109/TVCG.2018.2865940.*
+[^saket]: Node-link diagrams with nodes in groups were found more effective in Saket, Bahador, et al. ["Node, node-link, and node-link-group diagrams: An evaluation."](https://arxiv.org/pdf/1404.1911.pdf) *IEEE Transactions on Visualization and Computer Graphics* 20.12 (2014): 2231-2240.
+[^okoe]: Comparison of human performance in 14 different tasks with network diagrams and matrices Okoe, Mershack, Radu Jianu, and Stephen G. Kobourov. ["Node-link or Adjacency Matrices: Old Question, New Insights."](https://www2.cs.arizona.edu/~kobourov/NL-AM-TVCG18.pdf) *IEEE transactions on visualization and computer graphics* (2018).

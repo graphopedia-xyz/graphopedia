@@ -67,5 +67,5 @@ The polar area chart is not to be confused with a [radial bar chart](/bar-chart#
 
 
 ## Sources
-[^friendly]:[Friendly, M. The Golden Age of Statistical Graphics. Statistical Science, 2008, 23, 502-535.](https://arxiv.org/pdf/0906.3979.pdf)
-[^fisher]: [Fisher, N. I. (1993). Statistical analysis of circular data, Volume xviii. Cambridge University Press, New York. p.5 ](https://www.amazon.com/Statistical-Analysis-Circular-Data-Fisher/dp/0521568900)
+[^friendly]:Friendly, Michael. ["The golden age of statistical graphics."](https://www.jstor.org/stable/20697655) *Statistical Science* (2008): 502-535. [PDF](https://arxiv.org/pdf/0906.3979.pdf)
+[^fisher]: Fisher, Nicholas I. [*Statistical analysis of circular data.*](https://books.google.com/books?id=wGPj3EoFdJwC) cambridge university press, 1995. p.5.

@@ -62,6 +62,6 @@ Timelines stylized as trees with branching limbs, rivers with tributaries, and o
 
 ## Sources
 
-[^harris]: Robert L. Harris. 1999. [Information Graphics: A Comprehensive Illustrated Reference.]((https://books.google.com/books?id=LT1RXREvkGIC&printsec=frontcover)) Oxford University Press, Inc., New York, NY, USA. p. 917 
-[^boyd]: Boyd Davis, S. (2012). [History on the line: Time as dimension.](https://www.mitpressjournals.org/doi/pdf/10.1162/DESI_a_00171) Design Issues, 28(4),p. 4–17.
-[^grafton]: Grafton, Anthony; Rosenberg, Daniel (2010), [Cartographies of Time: A History of the Timeline](https://books.google.com/books?id=DqWqKVzipToC&printsec=frontcover&source=gbs_book_other_versions), Princeton Architectural Press, p. 272 
+[^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p. 917.
+[^boyd]: Davis, Stephen Boyd. ["History on the line: time as dimension."](https://www.mitpressjournals.org/doi/pdf/10.1162/DESI_a_00171) *Design Issues* 28.4 (2012): 4-17.
+[^grafton]: Rosenberg, Daniel, and Anthony Grafton. [*Cartographies of time: A history of the timeline.*](https://books.google.com/books?id=DqWqKVzipToC) Princeton Architectural Press, 2013. p. 272.

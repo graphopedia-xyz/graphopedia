@@ -56,10 +56,9 @@ The values are presented as dots on the axes, with the length from the center sh
 
 Functionally, the radar chart is the same as [parallel coordinates](/parallel-coordinates) except set in polar coordinates.
 
-Radar charts are suitable for showing general trends, outliers, and commonality. At the same time, the radar chart has disadvantages because of its limited ability to relate exact values.  As with all other radial charts or charts set in polar coordinates, it is less readable than its linear counterparts.[^nist]
+Radar charts are suitable for showing general trends, outliers, and commonality. At the same time, the radar chart has disadvantages because of its limited ability to relate exact values.  As with all other radial charts or charts set in polar coordinates, it is less readable than its linear counterparts.[^goldberg]
 
 ## Sources
-[^friendly]: [Michael Friendly. Statistical Graphics for Multivariate Data. In Proceedings of the SAS User's Group International Conference, SAS Institute, vol. 16, pp. 1157–1162, 1991](http://www.math.yorku.ca/SCS/sugi/sugi16-paper.html)
-[^nist]: [NIST/SEMATECH (2003). Star Plot in: e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/eda/section3/starplot.htm)
- ["Eye-tracking for visualization evaluation: Reading values on linear versus radial graphs"](https://pdfs.semanticscholar.org/c33e/8600db63b16e0a7f5f7f3edc7f007b2bb1bf.pdf)
+[^friendly]: Friendly, Michael. "Statistical graphics for multivariate data." *SAS SUGI* 16 (1991): 1157-1162. [PDF](http://www.math.yorku.ca/SCS/sugi/sugi16-paper.html)
+[^goldberg]: Goldberg, Joseph, and Jonathan Helfman. ["Eye tracking for visualization evaluation: Reading values on linear versus radial graphs."](https://doi.org/10.1177/1473871611406623) *Information visualization* 10.3 (2011): 182-195. [PDF](https://pdfs.semanticscholar.org/c33e/8600db63b16e0a7f5f7f3edc7f007b2bb1bf.pdf)
 

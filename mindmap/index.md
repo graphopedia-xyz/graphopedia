@@ -75,17 +75,17 @@ Mind-mapping is as a learning technique with the potential to improve recall and
 3. [Word cloud](/word-cloud) representation of the frequency of words in a given text by using the size of the font.
 
 ## Sources
-[^plotnik]: ["Concept Mapping: A Graphical System for Understanding the Relationship between Concepts" by Eric Plotnik, 1997. ERIC Clearinghouse on Information and Technology Syracuse NY](https://files.eric.ed.gov/fulltext/ED407938.pdf)
+[^plotnik]: Plotnick, Eric. [*Concept mapping: A graphical system for understanding the relationship between concepts.*](https://files.eric.ed.gov/fulltext/ED407938.pdf) Syracuse, NY: ERIC Clearinghouse on Information and Technology, 1997.
 
-[^cyclopedia]:[Cyclopædia, or a Universal Dictionary of Arts and Sciences](http://digicoll.library.wisc.edu/cgi-bin/HistSciTech/HistSciTech-idx?type=turn&id=HistSciTech.Cyclopaedia01&entity=HistSciTech.Cyclopaedia01.p0168)
+[^cyclopedia]: Chambers, Ephraim. [*Cyclopædia: Or, an Universal Dictionary of Arts and Sciences*](http://digicoll.library.wisc.edu/cgi-bin/HistSciTech/HistSciTech-idx?type=turn&id=HistSciTech.Cyclopaedia01&entity=HistSciTech.Cyclopaedia01.p0168) Vol. 2. D. Midwinter, 1741.
 
-[^buzan]: Buzan, T., and B. Buzan. 1993. The Mind Map Book: How to use radiant thinking to maximize your brain's untapped potential. New York: Plume.
+[^buzan]: Buzan, Tony, and Barry Buzan. *The Mind Map Book How to Use Radiant Thinking to Maximise Your Brain's Untapped Potential.* New York: Plume (1993).
 
-[^novak2]: [Novak, J. D. & Cañas  A. J. (2008) The Theory Underlying Concept Maps and How to Construct Them, Technical Report IHMC CmapTools 2006-01 Rev 01-2008, Florida Institute for Human and Machine Cognition](https://web.stanford.edu/dept/SUSE/projects/ireport/articles/concept_maps/The%20Theory%20Underlying%20Concept%20Maps.pdf) 
+[^novak2]: Novak, Joseph D., and Alberto J. Cañas. ["The theory underlying concept maps and how to construct and use them."](https://web.stanford.edu/dept/SUSE/projects/ireport/articles/concept_maps/The%20Theory%20Underlying%20Concept%20Maps.pdf) (2008). 
 
-[^novak]: [ Novak, J.D. & Gowin, D.B. (1984). Learning How to Learn. New York: Cambridge Univ. Press.](https://doi.org/10.1017/CBO9781139173469)
-[^farrand]: [Farrand, Paul, Fearzana Hussain, and Enid Hennessy. "The Efficacy of the 'Mind Map' Study Technique." Medical Education, vol. 36, no. 5, 2002, pp. 426-31.](https://doi.org/10.1046/j.1365-2923.2002.01205.x)
+[^novak]: Novak, Joseph D., D. Bob Gowin, and Gowin D. Bob. [*Learning how to learn.*](https://doi.org/10.1017/CBO9781139173469) Cambridge University Press, 1984.
+[^farrand]: Farrand, Paul, Fearzana Hussain, and Enid Hennessy. ["The efficacy of the mind map'study technique."](https://doi.org/10.1046/j.1365-2923.2002.01205.x) *Medical education* 36.5 (2002): 426-431.
 
-[^antoni]: [D'Antoni AV, Zipp GP, Olson VG, et al. Does the mind map learning strategy facilitate information retrieval and critical thinking in medical students? BMC Med Educ. 2010;10:61.](https://bmcmededuc.biomedcentral.com/articles/10.1186/1472-6920-10-61)
+[^antoni]: D'Antoni, Anthony V., et al. ["Does the mind map learning strategy facilitate information retrieval and critical thinking in medical students?."](https://bmcmededuc.biomedcentral.com/articles/10.1186/1472-6920-10-61) *BMC medical education* 10.1 (2010): 61.
 
 

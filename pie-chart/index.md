@@ -44,7 +44,9 @@ The function of a pie chart is the visual illustration of part-to-whole relation
  
 Values smaller than 10% are difficult for viewers to estimate. Fractions such as 38.5% and unrounded numbers such as 38% are virtually impossible to see on a pie chart.
 
-Pie charts are criticized for their overuse because human perception is not capable of accurately comparing wedge-shaped slices.[^tufte] Charts that use rectangular shapes are thought to be easier to perceive, especially when readers need to see specific values.
+Pie charts are criticized for their overuse because human perception is not capable of accurately comparing wedge-shaped slices. This is especially true for comparisons between multiple pie charts.[^tufte] 
+
+Charts that use rectangular shapes are thought to be easier to perceive, especially when readers need to see specific values.
 
 Pie charts should not be used to represent sums of parts where the sum is not meaningful to the reader. For example, showing the total number of goals across several soccer teams would not be useful because it makes sense to compare them and not to add. [^good]
  
@@ -71,10 +73,9 @@ Many stylistic variations of the pie chart exist. Since the exact sizes of segme
 3. *Waffle chart* shows ratios using a grid of squares representing one hundred percent and coloring the part representing a fraction of the whole.
 ## Sources
 
-[^tufte]: [Tufte, Edward. The Visual Display of Quantitative Information. Graphics Press, 2001](https://cyber.rms.moe/books/03%20-%20General%20Science/The%20Visual%20Display%20of%20Quantitative%20Information%20-%20Edward%20Tufte.pdf)
-[^good]: Good P.I., Hardin J.W. Common errors in statistics, and how to avoid them (Wiley, 2003). p.117
-[^wilkinson]: [Wilkinson, L., 2005. The Grammar of Graphics, Second Edition. Springer. pp.251-252](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
-[^wilkinson2]:[Wilkinson, L., 2005. The Grammar of Graphics, Second Edition. Springer. p. 23](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html)
-[^lima]: [Lima, Manuel. "Why humans love pie charts: a historical and evolutionary perspective," Noteworthy, retrieved May 10, 2019](https://blog.usejournal.com/why-humans-love-pie-charts-9cd346000bdc)
-[^kosara]: [Kosara, Robert, and Skau.Drew,  2016. Judgment error in pie chart variations. In Proceedings of the Eurographics / IEEE VGTC Conference on Visualization: Short Papers (EuroVis '16). Eurographics Association, Goslar Germany, Germany, 91-95.](https://kosara.net/papers/2016/Kosara-EuroVis-2016.pdf)
-[^spence]:[Spence, Ian. No Humble Pie: The Origins and Usage of a Statistical Chart Journal of Educational and Behavioral Statistics In: Winter 2005, Vol. 30, No. 4, p. 360](http://www.psych.utoronto.ca/users/spence/Spence%202005.pdf)
+[^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001. p.178. Tufte advises against using multiple pie charts using a proportional symbol map with pie charts as an anti-example of aesthetics in data graphics.
+[^good]: Good, Phillip I., and James W. Hardin. [*Common Errors in Statistics (and How to Avoid Them)*](https://books.google.com.ua/books?hl=en&lr=&id=jiAwiY9DS9EC) John Wiley & Sons, 2012. p.117.
+[^lima]: Lima, Manuel. "Why humans love pie charts: a historical and evolutionary perspective." *Noteworthy*, retrieved May 10, 2019 from https://blog.usejournal.com/why-humans-love-pie-charts-9cd346000bdc
+[^spence]: Spence, Ian. ["No humble pie: The origins and usage of a statistical chart."](https://doi.org/10.3102%2F10769986030004353) *Journal of Educational and Behavioral Statistics* 30.4 (2005): 353-368. [PDF](http://www.psych.utoronto.ca/users/spence/Spence%202005.pdf)
+[^kosara]: Kosara, Robert, and Skau, Drew "Judgment error in pie chart variations." Proceedings of the *Eurographics/IEEE VGTC conference on visualization: Short papers.* 2016. [PDF](https://kosara.net/papers/2016/Kosara-EuroVis-2016.pdf)
+[^wilkinson2]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p.23

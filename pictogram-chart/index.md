@@ -70,11 +70,11 @@ Research on memory and comprehension of pictographic charts shows that they can 
 
 ## Sources
 
-[^holmes]:  ["Pictograms: A view from the drawing board or, what I have learned from Otto Neurath and Gerd Arntz (and jazz)" by Nigel Holmes](http://courses.washington.edu/art377/kcheng_2008/Pictograms_Nigel.pdf)
-[^neurath]: ["Pictorial Statistics Following the Vienna Method" by Otto Neurath](https://www.mitpressjournals.org/doi/pdf/10.1162/ARTM_a_00169)
-[^nino]: [Niño Zambrano R., Engelhardt Y. (2008) Diagrams for the Masses: Raising Public Awareness – From Neurath to Gapminder and Google Earth. In: Stapleton G., Howse J., Lee J. (eds) Diagrammatic Representation and Inference. Diagrams 2008. Lecture Notes in Computer Science, vol 5223. Springer, Berlin, Heidelberg](https://link.springer.com/chapter/10.1007/978-3-540-87730-1_26)
-
-[^lupton]: ["Reading Isotype" by Ellen Lupton (1989) pp. 48-49"](https://www.jstor.org/stable/1511484)
-[^haroz]:["ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs" by Steve Haroz et al.  in Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, Pages 1191-1200 (2015)](https://research.tableau.com/sites/default/files/Haroz_CHI_2015.pdf)
-[^burke]: ["The Linguistic Status of Isotype" by Christopher Burke](http://wittgensteinrepository.org/agora-ontos/article/view/2189/2451)
+[^holmes]:  Holmes, Nigel. ["Pictograms: A view from the drawing board or, what I have learned from Otto Neurath and Gerd Arntz (and jazz)."](http://dx.doi.org/10.1075/idj.10.2.08hol) *Information design journal* 10.2 (2000): 133-143. [PDF](http://courses.washington.edu/art377/kcheng_2008/Pictograms_Nigel.pdf)
+[^neurath]: Neurath, Otto. "Pictorial statistics following the Vienna method." *ARTMargins* 6.1 (2017): 108-118. [PDF](https://www.mitpressjournals.org/doi/pdf/10.1162/ARTM_a_00169)
+[^nino]: Zambrano, Raul Niño, and Yuri Engelhardt. ["Diagrams for the masses: Raising public awareness–from Neurath to Gapminder and Google Earth."](https://doi.org/10.1007/978-3-540-87730-1_26) *International Conference on Theory and Application of Diagrams.* Springer, Berlin, Heidelberg, 2008.
+ [PDF](https://link.springer.com/chapter/10.1007/978-3-540-87730-1_26)
+[^lupton]: Lupton, Ellen. [“Reading Isotype.”]((https://www.jstor.org/stable/1511484)) *Design Issues*, vol. 3, no. 2, 1986, pp. 47–58. www.jstor.org/stable/1511484.
+[^haroz]: Haroz, Steve, Robert Kosara, and Steven L. Franconeri. ["Isotype visualization: Working memory, performance, and engagement with pictographs."](https://doi.org/10.1145/2702123.2702275) *Proceedings of the 33rd annual ACM conference on human factors in computing systems.* ACM, 2015. [PDF](https://research.tableau.com/sites/default/files/Haroz_CHI_2015.pdf)
+[^burke]: Burke, Christopher. ["The linguistic status of Isotype."]((http://wittgensteinrepository.org/agora-ontos/article/view/2189/2451)) *Ontos verlag: Publications of the Austrian Ludwig Wittgenstein Society-New Series* (Volumes 1-18) 17 (2013).
 

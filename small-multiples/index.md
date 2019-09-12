@@ -63,6 +63,6 @@ Small multiples technique can be applied to virtually any type of charts, maps, 
 The main advantage of small multiples technique is that it allows comparison across multiples variable and complex relationships between them in a single infographic. The disadvantage of displaying a lot of charts is that readers may not be able to track the relationships as well as they would with other techniques, as with animation. [^archambault]
 
 ## Sources
-[^tufte]: [Tufte, E. R. (1983). The visual display of quantitative information. Cheshire, CT: Graphics Press.](https://www.edwardtufte.com/tufte/books_vdqi)
-[^perin]: [Charles Perin, Jean-Daniel Fekete, Pierre Dragicevic. Jacques Bertin’s Legacy in Information Visualization and the Reorderable Matrix. Cartography and Geographic Information Science, Taylor](https://hal.inria.fr/hal-01786606v2/document)
-[^archambault]: [D. Archambault, H. Purchase and B. Pinaud, "Animation, Small Multiples, and the Effect of Mental Map Preservation in Dynamic Graphs," in IEEE Transactions on Visualization and Computer Graphics, vol. 17, no. 4, pp. 539-552, April 2011.]()
+[^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001.
+[^perin]: Perin, Charles, Jean-Daniel Fekete, and Pierre Dragicevic. ["Jacques Bertin’s legacy in information visualization and the reorderable matrix."](https://doi.org/10.1080/15230406.2018.1470942) *Cartography and Geographic Information Science* 46.2 (2019): 176-181. [PDF](https://hal.inria.fr/hal-01786606v2/document)
+[^archambault]: Archambault, Daniel, Helen Purchase, and Bruno Pinaud. ["Animation, small multiples, and the effect of mental map preservation in dynamic graphs."](https://doi.org/10.1109/TVCG.2010.78) *IEEE Transactions on Visualization and Computer Graphics* 17.4 (2010): 539-552.

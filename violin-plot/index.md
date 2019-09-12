@@ -69,4 +69,4 @@ In principle, any chart that shows a [distribution](/function/distribution) can 
 [//]: # (Combination of violin and jitter plot https://twitter.com/lenkiefer/status/805186350760755200/photo/1 )
 
 ## Sources
-[^hintze]: The violin plot first appeared in this paper by Hintze, Jerry & Nelson, Ray. (1998). [Violin Plots: A Box Plot-Density Trace Synergism.](https://search.proquest.com/openview/dcd68eb137d2d6b08aa23f37e34e0b01/1?pq-origsite=gscholar) American Statistician - AMER STATIST. 52. 181-184. 10.1080/00031305.1998.10480559. 
+[^hintze]: Hintze, Jerry L., and Ray D. Nelson. ["Violin plots: a box plot-density trace synergism."](https://doi.org/10.1080/00031305.1998.10480559) *The American Statistician* 52.2 (1998): 181-184. [PDF](https://search.proquest.com/openview/dcd68eb137d2d6b08aa23f37e34e0b01/1)

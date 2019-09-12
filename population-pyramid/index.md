@@ -46,4 +46,4 @@ For making comparisons populations at different points in time, the contour trac
 For comparison of populations, it is possible to display population pyramids as [small multiples](/small-multiples).
 
 ## Sources
-[^wilkinson]: Wilkinson, L., 2005. [The Grammar of Graphics]((https://marcell.memoryoftheworld.org/Leland%20Wilkinson/The%20Grammar%20of%20Graphics%20(2658)/The%20Grammar%20of%20Graphics%20-%20Leland%20Wilkinson.pdf)), Second Edition. Springer. pp.340-341 
+[^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. pp.340-341.

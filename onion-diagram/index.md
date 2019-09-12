@@ -50,4 +50,4 @@ Other metaphor-based diagrams can be used to show relationships between categori
 
 
 ## Sources
-[^hofstede]: Hofstede, G. (1997). [Culture and Organisations: Software of The Mind: Intercultural Cooperation and Its Importance for Survival.](https://books.google.com/books?id=o4OqTgV3V00C&pg=PA8) McGraw-Hill. p.8
+[^hofstede]: Hofstede, Geert [*Culture and Organisations: Software of The Mind: Intercultural Cooperation and Its Importance for Survival.*](https://books.google.com/books?id=o4OqTgV3V00C&pg=PA8) McGraw-Hill (1997). p.8.

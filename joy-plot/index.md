@@ -60,4 +60,4 @@ The density plots partially overlap vertically. This feature of the chart allows
 In theory, joy plots can be made from [histograms](/histogram), another common way to show distributions, but since the bars would overlap vertically, it is not recommended.[^wilke]
 
 ## Sources
-[^wilke]: Wilke, Claus O. [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures.](https://books.google.com/books?id=WmmNDwAAQBAJ) O'Reilly Media, 2019. p. 89
+[^wilke]: Wilke, Claus O. [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures.*](https://books.google.com/books?id=WmmNDwAAQBAJ) O'Reilly Media, 2019. p. 89.

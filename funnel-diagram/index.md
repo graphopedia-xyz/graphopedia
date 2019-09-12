@@ -47,7 +47,7 @@ shows stages of a process that progressively decrease in quantity or quality, st
 <!--more-->
 The funnel diagram is often used as both a chart and a metaphor. The funnel shape fits the metaphor of a sales process and the conversion process in marketing. 
 
-Charts that use bar lengths to represent variables are not funnel charts. The chart that has horizontal bars ordered from top to bottom is called *tornado chart*.[^peltier]
+Charts that use bar lengths to represent variables are not funnel charts. The chart that has horizontal bars ordered from top to bottom is called *tornado chart*.
 
 The most common use cases of the funnel diagram when used as a metaphor are the sales funnel and the conversion funnel. Both start at the top with prospective customers or leads and progress to paying customers or sales.
 
@@ -57,5 +57,4 @@ Each segment of the funnel can represent a percentage of the top segment. The to
 Funnel diagrams usually have no axes. The area of each segment of the chart often does not represent the percentage, but only illustrates it metaphorically. Even if the area were equal to its corresponding percentage, it would be difficult for the human eye to interpret the difference in the area, [^mackinlay] especially considering the irregular shapes created by segmenting the triangle that represents the funnel.
 
 ## Sources
-[^peltier]: ["Funnel (Tornado) Chart" by Jon Peltier](https://peltiertech.com/funnel-tornado-chart/) 
-[^mackinlay]:  ["Automating the design of graphical presentations of relational information" by Jock Mackinlay. Stanford University 1986, p.125](https://research.tableau.com/sites/default/files/p110-mackinlay.pdf)
+[^mackinlay]:  Mackinlay, Jock. ["Automating the design of graphical presentations of relational information."](https://research.tableau.com/sites/default/files/p110-mackinlay.pdf) *Acm Transactions On Graphics* (Tog) 5.2 (1986): 110-141. p.125.

@@ -63,6 +63,6 @@ Another reason to choose an alternative to a Gantt chart is the absence of means
 2. *PERT chart* shows the likely completion time for a project. There four types of time:  1. optimistic time - the minimum possible time required to accomplish an activity, assuming everything proceeds better than is typically expected; 2. pessimistic time - the maximum possible time required to finish an activity, assuming everything goes wrong (excluding major catastrophes); 3. likely time - the best estimate of the time necessary to complete an activity, assuming everything goes as normal; 4. expected time - the best estimate of the time required to accomplish an a task, accounting for the fact that things don't always proceed as expected.
 
 ## Sources
-[^wisocki]: ["Effective Project Management: Traditional, Agile, Extreme" by Robert Wysocki.  Wiley, 7th ed. 2014, p.277](https://books.google.fr/books?redir_esc=y&id=nhw2V6-bTNEC&q=gantt#v=snippet&q=gantt&f=false)
-[^burkhard]:["Knowledge Visualization: A Comparative Study between Project Tube Maps and Gantt Charts" by Remo Aslak Burkhard et al. 2005, Proceedings of I-Know '05. Springer pp. 388-395](https://kar.kent.ac.uk/14324/)
-[^wallace]: ["The Gantt chart, a working tool of management" by Clark Wallace et. al. New York, The Ronald press company 1922](https://archive.org/details/cu31924004570853/page/n6)
+[^wisocki]: Wysocki, Robert K. [*Effective project management: traditional, agile, extreme.*]((https://books.google.com/books?redir_esc=y&id=nhw2V6-bTNEC&q=gantt#v=snippet&q=gantt&f=false)) John Wiley & Sons, 2011. p.277.
+[^burkhard]: Burkhard, Remo Aslak, et al. ["Knowledge visualization: A comparative study between project tube maps and gantt charts."](https://kar.kent.ac.uk/14324/) *Proceedings of I-Know'05* (2005): 388-395.
+[^wallace]: Clark, Wallace. [*The Gantt chart: A working tool of management.*]((https://archive.org/details/cu31924004570853/page/n6)) Ronald Press, 1922. 

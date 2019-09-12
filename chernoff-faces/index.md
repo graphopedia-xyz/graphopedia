@@ -46,5 +46,5 @@ Chernoff faces are named after their inventor American statistician Herman Chern
 
 ## Sources
 [^kosara]: Kosara, Robert. ["A Critique of Chernoff Faces."](https://eagereyes.org/criticism/chernoff-faces) Retrieved October 29 (2007): 2017.
-[^raciborski]: Raciborski, Rafal. ["Graphical representation of multivariate data using Chernoff faces."](https://ageconsearch.umn.edu/record/142994/files/sjart_gr0038.pdf) The Stata Journal 9.3 (2009): 374-387, p. 374.
+[^raciborski]: Raciborski, Rafal. ["Graphical representation of multivariate data using Chernoff faces."](https://ageconsearch.umn.edu/record/142994/files/sjart_gr0038.pdf) *The Stata Journal* 9.3 (2009): 374-387, p. 374.
 [^chernoff]: Chernoff, Herman. ["The use of faces to represent points in k-dimensional space graphically."](http://www.apprendre-en-ligne.net/mathematica/3.3/chernoff.pdf) *Journal of the American Statistical Association* 68.342 (1973): 361-368. p. 361.

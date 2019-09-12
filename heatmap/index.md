@@ -99,10 +99,10 @@ Heatmap variations have to do with the orientation and layout of the map. The ad
                                                                        
 ## Sources
 
-[^wilkinson]: ["The History of the Cluster Heatmap" by Leland Wilkinson and Michael Friendly, The American Statistician, May 2009, Vol. 63, No. 2, pp.](https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf)
+[^wilkinson]: Wilkinson, Leland, and Michael Friendly. ["The history of the cluster heat map."] *The American Statistician* 63.2 (2009): 179-184. [PDF](https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf)
 
-[^munzer]: ["Visualization Analysis and Design" by Tamara Munzner, p.136](https://books.google.com/books?id=NfkYCwAAQBAJ&pg=PT166&lpg=PT166)
+[^munzer]: Munzner, Tamara ["Visualization Analysis and Design"](https://books.google.com/books?id=NfkYCwAAQBAJ&pg=PT166&lpg=PT166) CRC Press, 2014, p.136.
 
-[^ware]: [C. Ware, "Color Sequences for Univariate Maps: Theory, Experiments, and Principles" IEEE Computer Graphics and Applications, vol. 8, no.5, 1988, pp. 41–49](https://ccom.unh.edu/sites/default/files/publications/Ware_1988_CGA_Color_sequences_univariate_maps.pdf)
+[^ware]: Ware, Colin. ["Color sequences for univariate maps: Theory, experiments and principles."](https://ccom.unh.edu/sites/default/files/publications/Ware_1988_CGA_Color_sequences_univariate_maps.pdf) *IEEE Computer Graphics and Applications* 8.5 (1988): 41-49.
 
-[^ncss]: [NCSS Statistical Sotfware. Chapter 450](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Clustered_Heat_Maps-Double_Dendrograms.pdf)
+[^ncss]: [NCSS Statistical Sotfware](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Clustered_Heat_Maps-Double_Dendrograms.pdf) Chapter 450
