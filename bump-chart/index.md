@@ -18,6 +18,9 @@ tools:
   - name:   D3 code example by Robert Gove
     link:   https://bl.ocks.org/rpgove/53bb49d6ed762139f33bdaea1f3a9e1c
 
+  - name:   Charticulator (generator)
+    link:   https://charticulator.com/gallery/co2_emission_ranking.html
+
 examples:
   - title:  22 Years of Bumps Races (Women)
     author:  Tim Granger

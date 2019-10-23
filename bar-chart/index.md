@@ -13,6 +13,9 @@ tools:
   - name:   D3.js
     link:   https://bl.ocks.org/mbostock/3883195
 
+  - name:   Charticulator (generator for spiral bar chart)
+    link:   https://charticulator.com/gallery/fitbit_spiral.html
+
   - name:   Google Charts
     link:   https://developers.google.com/chart/interactive/docs/gallery/barchart
 

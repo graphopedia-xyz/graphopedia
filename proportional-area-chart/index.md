@@ -10,6 +10,8 @@ related:
   - venn-diagram
 
 tools:
+  - name:   Adobe Illustrator (no specific template)
+    link:   https://www.adobe.com/products/illustrator.html
 
 examples:
   - title:  Analysis of the Italian population, Audipress Visual Report

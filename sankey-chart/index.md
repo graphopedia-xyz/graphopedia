@@ -10,6 +10,29 @@ related:
   - alluvial-diagram
 
 tools:
+  - name:   SankeyMatic (generator)
+    link:   http://sankeymatic.com/build/
+
+  - name:   RAWGraphs (generator)
+    link:   https://rawgraphs.io/learning/how-to-make-an-alluvial-diagram/
+  
+  - name:   Sankey Diagram Generator (allows for adding links)
+    link:   https://sankey.csaladen.es
+ 
+  - name:   Google Developers (code)
+    link:   https://developers.google.com/chart/interactive/docs/gallery/sankey
+ 
+  - name:   Flourish (code, interactive)
+    link:   https://app.flourish.studio/@flourish/sankey
+
+  - name:   Charticulator (generator)
+    link:   https://charticulator.com/gallery/world_greenhouse_gas_emissions.html
+
+  - name:   Plotly
+    link:   https://plot.ly/javascript/sankey-diagram/
+ 
+  - name:   Matplotlib
+    link:   https://matplotlib.org/api/sankey_api.html
 
 examples:
   - title:  Why Breakups Happen

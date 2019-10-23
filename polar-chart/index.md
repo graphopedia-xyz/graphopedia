@@ -15,6 +15,9 @@ tools:
 
   - name:   Plotly
     link:   https://plot.ly/r/polar-chart/
+  
+  - name:   Charticulator (generator)
+    link:   https://charticulator.com/gallery/nightingale.html
 
 examples:
   - title:  Diagram of The Causes of Mortality
