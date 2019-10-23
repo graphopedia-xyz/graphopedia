@@ -11,9 +11,9 @@
 	.st5{fill:#FFFFFF;stroke:#A8A8A8;stroke-width:2;}
 	.st6{font-family:'Roboto-Italic';}
 	.st7{font-size:9.9829px;}
-	.st8{enable-background:new    ;}
-	.st9{fill:none;}
-	.st10{fill:#A8A8A8;}
+	.st8{fill:#878787;enable-background:new    ;}
+	.st9{fill:#A8A8A8;}
+	.st10{fill:#A8A8A8;enable-background:new    ;}
 	.st11{font-family:'ArialMT';}
 	.st12{fill:none;stroke:#A8A8A8;stroke-miterlimit:10;}
 	.st13{fill:none;stroke:#A8A8A8;stroke-width:2;}
@@ -36,66 +36,74 @@
 	<text transform="matrix(1 0 0 1 105.9004 426.6309)" class="st3 st6 st7">changes something</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 105.9004 363.3223)" class="st8"><tspan x="0" y="0" class="st3 st6 st7">required to show  start</tspan><tspan x="0" y="12" class="st3 st6 st7">and end of the chart</tspan></text>
+	<text transform="matrix(1 0 0 1 105.9004 363.3223)" class="st3 st6 st7">required to show  start</text>
+	<text transform="matrix(1 0 0 1 105.9004 375.3223)" class="st3 st6 st7">and end of the chart</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 361.8452 363.3223)" class="st8"><tspan x="0" y="0" class="st3 st6 st7">shows branching out</tspan><tspan x="0" y="12" class="st3 st6 st7">of options</tspan></text>
+	<text transform="matrix(1 0 0 1 361.8452 363.3223)" class="st3 st6 st7">shows branching out</text>
+	<text transform="matrix(1 0 0 1 361.8452 375.3223)" class="st3 st6 st7">of options</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 364.6567 426.6309)" class="st8"><tspan x="0" y="0" class="st3 st6 st7">something entering or</tspan><tspan x="0" y="12" class="st3 st6 st7">exiting the system</tspan></text>
+	<text transform="matrix(1 0 0 1 364.6567 426.6309)" class="st3 st6 st7">something entering or</text>
+	<text transform="matrix(1 0 0 1 364.6567 438.6309)" class="st3 st6 st7">exiting the system</text>
 </g>
 <a xlink:href="http://www.google.com" >
-	<path id="cond" class="st5" d="M226.8,96l-27.6,20l55.1,40l55.1-40l-55.1-40l-55.1,40"/>
+	<path id="cond" class="st5" d="M293.8,96l-27.6,20l55.1,40l55.1-40l-55.1-40l-55.1,40"/>
 </a>
 <a xlink:href="http://www.google.com" >
 	<path id="cond_1_" class="st5" d="M309.2,334.9l-12.8,9.3l25.6,18.6l25.6-18.6L322,325.6l-25.6,18.6"/>
 </a>
 <a xlink:href="http://www.google.com" >
-	<text transform="matrix(1 0 0 1 229.1787 105.2813)" class="st8"><tspan x="0" y="0" class="st0 st1 st2">Does it</tspan><tspan x="7.2" y="14.4" class="st0 st1 st2">make </tspan><tspan x="3.6" y="28.8" class="st0 st1 st2">sense?</tspan></text>
+	<text transform="matrix(1 0 0 1 296.1787 105.2813)" class="st0 st1 st2">Does it</text>
+	<text transform="matrix(1 0 0 1 303.3787 119.6813)" class="st0 st1 st2">make </text>
+	<text transform="matrix(1 0 0 1 299.7787 134.0813)" class="st0 st1 st2">sense?</text>
 </a>
 <a xlink:href="http://www.google.com" >
 	<g>
 		<text transform="matrix(1 0 0 1 362.0166 348.5547)" class="st3 st1 st4">Decision</text>
 	</g>
 </a>
-<path id="io" class="st5" d="M201.8,222l-7.7,16.8h105.2l15.3-33.5H209.4L201.8,222"/>
-<text transform="matrix(1 0 0 1 218.3771 225.5482)" class="st0 st1 st2">Publish it</text>
+<path id="io" class="st5" d="M268.8,222l-7.7,16.8h105.2l15.3-33.5H276.4L268.8,222"/>
+<text transform="matrix(1 0 0 1 285.3771 225.5482)" class="st0 st1 st2">Publish it</text>
 <g>
 	<text transform="matrix(1 0 0 1 363.1685 411.416)" class="st3 st1 st4">Input/Output</text>
 </g>
 <a xlink:href="http://www.google.com" >
-	<text transform="matrix(1 0 0 1 243.5811 293.7392)" class="st0 st1 st2">End</text>
+	<text transform="matrix(1 0 0 1 310.5811 293.7392)" class="st0 st1 st2">End</text>
 </a>
-<path class="st9" d=""/>
-<path class="st9" d=""/>
-<path id="raphael-marker-block_1_" class="st10" d="M190.9,119l6-3l-6-3V119z"/>
-<path id="raphael-marker-block_2_" class="st10" d="M311.7,119l6-3l-6-3V119z"/>
-<path class="st9" d=""/>
+<path class="st8" d="M0,0"/>
+<path class="st8" d="M0,0"/>
+<path id="raphael-marker-block_1_" class="st9" d="M257.9,119l6-3l-6-3V119z"/>
+<path id="raphael-marker-block_2_" class="st9" d="M378.7,119l6-3l-6-3V119z"/>
+<path class="st10" d="M0,0"/>
 <path marker-end="url(#raphael-marker-endblock33-objj2weg)" d="M434.8,314.3"/>
-<text transform="matrix(1 0 0 1 262.8945 178.2935)" class="st0 st11 st2">yes</text>
-<path class="st9" d=""/>
-<path id="raphael-marker-block_3_" class="st10" d="M251.4,199.1l3,6l3-6H251.4z"/>
-<path marker-end="url(#raphael-marker-endblock33-obj72n9y)" d="M254.4,196.8"/>
-<text transform="matrix(1 0 0 1 324.8828 110.2888)" class="st0 st11 st2">no</text>
-<path class="st9" d=""/>
-<path class="st9" d=""/>
-<path class="st9" d=""/>
-<path class="st9" d=""/>
-<path class="st9" d=""/>
-<path id="raphael-marker-block_8_" class="st10" d="M72.7,93.3l3,6l3-6H72.7z"/>
+<text transform="matrix(1 0 0 1 329.8945 178.2935)" class="st0 st11 st2">yes</text>
+<path class="st8" d="M0,0"/>
+<path id="raphael-marker-block_3_" class="st9" d="M318.4,199.1l3,6l3-6H318.4z"/>
+<path marker-end="url(#raphael-marker-endblock33-obj72n9y)" d="M321.4,196.8"/>
+<text transform="matrix(1 0 0 1 391.8828 110.2888)" class="st0 st11 st2">no</text>
+<path class="st8" d="M0,0"/>
+<path class="st8" d="M0,0"/>
+<path class="st8" d="M0,0"/>
+<path class="st8" d="M0,0"/>
+<path class="st8" d="M0,0"/>
+<path id="raphael-marker-block_8_" class="st9" d="M72.7,93.3l3,6l3-6H72.7z"/>
 <line class="st12" x1="75.7" y1="46.1" x2="75.7" y2="93.3"/>
-<line class="st12" x1="137" y1="115.9" x2="199.3" y2="115.9"/>
-<line class="st12" x1="254.4" y1="205.1" x2="254.4" y2="156"/>
-<line class="st12" x1="254.4" y1="271.8" x2="254.4" y2="238.7"/>
-<line class="st12" x1="309.5" y1="116" x2="358.3" y2="116"/>
-<polyline class="st12" points="102,99.3 102,65.4 358.3,65.4 358.3,116 "/>
-<path id="raphael-marker-block_9_" class="st10" d="M99,93.3l3,6l3-6H99z"/>
-<path class="st13" d="M95.3,45.3H55.7c-9.5,0-17.3-7.8-17.3-17.3v0c0-9.5,7.8-17.3,17.3-17.3h39.6c9.5,0,17.3,7.8,17.3,17.3v0
+<line class="st12" x1="137" y1="115.9" x2="266.3" y2="115.9"/>
+<line class="st12" x1="321.4" y1="205.1" x2="321.4" y2="156"/>
+<line class="st12" x1="321.4" y1="271.8" x2="321.4" y2="238.7"/>
+<line class="st12" x1="376.5" y1="116" x2="425.3" y2="116"/>
+<polyline class="st12" points="102,99.3 102,65.4 425.3,65.4 425.3,116 "/>
+<path id="raphael-marker-block_9_" class="st9" d="M99,93.3l3,6l3-6H99z"/>
+<path class="st13" d="M95.3,45.3H55.7c-9.5,0-17.3-7.8-17.3-17.3l0,0c0-9.5,7.8-17.3,17.3-17.3h39.6c9.5,0,17.3,7.8,17.3,17.3l0,0
 	C112.6,37.5,104.8,45.3,95.3,45.3z"/>
-<path class="st13" d="M274.2,307.4h-39.6c-9.5,0-17.3-7.8-17.3-17.3v0c0-9.5,7.8-17.3,17.3-17.3h39.6c9.5,0,17.3,7.8,17.3,17.3v0
-	C291.5,299.6,283.7,307.4,274.2,307.4z"/>
-<path id="raphael-marker-block_4_" class="st10" d="M251.4,266.1l3,6l3-6H251.4z"/>
+<path class="st13" d="M341.2,307.4h-39.6c-9.5,0-17.3-7.8-17.3-17.3l0,0c0-9.5,7.8-17.3,17.3-17.3h39.6c9.5,0,17.3,7.8,17.3,17.3
+	l0,0C358.5,299.6,350.7,307.4,341.2,307.4z"/>
+<path id="raphael-marker-block_4_" class="st9" d="M318.4,266.1l3,6l3-6H318.4z"/>
 <path class="st13" d="M70.3,361.5H38.9c-7.9,0-14.4-6.5-14.4-14.4v-5.7c0-7.9,6.5-14.4,14.4-14.4h31.3c7.9,0,14.4,6.5,14.4,14.4v5.7
 	C84.7,355,78.2,361.5,70.3,361.5z"/>
 <path id="io_1_" class="st5" d="M296.9,407l-5.8,12.8h44.3l11.7-25.5h-44.3L296.9,407"/>
+<g>
+	<text transform="matrix(1 0 0 1 26.6 290.1)" class="st3 st1 st4">SYMBOLS:</text>
+</g>
 </svg>

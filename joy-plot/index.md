@@ -55,9 +55,9 @@ order: 270
 shows the distribution of a numeric value for several categories over time or at equal intervals. Joy plots are used to compare distributions. 
 
 <!--more-->
-The joy plot uses [density distributions](/density-plot) to compare several categories. The time is displayed along the X-axis, and the Y-axis shows categories. Density plots are staggered along the Y-axis. There is no separate axis for the densities in each plot. For this reason, the joy plot is best used to show general trends and patterns rather than communicate specific values. 
+The joy plot uses multiple [***density plots***](/density-plot) to compare several ***categories***. The density plots are positioned along the ***time or interval axis***. Density plots are staggered along the categorical axis. There is no separate axis for the densities in each density plot. For this reason, the joy plot is best used to show general trends and patterns rather than communicate specific values. 
 
-The density plots partially overlap vertically. This feature of the chart allows for higher data density - displaying more data in a limited space. The consequence of this is that some places the density plots may overlap completely hiding the smaller values.
+The density plots partially overlap vertically. This feature of the chart allows for higher data density. The consequence of this is that some places the density plots may overlap completely hiding the smaller values.
 
 In theory, joy plots can be made from [histograms](/histogram), another common way to show distributions, but since the bars would overlap vertically, it is not recommended.[^wilke]
 

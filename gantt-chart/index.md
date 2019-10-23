@@ -48,11 +48,11 @@ is a type of [bar chart](/bar-chart) that shows the progress of events over time
 <!--more-->
 Each event in a Gantt chart displays its timeline, the person or team who whom it is assigned, and any connections to other events or projects.
 
-A task appears as a bar, the length of which shows the task duration. The bars run horizontally along a timeline which is displayed on the X-axis. 
+A task appears as a ***task bar***, the length of which shows the task duration. The bars run horizontally along a ***timeline*** which is displayed on the horizontal axis. 
 
 The scale of the timeline can measure in days, weeks, quarters, or years. The tasks typically appear in the order of priority such that tasks to be completed first are at the top.
 
-The disadvantage of using a Gantt chart is that it does not show all the possible connections between events within a project as, for example, in a [network diagram](/network-diagram).[^wisocki] Another disadvantage is that the collaboration between members of the project team is not visualized. [^burkhard]
+A disadvantage of using a Gantt chart is that it does not show all the possible connections between events within a project as, for example, in a [network diagram](/network-diagram).[^wisocki] Another disadvantage is that the collaboration between members of the project team is not visualized. [^burkhard]
 
 
 The Gantt chart was introduced in the 1910s by American engineer Henry Gantt. [^wallace]

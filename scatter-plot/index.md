@@ -77,7 +77,7 @@ Since scatter plots display a dot for every data point, overplotting is a common
 <img src="multi-color-scatterplot.svg" class="f-right-half" /> Color can be used to show different data series in one scatter plot. Color can also be used to encode one additional categorical variable. 
 
 ### Multi-symbol scatter plot
-<img src="multi-symbol-scatterplot.svg" class="f-right-half" /> Symbols can be used in a scatter plot to encode oe additional categorical variable. Symbols can replace color variation in cases where only monochromatic color scheme is available.
+<img src="multi-symbol-scatterplot.svg" class="f-right-half" /> Symbols can be used in a scatter plot to encode one additional categorical variable. Symbols can replace color variation in cases where only monochromatic color scheme is available.
 
 ### Radial scatter plot
 <img src="radial-scatterplot.svg" class="f-right-half" /> Radial scatter plot is functionally the same except that it is set into polar coordinates. This variety of scatter plot is useful for visualizing cyclical or seasonal phenomena. One example below shows the incidence of disease by birth month.

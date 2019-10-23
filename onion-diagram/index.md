@@ -34,10 +34,10 @@ order: 580
 is a type of non-numeric diagram that consists of concentric circles representing categories. Each outer ring represents a category that includes all of its inner circles. 
 
 <!--more-->
+
+Onion diagrams are used to describe the relationship of several ***categories*** where one broad category is the "outer layer" that includes narrower categories represented by "inner layers."
+
 The onion diagram does not represent quantities of its categories, but only their loose relationship to each other by using the metaphorical layers.
-
-Onion diagrams are used to describe the relationship of several categories where one broad category is the "outer layer" that includes narrower categories represented by "inner layers."
-
 
 In psychology, an example of a well-known and widely-cited onion diagram is the "The “Onion”: Manifestations of Culture at Different Levels of Depth" [^hofstede] which describes the inner drives and outer manifestations of a culture.
 

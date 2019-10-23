@@ -48,7 +48,7 @@ order: 600
 shows stages of a process that progressively decrease in quantity or quality, starting with 100% at the top of the funnel. 
 
 <!--more-->
-The funnel diagram is often used as both a chart and a metaphor. The funnel shape fits the metaphor of a sales process and the conversion process in marketing. 
+The funnel diagram is used as both a chart and a metaphor. The funnel shape fits the metaphor of a sales process and the conversion process in marketing. 
 
 Charts that use bar lengths to represent variables are not funnel charts. The chart that has horizontal bars ordered from top to bottom is called *tornado chart*.
 

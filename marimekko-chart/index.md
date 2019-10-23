@@ -37,10 +37,13 @@ order: 140
 
 ---
 
-is a type of visualization showing categorical data as rectangles with their widths and lengths proportional to quantities and categories represented as columns. [^wilkinson]
+is a type of visualization showing categorical data as rectangles with their widths and lengths proportional to quantities and the categories represented as columns. [^wilkinson]
 
 <!--more-->
-The Marimekko chart is useful for discovering unusually high or low values and dependencies between variables. [^hartigan] Mosaic plots represent contingency tables, a basic statistics tool for showing distributions in a matrix for categorical data.  It uses rectangular tiles sized proportionally to values to show their distributions.[^friendly] 
+Both ***value axes*** of a Marimekko chart have ***percentage scales***. The lengths and widths of all rectangles in a chart equal one hundred percent respectively. ***Categories*** are represented as rectangles the widths and heights of which are proportional to their values along horizontal and vertical scales. 
+
+
+The Marimekko chart is useful for discovering unusually high or low values and dependencies between variables. Mosaic plots represent contingency tables, a basic statistics tool for showing distributions in a matrix for categorical data.  It uses rectangular tiles sized proportionally to values to show their distributions.[^friendly] 
 
 The Marimekko chart is similar to a stacked [bar chart](/bar-chart), but it adds one more dimension of data through varying column widths. 
 

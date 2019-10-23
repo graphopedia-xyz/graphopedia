@@ -38,12 +38,9 @@ order: 180
 shows trends in data using a line that connects individual data points.  The overall slope of the lines indicates the direction of the pattern of change. 
 
 <!--more-->
-The data points in a line chart are typically marked as dots unless multiple line charts are shown in the same graph space. The data points are ordered, usually along the horizontal axis. 
+The ***data points*** in a line chart are typically marked as dots unless multiple line charts are shown in the same graph space. The data points are ordered, usually along the ***time or interval axis***. The ***data line*** can be either straight, curved, or stepped.
 
-A line chart showing change over time has the time plotted on the X-axis and typically at equal intervals. The data line can be either straight, curved, or stepped.
- 
-
-The vertical axis of the line chart should start at a zero since readers rely on the distance from the axis to a data point to read its value. A truncated line chart with the vertical axis starting above zero will exaggerate the difference in height for all the other data points, misrepresenting the trend shown in the graph. [^huff]
+The value axis of the line chart should start at a zero ***baseline*** since readers rely on the distance from the axis to a data point to read its value. A truncated line chart with the vertical axis starting above zero exaggerates the difference in height for all the other data points, misrepresenting the trend shown in the graph. [^huff]
  
 A *line of best fit* is sometimes drawn on the line graph to show how the data points that fit a trend in the data.
 

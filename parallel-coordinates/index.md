@@ -50,12 +50,15 @@ order: 320
 is displays multiple variables along vertical axes while tracing the relationship between them using a connecting line. [^wilkinson] Each variable has its axis, and all the axes are parallel to each other. Each axis may have a different scale expressed in its unit of measurement. Values show up as a series of lines connected between all the axes.
 
 <!--more-->
+The graph consists of ***axes*** for each ***variable*** drawn in parallel to each other. The values are typically indicated as dots. Connecting lines are drawn between the values. The ***categories*** are typically labled next to first and last axes.
+
+
+Parallel coordinates show multivariate data by imitating a multi-dimensional space. Multi-dimensional space is hard to image because normally we see only up to 3 dimensions in graphs. Parallel coordinates plot imitates what multi-dimensional graph would look like by showing multiple axes in parallel. [^inselberg] [^andrews]
+
+Still, the limitation is that the reader can only compare the two adjacent dimensions directly to any value. This limitation does not allow for all possible patterns to emerge. Parallel coordinates plot also has the disadvantage of presenting an overly general view of the data with visually overwhelming complexity. [^wilkinson2]
 
 Parallel coordinates plot was first used by American geographer Henry Gannetts in 1880 when he ranked the U.S. states by economic performance such as manufacturing, taxation, and education. [^rumsey]
 
-Parallel coordinates show multivariate data by imitating a multi-dimensional space. Multi-dimensional space is hard to image because normally we see only up to 3 dimensions in graphs. Parallel coordinates plot imitates what multi-dimensional graph would look like by showing multiple axes in parallel. [^inselberg] [^andrews]
-Still, the limitation is that the reader can only compare the two adjacent dimensions directly to any value. This limitation does not allow for all possible patterns to emerge. Parallel coordinates plot also has the disadvantage of presenting an overly general view of the data with visually overwhelming complexity. [^wilkinson2]
- 
 
 ## Alternatives
 1. [*Radar chart*](/radar-chart) is in principle a parallel coordinates chart plotted in polar coordinates.

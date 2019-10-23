@@ -59,7 +59,9 @@ order: 110
 is a type of [pie chart](/pie-chart) in which all sectors have equal angles differing only in how far each segment extends from the center of the circle. [^friendly]  The data is represented as the area, not the height, of a sector.
 
 <!--more-->
-The polar area chart is used to plot circular data[^fisher]. Each segment of a polar area chart represents a value through its area, not arc length or radius. The segments can be stacked, similar to a stacked bar chart, only presented in polar coordinates.
+Each ***segment*** of a polar area chart represents a value through its area, not arc length or radius. The segments can be stacked, similar to a stacked bar chart, except that they are presented in polar coordinates.
+
+The polar area chart is used to plot circular data[^fisher].
 
 Cyclical phenomena, such as monthly weather patterns, are the best use case of the polar area chart. However, the drawback of the polar chart is that it makes the outer segments seem more significant. 
 

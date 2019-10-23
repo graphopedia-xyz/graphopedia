@@ -70,12 +70,12 @@ order: 170
 
 ---
 
-is a table in which values in every cell are represented with color. Functionally, heatmaps are best at revealing the lowest and highest values as well as general patterns. Heatmaps represent a single variable (univariate data) by using color. A color either corresponds to a single value or to a range of values where the data is grouped. 
+is a table in which values of each cell are represented with a color. 
 <!--more-->
-Heatmaps originate from shading matrices that were used as far back as 1873. [^wilkinson]
+The ***rows*** and ***columns*** in a heat map represent either numeric values or categories. Each ***cell*** is filled with a color from the ***color value scale***. A color either corresponds to a single value or to a range of values where the data is grouped.
 
+Functionally, heatmaps are best at revealing the lowest and highest values as well as general patterns. 
 
-The rows and columns in a heat map represent either numbers or categories. 
 The advantage of using heatmaps is that encoding quantitative data with color requires a very small area which allows for a data-dense display within a small space. [^munzer]
 
 As with all information graphics that use color to represent data, the choice of the color scheme is important in a heatmap. The designer can choose between greyscale and color. 
@@ -84,8 +84,9 @@ In general, the human eye can differentiate chromatic colors easier than shades 
  
 Another issue with colors is their influence on each other - adjacent cells of different colors can produce the perception of a gradient even when it is not there.
  
- Despite its name, a heatmap normally does not refer to a type of map but a table with color-coded values. Maps that use color coding with a rainbow pattern are also sometimes called heatmaps. But they are not to be confused with [choropleth maps](/choropleth-map) that use a single color per geographic region to represent data.
+Despite its name, a heatmap normally does not refer to a type of map but a table with color-coded values. Maps that use color coding with a rainbow pattern are also sometimes called heatmaps. But they are not to be confused with [choropleth maps](/choropleth-map) that use a single color per geographic region to represent data.
 
+Heatmaps originate from shading matrices that were used as far back as 1873. [^wilkinson]
 
 ## Variations
 Heatmap variations have to do with the orientation and layout of the map. The addition of a [dendrogram](/dendrogram) produces a heatmap that also shows the hierarchy of the values.
@@ -102,10 +103,11 @@ Heatmap variations have to do with the orientation and layout of the map. The ad
                                                                        
 ## Sources
 
-[^wilkinson]: Wilkinson, Leland, and Michael Friendly. ["The history of the cluster heat map."] *The American Statistician* 63.2 (2009): 179-184. [PDF](https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf)
 
 [^munzer]: Munzner, Tamara ["Visualization Analysis and Design"](https://books.google.com/books?id=NfkYCwAAQBAJ&pg=PT166&lpg=PT166) CRC Press, 2014, p.136.
 
 [^ware]: Ware, Colin. ["Color sequences for univariate maps: Theory, experiments and principles."](https://ccom.unh.edu/sites/default/files/publications/Ware_1988_CGA_Color_sequences_univariate_maps.pdf) *IEEE Computer Graphics and Applications* 8.5 (1988): 41-49.
+
+[^wilkinson]: Wilkinson, Leland, and Michael Friendly. "The history of the cluster heat map." *The American Statistician* 63.2 (2009): 179-184. [PDF](https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf)
 
 [^ncss]: [NCSS Statistical Sotfware](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Clustered_Heat_Maps-Double_Dendrograms.pdf) Chapter 450

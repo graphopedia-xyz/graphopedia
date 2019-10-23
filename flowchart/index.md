@@ -37,12 +37,16 @@ order: 560
 
 ---
 
-is a graphic way of representing the sequence of any operation using nodes and links. [^henderson] The word "flowchart" is often used as a generic name for both technical diagrams such as a block scheme and general-purpose diagrams with connectors.
+is a graphic way of representing the sequence of any operation using nodes and links. [^henderson]
 
 <!--more-->
-Flowcharting is a technique of illustrating computer programs and algorithms. A standardized system of flowchart symbols is used for this purpose.[^myler] It includes blocks of various shapes representing input/output, conditional statements, etc. For example, the diamond shape represents a decision to be made. Lines with arrows show
-the flow of data from one stage or process to the next.  If there is a condition, the "if" is represented by a branching line going towards the alternatives. If the decision involves repeating a previous step, as in a loop, the line
+A flowchart consists of flowchart ***symbols*** and connecting lines. The symbols are standardized, comprised of blocks of various shapes representing input/output, conditional statements, etc. [^myler]
+
+***Connecting lines*** with arrows show the flow of data from one stage or process to the next.  If there is a condition, the "if" is represented by a branching line going towards the alternatives. If the decision involves repeating a previous step, as in a loop, the line
 goes back to the decision point; another line shows how the process continues after the loop exits.
+
+
+The word "flowchart" is often used as a generic name for both technical diagrams such as a block scheme and general-purpose diagrams with connectors.
 
 The flow in a flow chart is that of events, not of time. This allows for simultaneous events.
 

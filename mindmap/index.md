@@ -57,8 +57,9 @@ is a type of knowledge representation that shows concepts as nodes and links bet
 
 <!--more-->
 
-A mind map usually starts from a single concept at the center of the image. Major ideas are connected directly to the central concept, and minor ideas branch out from those major ideas. Mind maps serve as a mnemonic technique for facts and their interconnections.
+A mind map usually starts from a single concept at the center of the image that represents the ***main topic*** of the visualization. ***Sub-topics*** are connected directly to the main topic, representing the main themes of the mindmap. Minor themes or specific ***ideas*** branch out from the sub-topics. 
 
+Mind maps serve as a mnemonic technique for facts and their interconnections.
 
 The mind map has ancient origins with the earliest known example being The Tree of Porphyr, or the Porphyrian tree, created by the 3rd century CE Greek philosopher and logician Porphyry. [^cyclopedia] 
 

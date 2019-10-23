@@ -44,13 +44,15 @@ order: 340
 is a visualization of entities and their relationships that together form a network structure. Each entity is a node, and each connection between nodes is a link. Any node can connect to any other node. There is no limit on the number of connects a node can have.
 
 <!--more-->
-A network diagram consists of any number of nodes that visually appear as a symbol or a block of text and the connections between them that appear as connecting lines. A node can have an unlimited number of connections. 
+A network diagram consists of any number of ***nodes*** that visually appear as symbols or as blocks of text and the ***links*** between them that appear as connecting lines. A node can have an unlimited number of connections. 
 
-A line between nodes represents a connection. In *undirected network diagrams* connectors only show a relationship, not a direction in which it might move.  *Directed network diagrams* can show a one-way relationship or a two-way reciprocal relationship represented by arrows.
+A node can reflect the number of its incoming and outgoing connects though its size. In this case it is called a ***weighed node***. Similarly, ***weighted links*** reflect the strength of the connection through their thickness. 
+ 
+In undirected network diagrams connectors only show relationships and not their direction.  *Directed network diagrams* can show one-way relationships or two-way reciprocal relationships represented by arrows.
 
 Nodes link to similar nodes forming groups by similarity. This kind of grouping follows the first law of geography: near things are more alike than distant things. Therefore, any two nodes should be linked via the shortest route. Clusters of similar nodes can form larger groups that can be marked with color, for example. [^saket]
 
-Both nodes and links can have a weight that represents a value. Weighted nodes are proportional in size to their importance, number of connections, or some other variable. Weighted links use the thickness of the connecting lines to represent importance or another variable.
+Both nodes and links can have a weight that represents a value. 
 
 Any network diagram can be represented as a matrix. The relative effectiveness of network diagrams versus matrices is a matter of a long-standing debate. In short, network diagrams are more useful for showing connections and clusters. The matrix is better for group analysis and finding specific values. [^okoe]
 

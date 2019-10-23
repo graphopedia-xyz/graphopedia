@@ -78,7 +78,7 @@ order: 30
 is a graphic representation of the distribution of one continuous variable.  The height of each bar shows the frequency of observations in a bin, which is the interval at which the data is split.
 
 <!--more-->
-Histograms are built using raw data that is split into intervals, called *bins*. The vertical axis shows frequency - the number of data points that appear in a bin. 
+Histograms are built using raw data that is split into ***intervals***, called *bins*. The ***bar height*** shows ***frequency*** - the number of data points that appear in a bin. 
 
 The bin size is the tool that groups data points such that they could be represented as a single bar. The larger the bin size, the less accurate the value of each bar, at the same time, the more normal the distribution as a whole. Conversely, smaller bin size leads to more accurate individual bars and more irregular overall shape of the graph. 
 

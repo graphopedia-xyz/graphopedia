@@ -17,11 +17,11 @@
 	.st11{fill:#C9C9C9;}
 </style>
 <text transform="matrix(1 0 0 1 179.0568 201.5894)" class="st0 st1 st2">category A</text>
-<text transform="matrix(1 0 0 1 128.0001 53.5894)" class="st0 st1 st2">Y axis</text>
+<text transform="matrix(1 0 0 1 128.0001 53.5894)" class="st0 st1 st2">numeric axis</text>
 <text transform="matrix(1 0 0 1 128 89.9951)" class="st0 st3 st4">showing age</text>
-<text transform="matrix(1 0 0 1 767.9149 1263.9955)" class="st0 st3 st4">showing quantities or percentages</text>
+<text transform="matrix(1 0 0 1 714.9149 1263.9955)" class="st0 st3 st4">showing quantities or percentages</text>
 <text transform="matrix(1 0 0 1 744.5454 201.5896)" class="st0 st1 st2">category B</text>
-<text transform="matrix(1 0 0 1 999.9149 1227.3005)" class="st0 st1 st2">X axis</text>
+<text transform="matrix(1 0 0 1 797.9232 1227.3003)" class="st0 st1 st2">numeric axis</text>
 <path class="st5" d="M104,110.4v990.2h1004.3"/>
 <path class="st6" d="M89,114.7l15-25.9l14.9,25.9H89z"/>
 <path class="st6" d="M1103.9,1115.5l25.9-14.9l-25.9-15V1115.5z"/>

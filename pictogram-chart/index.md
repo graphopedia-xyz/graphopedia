@@ -61,6 +61,8 @@ order: 470
 is a method of visualizing numbers by repeating identical pictographs that refer to objects or concepts depicting the data being visualized. The pictographs are graphically uniform abstracted symbols optimized for swift visual recognition. [^holmes]
 
 <!--more-->
+A pictogram chart consists of repeating ***icons*** and a scale ***legend***. All icons represent one hundred percent with icons indicated with color representing a fraction or a percentage. ***Fractions*** of less than one percent are represented as a partially colored icon.
+
 ISOTYPE, an acronym for "International System Of Typographic Picture Education," appeared around 1935. [^neurath] Its creator Otto Neurath was a statistician and a philosopher who devised a system of using pictographs for displaying statistics aimed at the general public.[^nino]
 
 The concept behind pictograph charts comes from logical positivism. The idea is that the human brain can only access knowledge through seeing — and learning by seeing means that any word of a language can be reduced to a picture. [^lupton] Those pictographs can then be observed by a reader and their relationships, quantities, and other attributes learned.

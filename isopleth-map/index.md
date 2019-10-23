@@ -35,7 +35,7 @@ shows the data as a third dimension on a map by using lines that connect all poi
 
 Isopleth maps are common for showing surface elevations, amounts of precipitation, atmospheric pressure, air temperature, and other measurements that can be shown as a third dimension. 
  
- The isopleth interval is the difference in value between two adjacent isopleths. The values of the isopleths on the map are always multiples of the interval. 
+The isopleth interval is the difference in value between two adjacent isopleths. The values of the isopleths on the map are always multiples of the interval. 
 
 Isopleths never cross or divide. They always form enclosed circles unless a circle extends outside the mapped area. 
 
