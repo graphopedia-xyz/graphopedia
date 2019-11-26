@@ -45,6 +45,8 @@ order: 190
 is a type of [line graph](/line-graph) for multiple categories that are ranked, usually over time or at equal intervals. Slopegraphs visualize a change in rank along two axes using a connecting line and comparing those changes across multiple categories. 
 
 <!--more-->
+The charts start with a list of ***initial ranks*** for all the variables. The ***time intervals*** run along the horizontal axis, although the axis is not displayed. The change in rank for each time interval is displayed as a ***slope line*** and either a dot or a numeric value indicating the value for that time period. The positions of each value shift on along their numeric axis, even though the axis itself is not displayed.  The ***final rank*** is shown as a list.
+
 Edward Tufte introduced Slopegraphs in his book *The Visual Display of Quantitative Information* (1983), calling it a "table-graphic" that organizes data both vertically and horizontally. [^tufte]
 
 A list of categories appears vertically followed by ranked categories based on the initial data point. 

@@ -6,9 +6,9 @@ tags:
 - change over time
 - part-to-whole relationship
 
-related:
-  - alluvial-diagram
-
+synonyms:
+  - Sankey diagram
+  
 tools:
   - name:   SankeyMatic (generator)
     link:   http://sankeymatic.com/build/
@@ -75,13 +75,15 @@ order: 330
 ---
 is a type of graph that represents change over time or distance as the width of a flowing line that is proportional to a quantity. Sankey diagrams emphasize the transfers in a system by splitting the flow line. [^schmidt] 
 <!--more-->
-Sankey diagram flow lines branch out, but they do not re-cluster as they do in the [alluvial-diagram](/alluvial-diagram). 
+The ***sum of flow lines*** in a Sankey diagram equals one hundred percent of flow. The width of each ***flow line*** represents a value. The ***direction of flow*** is represented with arrows or gradient.
 
 Sankey diagrams use the metaphor of a river with tributaries which follows the principle that the width of the main stream is equal to the sum of its downstream branches. 
 
 Sankey diagrams are often used to show energy flow, migrant flow, and money flow. Any other system where the amount of items at the start equals the end amount after redistribution fits the use case of Sankey diagrams.
 
 A famous example of a Sankey diagram, cited by Edward Tufte as one of the greatest information graphics ever made, is Charles Minard's *Map of Napoleon's Russian Campaign of 1812* created in 1869. It is a Sankey diagram overlaid onto a map which makes it a [flow map](/flow-map). Sankey chart received its name from the Irish engineer Riall Sankey. In 1898, he created a diagram of steam engine efficiency that used arrows with widths proportional to heat loss.
+
+Sankey diagram flow lines branch out, but they do not re-cluster as they do in the [alluvial-diagram](/alluvial-diagram).
 
 ## Alternatives
 1. [*Alluvial diagram*](/alluvial-diagram) uses the width of a line to represent the amount of flow between categories, as in [parallel coordinates plot](/parallel-coordinates). Unlike the Sankey diagram, it allows flow lines to re-cluster.

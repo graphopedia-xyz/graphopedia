@@ -19,6 +19,15 @@ tools:
   
   - name:   Apple Numbers
     link:   https://support.apple.com/kb/PH17003?locale=en_US&viewlocale=en_US
+
+  - name:   DataWrapper (template)
+    link:   https://academy.datawrapper.de/article/65-how-to-create-a-scatter-plot
+
+  - name:   FusionCharts (code)
+    link:   http://jsfiddle.net/fusioncharts/6deM9
+  
+  
+    
     
 
 examples:
@@ -26,6 +35,11 @@ examples:
     author:  The Economist
     link:   https://www.economist.com/graphic-detail/2017/07/26/why-biggest-isnt-fastest-in-the-animal-kingdom
     image:  man-vs-beast-speeds.png
+
+  - title:  Sound Effects - Productivity in Offices
+    author: The Economist
+    link:  https://www.economist.com/graphic-detail/2019/10/24/why-open-plan-offices-get-a-bad-rap
+    image:  noise-level-in-offices-economist.png
 
   - title:  Greying of The Nobel Laureates
     author: The Economist
@@ -61,13 +75,15 @@ order: 60
 is a visualization method for showing the distribution of two variables along the horizontal and vertical axes. Scatter plots are used to show correlation and detect outliers. [^friendly]
 
 <!--more-->
-The scatter plot first appeared in the work of English statistician Francis Galton, who also created the concept of correlation in statistics.
+Scatter plots show the relationship of two variables plotted along ***numeric axes***, with the one axis, usually horizontal, showing the independent variable and the other the dependent one. Each ***data point*** is represented with a dot. In plots where the data points form a pattern of correlation, a ***line of best fit*** shows the trend. The data points far outside the direction of the trendline are the ***outliers***.
 
-Scatter plots are used to show a correlation between two variables because they show the exact distribution of all individual data points. To display a correlation, a graph must have one independent variable and one dependent variable. The independent variable usually appears on the X-axis and the dependent on the Y-axis.  A trendline also called the *line of best fit* can be drawn to emphasize the outliers and identify trends. 
+Scatter plots are used to show a correlation between two variables because they show the exact distribution of all individual data points. To display a correlation, a graph must have one independent variable and one dependent variable. The independent variable usually appears on the X-axis and the dependent on the Y-axis. 
  
 Scatter plots are common in scientific publications, making up to 80% of all charts.[^tufte]
  
 Since scatter plots display a dot for every data point, overplotting is a common problem. [^carr] The existing solutions include representations of densities, not individual data points, using greyscale or using a symbol, often a hexagon. An example of such a density distribution scatter plot is a hexagonal bin plot.
+
+The scatter plot first appeared in the work of English statistician Francis Galton, who also created the concept of correlation in statistics.
 
 [//]: # (Todo: Add 3 types of correlation types: direction, form, and strength https://www.westga.edu/academics/research/vrc/assets/docs/scatterplots_and_correlation_notes.pdf)
 

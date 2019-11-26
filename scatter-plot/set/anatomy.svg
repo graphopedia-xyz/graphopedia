@@ -19,7 +19,7 @@
 <g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 144.7031 52.501)" class="st0 st1 st2">Y axis</text>
+			<text transform="matrix(1 0 0 1 144.7031 52.501)" class="st0 st1 st2">numeric axis</text>
 		</g>
 	</g>
 	<g>
@@ -39,7 +39,7 @@
 	</g>
 	<g>
 		<g>
-			<text transform="matrix(1 0 0 1 1013.0043 953.9049)" class="st0 st1 st2">X axis</text>
+			<text transform="matrix(1 0 0 1 915.5132 953.9049)" class="st0 st1 st2">numeric axis</text>
 		</g>
 	</g>
 	<line class="st3" x1="889.9" y1="294.4" x2="889.9" y2="174.9"/>
@@ -170,8 +170,10 @@
 	<circle class="st9" cx="300.9" cy="935" r="18.9"/>
 	<circle class="st9" cx="263" cy="821.3" r="18.9"/>
 	<circle class="st9" cx="405" cy="821.3" r="18.9"/>
-	<circle class="st9" cx="523.4" cy="887.6" r="18.9"/>
-	<circle class="st9" cx="523.4" cy="698.2" r="18.9"/>
+	
+		<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -299.8283 267.861)" class="st9" cx="523.4" cy="887.6" rx="18.9" ry="18.9"/>
+	
+		<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -227.3481 253.4438)" class="st9" cx="523.4" cy="698.2" rx="18.9" ry="18.9"/>
 	<circle class="st9" cx="698.6" cy="740.9" r="18.9"/>
 	<circle class="st9" cx="286.7" cy="603.6" r="18.9"/>
 	<circle class="st9" cx="447.6" cy="703" r="18.9"/>

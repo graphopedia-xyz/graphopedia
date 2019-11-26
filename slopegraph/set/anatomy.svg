@@ -11,10 +11,9 @@
 	.st4{fill:#878787;}
 	.st5{font-size:22.8245px;}
 	.st6{fill:#AFAFAF;}
-	.st7{font-size:24.8937px;}
-	.st8{font-size:20px;}
-	.st9{font-size:20.7448px;}
-	.st10{fill:none;stroke:#716082;stroke-miterlimit:10;}
+	.st7{font-size:20px;}
+	.st8{font-size:20.7448px;}
+	.st9{fill:none;stroke:#716082;stroke-miterlimit:10;}
 </style>
 <text transform="matrix(1 0 0 1 260.4131 34.735)" class="st0 st1 st2">time or intervals</text>
 <g>
@@ -25,7 +24,9 @@
 </g>
 <path class="st3" d="M540.7,79.9V59.3H226.4v20.5"/>
 <g>
-	<text transform="matrix(1 0 0 1 63.615 468.1482)" class="st4 st1 st5">category C</text>
+	<g>
+		<text transform="matrix(1 0 0 1 58.5989 468.1482)" class="st4 st1 st5">category C</text>
+	</g>
 </g>
 <g>
 	<text transform="matrix(1 0 0 1 577.805 182.6969)" class="st4 st1 st5">category B</text>
@@ -45,53 +46,57 @@
 	<text transform="matrix(1 0 0 1 565.8057 666.7114)" class="st0 st1 st2">final rank</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 51.4237 190.4259)" class="st6 st1 st7">category A</text>
+	<g>
+		<text transform="matrix(1 0 0 1 58.599 190.4259)" class="st4 st1 st5">category A</text>
+	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 223.8958 118.5646)" class="st6 st1 st8">2019</text>
+	<text transform="matrix(1 0 0 1 223.8958 118.5646)" class="st6 st1 st7">2019</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 358.0003 118.5646)" class="st6 st1 st8">2020</text>
+	<text transform="matrix(1 0 0 1 358.0003 118.5646)" class="st6 st1 st7">2020</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 496.2991 118.5646)" class="st6 st1 st8">2021</text>
+	<text transform="matrix(1 0 0 1 496.2991 118.5646)" class="st6 st1 st7">2021</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 67.5684 334.257)" class="st4 st1 st5">category B</text>
+	<g>
+		<text transform="matrix(1 0 0 1 58.5992 334.257)" class="st4 st1 st5">category B</text>
+	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 229.2263 191.5509)" class="st6 st1 st9">100</text>
+	<text transform="matrix(1 0 0 1 229.2263 191.5509)" class="st6 st1 st8">100</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 235.451 335.382)" class="st6 st1 st9">98</text>
+	<text transform="matrix(1 0 0 1 235.451 335.382)" class="st6 st1 st8">98</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 235.451 468.1486)" class="st6 st1 st9">96</text>
+	<text transform="matrix(1 0 0 1 235.451 468.1486)" class="st6 st1 st8">96</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 363.3308 191.5509)" class="st6 st1 st9">100</text>
+	<text transform="matrix(1 0 0 1 367.1736 191.5509)" class="st6 st1 st8">100</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 369.5564 335.382)" class="st6 st1 st9">98</text>
+	<text transform="matrix(1 0 0 1 373.3976 261.3712)" class="st6 st1 st8">99</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 369.6594 468.1486)" class="st6 st1 st9">96</text>
+	<text transform="matrix(1 0 0 1 373.3979 468.1486)" class="st6 st1 st8">96</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 501.6302 191.5511)" class="st6 st1 st9">100</text>
+	<text transform="matrix(1 0 0 1 501.6302 191.5511)" class="st6 st1 st8">100</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 507.8538 468.1483)" class="st6 st1 st9">96</text>
+	<text transform="matrix(1 0 0 1 507.8538 468.1483)" class="st6 st1 st8">96</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 507.8538 602.2971)" class="st6 st1 st9">94</text>
+	<text transform="matrix(1 0 0 1 507.8538 602.2971)" class="st6 st1 st8">94</text>
 </g>
-<line class="st10" x1="272.7" y1="327.9" x2="364.1" y2="328"/>
-<line class="st10" x1="399.9" y1="327.9" x2="494" y2="182.7"/>
-<line class="st10" x1="274.1" y1="182.7" x2="357.1" y2="182.7"/>
-<line class="st10" x1="408.2" y1="182.7" x2="494" y2="460.7"/>
-<line class="st10" x1="265.8" y1="460.7" x2="366.8" y2="460.7"/>
-<line class="st10" x1="399.9" y1="460.7" x2="494" y2="592.1"/>
+<line class="st9" x1="276.8" y1="327.9" x2="356.8" y2="255.3"/>
+<line class="st9" x1="410.9" y1="255.3" x2="494" y2="182.7"/>
+<line class="st9" x1="276.8" y1="184.7" x2="356.8" y2="184.7"/>
+<line class="st9" x1="410.9" y1="182.7" x2="494" y2="460.7"/>
+<line class="st9" x1="276.8" y1="460.7" x2="356.8" y2="460.7"/>
+<line class="st9" x1="410.9" y1="460.7" x2="494" y2="592.1"/>
 <path class="st3" d="M59.9,485.5v15.6h135.2v-15.5"/>
 <path class="st3" d="M569,611.4V627h135.2v-15.5"/>
 </svg>

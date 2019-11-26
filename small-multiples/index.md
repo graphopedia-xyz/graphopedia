@@ -58,6 +58,7 @@ order: 450
 is a visualization technique of arranging a series of graphs, maps, or pictographs at the same scale ordered to allow for visual comparison. The order of the graphs is usually chronological or alphabetical. The graphs appear either in a row or in a table.
 
 <!--more-->
+In a small multiples chart, each small picture of graph is displayed in a grid cell. The ***order*** in which they come can be chronological, sequential, alphabetical or the order of similarity.
 Statistician Edward Tufte introduced small multiples in his 1983 book *The Visual Display of Quantitative Information*. [^tufte] Before Tufte, Jacques Bertin proposed a similar method called *reorderable matrix* in 1967.[^perin]
 
 Small multiples technique can be applied to virtually any type of charts, maps, or illustrations as long as the differences between the charts are legible despite the small size. The order in which the charts appear should follow a logical sequence: time, alphabet, similarity, etc.
