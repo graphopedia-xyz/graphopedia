@@ -51,8 +51,10 @@ The orientation of the timeline can be vertical, horizontal, curved, perspective
 
 Joseph Priestley's 1765 Chart of Biography is cited as the most influential timeline of the 18th century that had the first "complete and fully theorized visual vocabulary for a time map." It became a worthy alternative to visualizing time as tables. [^grafton]
 
+
 ## Variations
 
+[//]: # (TODO: Add more timeline types like sequential timeline, dynamic interval timeline, multi-intervals timeline )
 ### Circular timeline
 A timeline set in polar coordinates representing time as cyclical space. This variation is useful for visualizing cyclical events such as seasonal weather patterns.
 
@@ -61,6 +63,7 @@ A timeline with the X-axis following a spiral trajectory. This space-saving layo
 
 ### Metaphorical timeline
 Timelines stylized as trees with branching limbs, rivers with tributaries, and other natural objects often appear in vintage information graphics. A collection of such notable examples is the book *Cartographies of Time: A History of the Timeline*. [^grafton]
+
 
 ## Sources
 
