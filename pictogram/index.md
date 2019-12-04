@@ -1,5 +1,5 @@
 ---
-title:  Pictogram
+title:  pictogram
   
 tags:
 
@@ -12,6 +12,7 @@ examples:
 synonyms: 
   - icon
   - pictograph
+  - symbol
 
 ---
 

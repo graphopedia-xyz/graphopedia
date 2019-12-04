@@ -1,7 +1,5 @@
 ---
-layout: post
-
-title:  Multiple exposure diagram
+title:  multiple exposure diagram
   
 tags:
 
@@ -23,7 +21,3 @@ This technique can be applied both to photo graphics and illustrations.
 This is useful when you want to illustrate motion of something or a force that is applied to some object.
 
 [Multiple exposure definition on Wikipedia](https://en.wikipedia.org/wiki/Multiple_exposure)
-
-
-Sources: 
-1. [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)

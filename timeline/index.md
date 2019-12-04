@@ -54,9 +54,25 @@ Joseph Priestley's 1765 Chart of Biography is cited as the most influential time
 
 ## Variations
 
-[//]: # (TODO: Add more timeline types like sequential timeline, dynamic interval timeline, multi-intervals timeline )
-### Circular timeline
-A timeline set in polar coordinates representing time as cyclical space. This variation is useful for visualizing cyclical events such as seasonal weather patterns.
+### Sequential timeline
+Interval between events is the same
+
+[//]: # (TODO: rewrite, name TBD)
+
+### Dynamic timeline
+Distance between the events reflect time
+
+[//]: # (TODO: rewrite, name TBD)
+
+### Parallel timelines
+Multiple dynamic or static intervals
+
+[//]: # (TODO: rewrite, name TBD)
+
+### Cyclic timeline
+Looped in a circle 
+
+[//]: # (TODO: rewrite, name TBD)
 
 ### Spiral timeline
 A timeline with the X-axis following a spiral trajectory. This space-saving layout allows for a data-dense visualization in a small space.

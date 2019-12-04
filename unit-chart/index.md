@@ -1,5 +1,5 @@
 ---
-title:  Unit Chart
+title:  unit chart
   
 tags:
 
@@ -17,5 +17,8 @@ is a type of chart  ...
 
 ## Variations
 
-### Waffle Chart
+### waffle chart
 <!-- Research if waffle chart is a separate type and if unit chart actually exists -->
+
+
+## Sources
