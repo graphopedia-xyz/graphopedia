@@ -63,8 +63,8 @@ examples:
     
   
 
-synonym:
-  -heat map
+synonyms:
+  - heat map
 
 order: 170
 

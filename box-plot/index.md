@@ -114,6 +114,8 @@ The box plot was introduced in 1970 by John Tukey [^wickham] who also invented t
 ### Highest density region (HDR) boxplot
 <img src="hdr-box-plot.svg" alt="HDR box plot" class="f-right-half" /> The HDR box plot is a combination of a box plot with a density plot that shows the zones of highest density that fall anywhere in the distribution. The HDR boxplot is able to display multi-modality if it appears in the data. [^hyndman]
 
+### Raincloud chart
+A raincloud chart combines the box plot with a density distribution chart and a jittered strip plot. [^allen]
 
 ## Alternatives
 Charts that show distributions are all potential alternatives to a box plot. With few data series, using a histogram or a density plot may be possible, otherwise, to compare multiple data series, the violin plot or the beeswarm plot are better.
@@ -140,3 +142,4 @@ Charts that show distributions are all potential alternatives to a box plot. Wit
 [^hofmann]: Hofmann, Heike, Hadley Wickham, and Karen Kafadar. ["Value plots: Boxplots for large data."](https://vita.had.co.nz/papers/letter-value-plot.pdf) *Journal of Computational and Graphical Statistics* 26.3 (2017): 469-477.
 [^tukey]: Cleveland, William S. *The Collected Works of John W. Tukey: Graphics 1965-1985.* Vol. 5. CRC Press, 1988, p.69. (https://books.google.com/books?id=z_F5Tyt66c0C)
 [^hyndman]: Hyndman, Rob J. "Computing and graphing highest density regions." *The American Statistician* 50.2 (1996): 120-126.
+[^allen]: Allen, Micah, et al. ["Raincloud plots: a multi-platform tool for robust data visualization."](https://doi.org/10.12688/wellcomeopenres.15191.1) Wellcome open research 4 (2019). (https://doi.org/10.12688/wellcomeopenres.15191.1)
