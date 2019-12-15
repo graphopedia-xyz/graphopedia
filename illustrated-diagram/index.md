@@ -49,15 +49,13 @@ synonyms:
 
 
 ---
-is an artistic rendering of a subject 
-
+is an artistic rendering based on factual information about its subject.
+<!--more-->
+ 
+Scientific illustration is a factually accurate depiction of objects and phenomena described by science. Where complete scientific descriptions are not available, an artistic rendering combine available facts with imagination.
 
 
 ## Variations
-
-### scientific illustration
- 
-Scientific illustration is a factually accurate depiction of objects and phenomena described by science. Where complete scientific descriptions are not available, an artistic rendering combine available facts with imagination.
 
 ### unordered illustrations
 
