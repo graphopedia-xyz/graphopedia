@@ -27,6 +27,8 @@ synonyms:
  - cutaway diagram
  - cutaway illustration
 
+order: 630
+
 ---
 
 is a type of three-dimensional diagram in which some are removed in order to reveal an object's internal features. The object's outer features remain recognizable despite the selectively removed parts.  

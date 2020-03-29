@@ -35,7 +35,9 @@ examples:
 
 synonyms:
  - exploded view drawing
- 
+
+order: 640
+
 ---
 
 is a type of schematic or illustrated diagram that displays and labels component parts of a complex system.
