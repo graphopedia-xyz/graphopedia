@@ -13,11 +13,17 @@ tools:
 
 examples:
 
+  - title: Jump Shot Basketball
+    author: Estefan Cuanalo (
+    image: jump-shot-basketball.jpg
+
+    
+  - title: Giant Jumps
+    author:  The New York Times
+    link:  https://www.nytimes.com/interactive/2014/02/13/sports/olympics/figure-skating-jumps.html
+    image: kim-yuna-jump-diagram.jpg
+
 
 ---
 
-When you show the same object slightly changing in position in time.
-This technique can be applied both to photo graphics and illustrations.
-This is useful when you want to illustrate motion of something or a force that is applied to some object.
 
-[Multiple exposure definition on Wikipedia](https://en.wikipedia.org/wiki/Multiple_exposure)

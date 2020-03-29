@@ -8,8 +8,8 @@ tools:
   - name:   Tally Chart Maker
     link:   https://www.meta-chart.com/tally#/data
 
-  - name:   Tally Chart Maker
-    link:   https://www.meta-chart.com/tally#/data
+  - name:   Microsoft Excel (Tally chart template download)
+    link:   http://www.cec.health.nsw.gov.au/__data/assets/excel_doc/0008/339956/Tally-sheet-template.xls
 
 examples:
 
