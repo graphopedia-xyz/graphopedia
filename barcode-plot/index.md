@@ -2,14 +2,18 @@
 title:  Barcode plot
   
 tags:
+- distribution
 
 tools:
 
   - name:   R (code tutorial)
     link:   https://flowingdata.com/2017/12/04/compact-ways-to-visualize-distributions-in-r/
 
-  - name:   D3 (code workbook by Joshua Byrd)
-    link:   https://bl.ocks.org/phocks/878340b26d0aa69658854c17cdf2e046
+  - name:   Observable D3 (code)
+    link:   https://observablehq.com/@d3/barcode-plot
+    
+  - name:   Matplotlib (code)
+    link:   https://matplotlib.org/3.1.0/gallery/images_contours_and_fields/barcode_demo.html
 
 examples:
   - title:  Warming Stripes
@@ -34,6 +38,8 @@ examples:
 
 synonyms:
  - barcode chart
+ - rug plot
+ - strip plot
 
 ---
 

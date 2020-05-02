@@ -44,6 +44,4 @@ In a unit chart, the icons are equally spaced such that they number can be estim
 
 Unit charts are similar to [tape diagrams](/tape-diagram) functionally, however, unit charts tend to arrange icons in rows and columns while tape diagrams only use linear arrangements.
 
-
-
 ## Sources

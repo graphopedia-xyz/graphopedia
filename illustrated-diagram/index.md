@@ -47,30 +47,27 @@ examples:
 synonyms:
 - illustration
 
+order: 620
 
 ---
 is an artistic rendering based on factual information about its subject.
+
 <!--more-->
  
-Scientific illustration is a factually accurate depiction of objects and phenomena described by science. Where complete scientific descriptions are not available, an artistic rendering combine available facts with imagination.
 
 
 ## Variations
 
+
 ### unordered illustrations
-
 Order by space saving principle
-
-### ordered illustrations
-
-
-Example side by side in line: https://visual.ly/community/infographic/economy/tallest-buildings-world 
 Example, unordered grid: https://www.oldmapslibrary.com/wp-content/uploads/2018/06/Vegetable-Plants.jpg
 
+### ordered illustrations
+Example side by side in line: https://visual.ly/community/infographic/economy/tallest-buildings-world 
+
 ### stacked illustrations
-
-https://www.scmp.com/sites/default/files/2014/12/23/buildingsweb.png, SCMP [source article](https://www.scmp.com/infographics/article/1668136/infographic-height-social-values)
-
+https://www.scmp.com/sites/default/files/2014/12/23/buildingsweb.png
 [Full Size Image](http://yarr.me/c/475/10/on-hold-projects.jpg)
 
 

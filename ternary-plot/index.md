@@ -86,8 +86,11 @@ Ternary plots show the ratios in which three variables relate to each other by o
 
 ## Variations
 
-### Ternary Contour Graph
+### Ternary contour graph
 
-### Ternary Bubble Graph
+### Ternary bubble graph
 
-### Ternary Multi-Group Graph
+### Ternary multi-group graph
+
+
+## Sources

@@ -12,7 +12,6 @@ tools:
 
 
 examples:
-
   - title: Jump Shot Basketball
     author: Estefan Cuanalo (
     image: jump-shot-basketball.jpg
@@ -23,6 +22,7 @@ examples:
     link:  https://www.nytimes.com/interactive/2014/02/13/sports/olympics/figure-skating-jumps.html
     image: kim-yuna-jump-diagram.jpg
 
+order: 650
 
 ---
 

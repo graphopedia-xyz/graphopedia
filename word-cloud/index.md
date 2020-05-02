@@ -33,7 +33,7 @@ examples:
 synonyms: 
   - tag cloud
 
-order: 620
+order: 1000
 
 ---
 

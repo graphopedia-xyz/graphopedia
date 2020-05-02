@@ -31,7 +31,7 @@ synonyms:
   - subway map
   - metro map
 
-order: 610
+order: 575
 
 ---
 is a type of thematic map used for displaying the structure of transportation systems. In information design, it can be used as a metaphor to depict flows and connections in systems unrelated to transit.
