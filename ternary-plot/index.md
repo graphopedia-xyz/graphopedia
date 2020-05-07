@@ -16,8 +16,8 @@ tools:
   - name:   Matplotlib (code)
     link:   https://matplotlib.org/3.1.0/gallery/images_contours_and_fields/triinterp_demo.html#sphx-glr-gallery-images-contours-and-fields-triinterp-demo-py
 
-  - name:   VisIt (open source software)
-    link:   https://wci.llnl.gov/simulation/computer-codes/visit
+  - name:   ggtern (code) extension of ggplot2
+    link:   http://www.ggtern.com/
 
 
 examples:
@@ -80,17 +80,23 @@ is a triangular diagram where every points is defined using three coordinates. M
 
 
 <!--more-->
-A ternary plots shown the relationship of three variables. The values of these three variables must sum up to a constant which is usually represented as 1.0 or 100%.
+A ternary plots shows the relationship of three variables. The values of these three variables must sum up to a constant which is usually represented as 1.0 or 100%.
 
 Ternary plots show the ratios in which three variables relate to each other by occupying a corresponding position on each axis. For this reason, all three axes have to have the same scale that is expressed in the same units.
+
+Ternary diagrams are common in geosciences where they are used to visualize compositional data based on three or more components.
 
 ## Variations
 
 ### Ternary contour graph
+<img src="ternary-contour-plot.svg" class="f-right-half" />Also called ternary contour plots, they represents quantities with isolines. The coordinates of the ternary contour graph variables often represent a physical property.
 
 ### Ternary bubble graph
+<img src="ternary-bubble-graph.svg" class="f-right-half" />The ternary bubble graph is a scatter plot that is plotted in three dimentions and displaying an additional variable as the size of each dot that represents a value through three coordinates.
+
 
 ### Ternary multi-group graph
-
+<img src="ternary-multi-graph.svg" class="f-right-half" /> A multi-group ternary plot displays two or more data series on three axes. This variation is similar to the multi data series [scatter plot](/scatter-plot).
 
 ## Sources
+Hamilton, Nicholas E., and Michael Ferry. ["ggtern: Ternary diagrams using ggplot2."](https://www.researchgate.net/profile/Nicholas_Hamilton5/publication/329804192_ggtern_Ternary_Diagrams_Using_ggplot2/links/5c1e274292851c22a33e6d65/ggtern-Ternary-Diagrams-Using-ggplot2.pdf) *Journal of Statistical Software 87.1 (2018): 1-17*.
