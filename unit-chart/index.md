@@ -44,4 +44,9 @@ In a unit chart, the icons are equally spaced such that they number can be estim
 
 Unit charts are similar to [tape diagrams](/tape-diagram) functionally, however, unit charts tend to arrange icons in rows and columns while tape diagrams only use linear arrangements.
 
+## Variations
+
+### Waffle chart
+Waffle charts also use shapes to represent whole numbers but unlike unit charts they show percentages. The waffle chart always shows one hundred percent represented as a group of shapes where the percentage is represented usually with color.
+
 ## Sources
