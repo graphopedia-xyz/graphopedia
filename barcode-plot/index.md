@@ -39,16 +39,19 @@ examples:
 synonyms:
  - barcode chart
  - rug plot
- - strip plot
-
 ---
 
 shows a distribution of a single variable. The lines represent individual data points on a single axis.
 
 <!--more-->
-Bar code plots are one-dimensional charts that show distribution by representing every observation with a line. The axis along which the lines appear is usually not drawn.
-The axis usually shows numbers or percentages.
+Bar code plots are one-dimensional charts that show distribution by representing every observation with a line. The axis along which the lines appears is usually not drawn.
+The axis usually shows numbers, percentages or categories. 
+
+Barcode plots a usually used to plot a categorical and a numeric variable. [^hilfiger]
 
 Because of its compactness, the barcode plot is often used in [small multiples](/small-multiples) that compare multiple distributions.
 
 Barcode plots are similar in function to [strip plot](/strip-plots) and are sometimes referred to by that name.
+
+## Sources
+[^hilfiger]: Hilfiger, John Jay. [Graphing Data with R: An Introduction.](https://www.amazon.com/dp/1491922613/) O'Reilly Media, Inc., 2015,  p.197.
