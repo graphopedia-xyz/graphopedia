@@ -40,12 +40,11 @@ examples:
     link:  https://hbr.org/2013/05/what-makes-a-good-corporate-st
     image:  disney-strategy.jpeg
 
-
-  
-  - title:  Concept Map
-    author:  Joseph D Novak
-    link:  https://www.buffalo.edu/content/dam/www/nemla/NIS/XXXIX/NeMLA%20Italian%20Studies%202017%20-%20Mind%20Maps.pdf
-    image:  concept-map-novak.png
+  - title:  How To Focus In The Age Of Distraction
+    author:  Learning Fundamentals
+    link:  http://learningfundamentals.com.au/developing-razor-sharp-focus-with-zen-habits-blogger-leo-babauta/
+    image:  how-to-focus-in-the-age-of-distraction.jpg
+    
 
 synonyms:
   - spider diagram
