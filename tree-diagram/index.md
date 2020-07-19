@@ -26,7 +26,7 @@ examples:
     link:   http://silenced.co/wp-content/uploads/2014/10/religions_tree.jpg
     image:  world-religions-tree.jpg
   
-  - title:  The World Religions Tree
+  - title:  The World Languages Tree
     author: Minna Sundberg
     link:   http://www.sssscomic.com/comic.php?page=196
     image:  world-languages-tree.jpg
@@ -74,7 +74,7 @@ Common uses of the tree diagram include the organizational charts, or "org chart
 ## Variations
 
 ### Radial tree diagram
-Orients the tree radially with the top of the hierarchy shown at the center of the circle and the lower levels of the hierarchy branching outward. This is a space-saving layout allowing for more data density. The drawback of the radial layout is the low readability for data labels.
+<img src="radial-tree-diagram.svg" class="f-right-half" /> Orients the tree radially with the top of the hierarchy shown at the center of the circle and the lower levels of the hierarchy branching outward. This is a space-saving layout allowing for more data density. The drawback of the radial layout is the low readability for data labels.
 <!-- TODO: review -->
 The radial tree (also known as radial map) is a type of a tree structure used in information graphics expands radially outward. It is one of many ways of display a tree. The chart starts at the center in the highest-order node that typically has numerous child nodes. Each child node is positioned in the next outer orbit from its parent. A radial tree has an advantage over a linear tree in terms of use of space. In a radial tree nodes are evenly distributed, whereas in a linear tree there are usually more nodes than levels which makes the entire tree occupy a rectangle much wider than its length. However, radial tree may be less effective in terms of interpretation for the viewer as one eye tracking study showed, people are more likely to scan branches of a linear tree2.
 
@@ -84,10 +84,9 @@ Sources
 [^lima]: Lima, Manuel. [*The book of trees: Visualizing branches of knowledge.*] Princeton Architectural Press, 2014. This historical overview gives numerous examples of illustrated tree diagrams.
 -->
 
-
 ### Metaphorical tree
 
-The tree structure in information graphics is used as a metaphor to depict the hierarchies of concepts and ideas. The most common of the metaphorical trees are *the knowledge tree* and *the tree of life*. In this case, the tree diagram is often stylized to resemble trees, rivers, roots, or other natural objects, especially where the illustration fits the subject matter. [^lima]
+<img src="metaphorical-tree.svg" class="f-right-half" /> The tree structure in information graphics is used as a metaphor to depict the hierarchies of concepts and ideas. The most common of the metaphorical trees are *the knowledge tree* and *the tree of life*. In this case, the tree diagram is often stylized to resemble trees, rivers, roots, or other natural objects, especially where the illustration fits the subject matter. [^lima]
 
 ## Alternatives
 1. [*Flow chart*](/flow-chart) is a tree diagram that depicts the steps of a process or an algorithm.

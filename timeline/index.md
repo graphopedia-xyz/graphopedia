@@ -55,30 +55,30 @@ Joseph Priestley's 1765 Chart of Biography is cited as the most influential time
 ## Variations
 
 ### Sequential timeline
-Interval between events is the same
+<img src="sequential-timeline.svg" class="f-right-half" /> Interval between events is the same.
 
 [//]: # (TODO: rewrite, name TBD)
 
 ### Dynamic timeline
-Distance between the events reflect time
+<img src="dynamic-timeline.svg" class="f-right-half" /> Distance between the events reflect time.
 
 [//]: # (TODO: rewrite, name TBD)
 
 ### Parallel timelines
-Multiple dynamic or static intervals
+<img src="parallel-timelines.svg" class="f-right-half" /> Multiple dynamic or static intervals
 
 [//]: # (TODO: rewrite, name TBD)
 
 ### Cyclic timeline
-Looped in a circle 
+<img src="cyclic-timeline.svg" class="f-right-half" /> Looped in a circle 
 
 [//]: # (TODO: rewrite, name TBD)
 
 ### Spiral timeline
-A timeline with the X-axis following a spiral trajectory. This space-saving layout allows for a data-dense visualization in a small space.
+<img src="spiral-timeline.svg" class="f-right-half" /> A timeline with the X-axis following a spiral trajectory. This space-saving layout allows for a data-dense visualization in a small space.
 
 ### Metaphorical timeline
-Timelines stylized as trees with branching limbs, rivers with tributaries, and other natural objects often appear in vintage information graphics. A collection of such notable examples is the book *Cartographies of Time: A History of the Timeline*. [^grafton]
+<img src="metaphorical-timeline.svg" class="f-right-half" /> Timelines stylized as trees with branching limbs, rivers with tributaries, and other natural objects often appear in vintage information graphics. A collection of such notable examples is the book *Cartographies of Time: A History of the Timeline*. [^grafton]
 
 
 ## Sources

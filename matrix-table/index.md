@@ -54,8 +54,7 @@ Tables are one of the most versatile information design methods. They can often 
 ## Variations
 
 ### adjacency matrix
-A square matrix where columns and rows have the same values in a sequence. The intersection of the rows and columns indicated if a relationship is present. Color-coding can be used to indicate the strength of the relationship.
-
+<img src="adjacency-matrix.svg" class="f-right-half" /> A square matrix where columns and rows have the same values in a sequence. The intersection of the rows and columns indicated if a relationship is present. Color-coding can be used to indicate the strength of the relationship.
 
 ## Sources
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p.852-853.
