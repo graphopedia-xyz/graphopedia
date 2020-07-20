@@ -47,6 +47,7 @@ Unit charts are similar to [tape diagrams](/tape-diagram) functionally, however,
 ## Variations
 
 ### Waffle chart
-Waffle charts also use shapes to represent whole numbers but unlike unit charts they show percentages. The waffle chart always shows one hundred percent represented as a group of shapes where the percentage is represented usually with color.
+<img src="waffle-chart.svg" class="f-right-half" /> Waffle charts also use shapes to represent whole numbers but unlike unit charts they show percentages. The waffle chart always shows one hundred percent represented as a group of shapes where the percentage is represented usually with color.
 
 ## Sources
+
