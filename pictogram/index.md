@@ -20,6 +20,8 @@ order: 660
 
 is an ideogram that conveys its meaning through its pictorial resemblance to a physical object..
 
-[//]: # (Edit this definition)
+[//]: # (Pictogram as a separate visualization method)
+
+[//]: # (Mention AIGA, national park services, road signs collections)
 
 <!--more-->
