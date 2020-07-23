@@ -15,25 +15,43 @@ tools:
     link:   https://time.graphics
 
 examples:
+  - title:  How Elon Musk Started
+    author: Anna Vitalq
+    note:   Sequential timeline of Elon Musk's life.
+    link:   https://blog.adioma.com/how-elon-musk-started-infographic/
+    image:  how-elon-musk-started.png
+    
   - title:  How Einstein Started
-    author:  Anna Vital
-    link:  https://blog.adioma.com/how-einstein-started-infographic
+    author: Anna Vital
+    note:   Dynamic timeline of Einstein's life. Each thread on a timeline represented as one year.
+    link:   https://blog.adioma.com/how-einstein-started-infographic
     image:  how-einstein-started.png
 
-  - title:  The Geologic Time Spiral
-    author:  United States Geological Survey
-    link:  http://pubs.usgs.gov/gip/2008/58/
-    image:  geological-time-spiral.png
+  - title:  Timeline Of The Far Future
+    author: David McCandless, Paul Butt
+    link:   https://www.informationisbeautiful.net/visualizations/timeline-of-the-far-future/
+    image:  timeline-of-the-far-future.png
   
   - title:  A Geological Timeline of The Earth
-    author:  The Economist
-    link:  http://pubs.usgs.gov/gip/2008/58/
+    author: The Economist
+    link:   http://pubs.usgs.gov/gip/2008/58/
     image:  geological-timeline-of-the-earth.jpg
   
-  - title: Histography
-    author:  Matan Stauber
-    link:  http://histography.io/
+  - title:  Histography
+    author: Matan Stauber
+    link:   http://histography.io/
     image:  histography.png
+    
+  - title:  The Geologic Time Spiral
+    author: United States Geological Survey
+    link:   http://pubs.usgs.gov/gip/2008/58/
+    image:  geological-time-spiral.png
+ 
+  - title:  The History Of Science Fiction
+    author: Ward Shelley
+    link:   http://www.wardshelley.com/paintings/pages/HistoryofScienceFictionprintA.html
+    image:  the-history-of-science-fiction.jpg
+
 
 synonyms:
   - sequence chart
