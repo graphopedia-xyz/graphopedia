@@ -90,6 +90,13 @@ examples:
     link:   https://blogs.imf.org/2019/01/02/new-data-on-global-debt/
     image:  national-debt.png
 
+  - title:  GDP per person vs natural capital per person
+    author: The Economist
+    note:   Comet chart representing the increase and decrease of natural capital over time.
+    link:   https://www.economist.com/graphic-detail/2020/07/18/the-worlds-wealth-is-looking-increasingly-unnatural
+    image:  natural-capital-vs-GDP.png
+  
+
 
 synonyms:
   - bubble plot
@@ -125,6 +132,9 @@ The [first bubble chart](https://en.wikipedia.org/wiki/Pie_chart#/media/File:Pla
 
 ### Double semi-circle plot
 <img src="comparative-half-bubble-plot.svg" alt="comparative half bubble plot" class="f-right-half" /> The double semi-circles allow comparison between two related numbers [displays two half-circles side by side](https://www.informationisbeautifulawards.com/showcase/604-the-analytical-tourism-map-of-piedmont) with the area of each circle being inferred from its half. Although semi-circles may be more difficult to compare visually, this variation increases the data density becoming a space-saving bubble chart variety. A similar technique is used in the [split violin plot](/violin-plot#split-violin-plot).
+
+### Comet Chart
+Comet charts are a variation on the combination of [scatter plot](/scatter-plot) and bubble chart that represents values at two different point in time with the upward or downward movement stylized as the tail of a comet.
 
 
 ## Alternatives
