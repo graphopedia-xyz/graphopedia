@@ -36,6 +36,11 @@ examples:
     link:  https://flowingdata.com/2017/06/26/alone-time
     image:  how-americans-spend-their-day.jpg
 
+  - title:  Birth Times By Delivery Method
+    author:  Zan Armstrong for The Scientific American
+    link:  https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/
+    image:  method-of-delivery-and-birth-time.png
+
 order: 90
 
 ---
