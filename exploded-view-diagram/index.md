@@ -1,5 +1,5 @@
 ---
-title: Exploded view diagram
+title: exploded view diagram
     
 tags:
 

@@ -2,8 +2,8 @@
 title: timeline
   
 tags:
-- change over time
-- correlation
+  - change over time
+  - correlation
 
 related:
 
@@ -15,23 +15,6 @@ tools:
     link:   https://time.graphics
 
 examples:
-  - title:  How Elon Musk Started
-    author: Anna Vitalq
-    note:   Sequential timeline of Elon Musk's life.
-    link:   https://blog.adioma.com/how-elon-musk-started-infographic/
-    image:  how-elon-musk-started.png
-    
-  - title:  How Einstein Started
-    author: Anna Vital
-    note:   Dynamic timeline of Einstein's life. Each thread on a timeline represented as one year.
-    link:   https://blog.adioma.com/how-einstein-started-infographic
-    image:  how-einstein-started.png
-
-  - title:  Timeline Of The Far Future
-    author: David McCandless, Paul Butt
-    link:   https://www.informationisbeautiful.net/visualizations/timeline-of-the-far-future/
-    image:  timeline-of-the-far-future.png
-  
   - title:  A Geological Timeline of The Earth
     author: The Economist
     link:   http://pubs.usgs.gov/gip/2008/58/
@@ -41,16 +24,11 @@ examples:
     author: Matan Stauber
     link:   http://histography.io/
     image:  histography.png
-    
-  - title:  The Geologic Time Spiral
-    author: United States Geological Survey
-    link:   http://pubs.usgs.gov/gip/2008/58/
-    image:  geological-time-spiral.png
- 
-  - title:  The History Of Science Fiction
-    author: Ward Shelley
-    link:   http://www.wardshelley.com/paintings/pages/HistoryofScienceFictionprintA.html
-    image:  the-history-of-science-fiction.jpg
+
+  - title:  Timeline Of The Far Future
+    author: David McCandless, Paul Butt
+    link:   https://www.informationisbeautiful.net/visualizations/timeline-of-the-far-future/
+    image:  timeline-of-the-far-future.png
 
 
 synonyms:
@@ -70,37 +48,7 @@ The orientation of the timeline can be vertical, horizontal, curved, perspective
 Joseph Priestley's 1765 Chart of Biography is cited as the most influential timeline of the 18th century that had the first "complete and fully theorized visual vocabulary for a time map." It became a worthy alternative to visualizing time as tables. [^grafton]
 
 
-## Variations
-
-### Sequential timeline
-<img src="sequential-timeline.svg" class="f-right-half" /> Interval between events is the same.
-
-[//]: # (TODO: rewrite, name TBD)
-
-### Dynamic timeline
-<img src="dynamic-timeline.svg" class="f-right-half" /> Distance between the events reflect time.
-
-[//]: # (TODO: rewrite, name TBD)
-
-### Parallel timelines
-<img src="parallel-timelines.svg" class="f-right-half" /> Multiple dynamic or static intervals
-
-[//]: # (TODO: rewrite, name TBD)
-
-### Cyclic timeline
-<img src="cyclic-timeline.svg" class="f-right-half" /> Looped in a circle 
-
-[//]: # (TODO: rewrite, name TBD)
-
-### Spiral timeline
-<img src="spiral-timeline.svg" class="f-right-half" /> A timeline with the X-axis following a spiral trajectory. This space-saving layout allows for a data-dense visualization in a small space.
-
-### Metaphorical timeline
-<img src="metaphorical-timeline.svg" class="f-right-half" /> Timelines stylized as trees with branching limbs, rivers with tributaries, and other natural objects often appear in vintage information graphics. A collection of such notable examples is the book *Cartographies of Time: A History of the Timeline*. [^grafton]
-
-
 ## Sources
-
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p. 917.
 [^boyd]: Davis, Stephen Boyd. ["History on the line: time as dimension."](https://www.mitpressjournals.org/doi/pdf/10.1162/DESI_a_00171) *Design Issues* 28.4 (2012): 4-17.
 [^grafton]: Rosenberg, Daniel, and Anthony Grafton. [*Cartographies of time: A history of the timeline.*](https://books.google.com/books?id=DqWqKVzipToC) Princeton Architectural Press, 2013. p. 272.

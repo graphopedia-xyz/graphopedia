@@ -1,5 +1,5 @@
 ---
-title:  Error Bars
+title:  error bars
   
 tags:
 - uncertainty

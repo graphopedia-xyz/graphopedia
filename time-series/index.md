@@ -2,8 +2,8 @@
 title: time series
   
 tags:
-- change over time
-- correlation
+  - change over time
+  - correlation
 
 related:
   - line-graph
@@ -30,16 +30,6 @@ examples:
     author:  Nathan Yau
     link:  https://flowingdata.com/2017/06/26/alone-time
     image:  people-who-are-alone.png
-  
-  - title:  How Americans Spend Their Day
-    author:  The New York Times
-    link:  https://flowingdata.com/2017/06/26/alone-time
-    image:  how-americans-spend-their-day.jpg
-
-  - title:  Birth Times By Delivery Method
-    author:  Zan Armstrong for The Scientific American
-    link:  https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/
-    image:  method-of-delivery-and-birth-time.png
 
 order: 90
 
@@ -55,30 +45,11 @@ Depending on the underlying data, a time series can be *continuous* or *discrete
 
 The most common use case of a time-series is displaying equally spaced data points and the line of best fit. 
 
-
-## Variations
+<!-- from variations -->
 Time series variations involve positioning multiple time series in the same graph space. Another possibility is arranging separate time-series graphs in a grid or a row for comparison.[^javed]
 
-### Stacked time series
-<img src="stacked-time-series.svg" alt="stacked time series" class="f-right-half" /> Uses the same graph space to plot multiple time series. The space below each data curve is filled, similar to a [stacked area chart](/area-chart), to help the reader distinguish the often tightly-packed graphs. 
 
-### Horizon chart
-<img src="horizon-chart.svg" alt="horizon chart" class="f-right-half" />  Uses the concept of *virtual resolution* by limiting the graph space using bands that make only part of the graph visible. Horizon charts are useful for comparing time series in a generalized way.
-
-### Braided time series 
-<img src="braided-time-series.svg" alt="braided time series" class="f-right-half" /> Consists of at least two intersecting time series with the areas under the data curve filled. The areas are sorted in depth order for each position along the time axis. The purpose of the braided time series is helping the reader see multiple color-coded time series. [^javed2]
-
-### Radial time series
-<img src="radial-time-series.svg" alt="radial time series" class="f-right-half" />  Use polar coordinates instead of the traditional coordinates plotting the time series around a central point. This orientation is useful for visualizing cyclical events such as seasonal weather patterns.
-
-### Spiral time series
-<img src="spiral-time-series.svg" alt="spiral time series" class="f-right-half" /> Uses polar coordinates for events that following a repeating pattern but are not necessarily cyclical. The spiral is a space-saving layout that allows for more data-dense visualization.
-
-###  Fan chart (time series)
-<img src="fan-chart-time-series.svg" alt="fan chart(time series)" class="f-right-half" /> Combines a standard line chart based on past data with a range of projections of future data values. The center of the fan pattern represents the most likely outcomes with the outer edges of the fan pattern showing the higher and lowest estimates.
-
-
-## Sources
+## References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p. 920.
 [^javed]: Javed, Waqas, Bryan McDonnel, and Niklas Elmqvist. ["Graphical perception of multiple time series."](https://doi.org/10.1109/TVCG.2010.162) *IEEE transactions on visualization and computer graphics* 16.6 (2010): 927-934. [PDF](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)
-[^javed2]: Javed, W., 2010, p. 927.
+

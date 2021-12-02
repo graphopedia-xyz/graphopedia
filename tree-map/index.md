@@ -2,8 +2,8 @@
 title: treemap
   
 tags:
-- part-to-whole relationship
-- hierarchy
+  - part-to-whole relationship
+  - hierarchy
 
 related:
   - sunburst-chart
@@ -66,23 +66,6 @@ Rectangle-based treemaps, the most typical kind,  suffer from legibility problem
 Another solution is using other figures such as polygons as in Voronoi treemap or circles as in circle treemap. However, even in uncomplicated data visualizations, readers can judge the areas of rectangles more effectively than areas of polygons and especially circles. [^kong]
 
 
-## Variations
-
-### Voronoi Treemap
-<img src="voronoi-treemap.svg" alt="voronoi treemap" class="f-right-half" /> Voronoi treemaps represent hierarchical data by recursively partitioning polygons using weighted centroidal Voronoi diagrams. The polygon areas represent data the same way as rectangle-based treemaps.
-<!-- @anna Maybe add that voronoi treemap could be 'packed' into different shapes square/rect, circle/ellipse, triangle, pentagon, etc. -->
-
-### Circle Treemap
-<img src="circle-packing.svg" alt="circle packing" class="f-right-half" /> Also called *circle packing*, the circle treemap is the same as the rectangle-based treemap functionally except its readability. The human eye can estimate the areas of rectangles much more accurately than of circles. That is why circle treemaps are useful only for showing a general idea of how the parts of a treemap relate.
-
-###Jigsaw Treemap
-<img src="jigsaw-treemap.svg" alt="jigsaw treemap" class="f-right-half" /> The jigsaw treemap cuts rectangles of a treemap into equally-sized squares and then reassembles them into jigsaw-resembling shapes that are fitted without gaps. This layout allows every leaf node to be roughly square and therefore, legible and selectable. [^wattenberg] The tradeoff is the unfamiliar shapes that readers cannot easily evaluate, either for the area or for tree topology.
-<!-- @anna is Gosper type of Jigsaw treemaps or same thing? -->
-
-### Gosper Maps
-Gosper maps are based on fractal geometry - shapes that are self-similar and when repeated form a pattern that looks like the basic shape itself. The map resembles a cartographic map with a visible nested structure. [^auber]
-
-
 ## Alternatives
 
 1. [*Marimekko chart*](/marimekko-chart) uses the area of rectangles positioned along the X and Y axes to represent three variables. Unlike the treemap, it cannot reflect hierarchies.
@@ -92,6 +75,4 @@ Gosper maps are based on fractal geometry - shapes that are self-similar and whe
 ## Sources
 [^schneiderman]: Shneiderman, Ben, and Catherine Plaisant. "Treemaps for space-constrained visualization of hierarchies." (1998). [PDF](https://s3.amazonaws.com/academia.edu.documents/30742877/shneiderman_treemap-history_1998-2009.pdf)
 [^kong]: Kong, Nicholas, Jeffrey Heer, and Maneesh Agrawala. ["Perceptual guidelines for creating rectangular treemaps."](https://doi.org/10.1109/TVCG.2010.186) *IEEE transactions on visualization and computer graphics* 16.6 (2010): 990-998. [PDF](http://idl.cs.washington.edu/files/2010-Treemaps-InfoVis.pdf)
-[^wattenberg]: Wattenberg, Martin. ["A note on space-filling visualizations and space-filling curves."](https://doi.org/10.1109/INFVIS.2005.1532145) *IEEE Symposium on Information Visualization*, 2005. *INFOVIS* 2005. IEEE, 2005. [PDF](http://hint.fm/papers/158-wattenberg-final3.pdf).
 [^bruls]: Bruls, Mark, Kees Huizing, and Jarke J. Van Wijk. ["Squarified treemaps."](https://doi.org/10.1007/978-3-7091-6783-0_4) *Data Visualization, 2000*. Springer, Vienna, 2000. 33-42. [PDF]((https://www.win.tue.nl/~vanwijk/stm.pdf))
-[^auber]: Auber, David, et al. ["Gospermap: Using a gosper curve for laying out hierarchical data."](https://doi.org/10.1109/TVCG.2013.91) *IEEE Transactions on Visualization and Computer Graphics* 19.11 (2013): 1820-1832. [PDF]((https://hal.archives-ouvertes.fr/hal-00959383/document))

@@ -94,12 +94,6 @@ Histograms were introduced by English mathematician Karl Pearson in 1895.[^rufil
 
 ## Variations
 
-### Two-way histogram
-<img src="two-way-histogram.svg" alt="two-way histogram" class="f-right-half" /> The two-way histogram is known as a *pyramid graph* or a [population pyramid](/population-pyramid) when used in the context of demographic statistics. The histograms use both sizes of the Y-axis, with the left side showing mirroring the right side in function. The left side of the graph does not show negative values.
-
-### Spiral histogram
-<img src="spiral-histogram.svg" alt="two-way histogram" class="f-right-half" />  Spiral histogram also called *condegram* is winds the X-axis in a spiral. This space-saving layout is useful for displaying seasonal trends. The readability of this layout is lower than the linear histogram. The zero point is typically located at the beginning of the outer coil of the spiral.
-
 ## Alternatives
 The alternatives to the histogram, the chart synonymous with distribution, are the other charts that show distribution.
 The general trade-offs among distribution-displaying charts are that the more individual data points they display, the less the overall pattern is clear, and vice versa. 

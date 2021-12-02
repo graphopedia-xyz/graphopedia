@@ -1,13 +1,12 @@
 ---
 layout: post
 
-title:  Gauge Chart
+title:  gauge chart
   
 tags:
 
 related:
-  - title: Bullet Chart
-    link: bullet-chart
+  - bullet-chart
 
 tools:
   - name:   D3.js

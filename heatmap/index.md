@@ -31,6 +31,11 @@ tools:
 
 
 examples:
+  - title:  Incidence of Measles in the United States
+    author:  Roy M Francis
+    link:  http://www.roymfrancis.com/a-guide-to-elegant-tiled-heatmaps-in-r-2019/
+    image:  incidence-measles-united-states.png
+
   - title:  How Popular Is Your Birthday
     author: Matt Stiles
     link:   http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/
@@ -41,27 +46,19 @@ examples:
     link:   https://www.flickr.com/photos/idvsolutions/8265288798/sizes/o/in/photostream/
     image:  traffic-fatalities.png
 
+  - title:  Numbers in Reddit Usernames
+    image:  reddit-usernames.png
+    link:   https://www.reddit.com/r/dataisbeautiful/comments/7sewjx/heatmap_of_numbers_found_at_the_end_of_reddit/
+
   - title:  Utilization of Squares by Chess Masters
     author: Seth Kadish
     link:   https://66.media.tumblr.com/87f255cd0024b050c7546f0c595eb1d4/tumblr_n21vkezveA1s3dn7vo1_1280.png
     image:  chess-square-use-by masters.png
-    
-  - title:  Incidence of Measles in the United States
-    author:  Roy M Francis
-    link:  http://www.roymfrancis.com/a-guide-to-elegant-tiled-heatmaps-in-r-2019/
-    image:  incidence-measles-united-states.png
   
   - title:  40 Years of Association of Tennis Players Ranking
     author:  Đinh Bá Đức
     link:  http://ledatageek.blogspot.com/2013/12/the-best-tennis-player-of-atp-era.html
-    image:  40-years-of-tennis.png
-
-  - title:  Shanghai Temperatures
-    author: 
-    link: 
-    image:  shanghai-temperatures.jpg
-    
-  
+    image:  40-years-of-tennis.png   
 
 synonyms:
   - heat map
@@ -88,26 +85,12 @@ Despite its name, a heatmap normally does not refer to a type of map but a table
 
 Heatmaps originate from shading matrices that were used as far back as 1873. [^wilkinson]
 
-## Variations
+<!-- from variations -->
 Heatmap variations have to do with the orientation and layout of the map. The addition of a [dendrogram](/dendrogram) produces a heatmap that also shows the hierarchy of the values.
-
-### Circular heatmap
-<img src="circular-heatmap.svg" alt="circular heat map" class="f-right-half" /> A circular heatmap, also called *radial heat map*, orients the axes along the radius of a circle and its perimeter. This layout is beneficial for displaying cyclical events such as climate visualizations. The disadvantage of this layout is the decreasing size of sectors towards the center of the heatmap. They can become unreadable because of their small size and because of the interactions with neighboring colors.
-
-### Spiral heatmap
-<img src="spiral-heatmap.svg" alt="spiral heat map" class="f-right-half" /> *Spiral heatmap* winds the X-axis along a spiral. This space-saving layout is data-dense, but it comes with the disadvantage of low readability of data labels. The closely packed colored areas can also skew the perception of individual colors. Another problem is the decreasing size of sectors towards the center of the heatmap. 
-
-### Cluster heatmap 
-<img src="clustered-heatmap.svg" alt="clustered heat map" class="f-right-half" /> *Cluster heatmap*, also called *double dendrograms*, [^ncss] is the combination of a heatmap and a [dendrogram](/dendrogram) showing one dendrogram for the matrix rows and one for the columns. The cluster heatmap simultaneously reveals row and column hierarchical cluster structure.
 
                                                                        
 ## Sources
 
-
 [^munzer]: Munzner, Tamara ["Visualization Analysis and Design"](https://books.google.com/books?id=NfkYCwAAQBAJ&pg=PT166&lpg=PT166) CRC Press, 2014, p.136.
-
 [^ware]: Ware, Colin. ["Color sequences for univariate maps: Theory, experiments and principles."](https://ccom.unh.edu/sites/default/files/publications/Ware_1988_CGA_Color_sequences_univariate_maps.pdf) *IEEE Computer Graphics and Applications* 8.5 (1988): 41-49.
-
 [^wilkinson]: Wilkinson, Leland, and Michael Friendly. "The history of the cluster heat map." *The American Statistician* 63.2 (2009): 179-184. [PDF](https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf)
-
-[^ncss]: [NCSS Statistical Sotfware](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Clustered_Heat_Maps-Double_Dendrograms.pdf) Chapter 450

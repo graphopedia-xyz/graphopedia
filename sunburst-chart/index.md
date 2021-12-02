@@ -38,7 +38,6 @@ synonyms:
   - multi-level pie chart
   - radial treemap
   - nested pie chart
-  - stacked pie chart
 
 order: 500
 

@@ -1,5 +1,5 @@
 ---
-title: Stem and leaf plot
+title: stem and leaf plot
   
 tags:
 - distribution

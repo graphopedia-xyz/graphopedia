@@ -20,32 +20,26 @@ tools:
     link:   https://www.tableau.com
 
 examples:
-  - title:  National Debt
-    author: Bloomberg
-    note:
-    link:   https://www.bloomberg.com/graphics/2019-decade-of-debt/
-    image:  national-debt-comparison.png
-    
   - title:  The U.S. Foreign Aid Budget Visualized
     author: The Washington Post
     link:   https://www.washingtonpost.com/graphics/world/which-countries-get-the-most-foreign-aid/
     image:  us-aid-cartogram.png
 
+  - title:  The True Size of Africa
+    author: 
+    link:  
+    image:  true-size-of-africa.jpg
+
+  - title:  How Maps Lie (showing cartograms of U.S. Presidential Election 2016)
+    author: Mark Newman
+    link:   https://www.washingtonpost.com/graphics/politics/2016-election/how-election-maps-lie/
+    image:  us-election-cartogram.png
+ 
   - title:  Job Popularity by State
     author: Nathan Yau
     link:  https://flowingdata.com/2019/02/27/where-your-job-is-most-popular/
     image:  job-popularity-by-state.png
  
-  - title:  Mapping America's Millionaires
-    author: 5W Graphics
-    link:   https://5wgraphicsblog.files.wordpress.com/2016/10/5w-sample-054-america-millionaires1x2.jpg
-    image:  america-millionaires.jpg
-
-  - title:  The True Size of Africa
-    author: 
-    link:  
-    image:  true-size-of-africa.jpg
-  
   - title:  World Population Cartogram
     author: John Tomanio
     link:   http://johntomanio.com/new-gallery/i74g44c8agxtk2532jprj0yf7fj7gc
@@ -55,11 +49,6 @@ examples:
     author: John Tomanio
     link:   http://johntomanio.com/new-gallery/p9wjfds2pp1l63sdsm2jxe5zjikteg
     image:  consumption-cartogram.png
-
-  - title:  How Maps Lie (showing cartograms of U.S. Presidential Election 2016)
-    author: Mark Newman
-    link:   https://www.washingtonpost.com/graphics/politics/2016-election/how-election-maps-lie/
-    image:  us-election-cartogram.png
     
 
 synonyms:
@@ -96,27 +85,6 @@ Showing data that has little to do with the actual land area is often best done 
 
 Cartograms became popular in 1934 when cartographer Erwin Raisz published the first statistical rectangular cartograms.[^tyner]
 
-## Variations
-
-### Contiguous Cartogram
-<img src="contiguous-cartogram.svg" alt="contiguous cartogram" class="f-right-half" /> Also known as *density-equalizing cartogram*  or *deformation cartogram* is a cartogram with map features bulging to represent values. It distorts areas by pulling or pushing the boundaries between regions. 
-
-### Non-Contiguous Cartogram
-<img src="non-contiguous-cartogram.svg" alt="non-contiguos cartogram" class="f-right-half" />  This cartogram variation scales each region independently to an area that reflects a data point splitting regions from each other to emphasize the difference in size.
-
-### Dorling Cartogram 
-<img src="dorling-cartogram.svg" alt="dorling cartogram" class="f-right-half" /> Dorling cartograms display each region as a circle with its area representing a data pointare used to mimic the features of a map.
-The circles do not reflect the true locations of regions relative to each other.
-
-### Demers Cartogram
-<img src="demers-cartogram.svg" alt="demers cartogram" class="f-right-half" /> A Demers cartogram is a sub-type of a Dorling cartogram, using squares instead of circles. 
-
-### Mosaic Cartogram
-<img src="mosaic-cartogram.svg" alt="mosaic cartogram" class="f-right-half" /> Also called *tile grid map* or *tile cartograms*, a mosaic cartogram represents each region as a group of rectangles that form a rectilinear polygon. These shapes allow for creating a shape more similar to the original area and preserving adjacency of regions.
-
-### Hexbin map
-<img src="hexbin-map.svg" alt="hexbin map" class="f-right-half" /> Also called a *hexagonal cartogram*, a hexbin map represents entire regions or their sub-divisions as adjacent hexagonal tiles. Hexagons have an advantage over rectangles and circles because they can show adjacency more accurately, having 6 six sides. The area of a hexagon is less evident to a reader than square area, but hexagons pack into shapes that more accurately approximate actual map region areas.
-
 ## Combinations
 New cartogram variations are possible from combinations with other charts. For example, a Dorling cartogram with a mini-chart in place of each circle, following the principle of [small multiples](/small-multiples), becomes a new variation of more data-dense and multivariate cartogram. 
 
@@ -131,14 +99,9 @@ Some charts that can replace circles in a Dorling cartogram include [histogram](
 
 ## Sources
 [^nusrat]: Nusrat, Sabrina, Md Jawaherul Alam, and Stephen Kobourov. ["Evaluating cartogram effectiveness."](https://arxiv.org/pdf/1504.02218.pdf) *IEEE transactions on visualization and computer graphics* 24.2 (2018): 1077-1090.
-
 [^nusr]: Nusrat, Sabrina, and Stephen Kobourov. ["The state of the art in cartograms."](https://www2.cs.arizona.edu/~kobourov/star.pdf) *Computer Graphics Forum*. Vol. 35. No. 3. 2016.
-
 [^tyner3]: Tyner, Judith A. [*Introduction to thematic cartography.*](https://www.amazon.com/Introduction-Thematic-Cartography-Judith-Tyner/dp/0134891058) Prentice Hall, 1992.
-
 [^tyner]: Tyner, Judith A. [*Principles of map design.*](https://books.google.com/books?id=385ti0DxibcC) Guilford Publications, 2014. p. 189 
-
 [^rittschof]: Rittschof, Kent A. ["The Use of Cartograms in Visualizing Data Associated with Familiar and Unfamiliar Areas."](https://archive.org/details/ERIC_ED384624/page/n3) (1995).
-
 [^dent]: Dent, Borden D. ["Communication aspects of value-by-area cartograms."](https://www.tandfonline.com/doi/abs/10.1559/152304075784313278) *The American Cartographer* 2.2 (1975): 154-168.
 

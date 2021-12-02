@@ -23,16 +23,11 @@ examples:
     link:  https://github.com/llimllib/bostonmarathon
     image:  boston-marathon-finishers-by-year.png
 
-
   - title:  Welfare Atlas
     author: The Center for Leadership and Values in Society of the University of St.Gallen
     link:   https://www.gemeinwohl.ch/en/atlas
     image:  public-value-atlas.png
     
-  - title:  Life Expectancy at Birth
-    author:  Andy Kriebel (VizWizBI)
-    link:  https://public.tableau.com/views/LifeExpectancyAtBirth/7
-    image:  life-expectancy-at-birth.png
 
 order: 220
 
@@ -48,18 +43,7 @@ Violin plot anatomy is similar to the box plot. The media is the white dot in th
 
 The distribution of all the data points is shown symmetrically as density plots on both sides. The thicker parts mean a higher probability that a data point falls in that range, and thinner sections show a lower probability. The violins in the chart typically have an ordering, often by the median.
 
-## Variations
 
-### Boxless Violin plot
-<img src="boxless-violin-plot.svg" class="f-right-half" /> Even though the violin plot is often used the augment the box plot view, the violin can also be used without the box and the median indicator. The boxless form is common in visualizations comparing multiple violins where the shape of the distribution is more important than the statistical summary of the distribution.
-
-### Grouped violin plot
-<img src="grouped-violin-plot.svg" class="f-right-half" /> A grouped violin plot displays two or more violins per category, each representing a sub-category, for example, male and female. There is a practical limit to the number of violins that can fit per group, likely two to three.
-
-### Split violin plot
-<img src="split-violin-plot.svg" class="f-right-half" /> A split violin plot shows two different data series on the left and right sides of its central axis. In data sets with two categories, for example, male and female, the split violin allows for a compact comparison.
-
-[//]: # (Maybe add Raincloud plot, a combination of a 'split-half violin', raw jittered data points, and a standard visualization of central tendency and error, such as a boxplot.)
 [//]: # (TODO: Here is a paper https://peerj.com/preprints/27137v1 )
 
 

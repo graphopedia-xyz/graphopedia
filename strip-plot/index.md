@@ -8,12 +8,6 @@ tags:
 tools:
 
 examples:
-  - title:  Margin of Victory in Congressional Races
-    image:  margin-of-victory-in-congressional-races-2018.jpeg
-    author: The New York Times
-    link:   https://www.nytimes.com/2018/11/26/upshot/suburbs-changing-midterms-democrats-hopes.html
-    note:   Beeswarm plot of democrats vs republicans congress race
-    
   - title:  2009 Ideb Score of Schools in Brazil
     image:  2009-ideb-score-of-schools-in-brazil.jpg
     author: DoingData, Alberto Cairo
@@ -24,11 +18,6 @@ examples:
     image:  population-of-the-densest 200-grid-cells-in-us-cities.png
     author: CityLab
     link:   https://www.citylab.com/perspective/2019/07/urban-density-map-city-population-data-geography/591760/
-    
-  - title:  Student to Teacher Ratios For World Countries, 2012-2016
-    image:  student-to-teacher-ratios-for-world-countries-2012-2016.png
-    author: Will Chase
-    link:   https://www.williamrchase.com/post/custom-fonts-and-plot-quality-with-ggplot-on-windows/
 
 
 synonyms:
@@ -51,11 +40,6 @@ Strip plots allow for data-dense visualizations comparing multiple distributions
 
 Jittering is only useful with sparse counts[^wilkinson]. For larger numbers of data points, data can be binned.
 
-
-## Variations
-
-### Beeswarm plot
-<img src="beswarm-plot.svg" alt="beeswarm plot" class="f-right-half" /> Beeswarm plot is a one-dimensional scatter plot like strip plot, but with closely-packed, non-overlapping points. Multiple beeswarm plots are often used in a single visualization comparing distributions for a number of categories. With large numbers of data points, a line showing the median can be added.
 
 ## Alternatives
 1. [*Dot plot*](/dot-plot) shows the distribution of one variable represented as dots at regular intervals.

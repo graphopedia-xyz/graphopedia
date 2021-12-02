@@ -1,5 +1,5 @@
 ---
-title:  Barcode plot
+title:  barcode plot
   
 tags:
 - distribution

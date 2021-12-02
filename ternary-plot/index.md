@@ -1,6 +1,6 @@
 ---
-title:  Ternary Plot
-  
+title: ternary plot
+
 tags:
 
 tools:
@@ -21,30 +21,18 @@ tools:
 
 
 examples:
-  - title:  Profiles of a Divided Country
-    author: The Economist
-    link:   https://www.economist.com/graphic-detail/2019/02/22/profiles-of-a-divided-country
-    image:  british-voter-ternary-plot.png
-
   - title:  How Users React to Trump's Tweets
     author: FiveThirtyEight
     link:   https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/
     image:  how-users-react-to-trump-tweets.png
-
-  - title:  Trump's Tweets vs Obama Tweets
-    author: FiveThirtyEight
-    link:   https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/
-    image:  trump-tweets-vs-obama-tweets.png
-
+  - title:  Profiles of a Divided Country
+    author: The Economist
+    link:   https://www.economist.com/graphic-detail/2019/02/22/profiles-of-a-divided-country
+    image:  british-voter-ternary-plot.png
   - title:  Tweets of Some High-Profile Senators
     author: FiveThirtyEight
     link:   https://fivethirtyeight.com/features/the-worst-tweeter-in-politics-isnt-trump/
     image:  republican-tweets-vs-democratic-tweets.png
-
-  - title:  The House of Commons in Brexit Times
-    author: Reuters Graphics
-    link:   https://graphics.reuters.com/BRITAIN-EU-LEADER/010092Q33KW/index.html
-    image:  house-of-commons-times-of-brexit.png
 
   - title:  Tweets of Some High-Profile Senators
     author: FiveThirtyEight
@@ -55,11 +43,6 @@ examples:
     author: Mary Zam
     link:   https://maryzam.github.io/movie-names/
     image:  names-and-movie-genres.png
-
-  - title:  Alloy Colors in Jewelry
-    author: Daniele Pugliesi (translation from Greek)
-    link:   https://commons.wikimedia.org/wiki/File:Ag-Au-Cu-colours.png
-    image:  Ag-Au-Cu-colors.png
 
   - title:  Textural Triangle of Soil
     author: Earth Science India
@@ -85,18 +68,6 @@ A ternary plots shows the relationship of three variables. The values of these t
 Ternary plots show the ratios in which three variables relate to each other by occupying a corresponding position on each axis. For this reason, all three axes have to have the same scale that is expressed in the same units.
 
 Ternary diagrams are common in geosciences where they are used to visualize compositional data based on three or more components.
-
-## Variations
-
-### Ternary contour graph
-<img src="ternary-contour-plot.svg" class="f-right-half" />Also called ternary contour plots, they represents quantities with isolines. The coordinates of the ternary contour graph variables often represent a physical property.
-
-### Ternary bubble graph
-<img src="ternary-bubble-graph.svg" class="f-right-half" />The ternary bubble graph is a scatter plot that is plotted in three dimentions and displaying an additional variable as the size of each dot that represents a value through three coordinates.
-
-
-### Ternary multi-group graph
-<img src="ternary-multi-graph.svg" class="f-right-half" /> A multi-group ternary plot displays two or more data series on three axes. This variation is similar to the multi data series [scatter plot](/scatter-plot).
 
 ## Sources
 Hamilton, Nicholas E., and Michael Ferry. ["ggtern: Ternary diagrams using ggplot2."](https://www.researchgate.net/profile/Nicholas_Hamilton5/publication/329804192_ggtern_Ternary_Diagrams_Using_ggplot2/links/5c1e274292851c22a33e6d65/ggtern-Ternary-Diagrams-Using-ggplot2.pdf) *Journal of Statistical Software 87.1 (2018): 1-17*.

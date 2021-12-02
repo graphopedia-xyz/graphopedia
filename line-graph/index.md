@@ -17,15 +17,21 @@ tools:
     link:   https://office.live.com/start/PowerPoint.aspx
 
 examples:
-  - title:  The Immigration Effect
-    author:  ProPublica
-    link:   https://projects.propublica.org/graphics/gdp
-    image:  the-immigration-effect.png
-  
+  - title: Fatalities On Global Passenger Flights
+    image: passanger-flight-fatality-rate.png
+
+  - title: Net approval of american leadership
+    image: approval-rate-united-states.png
+
   - title:  Divorce Rates for Different Groups
     author:  Nathan Yau
     link:   https://flowingdata.com/2016/03/30/divorce-rates-for-different-groups/
     image:  divorce-rates-for-different-groups.png
+
+  - title:  The Immigration Effect
+    author:  ProPublica
+    link:   https://projects.propublica.org/graphics/gdp
+    image:  the-immigration-effect.png
 
 synonyms: 
   - line chart
@@ -50,14 +56,6 @@ Line charts often visualize a trend in data over intervals of time. In this case
 
 The first line chart appeared in 1786 in *The Commercial and Political Atlas* by Scottish engineer William Playfair. [^friendly]
 
-
-## Variations
-
-### Stepped line chart
-<img src="stepped-line-chart.svg" alt="stepped line chart" class="f-right-half" /> Also called *stepped line graph*, a stepped line chart reflects abrupt changes in the data by connecting the data points with two perpendicular lines instead of a straight one. It is often seen in financial charts reflecting the hikes and drops in interest rates and tax rates.
-
-### Spline chart
-<img src="spline-chart.svg" alt="spline chart" class="f-right-half" /> Also called *spline graph*, a spline line chart connects the individual data points with a smooth curve rather than a straight line. Even though the spline resembles the [density plot](/density-plot), functionally they have nothing in common. The spline connects individual data points only visually, while density plots use a density estimation function to calculate the probability of data points falling into an interval on the graph. 
  
 ##Alternative
 1. [*Bump chart*](/bump-chart) shows categories ordered by ranking through time.

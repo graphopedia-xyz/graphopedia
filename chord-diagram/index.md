@@ -27,26 +27,15 @@ tools:
     link:  https://www.amcharts.com/demos/chord-diagram/
     
 examples:
-  - title:  Close-Ups of the Genome
-    author: The New York Times
-    link:   https://archive.nytimes.com/www.nytimes.com/imagepages/2007/01/22/science/20070123_SCI_ILLO.html
-    image:  genome.jpg
-    
+  - title:  Impact of Major on Career Path
+    author:  Hayley Brooks, Scott Sanderson, and Kaison Tanabe
+    link:   https://web.williams.edu/Mathematics/devadoss/careerpath.html
+    image:  college-majors.png
 
   - title:  Leading Exporters and Their Trade With Each Other
     author:  Euromonitor International
     link:   https://blog.euromonitor.com/the-patterns-of-world-trade/
     image:  international-trade.png
-    
-  - title:  Impact of Major on Career Path
-    author:  Hayley Brooks, Scott Sanderson, and Kaison Tanabe
-    link:   https://web.williams.edu/Mathematics/devadoss/careerpath.html
-    image:  college-majors.png
-  
-  - title: Harry Potter Relations Network
-    author:  Nicole Mannell
-    link:  https://www.behance.net/gallery/24910555/Harry-Potter-relations-network
-    image:  harry-potter-relations-network.jpg
   
   - title:  C-Suite Gigs - A Web of Mad Skills
     author:  Vallerio Pellegrini
@@ -77,12 +66,6 @@ A chord diagram resembles the [Sankey diagram](/sankey-chart) since both represe
 Chord diagrams are sometimes mistakenly referred to as [arc diagrams](/arc-diagram). [^kirk]
 
 The chord diagram was first used by *The New York Times* in [this genome chart](https://archive.nytimes.com/www.nytimes.com/imagepages/2007/01/22/science/20070123_SCI_ILLO.html); however, the use of chord diagrams has since extended beyond genomics.
-
-
-## Variations
-
-### Non-ribbon chord diagram
-<img src="non-ribbon-chord-diagram.svg" class="f-right-half" /> A non-ribbon chord diagram is a radial network diagram with unweighted connections. The nodes are positioned radially with connections linking any two nodes. This type of diagram can reveal clusters. Functionally, it is similiar to the [arc diagram](/arc-diagram) and the [hive plot](/hive-plot).
 
 
 ## Alternatives

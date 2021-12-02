@@ -26,7 +26,8 @@ tools:
 
 examples:
   - title: What is an Infographic
-    author:  Anna Vital
+    author: Anna Vital
+    note:  2 sets venn diagram
     link:  https://blog.adioma.com/what-is-an-infographic/
     image:  infographic-definition.png
 
@@ -42,6 +43,7 @@ examples:
     
   - title: What is an Infographic - The Components
     author:  Anna Vital
+    note:  This is an example of 4 sets venn diagram
     link:  https://blog.adioma.com/what-is-an-infographic/
     image:  what-is-an-infographic.png
 
@@ -55,28 +57,6 @@ examples:
     author:  David McCandless
     link:  https://informationisbeautiful.net/visualizations/ikigai-japanese-concept-to-enhance-work-life-sense-of-worth
     image:  ikigai-diagram.png
-
-  - title:  Real Number Set Diagram 
-    image:  real-number-set-diagram.jpg
-    author: Keith Enevoldsen
-    link:   https://thinkzone.wlonk.com/Numbers/NumberSets.htm
-    note:   This 5 set Euler diagram is showing real number sets using ellipse shapes
-
-  - title:  Complex Number Set Diagram 
-    image:  complex-number-set-diagram.jpg
-    author: Keith Enevoldsen
-    link:   https://thinkzone.wlonk.com/Numbers/NumberSets.htm
-    note:   This 6 set Euler diagram is showing complex number sets using rounded rectangles shapes instead of ellipses/circles
-
-  - title:  Supranational European Bodies
-    image:  supranational-european-bodies.png
-    link:   https://en.wikipedia.org/wiki/File:Supranational_European_Bodies-en.svg
-    note:   This Euler diagram shows how supranational system works visualizing the relationship between EU institutions and bodies in brief.
-
-  - title:  Solar System Bodies
-    image:  solar-system-bodies.png
-    link:   https://commons.wikimedia.org/wiki/File:Euler_diagram_of_solar_system_bodies.svg
-    note:   This Euler diagram shows the relationship between different solar system bodies (planets, satellites, comets, etc.).
 
 
 synonyms: 
@@ -115,16 +95,6 @@ For more than five sets, ellipses become unsuitable, but rectangles and triangle
 [//]: # ( TODO: Add complexity section with illustrations for 2-sets venn, 3 sets venn, 4 sets venn, 5 sets venn, etc )
 
 The Venn diagram appeared in 1880, created by John Venn. He did not call it "Venn diagram" but "Eulerian circles." Euler diagrams are similar to Venn diagrams because both use shapes to represent sets, but Venn diagrams are more restrictive. They require labeling all the possible intersections.
-
-
-## Variations
-
-### Proportional Venn Diagram
-<img src="proportional-venn-diagram.svg" alt="hexbin map" class="f-right-half" /> 
-
-### Euler Diagram
-<img src="euler-diagram.svg" alt="hexbin map" class="f-right-half" /> 
-
 
 [//]: # ( TODO: Add sections with basic operations on sets: Unions, Intersections, relative complement, Absolute complement, symmetric difference. Add illustration for each interaction, from Wikipedia )
 

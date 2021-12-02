@@ -16,21 +16,14 @@ tools:
 
 examples:
 
-  - title: Distribution of Star Wars Species
-    author:  Kirell Benzi
-    link:  https://kirellbenzi.com/blog/exploring-the-star-wars-expanded-universe/
-    image:  distribution-of-star-wars-species.jpg
- 
-  - title: World Population and Land Area
-    author:  
-    link:  
-    image:  world-population-vintage.jpg
- 
-  - title:  The World as 100 People
-    author: Jack Hagley
-    link:   https://www.jackhagley.com/The-World-as-100-People
-    image:  world-as-100-people.png
-
+  - title:  William's Playfair pie chart
+    author: William Playfair
+    image:  william-playfair.png
+    
+  - title:  Van Gogh's paintings
+    note: 28 van Gogh painting visualised as a grid of pie charts showing the five most common colours in each as a pecentage.
+    image:  van-gogh-paintings.jpg
+    
 
 synonyms: 
   - circular chart
@@ -58,23 +51,14 @@ Pie charts are one of the most widely used types of data visualization likely be
 
 Scottish engineer William Playfair is the creator of the first pie chart published in *Statistical Breviary* in 1801.  [^spence]
 
-## Variations
+<!-- from variations -->
 Many stylistic variations of the pie chart exist. Since the exact sizes of segments are difficult for the human eye to compare, techniques such as exploding the pie chart separate the segments for easier comparison. However, there is evidence that distorting the basic pie chart only makes it more unreadable. [^kosara]
-
-### Doughnut chart
-<img src="doughnut-chart.svg" alt="doughnut chart" class="f-right-half" /> Doughnut chart or *donut chart* is a pie chart with the center cut out. Doughnut charts are used to reduce the amount of ink on a page, especially when showing many pie charts side by side.
-
-### Exploded pie chart
-<img src="exploded-pie-chart.svg" alt="exploded pie chart" class="f-right-half" /> Exploded pie chart is a stylistic variation of a pie chart with one, or several of the wedges shifted equally outward from the center. The intended effect is the emphasis of the size of the "exploded" wedge. However, this technique may be counter-productive since standalone wedges are not easier to compare visually with the rest of the circle.
-
-### Stacked pie chart
-<img src="stacked-pie-chart.svg" alt="stacked pie chart" class="f-right-half" /> Stacked pie chart or *nested pie chart* is a group of pie charts that are positioned concentrically. This variation is practical using two to four nested charts. If more charts are added, the inner ones become too small to read.
 
 
 ## Alternatives
-1. [*Stacked Bar Chart*](/bar-chart) a pie chart is essentially a stacked bar chart with a single bar shown in polar coordinates.[^wilkinson2] Functionally absolutely the same, but the bar chart rectangles give readers a more natural way of judging the areas.
+1. [*Stacked Bar Chart*](/stacked-bar-chart) a pie chart is essentially a stacked bar chart with a single bar shown in polar coordinates.[^wilkinson2] Functionally absolutely the same, but the bar chart rectangles give readers a more natural way of judging the areas.
 2. [*Polar area chart*](/polar-area-chart) is a type of pie chart in which all sectors have equal angles, but they differ in how far each segment extends from the center of the circle. The polar area chart is used to plot cyclic phenomena, for example, the amount of rain each month appears as 12 sectors at 30 degrees each.
-3. *Waffle chart* shows ratios using a grid of squares representing one hundred percent and coloring the part representing a fraction of the whole.
+3. [*Waffle chart*](/waffle-chart) shows ratios using a grid of squares representing one hundred percent and coloring the part representing a fraction of the whole.
 ## Sources
 
 [^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001. p.178. Tufte advises against using multiple pie charts using a proportional symbol map with pie charts as an anti-example of aesthetics in data graphics.
