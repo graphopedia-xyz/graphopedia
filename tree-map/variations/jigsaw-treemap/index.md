@@ -1,5 +1,5 @@
 ---
-title: Gosper map
+title: jigsaw treemap
   
 tags:
   - part-to-whole relationship
@@ -13,10 +13,9 @@ order: 3
 
 ---
 
-is based on fractal geometry - shapes that are self-similar and when repeated form a pattern that looks like the basic shape itself. The map resembles a cartographic map with a visible nested structure. [^auber]
-<!-- TODO: find out is Gosper type of Jigsaw treemaps or same thing? -->
+cuts rectangles of a treemap into equally-sized squares and then reassembles them into jigsaw-resembling shapes that are fitted without gaps. This layout allows every leaf node to be roughly square and therefore, legible and selectable. [^wattenberg] The tradeoff is the unfamiliar shapes that readers cannot easily evaluate, either for the area or for tree topology.
 
 <!--more-->
 
 ## References
-[^auber]: Auber, David, et al. ["Gospermap: Using a gosper curve for laying out hierarchical data."](https://doi.org/10.1109/TVCG.2013.91) *IEEE Transactions on Visualization and Computer Graphics* 19.11 (2013): 1820-1832. [PDF]((https://hal.archives-ouvertes.fr/hal-00959383/document))
+[^wattenberg]: Wattenberg, Martin. ["A note on space-filling visualizations and space-filling curves."](https://doi.org/10.1109/INFVIS.2005.1532145) *IEEE Symposium on Information Visualization*, 2005. *INFOVIS* 2005. IEEE, 2005. [PDF](http://hint.fm/papers/158-wattenberg-final3.pdf).
