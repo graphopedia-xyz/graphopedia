@@ -1,17 +1,33 @@
-# Map of chart function descriptions. Description is used on a function page and in SEO meta tag. Name is used in lists
+# Map of banner announcements to support multiple banners. The format is the following:
+#
+# - id - any alfa-numeric key, used to identify the banner
+# - description - text of the banner
+# - cta: call to action text
+# - link: link to the blog post or product, etc.
+# - ontop: will the banner show on top or bottom (true or false)
+# - delay: after how much time the next banner will be shown, expressed in seconds,minutes, hours or days(for ex. 1 s, 2 m, 10 h, 100 d)
+# - expiration: 2022-09-21 00:00
+
 
 - id: anntest
   description: Do you know what is an infographic and why they work?
   cta: Learn More
   link: https://blog.adioma.com/what-is-an-infographic/
   ontop: true
-  delay: 10s
-  expiration: 20-09-2022
+  expiration: 2022-11-21 00:00
+  delay: 30 s
 
 - id: anntest2
   description: About 60% of the world population are visual learners. Learn how to think visually.
   cta: Read More
   link: https://blog.adioma.com/how-to-think-visually-using-visual-analogies-infographic/
   ontop: false
-  delay: 10s
-  expiration: 22-09-2022
+  delay: 1 m
+
+- id: specanntest2
+  description: Make an infographic without hiring a designer with Adioma.
+  cta: Try for free
+  link: https://adioma.com
+  ontop: false
+  delay: 3 m
+  expiration: 2022-09-22 00:00
