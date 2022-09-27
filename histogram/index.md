@@ -92,7 +92,6 @@ Histograms are similar to the [density plot](/density-plot) in that both show di
 
 Histograms were introduced by English mathematician Karl Pearson in 1895.[^rufilanchas] Pearson proposed the histogram as a 'time-gram' to show change over time.[^flood]
 
-## Variations
 
 ## Alternatives
 The alternatives to the histogram, the chart synonymous with distribution, are the other charts that show distribution.
