@@ -1,8 +1,14 @@
 ---
 title:  pie chart
-  
-tags:
-- part-to-whole relationship
+
+functions: 
+  - part-to-whole relationship
+
+visualizationPrinciples:
+  - proportional space-filling
+
+axisDirections:
+  - angular
 
 related:
   - bar-chart

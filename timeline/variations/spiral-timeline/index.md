@@ -1,8 +1,14 @@
 ---
 title: spiral timeline
   
-tags:
+functions:
   - change over time
+
+visualizationPrinciples:
+  - positioning on a coordinate axis
+
+axisDirections:
+  - spiral
 
 tools:
 

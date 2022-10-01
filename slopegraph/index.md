@@ -1,15 +1,22 @@
 ---
 title:  slopegraph
 
-tags:
-- change over time
-- correlation
+functions:
+  - change over time
+  - correlation
+
+visualizationPrinciples:
+  - positioning on a coordinate axis
+  - connecting
+
+axisDirections:
+  - vertical
 
 related:
 
 synonyms:
-- slope graph
-- ladder graph
+  - slope graph
+  - ladder graph
 
 
 tools:

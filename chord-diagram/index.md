@@ -1,9 +1,16 @@
 ---
 title:  chord diagram
 
-tags:
-- network of relationships
-- part-to-whole relationship
+functions:
+  - network of relationships
+  - part-to-whole relationship
+
+visualizationPrinciples:
+  - proportional space-filling
+  - connecting
+
+axisDirections:
+  - angular
 
 related:
   - sankey-chart

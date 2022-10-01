@@ -1,11 +1,16 @@
 ---
 title: scatter plot
 
-tags:
-- distribution
-- correlation
+functions:
+  - distribution
+  - correlation
 
-functions: correlation
+visualizationPrinciples:
+  - positioning on a coordinate axis
+
+axisDirections:
+  - horizontal
+  - vertical
 
 related:
   - bubble-chart
