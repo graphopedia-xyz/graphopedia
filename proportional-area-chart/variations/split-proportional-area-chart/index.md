@@ -1,7 +1,7 @@
 ---
 title: split proportional area chart
 
-tags:
+functions:
   - part-to-whole relationship
   - comparison
 

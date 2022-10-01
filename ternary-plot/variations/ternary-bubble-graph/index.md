@@ -1,7 +1,7 @@
 ---
 title: ternary bubble graph
 
-tags:
+functions:
 
 tools:
 

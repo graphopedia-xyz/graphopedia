@@ -1,7 +1,7 @@
 ---
 title: boxless violin plot
 
-tags: 
+functions: 
   - distribution
 
 tools:

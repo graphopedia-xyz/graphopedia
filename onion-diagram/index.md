@@ -1,7 +1,7 @@
 ---
 title:  onion diagram
   
-tags:
+functions:
 - concept visualization
 
 related:

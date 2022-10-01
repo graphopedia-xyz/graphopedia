@@ -1,7 +1,7 @@
 ---
 title:  barcode plot
   
-tags:
+functions:
 - distribution
 
 tools:

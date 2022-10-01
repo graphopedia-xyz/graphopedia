@@ -1,7 +1,7 @@
 ---
 title:  arc diagram
 
-tags:
+functions:
 - network of relationships
 
 related:

@@ -1,7 +1,7 @@
 ---
 title: ternary plot
 
-tags:
+functions:
 
 tools:
   - name:   Ternary Plot Maker (free generator)

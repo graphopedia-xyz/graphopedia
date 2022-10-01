@@ -1,7 +1,7 @@
 ---
 title: mosaic cartogram
 
-tags:
+functions:
 - geospatial data
 
 tools:

@@ -1,7 +1,7 @@
 ---
 title: flow map
   
-tags:
+functions:
 - network of relationships
 - geospatial data
 

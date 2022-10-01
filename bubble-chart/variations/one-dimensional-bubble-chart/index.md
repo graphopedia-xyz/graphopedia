@@ -1,7 +1,7 @@
 ---
 title: one dimensional bubble chart
 
-tags:
+functions:
   - correlation
   - distribution
   - change over time

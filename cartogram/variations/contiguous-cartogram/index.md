@@ -1,7 +1,7 @@
 ---
 title: contiguous cartogram
 
-tags:
+functions:
 - geospatial data
 
 tools:

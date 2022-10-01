@@ -1,7 +1,7 @@
 ---
 title:  strip plot
   
-tags: 
+functions: 
 - distribution
 - correlation
 

@@ -1,7 +1,7 @@
 ---
 title: transit map
   
-tags:
+functions:
   - concept visualization
 
 related:

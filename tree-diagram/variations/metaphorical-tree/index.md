@@ -1,7 +1,7 @@
 ---
 title: metaphorical tree
   
-tags:
+functions:
   - part-to-whole relationship
   - hierarchy
 

@@ -1,7 +1,7 @@
 ---
 title:  matrix table
 
-tags:
+functions:
 
 tools:
 

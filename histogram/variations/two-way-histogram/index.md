@@ -1,7 +1,7 @@
 ---
 title:  two-way histogram
 
-tags: 
+functions: 
   - distribution
 
 tools:

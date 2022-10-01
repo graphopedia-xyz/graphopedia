@@ -1,7 +1,7 @@
 ---
 title: beeswarm plot
   
-tags: 
+functions: 
 - distribution
 - correlation
 

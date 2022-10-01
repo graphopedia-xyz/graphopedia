@@ -1,7 +1,7 @@
 ---
 title: radar chart
   
-tags:
+functions:
 - correlation
 
 related:

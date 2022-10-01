@@ -1,7 +1,7 @@
 ---
 title: sequential timeline
   
-tags:
+functions:
   - change over time
 
 tools:

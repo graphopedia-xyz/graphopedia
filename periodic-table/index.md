@@ -1,7 +1,7 @@
 ---
 title:  periodic table
   
-tags:
+functions:
 
 related:
 

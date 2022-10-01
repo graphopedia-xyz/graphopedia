@@ -1,7 +1,7 @@
 ---
 title: circle treemap
   
-tags:
+functions:
   - part-to-whole relationship
   - hierarchy
 

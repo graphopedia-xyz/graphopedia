@@ -1,7 +1,7 @@
 ---
 title:  Gantt chart
   
-tags:
+functions:
 - change over time
 
 related:

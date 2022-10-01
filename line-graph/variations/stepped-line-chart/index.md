@@ -1,7 +1,7 @@
 ---
 title: stepped line chart
 
-tags:
+functions:
   - change over time
   - correlation
 

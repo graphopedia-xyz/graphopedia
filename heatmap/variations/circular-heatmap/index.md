@@ -1,7 +1,7 @@
 ---
 title: circular heatmap
 
-tags:
+functions:
   - correlation
   - network of relationships
 

@@ -1,7 +1,7 @@
 ---
 title: span chart
 
-tags:
+functions:
 - comparison
 - change over time
 

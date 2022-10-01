@@ -1,7 +1,7 @@
 ---
 title: stacked area chart
 
-tags:
+functions:
 - change over time
 
 tools:

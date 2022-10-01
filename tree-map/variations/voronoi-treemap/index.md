@@ -1,7 +1,7 @@
 ---
 title: Voronoi treemap
   
-tags:
+functions:
   - part-to-whole relationship
   - hierarchy
 

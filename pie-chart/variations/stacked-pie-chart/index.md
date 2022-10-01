@@ -1,7 +1,7 @@
 ---
 title:  stacked pie chart
   
-tags:
+functions:
 - part-to-whole relationship
 
 related:

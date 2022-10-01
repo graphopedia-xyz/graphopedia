@@ -1,7 +1,7 @@
 ---
 title:  joy plot
 
-tags:
+functions:
   - distribution
   - correlation
 

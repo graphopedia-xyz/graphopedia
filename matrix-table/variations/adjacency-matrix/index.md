@@ -1,7 +1,7 @@
 ---
 title:  adjacency matrix
 
-tags:
+functions:
 
 tools:
 

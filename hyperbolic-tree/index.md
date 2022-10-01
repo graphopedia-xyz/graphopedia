@@ -1,7 +1,7 @@
 ---
 title: hyperbolic tree
 
-tags:
+functions:
 
 related:
   - radial-tree

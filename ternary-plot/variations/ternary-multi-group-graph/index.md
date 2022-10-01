@@ -1,7 +1,7 @@
 ---
 title: ternary multi-group graph
 
-tags:
+functions:
 
 tools:
 

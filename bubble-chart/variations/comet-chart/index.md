@@ -1,7 +1,7 @@
 ---
 title: comet chart
 
-tags:
+functions:
   - correlation
   - distribution
   - change over time

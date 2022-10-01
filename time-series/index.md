@@ -1,7 +1,7 @@
 ---
 title: time series
   
-tags:
+functions:
   - change over time
   - correlation
 

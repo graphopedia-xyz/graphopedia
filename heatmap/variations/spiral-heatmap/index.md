@@ -1,7 +1,7 @@
 ---
 title: spiral heatmap
 
-tags:
+functions:
   - correlation
   - network of relationships
 

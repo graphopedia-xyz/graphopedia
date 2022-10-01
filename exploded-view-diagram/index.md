@@ -1,7 +1,7 @@
 ---
 title: exploded view diagram
     
-tags:
+functions:
 
 tools:
 

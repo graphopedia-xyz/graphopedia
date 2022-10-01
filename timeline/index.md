@@ -1,7 +1,7 @@
 ---
 title: timeline
   
-tags:
+functions:
   - change over time
   - correlation
 

@@ -1,7 +1,7 @@
 ---
 title: stem and leaf plot
   
-tags:
+functions:
 - distribution
 
 tools:

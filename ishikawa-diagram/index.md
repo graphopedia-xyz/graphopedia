@@ -1,7 +1,7 @@
 ---
 title: Ishikawa diagram
   
-tags:
+functions:
 - concept visualization
 
 related:

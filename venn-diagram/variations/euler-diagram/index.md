@@ -1,7 +1,7 @@
 ---
 title: Euler diagram
 
-tags:
+functions:
 - part-to-whole relationship
 
 tools:

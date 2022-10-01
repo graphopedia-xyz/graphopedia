@@ -1,7 +1,7 @@
 ---
 title:  Marimekko chart
   
-tags:
+functions:
 
 tools:
   - name:   D3

@@ -1,7 +1,7 @@
 ---
 title: box-percentile plot
 
-tags:
+functions:
   - distribution
 
 tools:

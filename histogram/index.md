@@ -1,7 +1,7 @@
 ---
 title:  histogram
 
-tags: 
+functions: 
   - distribution
 
 related:

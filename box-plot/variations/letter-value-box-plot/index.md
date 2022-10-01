@@ -1,7 +1,7 @@
 ---
 title: letter-value box plot
 
-tags:
+functions:
   - distribution
 
 tools:

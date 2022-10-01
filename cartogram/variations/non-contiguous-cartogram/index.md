@@ -1,7 +1,7 @@
 ---
 title: non-contiguous cartogram
 
-tags:
+functions:
 - geospatial data
 
 tools:

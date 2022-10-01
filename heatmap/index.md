@@ -1,7 +1,7 @@
 ---
 title:  heatmap
 
-tags:
+functions:
   - correlation
   - network of relationships
 

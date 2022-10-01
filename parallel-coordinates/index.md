@@ -1,7 +1,7 @@
 ---
 title:  parallel coordinates
   
-tags:
+functions:
 - distribution
 
 related:

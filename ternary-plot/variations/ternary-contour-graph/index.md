@@ -1,7 +1,7 @@
 ---
 title: ternary contour graph
 
-tags:
+functions:
 
 tools:
 

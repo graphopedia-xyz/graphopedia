@@ -1,7 +1,7 @@
 ---
 title: dumbbell chart
   
-tags:
+functions:
 - comparison
 - change over time
 

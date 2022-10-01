@@ -1,7 +1,7 @@
 ---
 title:  pictogram
   
-tags:
+functions:
 
 tools:
   - name:   Adobe Illustrator

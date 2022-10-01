@@ -1,7 +1,7 @@
 ---
 title: variable-width box plot
 
-tags:
+functions:
   - distribution
 
 tools:

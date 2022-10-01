@@ -1,7 +1,7 @@
 ---
 title: stepped area chart
 
-tags:
+functions:
   - change over time
 
 related:

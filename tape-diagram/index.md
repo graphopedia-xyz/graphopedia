@@ -1,7 +1,7 @@
 ---
 title: tape diagram
   
-tags:
+functions:
 - part-to-whole relationship
 
 

@@ -1,7 +1,7 @@
 ---
 title:  hive plot
   
-tags:
+functions:
 - network of relationships
 
 related:

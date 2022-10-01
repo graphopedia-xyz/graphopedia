@@ -1,7 +1,7 @@
 ---
 title:  multiple exposure diagram
   
-tags:
+functions:
 
 related:
 

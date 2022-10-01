@@ -1,7 +1,7 @@
 ---
 title: alluvial diagram
 
-tags:
+functions:
 - change over time
 - network of relationships
 

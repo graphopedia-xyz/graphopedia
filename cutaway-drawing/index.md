@@ -1,7 +1,7 @@
 ---
 title:  cutaway drawing
     
-tags:
+functions:
 
 tools:
 

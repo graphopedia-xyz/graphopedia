@@ -1,7 +1,7 @@
 ---
 title: dynamic timeline
   
-tags:
+functions:
   - change over time
 
 tools:

@@ -1,7 +1,7 @@
 ---
 title: word cloud
   
-tags:
+functions:
   - comparison
 
 related:

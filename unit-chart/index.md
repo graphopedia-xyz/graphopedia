@@ -1,7 +1,7 @@
 ---
 title: unit chart
   
-tags:
+functions:
   - comparison
 
 tools:

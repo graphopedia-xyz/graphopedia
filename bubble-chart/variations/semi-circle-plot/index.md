@@ -1,7 +1,7 @@
 ---
 title: semi circle plot
 
-tags:
+functions:
   - correlation
   - distribution
   - change over time

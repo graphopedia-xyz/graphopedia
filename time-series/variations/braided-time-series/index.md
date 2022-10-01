@@ -1,7 +1,7 @@
 ---
 title: braided time series
   
-tags:
+functions:
   - change over time
   - correlation
 

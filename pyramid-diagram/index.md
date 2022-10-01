@@ -1,7 +1,7 @@
 ---
 title: pyramid diagram
   
-tags:
+functions:
 - concept visualization
 
 related:

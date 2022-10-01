@@ -1,7 +1,7 @@
 ---
 title: notched box plot
 
-tags:
+functions:
   - distribution
 
 tools:

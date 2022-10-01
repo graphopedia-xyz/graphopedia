@@ -1,7 +1,7 @@
 ---
 title:  isopleth map
 
-tags:
+functions:
 - geospatial data
 
 related:

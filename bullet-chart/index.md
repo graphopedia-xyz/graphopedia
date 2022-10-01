@@ -1,7 +1,7 @@
 ---
 title:  bullet chart
 
-tags:
+functions:
 - comparison
 
 related:

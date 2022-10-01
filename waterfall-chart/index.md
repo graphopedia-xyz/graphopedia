@@ -1,7 +1,7 @@
 ---
 title: waterfall chart
   
-tags:
+functions:
 - comparison
 
 related:

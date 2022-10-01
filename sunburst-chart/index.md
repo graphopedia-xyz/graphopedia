@@ -1,7 +1,7 @@
 ---
 title:  sunburst chart
 
-tags:
+functions:
 - hierarchy
 - network of relationships
 

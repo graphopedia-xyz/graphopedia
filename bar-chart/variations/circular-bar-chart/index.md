@@ -1,7 +1,7 @@
 ---
 title: circular bar chart
   
-tags:
+functions:
 - comparison
 - change over time
 

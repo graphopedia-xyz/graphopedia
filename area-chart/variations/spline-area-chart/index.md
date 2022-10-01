@@ -1,7 +1,7 @@
 ---
 title: spline area chart
 
-tags:
+functions:
 - change over time
 
 examples:

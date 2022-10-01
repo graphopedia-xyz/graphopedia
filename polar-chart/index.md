@@ -1,7 +1,7 @@
 ---
 title:  polar area chart 
 
-tags:
+functions:
 - change over time
 - comparison
 

@@ -1,7 +1,7 @@
 ---
 title: tally chart
   
-tags:
+functions:
 
 tools:
 

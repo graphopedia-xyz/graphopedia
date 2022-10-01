@@ -1,7 +1,7 @@
 ---
 title: beanplot
 
-tags:
+functions:
   - distribution
 
 tools:

@@ -1,7 +1,7 @@
 ---
 title: stacked time series
   
-tags:
+functions:
   - change over time
   - correlation
 

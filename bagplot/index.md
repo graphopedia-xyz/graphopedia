@@ -1,7 +1,7 @@
 ---
 title: bagplot
   
-tags:
+functions:
 
 tools:
   - name:   bagplot function in R

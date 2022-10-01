@@ -1,7 +1,7 @@
 ---
 title: split violin plot
 
-tags: 
+functions: 
   - distribution
 
 tools:

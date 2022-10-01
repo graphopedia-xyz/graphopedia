@@ -1,7 +1,7 @@
 ---
 title: population pyramid
   
-tags:
+functions:
 - distribution
 - correlation
 

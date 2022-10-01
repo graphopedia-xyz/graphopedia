@@ -1,7 +1,7 @@
 ---
 title:  dot distribution map
   
-tags:
+functions:
 - distribution
 - geospatial data
 

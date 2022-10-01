@@ -1,7 +1,7 @@
 ---
 title:  dot plot
 
-tags: 
+functions: 
   - distribution
 
 related:

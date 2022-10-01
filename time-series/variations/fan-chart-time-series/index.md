@@ -1,7 +1,7 @@
 ---
 title: Fan chart (time series)
   
-tags:
+functions:
   - change over time
   - correlation
 

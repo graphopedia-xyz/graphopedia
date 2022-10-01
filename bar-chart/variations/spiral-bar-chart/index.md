@@ -1,7 +1,7 @@
 ---
 title: spiral bar chart
 
-tags:
+functions:
     - comparison
     - change over time
 

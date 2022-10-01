@@ -1,7 +1,7 @@
 ---
 title:  mind map
   
-tags:
+functions:
 - concept visualization
 
 related:

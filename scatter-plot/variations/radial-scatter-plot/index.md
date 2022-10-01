@@ -1,7 +1,7 @@
 ---
 title: radial scatter plot
 
-tags:
+functions:
 - correlation
 
 tools:

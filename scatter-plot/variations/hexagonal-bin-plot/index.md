@@ -1,7 +1,7 @@
 ---
 title: hexagonal bin plot
 
-tags:
+functions:
 - correlation
 
 tools:

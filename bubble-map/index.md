@@ -1,7 +1,7 @@
 ---
 title:  bubble map
   
-tags:
+functions:
 - comparison
 - geospatial data
 

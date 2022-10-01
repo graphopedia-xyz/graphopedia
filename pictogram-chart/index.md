@@ -1,7 +1,7 @@
 ---
 title:  pictogram chart
   
-tags:
+functions:
 - part-to-whole relationship
 - comparison
 

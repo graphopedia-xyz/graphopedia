@@ -1,7 +1,7 @@
 ---
 title: dasymetric map
 
-tags:
+functions:
 - geospatial data
 
 related:

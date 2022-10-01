@@ -3,7 +3,7 @@ layout: post
 
 title:  gauge chart
   
-tags:
+functions:
 
 related:
   - bullet-chart

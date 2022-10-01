@@ -1,7 +1,7 @@
 ---
 title: Sankey chart
   
-tags:
+functions:
 - network of relationships
 - change over time
 - part-to-whole relationship

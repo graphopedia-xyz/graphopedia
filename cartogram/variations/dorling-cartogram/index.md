@@ -1,7 +1,7 @@
 ---
 title: Dorling cartogram
 
-tags:
+functions:
 - geospatial data
 
 tools:

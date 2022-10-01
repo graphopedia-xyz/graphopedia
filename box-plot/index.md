@@ -1,7 +1,7 @@
 ---
 title: box plot
 
-tags:
+functions:
   - distribution
   
 related:

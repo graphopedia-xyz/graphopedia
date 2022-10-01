@@ -1,7 +1,7 @@
 ---
 title: radial tree diagram
   
-tags:
+functions:
   - part-to-whole relationship
   - hierarchy
 

@@ -1,7 +1,7 @@
 ---
 title:  concept map
   
-tags:
+functions:
 - concept visualization
 
 tools:

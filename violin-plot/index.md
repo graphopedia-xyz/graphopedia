@@ -1,7 +1,7 @@
 ---
 title:  violin plot
 
-tags: 
+functions: 
   - distribution
 
 related:

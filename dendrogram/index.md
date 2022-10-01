@@ -1,7 +1,7 @@
 ---
 title:  dendrogram
   
-tags:
+functions:
 - hierarchy
 
 related:

@@ -1,7 +1,7 @@
 ---
 title: multi symbol scatter plot
 
-tags:
+functions:
 - correlation
 
 tools:

@@ -1,8 +1,8 @@
 ---
 title: radial area chart
 
-tags:
-- change over time
+functions:
+  - change over time
 
 examples:
 

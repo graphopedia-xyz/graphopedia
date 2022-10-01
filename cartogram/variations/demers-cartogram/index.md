@@ -1,7 +1,7 @@
 ---
 title: Demers  cartogram
 
-tags:
+functions:
 - geospatial data
 
 tools:

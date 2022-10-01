@@ -1,7 +1,7 @@
 ---
 title:  bump chart
 
-tags:
+functions:
 - change over time
 
 related:

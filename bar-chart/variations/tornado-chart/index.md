@@ -1,7 +1,7 @@
 ---
 title: tornado chart
   
-tags:
+functions:
 - comparison
 - change over time
 

@@ -1,7 +1,7 @@
 ---
 title: proportional area chart with circle packing
 
-tags:
+functions:
   - part-to-whole relationship
   - comparison
 

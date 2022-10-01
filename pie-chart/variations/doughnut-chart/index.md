@@ -1,7 +1,7 @@
 ---
 title:  doughnut chart
   
-tags:
+functions:
 - part-to-whole relationship
 
 tools:

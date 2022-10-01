@@ -1,7 +1,7 @@
 ---
 title: funnel diagram
   
-tags:
+functions:
 - concept visualization
 
 related:

@@ -1,7 +1,7 @@
 ---
 title:  network diagram
   
-tags:
+functions:
 - network of relationships
 
 related:

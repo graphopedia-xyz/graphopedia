@@ -1,7 +1,7 @@
 ---
 title: streamgraph
   
-tags:
+functions:
 - change over time
 - correlation
 

@@ -1,7 +1,7 @@
 ---
 title:  line graph
 
-tags:
+functions:
 - change over time
 - correlation
 

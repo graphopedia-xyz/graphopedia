@@ -1,7 +1,7 @@
 ---
 title: vase plot
 
-tags:
+functions:
   - distribution
 
 tools:

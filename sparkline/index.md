@@ -1,7 +1,7 @@
 ---
 title: sparkline
   
-tags:
+functions:
 - change over time
 - correlation
 

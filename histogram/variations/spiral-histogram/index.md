@@ -1,7 +1,7 @@
 ---
 title:  spiral histogram
 
-tags: 
+functions: 
   - distribution
 
 tools:

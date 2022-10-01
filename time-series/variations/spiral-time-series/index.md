@@ -1,7 +1,7 @@
 ---
 title: spiral time series
   
-tags:
+functions:
   - change over time
   - correlation
 

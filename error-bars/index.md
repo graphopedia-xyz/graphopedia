@@ -1,7 +1,7 @@
 ---
 title:  error bars
   
-tags:
+functions:
 - uncertainty
 
 

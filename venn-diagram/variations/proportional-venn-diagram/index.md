@@ -1,7 +1,7 @@
 ---
 title: proportional Venn Diagram
 
-tags:
+functions:
 - part-to-whole relationship
 
 tools:

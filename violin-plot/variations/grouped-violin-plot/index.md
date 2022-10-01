@@ -1,7 +1,7 @@
 ---
 title: grouped violin plot
 
-tags: 
+functions: 
   - distribution
 
 tools:

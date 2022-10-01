@@ -1,7 +1,7 @@
 ---
 title: waffle chart
 
-tags:
+functions:
   - comparison
 
 tools:

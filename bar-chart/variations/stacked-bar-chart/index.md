@@ -1,7 +1,7 @@
 ---
 title: stacked bar chart
   
-tags:
+functions:
 - comparison
 - change over time
 

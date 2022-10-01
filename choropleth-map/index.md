@@ -1,7 +1,7 @@
 ---
 title:  choropleth map
   
-tags:
+functions:
 - geospatial data
 
 related:

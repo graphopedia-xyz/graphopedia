@@ -1,7 +1,7 @@
 ---
 title: radial time series
   
-tags:
+functions:
   - change over time
   - correlation
 

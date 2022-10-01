@@ -1,7 +1,7 @@
 ---
 title: Kagi chart
   
-tags:
+functions:
 - range
 
 related:

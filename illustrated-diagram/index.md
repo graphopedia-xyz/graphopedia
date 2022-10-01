@@ -1,7 +1,7 @@
 ---
 title:  illustrated diagram
   
-tags:
+functions:
 
 related:
 

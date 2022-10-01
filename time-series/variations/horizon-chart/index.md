@@ -1,7 +1,7 @@
 ---
 title: horizon chart
   
-tags:
+functions:
   - change over time
   - correlation
 

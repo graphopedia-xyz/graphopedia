@@ -1,7 +1,7 @@
 ---
 title: stacked illustrations
   
-tags:
+functions:
 
 tools:
 

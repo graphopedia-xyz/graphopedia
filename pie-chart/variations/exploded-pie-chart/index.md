@@ -1,7 +1,7 @@
 ---
 title:  exploded pie chart
   
-tags:
+functions:
 - part-to-whole relationship
 
 tools:

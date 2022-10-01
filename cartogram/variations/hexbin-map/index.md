@@ -1,7 +1,7 @@
 ---
 title: hexbin map
 
-tags:
+functions:
 - geospatial data
 
 tools:

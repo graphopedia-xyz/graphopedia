@@ -1,7 +1,7 @@
 ---
 title: grouped bar chart
   
-tags:
+functions:
 - comparison
 - change over time
 

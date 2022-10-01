@@ -1,7 +1,7 @@
 ---
 title:  flowchart
 
-tags:
+functions:
   - network of relationships
   - part-to-whole relationship
 

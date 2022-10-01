@@ -1,7 +1,7 @@
 ---
 title: raincloud plot
 
-tags:
+functions:
   - distribution
 
 tools:

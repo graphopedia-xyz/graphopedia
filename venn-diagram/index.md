@@ -1,7 +1,7 @@
 ---
 title:  Venn diagram
   
-tags:
+functions:
 - part-to-whole relationship
 
 

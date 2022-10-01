@@ -1,7 +1,7 @@
 ---
 title:  small multiples
   
-tags:
+functions:
 - change over time
 - comparison
 

@@ -1,7 +1,7 @@
 ---
 title: cluster heatmap 
 
-tags:
+functions:
   - correlation
   - network of relationships
 

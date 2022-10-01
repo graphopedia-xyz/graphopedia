@@ -1,7 +1,7 @@
 ---
 title: highest density region boxplot
 
-tags:
+functions:
   - distribution
 
 tools:
