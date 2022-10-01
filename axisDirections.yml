@@ -1,0 +1,23 @@
+# Map of axis directions that is complimentary to visualization principles
+# Description is used on a tag page and in SEO meta tag. Name is used in lists
+
+- name: horizontal
+  description: horizontal axis direction
+
+- name: vertical
+  description: vertical axis direction
+
+- name: angular
+  description: angular axis direction
+
+- name: radial
+  description: radial axis direction
+
+- name: third dimension
+  description: third dimension axis direction
+
+- name: spiral
+  description: spiral axis direction
+
+# - name: [no axis]
+#   description: no axis
