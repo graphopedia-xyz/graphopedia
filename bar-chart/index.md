@@ -96,6 +96,8 @@ With the bar chart being the ubiquitous default, there is often a need to find a
 
 It is worth noting that neither the pie chart nor the bubble, both of which are popular charts, work as functional alternatives to a bar chart.
 
+## Further reading
+https://en.wikipedia.org/wiki/Bar_chart
 
 ## References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 59
