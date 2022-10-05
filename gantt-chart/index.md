@@ -64,7 +64,13 @@ Another reason to choose an alternative to a Gantt chart is the absence of means
 1. [*Network diagram*](/network-diagram) uses nodes and links to show the hierarchy and connections between entities.
 2. *PERT chart* shows the likely completion time for a project. There four types of time:  1. optimistic time - the minimum possible time required to accomplish an activity, assuming everything proceeds better than is typically expected; 2. pessimistic time - the maximum possible time required to finish an activity, assuming everything goes wrong (excluding major catastrophes); 3. likely time - the best estimate of the time necessary to complete an activity, assuming everything goes as normal; 4. expected time - the best estimate of the time required to accomplish an a task, accounting for the fact that things don't always proceed as expected.
 
+
 ## Sources
+
+### Further reading
+1. [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) article on Wikipedia.
+
+### References
 [^wisocki]: Wysocki, Robert K. [*Effective project management: traditional, agile, extreme.*]((https://books.google.com/books?redir_esc=y&id=nhw2V6-bTNEC&q=gantt#v=snippet&q=gantt&f=false)) John Wiley & Sons, 2011. p.277.
 [^burkhard]: Burkhard, Remo Aslak, et al. ["Knowledge visualization: A comparative study between project tube maps and gantt charts."](https://kar.kent.ac.uk/14324/) *Proceedings of I-Know'05* (2005): 388-395.
 [^wallace]: Clark, Wallace. [*The Gantt chart: A working tool of management.*]((https://archive.org/details/cu31924004570853/page/n6)) Ronald Press, 1922. 

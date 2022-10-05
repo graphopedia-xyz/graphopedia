@@ -68,5 +68,10 @@ Dot plots have a long history, but the first formal description comes from Lelan
 
 
 ## Sources
+
+### Further reading
+1. [Dot plot](https://en.wikipedia.org/wiki/Dot_plot_(statistics)) article on Wikipedia.
+
+### References
 [^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p.316.
 [^wilkinson1]: Wilkinson, Leland. ["Dot plots."](https://www.cs.uic.edu/~wilkinson/Publications/dotplots.pdf) *The American Statistician* 53.3 (1999): 276-281. doi: 10.1080/00031305.1999.10474474 

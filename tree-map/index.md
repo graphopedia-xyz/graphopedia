@@ -73,6 +73,11 @@ Another solution is using other figures such as polygons as in Voronoi treemap o
 
 
 ## Sources
+
+### Further reading
+1. [Treemapping](https://en.wikipedia.org/wiki/Treemapping) article on Wikipedia.
+
+### References
 [^schneiderman]: Shneiderman, Ben, and Catherine Plaisant. "Treemaps for space-constrained visualization of hierarchies." (1998). [PDF](https://s3.amazonaws.com/academia.edu.documents/30742877/shneiderman_treemap-history_1998-2009.pdf)
 [^kong]: Kong, Nicholas, Jeffrey Heer, and Maneesh Agrawala. ["Perceptual guidelines for creating rectangular treemaps."](https://doi.org/10.1109/TVCG.2010.186) *IEEE transactions on visualization and computer graphics* 16.6 (2010): 990-998. [PDF](http://idl.cs.washington.edu/files/2010-Treemaps-InfoVis.pdf)
 [^bruls]: Bruls, Mark, Kees Huizing, and Jarke J. Van Wijk. ["Squarified treemaps."](https://doi.org/10.1007/978-3-7091-6783-0_4) *Data Visualization, 2000*. Springer, Vienna, 2000. 33-42. [PDF]((https://www.win.tue.nl/~vanwijk/stm.pdf))

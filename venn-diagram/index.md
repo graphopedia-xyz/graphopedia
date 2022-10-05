@@ -100,6 +100,11 @@ The Venn diagram appeared in 1880, created by John Venn. He did not call it "Ven
 
 
 ## Sources
+
+### Further reading
+1. [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram) article on Wikipedia.
+
+### References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000, p. 961. Harris explains the differences between the quantitative and qualitative Venn diagrams.
 [^heberle]: Heberle, Henry, et al. ["InteractiVenn: a web-based tool for the analysis of sets through Venn diagrams."](https://doi.org/10.1186/s12859-015-0611-3) *BMC bioinformatics* 16.1 (2015): 169. Heberly discusses Venn diagrams of 4 and more sets. [PDF](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-015-0611-3)
 

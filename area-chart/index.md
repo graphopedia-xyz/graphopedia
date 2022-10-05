@@ -89,4 +89,8 @@ William Playfair introduced area charts in 1786 in his book *The Commercial and 
 
 ## Sources
 
+### Further reading
+1. [Area chart](https://en.wikipedia.org/wiki/Area_chart) article on Wikipedia.
+
+### References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 10

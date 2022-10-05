@@ -73,9 +73,13 @@ The dot distribution map was first introduced in the early 1830s by a French mon
 3. [*Bubble map*](/bubble-map) shows data as proportionally sized symbols, typically circles, overlaid over a map.
 4. [*Dasymetric map*](/dasymetric-map) represents a statistical surface of density, most commonly population density.
 
-## Sources 
 
+## Sources
 
+### Further reading
+1. [Dot distribution map](https://en.wikipedia.org/wiki/Dot_distribution_map) article on Wikipedia.
+
+### References
 [^castillo]: Castillo, Carlos. [*Big crisis data: social media in disasters and time-critical situations.*]((https://books.google.com/books?id=c1KJDAAAQBAJ)) Cambridge University Press, 2016. p. 140.
 
 [^meirelles]: Meirelles, Isabel. [*Design for information: an introduction to the histories, theories, and best practices behind effective information visualizations.*](https://books.google.fr/books?id=RFb0AwAAQBAJ) Rockport publishers, 2013. p.130-131. 

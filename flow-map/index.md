@@ -60,7 +60,13 @@ A known challenge in flow map design is the visual clutter made by intersecting 
 
 The first flow maps are attributed to Henry Drury Harness who created a detailed atlas of the Irish Railways in 1837. [^tamassia]
 
+
 ## Sources
+
+### Further reading
+1. [Flow map](https://en.wikipedia.org/wiki/Flow_map) article on Wikipedia.
+
+### References
 [^phan]: Phan, Doantam, et al. ["Flow map layout."](http://graphics.stanford.edu/papers/flow_map_layout/flow_map_layout.pdf) *IEEE Symposium on Information Visualization*, 2005. INFOVIS 2005.. IEEE, 2005.
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p.157.
 [^tamassia]: Tamassia, Roberto. [*Handbook of graph drawing and visualization.*](https://books.google.com/books?id=lQBrAAAAQBAJ) Chapman and Hall/CRC, 2013. p.709. 

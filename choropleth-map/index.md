@@ -90,8 +90,13 @@ Baron Pierre Charles Dupin introduced the choropleth map in 1826. The term "chor
 3. [*Bubble map*](/bubble-map) shows data as proportionally sized symbols overlaid over a map, and displaying a single data point per region.
 4. [*Dot map*](/dot-map) shows individual data points represented as dots overlaid on a map.
 
+
 ## Sources
 
+### Further reading
+1. [Choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) article on Wikipedia.
+
+### References
 [^brewer]: Brewer, Cynthia A., et al. ["Mapping mortality: Evaluating color schemes for choropleth maps."](https://www.jstor.org/stable/2564061?seq=1#page_scan_tab_contents) *Annals of the Association of American Geographers* 87.3 (1997): 411-438, p. 411.
 
 [^kemp]: Kemp, Karen, ed. [Encyclopedia of geographic information science.](https://books.google.com/books?id=FrUQHIzXK6EC) Sage, 2008. p. 37-38.

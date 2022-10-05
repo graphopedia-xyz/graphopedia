@@ -85,7 +85,13 @@ Unlike [Sankey diagrams](/sankey-chart), alluvial diagrams can re-cluster the st
 1. [*Chord diagram*](/chord-diagram) represents weighted relationships between categories. Unlike the alluvial diagram, it does not show the change over time, but a single snapshot in time. Another requirement is that all categories have to be of the same type. For example, a chord diagram can show connections between countries but not between countries and cities.
 2. [*Tree diagram*](/tree-diagram) displays a hierarchical structure consisting of nodes and links.
 
+
 ## Sources
+
+### Further reading
+1. [Alluvial diagram](https://en.wikipedia.org/wiki/Alluvial_diagram) article on Wikipedia.
+
+### References
 [^borner]: Börner, Katy. [*Atlas of knowledge: Anyone can map.*](https://books.google.com/books?id=Fe-cBwAAQBAJ) MIT Press, 2015. p. 63.
 [^rosvall]: Rosvall, Martin, and Carl T. Bergstrom. ["Mapping change in large networks."](https://doi.org/10.1371/journal.pone.0008694gatsby ) *PloS one 5.1* (2010): e8694. [PDF](https://arxiv.org/pdf/0812.1242.pdf)
 [^kosara]: Bendix, Fabian, Robert Kosara, and Helwig Hauser. ["Parallel sets: visual analysis of categorical data."](https://doi.org/10.1145/1124772.1124891) *IEEE Symposium on Information Visualization, 2005. InfoVis 2005. IEEE*, 2005. [PDF](https://kosara.net/papers/2005/Bendix-InfoVis-2005.pdf)

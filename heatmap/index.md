@@ -91,6 +91,10 @@ Heatmap variations have to do with the orientation and layout of the map. The ad
                                                                        
 ## Sources
 
+### Further reading
+1. [Heat map](https://en.wikipedia.org/wiki/Heat_map) article on Wikipedia.
+
+### References
 [^munzer]: Munzner, Tamara ["Visualization Analysis and Design"](https://books.google.com/books?id=NfkYCwAAQBAJ&pg=PT166&lpg=PT166) CRC Press, 2014, p.136.
 [^ware]: Ware, Colin. ["Color sequences for univariate maps: Theory, experiments and principles."](https://ccom.unh.edu/sites/default/files/publications/Ware_1988_CGA_Color_sequences_univariate_maps.pdf) *IEEE Computer Graphics and Applications* 8.5 (1988): 41-49.
 [^wilkinson]: Wilkinson, Leland, and Michael Friendly. "The history of the cluster heat map." *The American Statistician* 63.2 (2009): 179-184. [PDF](https://www.cs.uic.edu/~wilkinson/Publications/heatmap.pdf)

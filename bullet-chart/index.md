@@ -50,7 +50,13 @@ The bullet chart can display negative values, which are plotted to the left or t
  
  2. *Gauge chart* shows values as a needle on a speedometer. The target value is usually marked.
 
+
 ## Sources
+
+### Further reading
+1. [Bullet graph](https://en.wikipedia.org/wiki/Bullet_graph) article on Wikipedia.
+
+### References
 [^few]: Few, Stephen. ["Information dashboard design."](https://the-eye.eu/public/Books/IT%20Various/information_dashboard_design.pdf) (2006). p.151 
 [^metoyer]: Metoyer, Ronald, et al. ["Understanding the verbal language and structure of end-user descriptions of data visualizations."](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p1659-metoyer.pdf) *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.* ACM, 2012. p.1661. 
 [^few2]: Few, Stephen. ["Bullet Graph Design Specification, 2010."](https://www.perceptualedge.com/articles/misc/Bullet_Graph_Design_Spec.pdf)

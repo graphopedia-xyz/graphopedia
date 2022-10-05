@@ -97,7 +97,13 @@ Some charts that can replace circles in a Dorling cartogram include [histogram](
 
 3. [*Dot Distribution Map*](/dot-distribution-map) uses a dot symbol to represent a data point showing the distribution of values through the scatter pattern similar to a scatter plot.
 
+
 ## Sources
+
+### Further reading
+1. [Cartogram](https://en.wikipedia.org/wiki/Cartogram) article on Wikipedia.
+
+### References
 [^nusrat]: Nusrat, Sabrina, Md Jawaherul Alam, and Stephen Kobourov. ["Evaluating cartogram effectiveness."](https://arxiv.org/pdf/1504.02218.pdf) *IEEE transactions on visualization and computer graphics* 24.2 (2018): 1077-1090.
 [^nusr]: Nusrat, Sabrina, and Stephen Kobourov. ["The state of the art in cartograms."](https://www2.cs.arizona.edu/~kobourov/star.pdf) *Computer Graphics Forum*. Vol. 35. No. 3. 2016.
 [^tyner3]: Tyner, Judith A. [*Introduction to thematic cartography.*](https://www.amazon.com/Introduction-Thematic-Cartography-Judith-Tyner/dp/0134891058) Prentice Hall, 1992.

@@ -50,6 +50,11 @@ Ishikawa diagrams were first popularized in the 1960s by Kaoru Ishikawa who used
 
 
 ## Sources
+
+### Further reading
+1. [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram) article on Wikipedia.
+
+### References
 [^wong]: Wong, Kam Cheong. ["Using an Ishikawa diagram as a tool to assist memory and retrieval of relevant medical cases from the medical literature."](https://jmedicalcasereports.biomedcentral.com/articles/10.1186/1752-1947-5-120) (2011): 120.
 
 [^luca]: Liliana, Luca. ["A new model of Ishikawa diagram for quality assessment."](https://iopscience.iop.org/article/10.1088/1757-899X/161/1/012099/pdf) *IOP Conference Series: Materials Science and Engineering.* Vol. 161. No. 1. IOP Publishing, 2016.

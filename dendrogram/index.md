@@ -69,6 +69,11 @@ Dendrograms can have a horizontal or vertical orientation. The layout can be lin
 
 ## Sources
 
+### Further reading
+1. [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram) article on Wikipedia.
+
+### References
+
 [^klemelä]: Klemelä, Jussi Sakari. [Smoothing of multivariate data: density estimation and visualization.](https://books.google.com/?id=FFb_yy3RkL0C&pg=PA199) Vol. 737. John Wiley & Sons, 2009.
 
 [^earle]: Earle, Denise. [*Dendrogram seriation in data visualisation: algorithms and applications.*](http://mural.maynoothuniversity.ie/2442/) Diss. National University of Ireland Maynooth, 2010.

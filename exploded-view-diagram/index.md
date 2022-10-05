@@ -46,3 +46,9 @@ is a type of schematic or illustrated diagram that displays and labels component
 The component parts of an exploded view diagram are spatially separated or suspended around the center point of the object such that it is still possible to see how the components fit together when the object is not presented in its exploded state.
 
 Exploded view are useful for showing inner parts of a system that would normally be concealed. Exploded view diagrams are closely related to [cutaway drawings](/cutaway-drawing). Both techniques can coexist in a single visualization.
+
+
+## Sources
+
+### Further reading
+1. [Exploded-view drawing](https://en.wikipedia.org/wiki/Exploded-view_drawing) article on Wikipedia.

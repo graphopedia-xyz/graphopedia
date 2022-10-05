@@ -41,5 +41,11 @@ The Kagi chart originates from Japan where during the 1870s it was used in stock
 1. [*Candlestick chart*](candlestick-chart) plots bullish and bearish sentiment.
 2. *Renko chart*  represents price movements by using bricks. Each time a price increases by a preset amount, a new brick appears.
 
+
 ## Sources
+
+### Further reading
+1. [Kagi chart](https://en.wikipedia.org/wiki/Kagi_chart) article on Wikipedia.
+
+### References
 [^confas]: Confas, Abe [*Sentiment Indicators: Renko, Price Break, Kagi, Point, and Figure - What They Are and How to Use Them to Trade*](https://books.google.com/books?id=9JZ6U7JZVyQC) John Wiley & Sons, 2010, p.148.

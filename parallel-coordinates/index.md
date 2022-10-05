@@ -66,6 +66,11 @@ Parallel coordinates plot was first used by American geographer Henry Gannetts i
 
 
 ## Sources
+
+### Further reading
+1. [Parallel coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates) article on Wikipedia.
+
+### References
 [^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. pp.251-252.
 [^rumsey]: Gannett, H., and F. W. Hewes. ["General summary showing the rank of states by ratios 1880."](https://www.davidrumsey.com/luna/servlet/s/jq78gr) *Scribner’s statistical atlas of the United States showing by graphic methods their present condition and their political, social and industrial development*, Hewes FW,(Ed.). United States. Census Office (1883): 151.
 [^inselberg]: Inselberg, Alfred, and Bernard Dimsdale. ["Parallel coordinates for visualizing multi-dimensional geometry."](https://doi.org/10.1007/978-4-431-68057-4_3) *Computer Graphics* 1987. Springer, Tokyo, 1987. 25-44. p.69.

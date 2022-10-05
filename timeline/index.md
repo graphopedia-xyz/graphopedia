@@ -49,6 +49,11 @@ Joseph Priestley's 1765 Chart of Biography is cited as the most influential time
 
 
 ## Sources
+
+### Further reading
+1. [Timeline](https://en.wikipedia.org/wiki/Timeline) article on Wikipedia.
+
+### References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p. 917.
 [^boyd]: Davis, Stephen Boyd. ["History on the line: time as dimension."](https://www.mitpressjournals.org/doi/pdf/10.1162/DESI_a_00171) *Design Issues* 28.4 (2012): 4-17.
 [^grafton]: Rosenberg, Daniel, and Anthony Grafton. [*Cartographies of time: A history of the timeline.*](https://books.google.com/books?id=DqWqKVzipToC) Princeton Architectural Press, 2013. p. 272.

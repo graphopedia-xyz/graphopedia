@@ -45,6 +45,11 @@ A distinction is sometimes made between isometric and isoplethic mapping: isomet
 
 The first use of isolines came from English astronomer Edmund Halley (of the eponymous comet) who in 1686 published the first meteorological a map showing the prevailing maritime winds both in and near the tropics. More importantly, this became widely recognized as the first weather map, well ahead of its time as weather maps did not become common until the early 18th century.
 
-## Further reading
 
+## Sources
+
+### Further reading
+1. [Contour line](https://en.wikipedia.org/wiki/Contour_line) article on Wikipedia.
+
+### References
 [^norman]. Norman, J., and W. Thrower. ["Edmond Halley as a Thematic Geo-Cartographer."](https://www.jstor.org/stable/2561832?seq=1#page_scan_tab_contents) *Annals of the Association of American Geographers* 59 (1969).

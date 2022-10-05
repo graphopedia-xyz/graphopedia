@@ -96,10 +96,12 @@ With the bar chart being the ubiquitous default, there is often a need to find a
 
 It is worth noting that neither the pie chart nor the bubble, both of which are popular charts, work as functional alternatives to a bar chart.
 
-## Further reading
-https://en.wikipedia.org/wiki/Bar_chart
+## Sources
 
-## References
+### Further reading
+1. [Bar chart](https://en.wikipedia.org/wiki/Bar_chart) article on Wikipedia.
+
+### References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?hl=en&lr=&id=qusmDAAAQBAJ) Oxford University Press, 2000. p. 59
 [^yau]: Yau, Nathan. ["Bar Chart Baselines Start at Zero"](https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero/) *FlowingData.com. Retrieved from https://flowingdata.com/2015/08/31/bar-chart-baselines-start-at-zero* (2015).
 [^knaflic]: Knaflic, Cole Nussbaumer. [*Storytelling with data: A data visualization guide for business professionals.*](https://books.google.com/books?id=IheRCgAAQBAJ) John Wiley & Sons, 2015. pp.58 
