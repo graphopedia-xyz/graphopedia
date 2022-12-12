@@ -3,7 +3,7 @@ title: ordered illustrations
   
 functions:
 
-visualizationPrinciples:
+visualizationTechniques:
   - picturing
 
 tools:

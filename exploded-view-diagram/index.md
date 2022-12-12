@@ -3,7 +3,7 @@ title: exploded view diagram
     
 functions:
 
-visualizationPrinciples:
+visualizationTechniques:
  - picturing
 
 tools:

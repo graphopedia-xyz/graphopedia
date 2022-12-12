@@ -5,7 +5,7 @@ functions:
   - change over time
   - correlation
 
-visualizationPrinciples:
+visualizationTechniques:
   - positioning on a coordinate axis
   - connecting
 

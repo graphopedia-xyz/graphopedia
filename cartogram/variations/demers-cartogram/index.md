@@ -4,7 +4,7 @@ title: Demers  cartogram
 functions:
 - geospatial data
 
-visualizationPrinciples:
+visualizationTechniques:
   - mapping
 
 tools:

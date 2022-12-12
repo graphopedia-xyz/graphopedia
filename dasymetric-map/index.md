@@ -4,7 +4,7 @@ title: dasymetric map
 functions:
 - geospatial data
 
-visualizationPrinciples:
+visualizationTechniques:
   - mapping
 
 related:

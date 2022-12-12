@@ -5,7 +5,7 @@ functions:
   - part-to-whole relationship
   - hierarchy
 
-visualizationPrinciples:
+visualizationTechniques:
   - connecting
 
 related:

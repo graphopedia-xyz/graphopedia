@@ -5,7 +5,7 @@ functions:
   - distribution
   - correlation
 
-visualizationPrinciples:
+visualizationTechniques:
   - positioning on a coordinate axis
 
 axisDirections:

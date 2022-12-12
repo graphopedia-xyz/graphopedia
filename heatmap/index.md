@@ -5,7 +5,7 @@ functions:
   - correlation
   - network of relationships
 
-visualizationPrinciples:
+visualizationTechniques:
   - repeating
 
 related:

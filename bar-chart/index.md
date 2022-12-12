@@ -5,7 +5,7 @@ functions:
   - comparison
   - change over time
 
-visualizationPrinciples:
+visualizationTechniques:
   - sizing
 
 related:

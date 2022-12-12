@@ -5,7 +5,7 @@ functions:
 - network of relationships
 - geospatial data
 
-visualizationPrinciples:
+visualizationTechniques:
   - mapping
 
 related:

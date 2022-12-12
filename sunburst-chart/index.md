@@ -5,7 +5,7 @@ functions:
 - hierarchy
 - network of relationships
 
-visualizationPrinciples:
+visualizationTechniques:
   - coupling by adjacency
 
 informationTypes:

@@ -4,7 +4,7 @@ title: spiral timeline
 functions:
   - change over time
 
-visualizationPrinciples:
+visualizationTechniques:
   - positioning on a coordinate axis
 
 axisDirections:

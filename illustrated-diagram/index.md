@@ -3,7 +3,7 @@ title:  illustrated diagram
   
 functions:
 
-visualizationPrinciples:
+visualizationTechniques:
   - picturing
 
 tools:

@@ -4,7 +4,7 @@ title: cartogram
 functions:
 - geospatial data
 
-visualizationPrinciples:
+visualizationTechniques:
   - mapping
 
 related:

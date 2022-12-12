@@ -4,7 +4,7 @@ title:  dot plot
 functions: 
   - distribution
 
-visualizationPrinciples:
+visualizationTechniques:
   - repeating
 
 related:

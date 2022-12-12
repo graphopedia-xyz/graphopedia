@@ -4,7 +4,7 @@ title:  isopleth map
 functions:
 - geospatial data
 
-visualizationPrinciples:
+visualizationTechniques:
   - mapping
 
 related:

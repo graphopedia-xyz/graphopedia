@@ -5,7 +5,7 @@ functions:
 - distribution
 - geospatial data
 
-visualizationPrinciples:
+visualizationTechniques:
   - mapping
 
 related:

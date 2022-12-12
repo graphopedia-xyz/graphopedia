@@ -4,7 +4,7 @@ title: word cloud
 functions:
   - comparison
 
-visualizationPrinciples:
+visualizationTechniques:
   - sizing
 
 related:

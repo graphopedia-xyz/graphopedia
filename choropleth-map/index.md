@@ -4,7 +4,7 @@ title:  choropleth map
 functions:
 - geospatial data
 
-visualizationPrinciples:
+visualizationTechniques:
   - gradient coding
   - mapping
 

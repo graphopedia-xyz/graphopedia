@@ -4,7 +4,7 @@ title: waffle chart
 functions:
   - comparison
 
-visualizationPrinciples:
+visualizationTechniques:
   - repeating
 
 tools:

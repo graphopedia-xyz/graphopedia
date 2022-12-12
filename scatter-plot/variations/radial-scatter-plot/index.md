@@ -4,7 +4,7 @@ title: radial scatter plot
 functions:
 - correlation
 
-visualizationPrinciples:
+visualizationTechniques:
   - positioning on a coordinate axis
 
 axisDirections:

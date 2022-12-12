@@ -3,7 +3,7 @@ title:  pictogram
   
 functions:
 
-visualizationPrinciples:
+visualizationTechniques:
  - picturing
 
 tools:

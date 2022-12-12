@@ -4,7 +4,7 @@ title:  network diagram
 functions:
 - network of relationships
 
-visualizationPrinciples:
+visualizationTechniques:
   - connecting
 
 related:

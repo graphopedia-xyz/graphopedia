@@ -3,7 +3,7 @@ title: stacked illustrations
   
 functions:
 
-visualizationPrinciples:
+visualizationTechniques:
   - picturing
 
 tools:

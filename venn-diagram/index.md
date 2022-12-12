@@ -4,7 +4,7 @@ title:  Venn diagram
 functions:
 - part-to-whole relationship
 
-visualizationPrinciples:
+visualizationTechniques:
   - grouping by boundary
 
 

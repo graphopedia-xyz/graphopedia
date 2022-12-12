@@ -3,7 +3,7 @@ title:  multiple exposure diagram
   
 functions:
 
-visualizationPrinciples:
+visualizationTechniques:
  - picturing
 
 tools:

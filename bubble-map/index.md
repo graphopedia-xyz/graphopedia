@@ -5,7 +5,7 @@ functions:
 - comparison
 - geospatial data
 
-visualizationPrinciples:
+visualizationTechniques:
   - mapping
 
 related:

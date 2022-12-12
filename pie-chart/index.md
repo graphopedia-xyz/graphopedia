@@ -4,7 +4,7 @@ title:  pie chart
 functions: 
   - part-to-whole relationship
 
-visualizationPrinciples:
+visualizationTechniques:
   - proportional space-filling
 
 axisDirections:

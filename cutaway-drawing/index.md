@@ -3,7 +3,7 @@ title:  cutaway drawing
     
 functions:
 
-visualizationPrinciples:
+visualizationTechniques:
  - picturing
 
 tools:

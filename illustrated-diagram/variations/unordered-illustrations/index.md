@@ -3,7 +3,7 @@ title: unordered illustrations
   
 functions:
 
-visualizationPrinciples:
+visualizationTechniques:
   - picturing
 
 tools:

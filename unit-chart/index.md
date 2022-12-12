@@ -4,7 +4,7 @@ title: unit chart
 functions:
   - comparison
 
-visualizationPrinciples:
+visualizationTechniques:
   - repeating
 
 tools:

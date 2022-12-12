@@ -5,7 +5,7 @@ functions:
 - part-to-whole relationship
 - comparison
 
-visualizationPrinciples:
+visualizationTechniques:
   - repeating
 
 related:

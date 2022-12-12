@@ -5,7 +5,7 @@ functions:
   - network of relationships
   - part-to-whole relationship
 
-visualizationPrinciples:
+visualizationTechniques:
   - connecting
 
 tools:
