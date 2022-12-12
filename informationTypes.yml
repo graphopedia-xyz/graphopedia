@@ -1,0 +1,27 @@
+# Types of information principles according to Engelhardt-Clive classification. 
+# The classification is based on 'The DNA of Visualization', A universal grammar for specifying visualization types https://visdna.com
+# Description is used on a tag page and in SEO meta tag. Name is used in lists
+
+- name: configuration and visual appearance
+  description: What does it look like?
+
+- name: spatial location
+  description: Where?
+
+- name: point in time
+  description: When?
+
+- name: quantity
+  description: How much or how many?
+
+- name: proportion
+  description: What proportion?
+
+- name: order
+  description: Which order or ranking?
+
+- name: category
+  description: Which group or category?
+
+- name: relationships between entities 
+  description: Does a given relationship hold (between 2 entities)?
