@@ -43,3 +43,7 @@ is an artistic rendering based on factual information about its subject.
 
 <!--more-->
 
+## Sources
+### Further reading
+1. [Biological illustration](https://en.wikipedia.org/wiki/Biological_illustration) article on Wikipedia.
+1. [Technical illustration](https://en.wikipedia.org/wiki/Technical_illustration) article on Wikipedia.

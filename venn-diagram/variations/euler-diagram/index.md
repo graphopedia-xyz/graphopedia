@@ -43,3 +43,8 @@ is a variation of venn diagram where...
 
 [//]: # ( Venn diagram shows all possible logical relationships between sets, while an Euler diagram only shows existing relationships. )
 [//]: # ( Unlike the Venn diagram, Euler diagram only shows intersections that are not empty. )
+
+## Sources
+
+### Further reading
+1. [Euler diagram](https://en.wikipedia.org/wiki/Euler_diagram) article on Wikipedia.

@@ -65,8 +65,14 @@ Many stylistic variations of the pie chart exist. Since the exact sizes of segme
 1. [*Stacked Bar Chart*](/stacked-bar-chart) a pie chart is essentially a stacked bar chart with a single bar shown in polar coordinates.[^wilkinson2] Functionally absolutely the same, but the bar chart rectangles give readers a more natural way of judging the areas.
 2. [*Polar area chart*](/polar-area-chart) is a type of pie chart in which all sectors have equal angles, but they differ in how far each segment extends from the center of the circle. The polar area chart is used to plot cyclic phenomena, for example, the amount of rain each month appears as 12 sectors at 30 degrees each.
 3. [*Waffle chart*](/waffle-chart) shows ratios using a grid of squares representing one hundred percent and coloring the part representing a fraction of the whole.
+
+
 ## Sources
 
+### Further reading
+1. [Pie chart](https://en.wikipedia.org/wiki/Pie_chart) article on Wikipedia.
+
+### References
 [^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001. p.178. Tufte advises against using multiple pie charts using a proportional symbol map with pie charts as an anti-example of aesthetics in data graphics.
 [^good]: Good, Phillip I., and James W. Hardin. [*Common Errors in Statistics (and How to Avoid Them)*](https://books.google.com.ua/books?hl=en&lr=&id=jiAwiY9DS9EC) John Wiley & Sons, 2012. p.117.
 [^lima]: Lima, Manuel. "Why humans love pie charts: a historical and evolutionary perspective." *Noteworthy*, retrieved May 10, 2019 from https://blog.usejournal.com/why-humans-love-pie-charts-9cd346000bdc

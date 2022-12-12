@@ -50,7 +50,7 @@ Chernoff faces are named after their inventor American statistician Herman Chern
 ## Sources
 
 ### Further reading
-1. [Chernoff_face](https://en.wikipedia.org/wiki/Chernoff_face) article on Wikipedia.
+1. [Chernoff face](https://en.wikipedia.org/wiki/Chernoff_face) article on Wikipedia.
 
 ### References
 [^kosara]: Kosara, Robert. ["A Critique of Chernoff Faces."](https://eagereyes.org/criticism/chernoff-faces) Retrieved October 29 (2007): 2017.

@@ -88,6 +88,11 @@ Symbols need to be scaled appropriately to avoid clutter. Ideally, symbols shoul
 
 ## Sources
 
+### Further reading
+1. [Proportional symbol map](https://en.wikipedia.org/wiki/Proportional_symbol_map) article on Wikipedia.
+
+### References
+
 [^brewer]: Brewer, Cynthia, and Andrew J. Campbell. ["Beyond graduated circles: varied point symbols for representing quantitative data on maps."](https://cartographicperspectives.org/index.php/journal/article/download/cp28-brewer-campbell/pdf/0) *Cartographic Perspectives* 29 (1998): 6-25, p.
 [^cabello]: Cabello, Sergio, et al. ["Algorithmic aspects of proportional symbol maps."](https://link.springer.com/content/pdf/10.1007%2Fs00453-009-9281-8.pdf) *Algorithmica* 58.3 (2010): 543-565.
 [^cairo]: Cairo, Alberto. [The Functional Art: An introduction to information graphics and visualization.](https://books.google.com/books?id=xwjhh6Wu-VUC) New Riders, 2012. p. 125.

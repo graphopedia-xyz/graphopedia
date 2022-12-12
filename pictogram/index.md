@@ -25,3 +25,9 @@ is an ideogram that conveys its meaning through its pictorial resemblance to a p
 [//]: # (Mention AIGA, national park services, road signs collections)
 
 <!--more-->
+
+## Sources
+
+### Further reading
+1. [Pictogram](https://en.wikipedia.org/wiki/Pictogram) article on Wikipedia.
+1. [Ideogram](https://en.wikipedia.org/wiki/Ideogram) article on Wikipedia.

@@ -38,3 +38,8 @@ Tallies are often used in scoring for games and sports.
 1. [*Histogram*](/histogram) shows the distribution of one continuous variable represented as the height of bars. Histograms are built using raw data that is split into intervals, called bins. 
 2. [*Tape diagram*](/tape-diagram) represents relationships of quantities as corresponding numbers of repeating symbols.
 3. [*Pictogram chart*](/pictogram-chart) represents groups of quantities as repreating symbols, often semantically associated with the counted objects. 
+
+## Sources
+
+### Further reading
+1. [Tally marks](https://en.wikipedia.org/wiki/Tally_marks) article on Wikipedia.
