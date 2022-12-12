@@ -4,6 +4,9 @@ title: word cloud
 functions:
   - comparison
 
+visualizationPrinciples:
+  - sizing
+
 related:
   - bubble-chart
 

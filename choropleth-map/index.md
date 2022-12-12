@@ -4,6 +4,10 @@ title:  choropleth map
 functions:
 - geospatial data
 
+visualizationPrinciples:
+  - gradient coding
+  - mapping
+
 related:
   - dot-distribution-map
   - dasymetric-map

@@ -5,6 +5,9 @@ functions:
   - part-to-whole relationship
   - hierarchy
 
+visualizationPrinciples:
+  - connecting
+
 related:
   - flow-map
 

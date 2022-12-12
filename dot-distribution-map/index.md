@@ -5,6 +5,9 @@ functions:
 - distribution
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
+
 related:
   - bubble-map
   - choropleth-map

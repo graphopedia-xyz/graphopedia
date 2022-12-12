@@ -4,6 +4,9 @@ title:  bump chart
 functions:
 - change over time
 
+visualizationPrinciples:
+  - ordering
+
 related:
 
 synonyms:

@@ -5,6 +5,9 @@ functions:
 - part-to-whole relationship
 - comparison
 
+visualizationPrinciples:
+  - repeating
+
 related:
   - tape-diagram
   - bar-chart

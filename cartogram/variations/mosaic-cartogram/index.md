@@ -4,6 +4,9 @@ title: mosaic cartogram
 functions:
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
+
 tools:
 
 examples:

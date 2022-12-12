@@ -4,6 +4,9 @@ title: Dorling cartogram
 functions:
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
+
 tools:
 
 examples:

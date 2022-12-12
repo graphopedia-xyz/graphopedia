@@ -5,6 +5,12 @@ functions:
 - hierarchy
 - network of relationships
 
+visualizationPrinciples:
+  - coupling by adjacency
+
+informationTypes:
+  - relationship
+
 related:
   - tree-diagram
 

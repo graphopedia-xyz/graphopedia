@@ -3,6 +3,9 @@ title:  cutaway drawing
     
 functions:
 
+visualizationPrinciples:
+ - picturing
+
 tools:
 
 examples:

@@ -4,6 +4,9 @@ title: hexbin map
 functions:
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
+
 tools:
 
 examples:

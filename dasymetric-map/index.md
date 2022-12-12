@@ -4,6 +4,9 @@ title: dasymetric map
 functions:
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
+
 related:
   - choropleth-map
   - bubble-map

@@ -4,6 +4,8 @@ title: cartogram
 functions:
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
 
 related:
   - bubble-map

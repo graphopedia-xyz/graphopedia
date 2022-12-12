@@ -4,6 +4,9 @@ title: Euler diagram
 functions:
 - part-to-whole relationship
 
+visualizationPrinciples:
+  - grouping by boundary
+
 tools:
 
 examples:

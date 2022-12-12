@@ -4,6 +4,9 @@ title: waffle chart
 functions:
   - comparison
 
+visualizationPrinciples:
+  - repeating
+
 tools:
 
 examples:

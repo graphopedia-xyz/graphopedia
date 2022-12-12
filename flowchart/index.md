@@ -5,6 +5,9 @@ functions:
   - network of relationships
   - part-to-whole relationship
 
+visualizationPrinciples:
+  - connecting
+
 tools:
   - name:   Drawio
     link:   https://www.draw.io/

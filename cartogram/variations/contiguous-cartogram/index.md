@@ -4,6 +4,9 @@ title: contiguous cartogram
 functions:
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
+
 tools:
 
 examples:

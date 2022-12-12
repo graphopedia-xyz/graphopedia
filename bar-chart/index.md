@@ -5,6 +5,9 @@ functions:
   - comparison
   - change over time
 
+visualizationPrinciples:
+  - sizing
+
 related:
   - histogram
   - tape-diagram

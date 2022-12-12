@@ -4,6 +4,9 @@ title:  dot plot
 functions: 
   - distribution
 
+visualizationPrinciples:
+  - repeating
+
 related:
   - bar-chart
 

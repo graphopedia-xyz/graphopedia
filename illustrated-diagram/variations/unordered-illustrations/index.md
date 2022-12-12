@@ -3,6 +3,9 @@ title: unordered illustrations
   
 functions:
 
+visualizationPrinciples:
+  - picturing
+
 tools:
 
 examples:

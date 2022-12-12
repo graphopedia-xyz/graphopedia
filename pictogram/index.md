@@ -3,6 +3,9 @@ title:  pictogram
   
 functions:
 
+visualizationPrinciples:
+ - picturing
+
 tools:
   - name:   Adobe Illustrator
     link:   http://www.adobe.com/Illustrator

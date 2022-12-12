@@ -3,6 +3,9 @@ title: stacked illustrations
   
 functions:
 
+visualizationPrinciples:
+  - picturing
+
 tools:
 
 examples:

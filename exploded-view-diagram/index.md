@@ -3,6 +3,9 @@ title: exploded view diagram
     
 functions:
 
+visualizationPrinciples:
+ - picturing
+
 tools:
 
 examples:

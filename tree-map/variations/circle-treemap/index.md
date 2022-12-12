@@ -5,6 +5,12 @@ functions:
   - part-to-whole relationship
   - hierarchy
 
+visualizationPrinciples:
+  - nesting
+
+informationTypes:
+  - relationship
+
 tools:
 
 examples:

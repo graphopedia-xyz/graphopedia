@@ -4,6 +4,9 @@ title: unit chart
 functions:
   - comparison
 
+visualizationPrinciples:
+  - repeating
+
 tools:
 
 examples:

@@ -5,6 +5,9 @@ functions:
   - correlation
   - network of relationships
 
+visualizationPrinciples:
+  - repeating
+
 related:
   - dendrogram
 

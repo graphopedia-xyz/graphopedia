@@ -3,8 +3,8 @@ title:  illustrated diagram
   
 functions:
 
-related:
-
+visualizationPrinciples:
+  - picturing
 
 tools:
   - name:   Adobe Illustrator

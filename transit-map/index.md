@@ -4,6 +4,9 @@ title: transit map
 functions:
   - concept visualization
 
+visualizationPrinciples:
+  - colour coding
+
 related:
 
 tools:

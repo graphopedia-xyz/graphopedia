@@ -5,6 +5,12 @@ functions:
   - change over time
   - correlation
 
+visualizationPrinciples:
+  - positioning on a coordinate axis
+
+informationTypes:
+  - point in time
+
 related:
 
 tools:

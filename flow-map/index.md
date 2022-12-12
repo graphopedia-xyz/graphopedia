@@ -5,6 +5,9 @@ functions:
 - network of relationships
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
+
 related:
   - sankey-chart
   - dot-distribution-map

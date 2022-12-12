@@ -5,6 +5,12 @@ functions:
   - part-to-whole relationship
   - hierarchy
 
+visualizationPrinciples:
+  - proportional space-filling
+
+informationTypes:
+  - proportion
+
 related:
   - sunburst-chart
 

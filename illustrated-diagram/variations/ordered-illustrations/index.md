@@ -3,6 +3,9 @@ title: ordered illustrations
   
 functions:
 
+visualizationPrinciples:
+  - picturing
+
 tools:
 
 examples:

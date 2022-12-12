@@ -5,6 +5,9 @@ functions:
 - comparison
 - geospatial data
 
+visualizationPrinciples:
+  - mapping
+
 related:
 
 tools:

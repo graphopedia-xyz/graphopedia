@@ -4,6 +4,13 @@ title: radial scatter plot
 functions:
 - correlation
 
+visualizationPrinciples:
+  - positioning on a coordinate axis
+
+axisDirections:
+  - radial
+  - angular
+
 tools:
 
 examples:
