@@ -52,7 +52,7 @@ The bullet chart can display negative values, which are plotted to the left or t
 
 
 ## Further reading
-1. [Bullet graph](https://en.wikipedia.org/wiki/Bullet_graph) article on Wikipedia.
+- [Bullet graph](https://en.wikipedia.org/wiki/Bullet_graph) article on Wikipedia.
 
 ## References
 [^few]: Few, Stephen. ["Information dashboard design."](https://the-eye.eu/public/Books/IT%20Various/information_dashboard_design.pdf) (2006). p.151 

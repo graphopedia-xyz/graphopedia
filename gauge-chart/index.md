@@ -45,5 +45,5 @@ Gauge charts are often used in business analytics dashboards, often tracking KPI
 Gauge charts have been criticized as a poor method of visualizing data since the human eye cannot easily compare sectors of a circle, especially where multiple circles are involved.
 This criticism is based on the same principle of visual perception as directed to the [pie chart](/pie-chart). The [bullet chart](/bullet-chart) is a linear version of the gauge chart that solves the problem of sector comparison.
 
-## Further reading 
-1. [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)
+## Further reading
+- [Information Graphics: A Comprehensive Reference by Robert L. Harris](https://books.google.com/books?id=LT1RXREvkGIC)

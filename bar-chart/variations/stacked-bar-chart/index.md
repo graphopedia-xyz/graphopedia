@@ -24,4 +24,4 @@ shows two or more data series where each respective bar stacks on top of another
 
 
 ## Further reading
-1. [Grouped (clustered) and stacked](https://en.wikipedia.org/wiki/Bar_chart#Grouped_(clustered)_and_stacked) article on Wikipedia.
+- [Grouped (clustered) and stacked](https://en.wikipedia.org/wiki/Bar_chart#Grouped_(clustered)_and_stacked) article on Wikipedia.

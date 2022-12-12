@@ -27,4 +27,4 @@ The radial tree (also known as radial map) is a type of a tree structure used in
 
 
 ## Further reading
-1. [Radial tree](https://en.wikipedia.org/wiki/Radial_tree) article on Wikipedia.
+- [Radial tree](https://en.wikipedia.org/wiki/Radial_tree) article on Wikipedia.

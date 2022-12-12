@@ -61,7 +61,7 @@ Functionally, the radar chart is the same as [parallel coordinates](/parallel-co
 Radar charts are suitable for showing general trends, outliers, and commonality. At the same time, the radar chart has disadvantages because of its limited ability to relate exact values.  As with all other radial charts or charts set in polar coordinates, it is less readable than its linear counterparts.[^goldberg]
 
 ## Further reading
-1. [Radar chart](https://en.wikipedia.org/wiki/Radar_chart) article on Wikipedia.
+- [Radar chart](https://en.wikipedia.org/wiki/Radar_chart) article on Wikipedia.
 
 ## References
 [^friendly]: Friendly, Michael. "Statistical graphics for multivariate data." *SAS SUGI* 16 (1991): 1157-1162. [PDF](http://www.math.yorku.ca/SCS/sugi/sugi16-paper.html)

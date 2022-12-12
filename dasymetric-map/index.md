@@ -49,7 +49,7 @@ The dasymetric map was developed in 1911 by Benjamin Semenov-Tyan-Shansk. Americ
 
 
 ## Further reading
-1. [Dasymetric map](https://en.wikipedia.org/wiki/Dasymetric_map) article on Wikipedia.
+- [Dasymetric map](https://en.wikipedia.org/wiki/Dasymetric_map) article on Wikipedia.
 
 ## References
 [^kostelnick]: Kostelnick, Charles, ed. [*Visible Numbers: Essays on the History of Statistical Graphics.*](https://books.google.com/books?id=gCMxDwAAQBAJ) Routledge, 2017.

@@ -50,7 +50,7 @@ Time series variations involve positioning multiple time series in the same grap
 
 
 ## Further reading
-1. [Time series](https://en.wikipedia.org/wiki/Time_series) article on Wikipedia.
+- [Time series](https://en.wikipedia.org/wiki/Time_series) article on Wikipedia.
 
 ## References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p. 920.

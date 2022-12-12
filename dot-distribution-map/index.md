@@ -75,7 +75,7 @@ The dot distribution map was first introduced in the early 1830s by a French mon
 
 
 ## Further reading
-1. [Dot distribution map](https://en.wikipedia.org/wiki/Dot_distribution_map) article on Wikipedia.
+- [Dot distribution map](https://en.wikipedia.org/wiki/Dot_distribution_map) article on Wikipedia.
 
 ## References
 [^castillo]: Castillo, Carlos. [*Big crisis data: social media in disasters and time-critical situations.*]((https://books.google.com/books?id=c1KJDAAAQBAJ)) Cambridge University Press, 2016. p. 140.

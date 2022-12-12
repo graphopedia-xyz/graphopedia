@@ -74,8 +74,8 @@ Research on memory and comprehension of pictographic charts shows that they can 
 
 
 ## Further reading
-1. [In mathematics](https://en.wikipedia.org/wiki/Pictogram#In_mathematics) section of *pictogram* article on Wikipedia.
-2. [Isotype (picture language)](https://en.wikipedia.org/wiki/Isotype_(picture_language)) article on Wikipedia.
+- [In mathematics](https://en.wikipedia.org/wiki/Pictogram#In_mathematics) section of *pictogram* article on Wikipedia.
+- [Isotype (picture language)](https://en.wikipedia.org/wiki/Isotype_(picture_language)) article on Wikipedia.
 
 ## References
 [^holmes]:  Holmes, Nigel. ["Pictograms: A view from the drawing board or, what I have learned from Otto Neurath and Gerd Arntz (and jazz)."](http://dx.doi.org/10.1075/idj.10.2.08hol) *Information design journal* 10.2 (2000): 133-143. [PDF](http://courses.washington.edu/art377/kcheng_2008/Pictograms_Nigel.pdf)

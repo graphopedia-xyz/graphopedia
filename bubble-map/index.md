@@ -87,7 +87,7 @@ Symbols need to be scaled appropriately to avoid clutter. Ideally, symbols shoul
 
 
 ## Further reading
-1. [Proportional symbol map](https://en.wikipedia.org/wiki/Proportional_symbol_map) article on Wikipedia.
+- [Proportional symbol map](https://en.wikipedia.org/wiki/Proportional_symbol_map) article on Wikipedia.
 
 ## References
 

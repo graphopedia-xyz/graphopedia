@@ -50,7 +50,7 @@ The layers of the Streamgraph are ordered by rank. There can be no gaps between 
 
 
 ## Further reading
-1. [Streamgraph](https://en.wikipedia.org/wiki/Streamgraph) article on Wikipedia.
+- [Streamgraph](https://en.wikipedia.org/wiki/Streamgraph) article on Wikipedia.
 
 ## References
 [^byron]: Byron, Lee, and Martin Wattenberg. ["Stacked graphs–geometry & aesthetics."](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) *IEEE transactions on visualization and computer graphics* 14.6 (2008): 1245-1252.

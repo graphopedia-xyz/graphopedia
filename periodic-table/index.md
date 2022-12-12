@@ -35,4 +35,4 @@ is a tabular arrangement of elements ordered by one or more of their properties.
 A periodic table is a way of arranging multiples classes of elements ordered by usually more than one property. Unlike a [matrix table](/matrix-table), in a periodic table cell can be rearranged such that they form groups inside the table.
 
 ## Further reading
-1. [Periodic table](https://en.wikipedia.org/wiki/Periodic_table) article on Wikipedia.
+- [Periodic table](https://en.wikipedia.org/wiki/Periodic_table) article on Wikipedia.

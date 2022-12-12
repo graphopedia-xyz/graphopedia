@@ -19,4 +19,4 @@ is a horizontal bar chart with bars ordered from the longest at the top to the s
 <!--more-->
 
 ## Further reading
-1. [Tornado diagram](https://en.wikipedia.org/wiki/Tornado_diagram) article on Wikipedia.
+- [Tornado diagram](https://en.wikipedia.org/wiki/Tornado_diagram) article on Wikipedia.

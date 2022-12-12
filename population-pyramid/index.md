@@ -55,7 +55,7 @@ For comparison of populations, it is possible to display population pyramids as 
 
 
 ## Further reading
-1. [Population pyramid](https://en.wikipedia.org/wiki/Population_pyramid) article on Wikipedia.
+- [Population pyramid](https://en.wikipedia.org/wiki/Population_pyramid) article on Wikipedia.
 
 ## References
 [^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. pp.340-341.

@@ -92,7 +92,7 @@ Baron Pierre Charles Dupin introduced the choropleth map in 1826. The term "chor
 
 
 ## Further reading
-1. [Choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) article on Wikipedia.
+- [Choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) article on Wikipedia.
 
 ## References
 [^brewer]: Brewer, Cynthia A., et al. ["Mapping mortality: Evaluating color schemes for choropleth maps."](https://www.jstor.org/stable/2564061?seq=1#page_scan_tab_contents) *Annals of the Association of American Geographers* 87.3 (1997): 411-438, p. 411.

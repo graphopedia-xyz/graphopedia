@@ -82,7 +82,7 @@ The scatter plot first appeared in the work of English statistician Francis Galt
 
 
 ## Further reading
-1. [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot) article on Wikipedia.
+- [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot) article on Wikipedia.
 
 ## References
 [^friendly]: Friendly, Michael, and Daniel Denis. ["The early origins and development of the scatterplot."](https://doi.org/10.1002/jhbs.20078) *Journal of the History of the Behavioral Sciences* 41.2 (2005): 103-130. [PDF](http://datavis.ca/papers/friendly-scat.pdf)

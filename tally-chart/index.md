@@ -40,4 +40,4 @@ Tallies are often used in scoring for games and sports.
 3. [*Pictogram chart*](/pictogram-chart) represents groups of quantities as repreating symbols, often semantically associated with the counted objects. 
 
 ## Further reading
-1. [Tally marks](https://en.wikipedia.org/wiki/Tally_marks) article on Wikipedia.
+- [Tally marks](https://en.wikipedia.org/wiki/Tally_marks) article on Wikipedia.

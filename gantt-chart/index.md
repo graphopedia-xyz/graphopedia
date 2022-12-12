@@ -66,7 +66,7 @@ Another reason to choose an alternative to a Gantt chart is the absence of means
 
 
 ## Further reading
-1. [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) article on Wikipedia.
+- [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) article on Wikipedia.
 
 ## References
 [^wisocki]: Wysocki, Robert K. [*Effective project management: traditional, agile, extreme.*]((https://books.google.com/books?redir_esc=y&id=nhw2V6-bTNEC&q=gantt#v=snippet&q=gantt&f=false)) John Wiley & Sons, 2011. p.277.

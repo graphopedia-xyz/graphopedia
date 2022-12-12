@@ -67,7 +67,7 @@ The main advantage of small multiples technique is that it allows comparison acr
 
 
 ## Further reading
-1. [Small multiple](https://en.wikipedia.org/wiki/Small_multiple) article on Wikipedia.
+- [Small multiple](https://en.wikipedia.org/wiki/Small_multiple) article on Wikipedia.
 
 ## References
 [^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001.

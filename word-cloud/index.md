@@ -49,7 +49,7 @@ The word cloud has been criticized as a method of data visualization for giving 
 
 
 ## Further reading
-1. [Tag cloud](https://en.wikipedia.org/wiki/Tag_cloud) article on Wikipedia.
+- [Tag cloud](https://en.wikipedia.org/wiki/Tag_cloud) article on Wikipedia.
 
 ## References
 [^halvey]: Halvey, Martin J., and Mark T. Keane. ["An assessment of tag presentation techniques."](https://doi.org/10.1145/1242572.1242826) *Proceedings of the 16th international conference on World Wide Web.* ACM, 2007. Discussion of other types of word clouds and their effectiveness. [HTML](http://www2007.org/htmlposters/poster988/)

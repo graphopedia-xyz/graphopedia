@@ -34,5 +34,5 @@ The inspiration for the hyperbolic tree came from a woodcut print by Dutch graph
 
 
 ## Further reading
-1. [Hyperbolic tree](https://en.wikipedia.org/wiki/Hyperbolic_tree) article on Wikipedia.
-2. [A Focus+Context Technique Based on Hyperbolic Geometry for Visualizing Large Hierarchies](http://www.idav.ucdavis.edu/~asharf/shrek/Projects/HypBrowser/startree-chi95.pdf).
+- [Hyperbolic tree](https://en.wikipedia.org/wiki/Hyperbolic_tree) article on Wikipedia.
+- [A Focus+Context Technique Based on Hyperbolic Geometry for Visualizing Large Hierarchies](http://www.idav.ucdavis.edu/~asharf/shrek/Projects/HypBrowser/startree-chi95.pdf).

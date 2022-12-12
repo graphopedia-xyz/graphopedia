@@ -86,7 +86,7 @@ Similar to a [histogram](/histogram), a density plot is suitable for showing con
  
 
 ## Further reading
-1. [Kernel density estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation) article on Wikipedia.
+- [Kernel density estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation) article on Wikipedia.
 
 ## References
 [^tukey]: Tukey, John Wilder [*Exploratory data analysis.*](http://theta.edu.pl/wp-content/uploads/2012/10/exploratorydataanalysis_tukey.pdf) Reading, PA: Addison-Wesley (1977).

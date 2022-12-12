@@ -68,7 +68,7 @@ Many stylistic variations of the pie chart exist. Since the exact sizes of segme
 
 
 ## Further reading
-1. [Pie chart](https://en.wikipedia.org/wiki/Pie_chart) article on Wikipedia.
+- [Pie chart](https://en.wikipedia.org/wiki/Pie_chart) article on Wikipedia.
 
 ## References
 [^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001. p.178. Tufte advises against using multiple pie charts using a proportional symbol map with pie charts as an anti-example of aesthetics in data graphics.

@@ -37,4 +37,4 @@ is a type of three-dimensional diagram in which some are removed in order to rev
 The purpose of a cutaway diagram is the representation of the inside features of an opaque object.
 
 ## Further reading
-1. [Cutaway drawing](https://en.wikipedia.org/wiki/Cutaway_drawing) article on Wikipedia.
+- [Cutaway drawing](https://en.wikipedia.org/wiki/Cutaway_drawing) article on Wikipedia.

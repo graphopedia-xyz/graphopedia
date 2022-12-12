@@ -32,8 +32,8 @@ is a type of chart  ...
 
 
 ## Further reading
-1. [Bagplot](https://en.wikipedia.org/wiki/Bagplot) article on Wikipedia.
-2. [The Bagplot: A Bivariate Boxplot](https://www.tandfonline.com/doi/abs/10.1080/00031305.1999.10474494) by Peter J. Rousseeuw , Ida Ruts & John W. Tukey
+- [Bagplot](https://en.wikipedia.org/wiki/Bagplot) article on Wikipedia.
+- [The Bagplot: A Bivariate Boxplot](https://www.tandfonline.com/doi/abs/10.1080/00031305.1999.10474494) by Peter J. Rousseeuw , Ida Ruts & John W. Tukey
 <!-- The Paper:   The Bagplot: A Bivariate Boxplot by Peter J. Rousseeuw , Ida Ruts & John W. Tukey   https://www.tandfonline.com/doi/abs/10.1080/00031305.1999.10474494 -->
 
 

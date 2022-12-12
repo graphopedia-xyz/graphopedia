@@ -68,7 +68,7 @@ Dendrograms can have a horizontal or vertical orientation. The layout can be lin
 
 
 ## Further reading
-1. [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram) article on Wikipedia.
+- [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram) article on Wikipedia.
 
 ## References
 

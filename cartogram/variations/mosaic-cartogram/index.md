@@ -20,4 +20,4 @@ a mosaic cartogram represents each region as a group of rectangles that form a r
 <!--more-->
 
 ## Further reading
-1. [Mosaic_cartograms](https://en.wikipedia.org/wiki/Cartogram#Mosaic_cartograms) section of *Cartogram* article on Wikipedia.
+- [Mosaic_cartograms](https://en.wikipedia.org/wiki/Cartogram#Mosaic_cartograms) section of *Cartogram* article on Wikipedia.

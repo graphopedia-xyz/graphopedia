@@ -56,7 +56,7 @@ The term "concept map" was coined in the 1970s by American educator Joseph D. No
 
 
 ## Further reading
-1. [Concept map](https://en.wikipedia.org/wiki/Concept_map) article on Wikipedia.
+- [Concept map](https://en.wikipedia.org/wiki/Concept_map) article on Wikipedia.
 
 ## References
 [^plotnik]: Plotnick, Eric. [*Concept mapping: A graphical system for understanding the relationship between concepts.*](https://files.eric.ed.gov/fulltext/ED407938.pdf) Syracuse, NY: ERIC Clearinghouse on Information and Technology, 1997.

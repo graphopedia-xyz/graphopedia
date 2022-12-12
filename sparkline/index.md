@@ -42,7 +42,7 @@ Sparklines are common in visualizations of financial data. The use of sparklines
 
 
 ## Further reading
-1. [Sparkline](https://en.wikipedia.org/wiki/Sparkline) article on Wikipedia.
+- [Sparkline](https://en.wikipedia.org/wiki/Sparkline) article on Wikipedia.
 
 ## References
 [^tufte]: Tufte, Edward R. [*Beautiful evidence.*](https://books.google.com/books/about/Beautiful_Evidence.html?id=v302PAAACAAJ) Vol. 1. Cheshire, CT: Graphics Press, 2006. p. 47.

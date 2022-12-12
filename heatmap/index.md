@@ -90,7 +90,7 @@ Heatmap variations have to do with the orientation and layout of the map. The ad
 
                                                                        
 ## Further reading
-1. [Heat map](https://en.wikipedia.org/wiki/Heat_map) article on Wikipedia.
+- [Heat map](https://en.wikipedia.org/wiki/Heat_map) article on Wikipedia.
 
 ## References
 [^munzer]: Munzner, Tamara ["Visualization Analysis and Design"](https://books.google.com/books?id=NfkYCwAAQBAJ&pg=PT166&lpg=PT166) CRC Press, 2014, p.136.

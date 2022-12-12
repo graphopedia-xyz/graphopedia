@@ -59,7 +59,7 @@ The chart has its name from the intermediate bars that make up a cascading patte
 
 
 ## Further reading
-1. [Waterfall chart](https://en.wikipedia.org/wiki/Waterfall_chart) article on Wikipedia.
+- [Waterfall chart](https://en.wikipedia.org/wiki/Waterfall_chart) article on Wikipedia.
 
 ## References
 [^borkin]: Borkin, Michelle A., et al. ["What makes a visualization memorable?."](https://doi.org/10.1109/TVCG.2013.234) *IEEE Transactions on Visualization and Computer Graphics* 19.12 (2013): 2306-2315. [PDF](http://cvcl.mit.edu/papers/Borkin_etal_MemorableVisualization_TVCG2013.pdf) This paper mentions the waterfall chart as a sub-type of a bar chart.

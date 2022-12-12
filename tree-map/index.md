@@ -73,7 +73,7 @@ Another solution is using other figures such as polygons as in Voronoi treemap o
 
 
 ## Further reading
-1. [Treemapping](https://en.wikipedia.org/wiki/Treemapping) article on Wikipedia.
+- [Treemapping](https://en.wikipedia.org/wiki/Treemapping) article on Wikipedia.
 
 ## References
 [^schneiderman]: Shneiderman, Ben, and Catherine Plaisant. "Treemaps for space-constrained visualization of hierarchies." (1998). [PDF](https://s3.amazonaws.com/academia.edu.documents/30742877/shneiderman_treemap-history_1998-2009.pdf)

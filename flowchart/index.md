@@ -54,7 +54,7 @@ Aside from programming, flowcharts have been shown to improve the comprehension 
 
 
 ## Further reading
-1. [Flowchart](https://en.wikipedia.org/wiki/Flowchart) article on Wikipedia.
+- [Flowchart](https://en.wikipedia.org/wiki/Flowchart) article on Wikipedia.
 
 ## References
 [^henderson]: Henderson, Harry. [*Encyclopedia of computer science and technology.*](https://www.e-reading.club/bookreader.php/135785/Henderson_-_Encyclopedia_of_Computer_Science_and_Technology.pdf) Infobase Publishing, 2009, p.200. This encyclopedia gives a definition of flowcharts in the context of computer programming.

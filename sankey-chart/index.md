@@ -94,7 +94,7 @@ Sankey diagram flow lines branch out, but they do not re-cluster as they do in t
 
 
 ## Further reading
-1. [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram) article on Wikipedia.
+- [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram) article on Wikipedia.
 
 ## References
 [^schmidt]: Schmidt, Mario. ["The Sankey diagram in energy and material flow management: Part I: History."](doi:10.1111/j.1530-9290.2008.00004.x.) *Journal of industrial ecology* 12.1 (2008): 82-94.

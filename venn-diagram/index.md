@@ -100,7 +100,7 @@ The Venn diagram appeared in 1880, created by John Venn. He did not call it "Ven
 
 
 ## Further reading
-1. [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram) article on Wikipedia.
+- [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram) article on Wikipedia.
 
 ## References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000, p. 961. Harris explains the differences between the quantitative and qualitative Venn diagrams.

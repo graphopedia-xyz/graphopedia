@@ -50,7 +50,7 @@ The stem-and-leaf plot was introduced by John Tukey with the intention of showin
 Stemplots are an alternative way of showing a frequency distribution table or a histogram. The distinguishing feature of a stem-and-leaf plot is that it shows the actual number values. 
 
 ## Further reading
-1. [Stem-and-leaf plot](https://en.wikipedia.org/wiki/Stem-and-leaf_display) article on Wikipedia.
+- [Stem-and-leaf plot](https://en.wikipedia.org/wiki/Stem-and-leaf_display) article on Wikipedia.
 
 ## References
 [^hilfiger]: Hilfiger, John Jay. [Graphing Data with R: An Introduction.](https://www.amazon.com/dp/1491922613/) O'Reilly Media, Inc., 2015,  pp. 81-81.

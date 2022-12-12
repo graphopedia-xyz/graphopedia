@@ -106,7 +106,7 @@ The general trade-offs among distribution-displaying charts are that the more in
 
 
 ## Further reading
-1. [Histogram](https://en.wikipedia.org/wiki/Histogram) article on Wikipedia.
+- [Histogram](https://en.wikipedia.org/wiki/Histogram) article on Wikipedia.
 
 ## References
 [^wilkinson]:  Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p.49.

@@ -60,7 +60,7 @@ Any network diagram can be represented as a matrix. The relative effectiveness o
 
 
 ## Further reading
-1. [Graph drawing](https://en.wikipedia.org/wiki/Graph_drawing) article on Wikipedia.
+- [Graph drawing](https://en.wikipedia.org/wiki/Graph_drawing) article on Wikipedia.
 
 ## References
 [^saket]: Node-link diagrams with nodes in groups were found more effective in Saket, Bahador, et al. ["Node, node-link, and node-link-group diagrams: An evaluation."](https://arxiv.org/pdf/1404.1911.pdf) *IEEE Transactions on Visualization and Computer Graphics* 20.12 (2014): 2231-2240.

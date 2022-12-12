@@ -55,7 +55,7 @@ In principle, any chart that shows a [distribution](/function/distribution) can 
 
 
 ## Further reading
-1. [Violin plot](https://en.wikipedia.org/wiki/Violin_plot) article on Wikipedia.
+- [Violin plot](https://en.wikipedia.org/wiki/Violin_plot) article on Wikipedia.
 
 ## References
 [^hintze]: Hintze, Jerry L., and Ray D. Nelson. ["Violin plots: a box plot-density trace synergism."](https://doi.org/10.1080/00031305.1998.10480559) *The American Statistician* 52.2 (1998): 181-184. [PDF](https://search.proquest.com/openview/dcd68eb137d2d6b08aa23f37e34e0b01/1)

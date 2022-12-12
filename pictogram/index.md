@@ -27,5 +27,5 @@ is an ideogram that conveys its meaning through its pictorial resemblance to a p
 <!--more-->
 
 ## Further reading
-1. [Pictogram](https://en.wikipedia.org/wiki/Pictogram) article on Wikipedia.
-1. [Ideogram](https://en.wikipedia.org/wiki/Ideogram) article on Wikipedia.
+- [Pictogram](https://en.wikipedia.org/wiki/Pictogram) article on Wikipedia.
+- [Ideogram](https://en.wikipedia.org/wiki/Ideogram) article on Wikipedia.

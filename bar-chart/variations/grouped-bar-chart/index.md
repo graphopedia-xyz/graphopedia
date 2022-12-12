@@ -20,4 +20,4 @@ shows two or more data series with their respective bars displayed side by side.
 <!--more-->
 
 ## Further reading
-1. [Grouped (clustered) and stacked](https://en.wikipedia.org/wiki/Bar_chart#Grouped_(clustered)_and_stacked) article on Wikipedia.
+- [Grouped (clustered) and stacked](https://en.wikipedia.org/wiki/Bar_chart#Grouped_(clustered)_and_stacked) article on Wikipedia.

@@ -66,7 +66,7 @@ Parallel coordinates plot was first used by American geographer Henry Gannetts i
 
 
 ## Further reading
-1. [Parallel coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates) article on Wikipedia.
+- [Parallel coordinates](https://en.wikipedia.org/wiki/Parallel_coordinates) article on Wikipedia.
 
 ## References
 [^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. pp.251-252.

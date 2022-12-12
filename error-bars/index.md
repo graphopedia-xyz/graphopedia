@@ -35,7 +35,7 @@ Error bars are commonly misinterpreted by readers and researchers [^belia] when 
 
 
 ## Further reading
-1. [Error bar](https://en.wikipedia.org/wiki/Error_bar) article on Wikipedia.
+- [Error bar](https://en.wikipedia.org/wiki/Error_bar) article on Wikipedia.
 
 ## References
 [^cumming]: Cumming, Geoff, Fiona Fidler, and David L. Vaux. ["Error bars in experimental biology."](https://dx.doi.org/10.1083%2Fjcb.200611141) The Journal of cell biology 177.1 (2007): 7-11.

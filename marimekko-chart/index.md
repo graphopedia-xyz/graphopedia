@@ -60,7 +60,7 @@ The area of a tile is known as the *bin size* which is a concept derived from hi
 
 
 ## Further reading
-1. [Mosaic plot](https://en.wikipedia.org/wiki/Mosaic_plot) article on Wikipedia.
+- [Mosaic plot](https://en.wikipedia.org/wiki/Mosaic_plot) article on Wikipedia.
 
 ## References
 [^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p. 342 [PDF](https://cds.cern.ch/record/1250322/files/9780387245447_TOC.pdf)

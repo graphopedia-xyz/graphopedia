@@ -74,7 +74,7 @@ The [first bubble chart](https://en.wikipedia.org/wiki/Pie_chart#/media/File:Pla
 
 
 ## Further reading
-1. [Bubble chart](https://en.wikipedia.org/wiki/Bubble_chart) article on Wikipedia.
+- [Bubble chart](https://en.wikipedia.org/wiki/Bubble_chart) article on Wikipedia.
 
 ## References
 [^cleveland]: Cleveland, William S., and Robert McGill. ["Graphical perception and graphical methods for analyzing scientific data."](http://snoid.sv.vt.edu/~npolys/projects/safas/1695272.pdf) *Science* 229.4716 (1985): 828-833. 

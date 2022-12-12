@@ -49,4 +49,4 @@ Exploded view are useful for showing inner parts of a system that would normally
 
 
 ## Further reading
-1. [Exploded-view drawing](https://en.wikipedia.org/wiki/Exploded-view_drawing) article on Wikipedia.
+- [Exploded-view drawing](https://en.wikipedia.org/wiki/Exploded-view_drawing) article on Wikipedia.

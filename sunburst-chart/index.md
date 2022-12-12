@@ -62,7 +62,7 @@ When compared to a treemap, a similar chart that uses rectangles sized proportio
 
 
 ## Further reading
-1. [Ring chart, sunburst chart, and multilevel pie chart](https://en.wikipedia.org/wiki/Pie_chart#Ring) section of *pie chart*   article on Wikipedia.
+- [Ring chart, sunburst chart, and multilevel pie chart](https://en.wikipedia.org/wiki/Pie_chart#Ring) section of *pie chart*   article on Wikipedia.
 
 ## References
 [^stasko]: *Information Interfaces: SunBurst.* by John Stasko. Retrieved May 10, 2019 from [https://www.cc.gatech.edu/gvu/ii/sunburst/](https://www.cc.gatech.edu/gvu/ii/sunburst/)

@@ -64,7 +64,7 @@ The first line chart appeared in 1786 in *The Commercial and Political Atlas* by
 
 
 ## Further reading
-1. [Line chart](https://en.wikipedia.org/wiki/Line_chart) article on Wikipedia.
+- [Line chart](https://en.wikipedia.org/wiki/Line_chart) article on Wikipedia.
 
 ## References
 [^huff]: Huff, Darrell. [*How to lie with statistics.*](https://archive.org/details/HowToLieWithStatistics) WW Norton & Company, 1993. pp.58-63.

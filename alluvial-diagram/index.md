@@ -87,7 +87,7 @@ Unlike [Sankey diagrams](/sankey-chart), alluvial diagrams can re-cluster the st
 
 
 ## Further reading
-1. [Alluvial diagram](https://en.wikipedia.org/wiki/Alluvial_diagram) article on Wikipedia.
+- [Alluvial diagram](https://en.wikipedia.org/wiki/Alluvial_diagram) article on Wikipedia.
 
 ## References
 [^borner]: Börner, Katy. [*Atlas of knowledge: Anyone can map.*](https://books.google.com/books?id=Fe-cBwAAQBAJ) MIT Press, 2015. p. 63.

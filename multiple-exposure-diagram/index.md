@@ -28,4 +28,4 @@ order: 650
 
 
 ## Further reading
-1. [Multiple exposure](https://en.wikipedia.org/wiki/Multiple_exposure) article on Wikipedia.
+- [Multiple exposure](https://en.wikipedia.org/wiki/Multiple_exposure) article on Wikipedia.

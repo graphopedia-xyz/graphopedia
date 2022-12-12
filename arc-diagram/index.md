@@ -95,7 +95,7 @@ In 1964, mathematician Thomas Saaty proposed the first version of the arc diagra
 
 
 ## Further reading
-1. [Arc diagram](https://en.wikipedia.org/wiki/Arc_diagram) article on Wikipedia.
+- [Arc diagram](https://en.wikipedia.org/wiki/Arc_diagram) article on Wikipedia.
 
 ## References
 [^wattenberg]: Wattenberg, Martin. ["Visual exploration of multivariate graphs."](http://hint.fm/papers/pivotgraph.pdf) *Proceedings of the SIGCHI conference on Human Factors in computing systems*. ACM, 2006.

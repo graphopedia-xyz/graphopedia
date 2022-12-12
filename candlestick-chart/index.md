@@ -50,7 +50,7 @@ Candlestick charts are used to discover patterns in the change of values. Such p
 
 
 ## Further reading
-1. [Candlestick chart](https://en.wikipedia.org/wiki/Candlestick_chart) article on Wikipedia.
+- [Candlestick chart](https://en.wikipedia.org/wiki/Candlestick_chart) article on Wikipedia.
 
 ## References
 [^morris]: Morris, Greg L. [*Candlestick Charting Explained: Timeless Techniques for Trading Stocks and Futures: Timeless Techniques for Trading stocks and Sutures.*](http://wordpress1.rm7mills.com/notasaham/wp-content/uploads/sites/3/2017/08/Candlestick-Charting-Explained-Gregory-Morris.pdf) McGraw Hill Professional, 2006. 

@@ -20,4 +20,4 @@ combines a standard line chart based on past data with a range of projections of
 <!--more-->
 
 ## Further reading
-1. [Fan chart (time series)](https://en.wikipedia.org/wiki/Fan_chart_(time_series)) article on Wikipedia.
+- [Fan chart (time series)](https://en.wikipedia.org/wiki/Fan_chart_(time_series)) article on Wikipedia.

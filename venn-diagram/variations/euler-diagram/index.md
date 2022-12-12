@@ -45,4 +45,4 @@ is a variation of venn diagram where...
 [//]: # ( Unlike the Venn diagram, Euler diagram only shows intersections that are not empty. )
 
 ## Further reading
-1. [Euler diagram](https://en.wikipedia.org/wiki/Euler_diagram) article on Wikipedia.
+- [Euler diagram](https://en.wikipedia.org/wiki/Euler_diagram) article on Wikipedia.
