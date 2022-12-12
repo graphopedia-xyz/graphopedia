@@ -61,11 +61,9 @@ When compared to a treemap, a similar chart that uses rectangles sized proportio
 
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Ring chart, sunburst chart, and multilevel pie chart](https://en.wikipedia.org/wiki/Pie_chart#Ring) section of *pie chart*   article on Wikipedia.
 
-### References
+## References
 [^stasko]: *Information Interfaces: SunBurst.* by John Stasko. Retrieved May 10, 2019 from [https://www.cc.gatech.edu/gvu/ii/sunburst/](https://www.cc.gatech.edu/gvu/ii/sunburst/)
 [^herbert]: Webbera, Richard, Ric D. Herbertb, and Wei Jiangbc. ["Space-filling techniques in visualizing output from computer based economic models."](https://www.academia.edu/25926410/Space-filling_Techniques_in_Visualizing_Output_from_Computer_Based_Economic_Models) *Computing in Economics and Finance.* Vol. 67. 2006.

@@ -54,10 +54,8 @@ Populations pyramids are a popular form of demographic visualization. Their appl
 For comparison of populations, it is possible to display population pyramids as [small multiples](/small-multiples).
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Population pyramid](https://en.wikipedia.org/wiki/Population_pyramid) article on Wikipedia.
 
-### References
+## References
 [^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. pp.340-341.

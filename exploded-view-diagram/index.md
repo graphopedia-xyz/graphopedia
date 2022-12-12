@@ -48,7 +48,5 @@ The component parts of an exploded view diagram are spatially separated or suspe
 Exploded view are useful for showing inner parts of a system that would normally be concealed. Exploded view diagrams are closely related to [cutaway drawings](/cutaway-drawing). Both techniques can coexist in a single visualization.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Exploded-view drawing](https://en.wikipedia.org/wiki/Exploded-view_drawing) article on Wikipedia.

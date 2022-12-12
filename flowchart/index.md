@@ -53,12 +53,10 @@ The flow in a flow chart is that of events, not of time. This allows for simulta
 Aside from programming, flowcharts have been shown to improve the comprehension of law [^marchese] and jury instructions[^semmler]. 
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Flowchart](https://en.wikipedia.org/wiki/Flowchart) article on Wikipedia.
 
-### References
+## References
 [^henderson]: Henderson, Harry. [*Encyclopedia of computer science and technology.*](https://www.e-reading.club/bookreader.php/135785/Henderson_-_Encyclopedia_of_Computer_Science_and_Technology.pdf) Infobase Publishing, 2009, p.200. This encyclopedia gives a definition of flowcharts in the context of computer programming.
 [^myler]: Myler, Harley R. [*Fundamentals of engineering programming with C and Fortran.*](https://books.google.com/books?id=IisfMsdBe2IC) Cambridge University Press, 1998. pp.32-34. See this book for a brief introduction to flowcharting symbols that have been adopted by The International Organization for Standardization (ISO).
 [^marchese]: Marchese, Francis T., and Ebad Banissi, eds. [*Knowledge visualization currents: From text to art to culture.*](https://books.google.com/books?id=bptfT1fVzRwC&pg=PA69) Springer Science & Business Media, 2012. p.69.

@@ -65,10 +65,8 @@ Common uses of the tree diagram include the organizational charts, or "org chart
 2. [*Sankey chart*](/sankey-chart) represents a change in flow, usually over time, as the width of a flowing line that is proportional to a quantity. Sankey diagrams emphasize the transfers in a system by splitting the flow line. They can also reflect a hierarchy with weighted connections.
 
 
-## Sources
-### Further reading
+## Further reading
 1. [Tree structure](https://en.wikipedia.org/wiki/Tree_structure) article on Wikipedia.
 
-### References
+## References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000, p.680-81. This reference gives a general definition of tree diagrams.
-

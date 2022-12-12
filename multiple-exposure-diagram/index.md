@@ -27,7 +27,5 @@ order: 650
 ---
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Multiple exposure](https://en.wikipedia.org/wiki/Multiple_exposure) article on Wikipedia.

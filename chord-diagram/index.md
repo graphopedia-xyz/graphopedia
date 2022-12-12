@@ -84,12 +84,10 @@ The chord diagram was first used by *The New York Times* in [this genome chart](
 3. [*Network diagram*](/network-diagram) displays connections between nodes of the same level in the hierarchy without showing the numeric values representing the strengths of the connections.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Chord_diagram](https://en.wikipedia.org/wiki/Chord_diagram_(information_visualization)) article on Wikipedia.
 
-### References
+## References
 [^holten]: Holten, Danny. ["Hierarchical edge bundles: Visualization of adjacency relations in hierarchical data."](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf) *IEEE Transactions on visualization and computer graphics* 12.5 (2006): 741-748.
 [^kirk]: Kirk, Andy. [*Data visualisation: a handbook for data driven design.*](https://books.google.com/books?id=ZrCJDAAAQBAJ) Sage, 2016. p. 189. 
 

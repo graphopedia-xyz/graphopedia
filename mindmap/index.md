@@ -77,12 +77,10 @@ Mind-mapping is as a learning technique with the potential to improve recall and
 3. [Word cloud](/word-cloud) representation of the frequency of words in a given text by using the size of the font.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Mind map](https://en.wikipedia.org/wiki/Mind_map) article on Wikipedia.
 
-### References
+## References
 [^plotnik]: Plotnick, Eric. [*Concept mapping: A graphical system for understanding the relationship between concepts.*](https://files.eric.ed.gov/fulltext/ED407938.pdf) Syracuse, NY: ERIC Clearinghouse on Information and Technology, 1997.
 
 [^cyclopedia]: Chambers, Ephraim. [*Cyclopædia: Or, an Universal Dictionary of Arts and Sciences*](http://digicoll.library.wisc.edu/cgi-bin/HistSciTech/HistSciTech-idx?type=turn&id=HistSciTech.Cyclopaedia01&entity=HistSciTech.Cyclopaedia01.p0168) Vol. 2. D. Midwinter, 1741.

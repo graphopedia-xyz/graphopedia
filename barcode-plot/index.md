@@ -53,5 +53,5 @@ Because of its compactness, the barcode plot is often used in [small multiples](
 
 Barcode plots are similar in function to [strip plot](/strip-plots) and are sometimes referred to by that name.
 
-## Sources
+## References
 [^hilfiger]: Hilfiger, John Jay. [Graphing Data with R: An Introduction.](https://www.amazon.com/dp/1491922613/) O'Reilly Media, Inc., 2015,  p.197.

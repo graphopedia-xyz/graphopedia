@@ -33,10 +33,6 @@ The advantage of hyperbolic tree interactive graphics is the possibility to disp
 The inspiration for the hyperbolic tree came from a woodcut print by Dutch graphic artist Maurits Cornelis Escher (1898-1972) known mathematically-inspired woodcuts. The woodcut is known as [Circle Limit IV](https://www.mcescher.com/gallery/recognition-success/circle-limit-iv/) created in 1960.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Hyperbolic tree](https://en.wikipedia.org/wiki/Hyperbolic_tree) article on Wikipedia.
-
-### References
-[A Focus+Context Technique Based on Hyperbolic Geometry for Visualizing Large Hierarchies](http://www.idav.ucdavis.edu/~asharf/shrek/Projects/HypBrowser/startree-chi95.pdf)
+2. [A Focus+Context Technique Based on Hyperbolic Geometry for Visualizing Large Hierarchies](http://www.idav.ucdavis.edu/~asharf/shrek/Projects/HypBrowser/startree-chi95.pdf).

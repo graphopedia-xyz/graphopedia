@@ -81,12 +81,10 @@ The scatter plot first appeared in the work of English statistician Francis Galt
 [//]: # (Todo: mention 1 dimensional and 3 dimensional scatter plot)
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot) article on Wikipedia.
 
-### References
+## References
 [^friendly]: Friendly, Michael, and Daniel Denis. ["The early origins and development of the scatterplot."](https://doi.org/10.1002/jhbs.20078) *Journal of the History of the Behavioral Sciences* 41.2 (2005): 103-130. [PDF](http://datavis.ca/papers/friendly-scat.pdf)
 [^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001.
 [^carr]: Carr, Daniel B., et al. ["Scatterplot matrix techniques for large N."](https://www.jstor.org/stable/2289444) *Journal of the American Statistical Association* 82.398 (1987): 424-436.

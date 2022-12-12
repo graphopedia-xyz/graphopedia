@@ -68,10 +68,8 @@ Tape diagrams typically appear in these two use cases:
 Tape diagrams are considered an effective way of teaching proportional thinking. [^cohen]
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Tape diagram](https://en.wikipedia.org/wiki/Tape_diagram) article on Wikipedia.
 
-### References
+## References
 [^cohen]: Cohen, Jessica S. ["Strip diagrams: illuminating proportions."](https://www.jstor.org/stable/10.5951/mathteacmiddscho.18.9.0536) *Mathematics Teaching in the Middle School* 18.9 (2013): 536-542.

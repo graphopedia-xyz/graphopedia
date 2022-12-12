@@ -20,5 +20,5 @@ is the combination of a heatmap and a [dendrogram](/dendrogram) showing one dend
 
 <!--more-->
 
-## Sources
+## References
 [^ncss]: [NCSS Statistical Sotfware](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Clustered_Heat_Maps-Double_Dendrograms.pdf) Chapter 450

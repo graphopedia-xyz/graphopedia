@@ -50,6 +50,6 @@ Jittering is only useful with sparse counts[^wilkinson]. For larger numbers of d
 6. [*Violin plot*](/violion-plot) is a combination of a box plot and a kernel density plot added on both sides
 
 
-## Sources
+## References
 [^cairo]: Cairo, Alberto. [*The truthful art: data, charts, and maps for communication.*](http://www.thefunctionalart.com/p/the-truthful-art-book.html) New Riders, 2016, pp. 153-154.
 [^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p. 175.

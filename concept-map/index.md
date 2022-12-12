@@ -55,12 +55,10 @@ Concept mapping as a learning technique can improve recall and critical-thinking
 The term "concept map" was coined in the 1970s by American educator Joseph D. Novak.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Concept map](https://en.wikipedia.org/wiki/Concept_map) article on Wikipedia.
 
-### References
+## References
 [^plotnik]: Plotnick, Eric. [*Concept mapping: A graphical system for understanding the relationship between concepts.*](https://files.eric.ed.gov/fulltext/ED407938.pdf) Syracuse, NY: ERIC Clearinghouse on Information and Technology, 1997.
 
 [^novak2]:  Novak, Joseph D., and Alberto J. Cañas. ["The theory underlying concept maps and how to construct and use them."](https://web.stanford.edu/dept/SUSE/projects/ireport/articles/concept_maps/The%20Theory%20Underlying%20Concept%20Maps.pdf)  (2008).

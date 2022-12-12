@@ -73,12 +73,10 @@ The [first bubble chart](https://en.wikipedia.org/wiki/Pie_chart#/media/File:Pla
 3. [*Proportional area chart*](/proportional-area-chart) a type of one-dimensional chart that uses area of a shape to visualize a single variable without the use of axes. With few data points, a bubble chart can potentially be represented as one or a series of proportional area charts.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Bubble chart](https://en.wikipedia.org/wiki/Bubble_chart) article on Wikipedia.
 
-### References
+## References
 [^cleveland]: Cleveland, William S., and Robert McGill. ["Graphical perception and graphical methods for analyzing scientific data."](http://snoid.sv.vt.edu/~npolys/projects/safas/1695272.pdf) *Science* 229.4716 (1985): 828-833. 
 [^koponen]: Koponen, Juuso, and Jonatan Hildén. [*Data visualization handbook.*](https://shop.aalto.fi/p/971-data-visualization-handbook/) Aalto korkeakoulusäätiö, 2019. p. 193
 [^magnuson]: Magnuson, Lauren, ed. [*Data visualization: a guide to visual storytelling for libraries.*](https://books.google.com/books?id=wxrMDAAAQBAJ) Rowman & Littlefield, 2016. 

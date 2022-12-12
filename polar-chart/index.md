@@ -73,11 +73,9 @@ The difficulty in interpreting this chart comes from the limits of human percept
 The polar area chart is not to be confused with a [radial bar chart](/bar-chart#radial-bar-chart). It also laid out radially, but it uses the bar length, not the area, to represent a value.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Polar area diagram](https://en.wikipedia.org/wiki/Pie_chart#Polar_area_diagram) article on Wikipedia.
 
-### References
+## References
 [^friendly]:Friendly, Michael. ["The golden age of statistical graphics."](https://www.jstor.org/stable/20697655) *Statistical Science* (2008): 502-535. [PDF](https://arxiv.org/pdf/0906.3979.pdf)
 [^fisher]: Fisher, Nicholas I. [*Statistical analysis of circular data.*](https://books.google.com/books?id=wGPj3EoFdJwC) cambridge university press, 1995. p.5.

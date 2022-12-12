@@ -73,13 +73,11 @@ quantity. Instead, they should be repeated in numbers reflecting the data, at th
 Research on memory and comprehension of pictographic charts shows that they can enhance the recall of data. [^haroz]
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [In mathematics](https://en.wikipedia.org/wiki/Pictogram#In_mathematics) section of *pictogram* article on Wikipedia.
 2. [Isotype (picture language)](https://en.wikipedia.org/wiki/Isotype_(picture_language)) article on Wikipedia.
 
-### References
+## References
 [^holmes]:  Holmes, Nigel. ["Pictograms: A view from the drawing board or, what I have learned from Otto Neurath and Gerd Arntz (and jazz)."](http://dx.doi.org/10.1075/idj.10.2.08hol) *Information design journal* 10.2 (2000): 133-143. [PDF](http://courses.washington.edu/art377/kcheng_2008/Pictograms_Nigel.pdf)
 [^neurath]: Neurath, Otto. "Pictorial statistics following the Vienna method." *ARTMargins* 6.1 (2017): 108-118. [PDF](https://www.mitpressjournals.org/doi/pdf/10.1162/ARTM_a_00169)
 [^nino]: Zambrano, Raul Niño, and Yuri Engelhardt. ["Diagrams for the masses: Raising public awareness–from Neurath to Gapminder and Google Earth."](https://doi.org/10.1007/978-3-540-87730-1_26) *International Conference on Theory and Application of Diagrams.* Springer, Berlin, Heidelberg, 2008.

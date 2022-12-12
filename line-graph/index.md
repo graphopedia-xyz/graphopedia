@@ -63,12 +63,10 @@ The first line chart appeared in 1786 in *The Commercial and Political Atlas* by
 3. [*Bar chart*](/bar-chart) shows values as the height of bars, with a bar per category.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Line chart](https://en.wikipedia.org/wiki/Line_chart) article on Wikipedia.
 
-### References
+## References
 [^huff]: Huff, Darrell. [*How to lie with statistics.*](https://archive.org/details/HowToLieWithStatistics) WW Norton & Company, 1993. pp.58-63.
 [^salkind]: Salkind, Neil J., and Bruce B. Frey. [*Statistics for people who (think they) hate statistics.*](https://books.google.com/books?id=kIVf6uD3m30C) Sage Publications, Incorporated, 2019. p. 106.
 [^friendly]: Friendly, M. & Denis, D. J. (2001). [Milestones in the history of thematic cartography, statistical graphics, and data visualization.](http://www.datavis.ca/milestones/) Web document, http://www.datavis.ca/milestones/. Accessed: September 9, 2019

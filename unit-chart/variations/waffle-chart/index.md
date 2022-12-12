@@ -20,7 +20,5 @@ uses shapes to represent whole numbers but unlike unit charts they show percenta
 
 <!--more-->
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Square chart / Waffle chart](https://en.wikipedia.org/wiki/Pie_chart#Square_chart_/_Waffle_chart) section of *pie chart* article on Wikipedia.

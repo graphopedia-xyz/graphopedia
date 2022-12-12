@@ -93,11 +93,9 @@ Sankey diagram flow lines branch out, but they do not re-cluster as they do in t
 3. *Grassmann diagram* is a special case of Sankey diagrams for visualizing energy transformations in thermodynamics.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram) article on Wikipedia.
 
-### References
+## References
 [^schmidt]: Schmidt, Mario. ["The Sankey diagram in energy and material flow management: Part I: History."](doi:10.1111/j.1530-9290.2008.00004.x.) *Journal of industrial ecology* 12.1 (2008): 82-94.
 [^soundararajan]: Soundararajan, Kamal, Hiang Kwee Ho, and Bin Su. ["Sankey diagram framework for energy and exergy flows."](https://doi.org/10.1016/j.apenergy.2014.08.070) *Applied energy* 136 (2014): 1035-1042.

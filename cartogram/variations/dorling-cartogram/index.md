@@ -22,7 +22,5 @@ The circles do not reflect the true locations of regions relative to each other.
 
 <!--more-->
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Diagrammatic (Dorling) cartograms](https://en.wikipedia.org/wiki/Cartogram#Diagrammatic_(Dorling)_cartograms) section of *Cartogram* article on Wikipedia.

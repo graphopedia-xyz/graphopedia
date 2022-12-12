@@ -39,9 +39,9 @@ Tables are one of the most versatile information design methods. They can often 
 
 ## Variations
 
-## Sources
-### Further reading
+
+## Further reading
 1. [Table_(information)](https://en.wikipedia.org/wiki/Table_(information)) article on Wikipedia.
 
-### References
+## References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p.852-853.

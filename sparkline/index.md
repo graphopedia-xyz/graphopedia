@@ -41,11 +41,9 @@ Most commonly, sparklines are line charts. However, the term "sparkline" can als
 Sparklines are common in visualizations of financial data. The use of sparklines has been proposed in medical reports to increase accuracy in medical diagnosis.[^radecki]
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Sparkline](https://en.wikipedia.org/wiki/Sparkline) article on Wikipedia.
 
-### References
+## References
 [^tufte]: Tufte, Edward R. [*Beautiful evidence.*](https://books.google.com/books/about/Beautiful_Evidence.html?id=v302PAAACAAJ) Vol. 1. Cheshire, CT: Graphics Press, 2006. p. 47.
 [^radecki]:  Radecki, Ryan P., and Mitchell A. Medow. "Cognitive debiasing through sparklines in clinical data displays." *AMIA Annu Symp Proc.* Vol. 11. 2007. [PDF](https://pdfs.semanticscholar.org/bb6a/af662ea8a9503f15eb01882002a4a637926c.pdf)

@@ -94,12 +94,10 @@ In 1964, mathematician Thomas Saaty proposed the first version of the arc diagra
 2. [*Network diagram*](/network-diagram) is functionally the same as an arc diagram, network diagrams use two-dimensional space, which makes them easier to read as long as they are uncluttered.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Arc diagram](https://en.wikipedia.org/wiki/Arc_diagram) article on Wikipedia.
 
-### References
+## References
 [^wattenberg]: Wattenberg, Martin. ["Visual exploration of multivariate graphs."](http://hint.fm/papers/pivotgraph.pdf) *Proceedings of the SIGCHI conference on Human Factors in computing systems*. ACM, 2006.
 [^nagel]: Nagel, Till, and Erik Duval. ["A visual survey of arc diagrams."](https://uclab.fh-potsdam.de/wp/wp-content/uploads/2013-a-visual-survey-of-arc-diagrams.pdf) *IEEE Visualization*. 2013.
 [^heer]: Heer, Jeffrey, Michael Bostock, and Vadim Ogievetsky. ["A tour through the visualization zoo."](https://queue.acm.org/detail.cfm?searchterm=Mind+Maps&id=1805128) *Commun. Acm 53.6* (2010): 59-67.

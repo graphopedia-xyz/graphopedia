@@ -69,6 +69,6 @@ Slopegraphs are suitable for use as [small multiples](/small-multiples), even wi
 Slopegraphs are also similar to [parallel coordinates plots](/parallel-coordinates) except that the vertical axes in parallel coordinates each represent a different type of variable, possibly with a different scale. The slopegraph vertical axes are always time or interval axes and with the same scale.
 
 
-## Sources
+## References
 [^tufte]: Tufte, Edward R. [*The visual display of quantitative information.*](https://www.edwardtufte.com/tufte/books_vdqi) Vol. 2. Cheshire, CT: Graphics press, 2001. p. 158-159.
 [^tufte2]: [Edward Tufte forum](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk). Retrieved May 24, 2019.

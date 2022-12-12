@@ -16,7 +16,5 @@ scales each region independently to an area that reflects a data point splitting
 
 <!--more-->
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Non-contiguous isomorphic cartograms](https://en.wikipedia.org/wiki/Cartogram#Non-contiguous_isomorphic_cartograms) section of *Cartogram* article on Wikipedia.

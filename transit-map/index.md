@@ -44,10 +44,8 @@ The equal spacing between the stations simplifies this map compared to tradition
 
 A transit map relies on the readers' familiarity with how transit maps work. Its success as an infographic depends on whether the intended audience is familiar with transit maps.
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Transit map](https://en.wikipedia.org/wiki/Transit_map) article on Wikipedia.
 
-### References
+## References
 [^guo]: Guo, Zhan. ["Mind the map! The impact of transit maps on path choice in public transit."](https://www.researchgate.net/publication/268003042_Mind_the_Map_The_Impact_of_Transit_Maps_on_Travel_Decisions_in_Public_Transit) *Transportation Research Part A: Policy and Practice* 45.7 (2011): 625-639. [PDF](https://www.researchgate.net/profile/Zhan_Guo/publication/268003042_Mind_the_Map_The_Impact_of_Transit_Maps_on_Travel_Decisions_in_Public_Transit/links/57f3b77a08ae886b897dc404/Mind-the-Map-The-Impact-of-Transit-Maps-on-Travel-Decisions-in-Public-Transit.pdf)

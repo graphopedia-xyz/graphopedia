@@ -59,10 +59,8 @@ Each segment of the funnel can represent a percentage of the top segment. The to
 
 Funnel diagrams usually have no axes. The area of each segment of the chart often does not represent the percentage, but only illustrates it metaphorically. Even if the area were equal to its corresponding percentage, it would be difficult for the human eye to interpret the difference in the area, [^mackinlay] especially considering the irregular shapes created by segmenting the triangle that represents the funnel.
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Funnel chart](https://en.wikipedia.org/wiki/Funnel_chart) article on Wikipedia.
 
-### References
+## References
 [^mackinlay]:  Mackinlay, Jock. ["Automating the design of graphical presentations of relational information."](https://research.tableau.com/sites/default/files/p110-mackinlay.pdf) *Acm Transactions On Graphics* (Tog) 5.2 (1986): 110-141. p.125.

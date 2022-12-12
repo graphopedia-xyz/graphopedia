@@ -105,12 +105,10 @@ The general trade-offs among distribution-displaying charts are that the more in
 6. *Barcode chart* shows a distribution using lines that represent individual points along a single axis. Bar code chart compares multiple distributions within compact space.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Histogram](https://en.wikipedia.org/wiki/Histogram) article on Wikipedia.
 
-### References
+## References
 [^wilkinson]:  Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p.49.
 [^tutorial]: To see how raw data is transformed into a histogram and how the bin size affects the shape of the histogram, see this [interactive visualization on how histograms work](http://tinlizzie.org/histograms)
 [^rufilanchas]: Rufilanchas, Daniel Riaño. "On the origin of Karl Pearson’s term “histogram”." *Estadística española* 59.192 (2017): 29-35.

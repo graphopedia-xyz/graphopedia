@@ -85,10 +85,8 @@ Similar to a [histogram](/histogram), a density plot is suitable for showing con
 3. [*Joy plot*](/joy-plot) also known as a *ridgeplot* is a series of partially overlapping density plots positioned on two value axes.
  
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Kernel density estimation](https://en.wikipedia.org/wiki/Kernel_density_estimation) article on Wikipedia.
 
-### References
+## References
 [^tukey]: Tukey, John Wilder [*Exploratory data analysis.*](http://theta.edu.pl/wp-content/uploads/2012/10/exploratorydataanalysis_tukey.pdf) Reading, PA: Addison-Wesley (1977).

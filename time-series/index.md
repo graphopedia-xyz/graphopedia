@@ -49,12 +49,10 @@ The most common use case of a time-series is displaying equally spaced data poin
 Time series variations involve positioning multiple time series in the same graph space. Another possibility is arranging separate time-series graphs in a grid or a row for comparison.[^javed]
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Time series](https://en.wikipedia.org/wiki/Time_series) article on Wikipedia.
 
-### References
+## References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000. p. 920.
 [^javed]: Javed, Waqas, Bryan McDonnel, and Niklas Elmqvist. ["Graphical perception of multiple time series."](https://doi.org/10.1109/TVCG.2010.162) *IEEE transactions on visualization and computer graphics* 16.6 (2010): 927-934. [PDF](https://engineering.purdue.edu/~elm/projects/multilinevis/multilinevis.pdf)
 

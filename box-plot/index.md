@@ -105,11 +105,9 @@ Charts that show distributions are all potential alternatives to a box plot. Wit
 4. [*Beeswarm Plot*](/scatter-plot/#beeswarm-plot) is a one-dimensional scatter plot with closely-packed points that do not overlap.
 
 
-## Sources
-
-### Further Reading
+## Further reading
 1. Potter, Kristin, et al. ["Methods for presenting statistical information: The box plot."]((http://www.sci.utah.edu/~kpotter/publications/potter-2006-MPSI.pdf)) Visualization of large and unstructured data sets 4 (2006): 97-106, p.100.
 2. [Box plot](https://en.wikipedia.org/wiki/Box_plot) article on Wikipedia.
 
-### References
+## References
 [^wickham]: Wickham, Hadley, and Lisa Stryjewski. ["40 years of boxplots."](http://vita.had.co.nz/papers/boxplots.pdf) *Am. Statistician* (2011). [PDF](http://vita.had.co.nz/papers/boxplots.pdf)

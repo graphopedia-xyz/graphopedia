@@ -24,5 +24,5 @@ is a timelines stylized as trees with branching limbs, rivers with tributaries, 
 
 <!--more-->
 
-## Sources
+## References
 [^grafton]: Rosenberg, Daniel, and Anthony Grafton. [*Cartographies of time: A history of the timeline.*](https://books.google.com/books?id=DqWqKVzipToC) Princeton Architectural Press, 2013. p. 272.

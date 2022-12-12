@@ -70,10 +70,8 @@ Ternary plots show the ratios in which three variables relate to each other by o
 Ternary diagrams are common in geosciences where they are used to visualize compositional data based on three or more components.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Ternary plot](https://en.wikipedia.org/wiki/Ternary_plot) article on Wikipedia.
 
-### References
+## References
 Hamilton, Nicholas E., and Michael Ferry. ["ggtern: Ternary diagrams using ggplot2."](https://www.researchgate.net/profile/Nicholas_Hamilton5/publication/329804192_ggtern_Ternary_Diagrams_Using_ggplot2/links/5c1e274292851c22a33e6d65/ggtern-Ternary-Diagrams-Using-ggplot2.pdf) *Journal of Statistical Software 87.1 (2018): 1-17*.

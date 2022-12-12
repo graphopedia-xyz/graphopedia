@@ -50,5 +50,5 @@ With circular shapes, the area, not the radius, is used.
 
 Pictographs and illustrations are not the best choices of shape for a proportional area chart since the areas of such complex shapes are not possible to compare effectively.
 
-## Sources
+## References
 [^harris]: Harris, Robert L. [*Information graphics: A comprehensive illustrated reference.*](https://books.google.com/books?id=LT1RXREvkGIC) Oxford University Press, 2000, p.680-81.

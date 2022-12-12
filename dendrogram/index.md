@@ -67,12 +67,10 @@ The ordering of nodes within a dendrogram is called *seriation*. Typically, node
 Dendrograms can have a horizontal or vertical orientation. The layout can be linear or circular.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Dendrogram](https://en.wikipedia.org/wiki/Dendrogram) article on Wikipedia.
 
-### References
+## References
 
 [^klemelä]: Klemelä, Jussi Sakari. [Smoothing of multivariate data: density estimation and visualization.](https://books.google.com/?id=FFb_yy3RkL0C&pg=PA199) Vol. 737. John Wiley & Sons, 2009.
 

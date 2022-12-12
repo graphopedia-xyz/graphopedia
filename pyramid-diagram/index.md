@@ -57,6 +57,6 @@ The [population pyramid](/population-pyramid) chart is a similarly named but an 
 
 1. [*Tornado chart*](/bar-chart#variations) is a type of bar chart that with bars sorted in ascending or descending order which creates the shape of a pyramid.
 
-## Sources
+## References
 [^solon]: Solon, Carol. ["The pyramid diagram: A college study skills tool."](https://www.jstor.org/stable/40017000) *Journal of Reading* 23.7 (1980): 594-597.
 

@@ -51,10 +51,8 @@ Other metaphor-based diagrams can be used to show relationships between categori
 2. [*Pyramid diagram*](/pyramid-diagram) starts at the bottom with the bottom segment representing 100% and the upper segments representing some percentage of the bottom.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Onion diagram](https://en.wikipedia.org/wiki/Onion_diagram) article on Wikipedia.
 
-### References
+## References
 [^hofstede]: Hofstede, Geert [*Culture and Organisations: Software of The Mind: Intercultural Cooperation and Its Importance for Survival.*](https://books.google.com/books?id=o4OqTgV3V00C&pg=PA8) McGraw-Hill (1997). p.8.

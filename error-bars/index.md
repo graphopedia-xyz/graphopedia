@@ -34,12 +34,10 @@ Charts with error bars provide information describing the data or information ab
 Error bars are commonly misinterpreted by readers and researchers [^belia] when reflecting the *confidence interval*. The confidence interval account for the fact that few studies measure an entire population but rather a small subset of it. If we measure something in a population of 100 people in order to make generalizations about that same quality in all people in the world, we would have to re-measure other random sets of 100 people multiple times.  The true mean all people in the world will still be unknowable, but if we do this 100 times and 95 times we come up with the same mean, we can say that we achieved 95 percent confidence interval around our mean for the 100 people we happened to test. This means that if we continued studying different random samples of 100 people, 95 percent of the time, the true mean for all people would fall within the confidence interval.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Error bar](https://en.wikipedia.org/wiki/Error_bar) article on Wikipedia.
 
-### References
+## References
 [^cumming]: Cumming, Geoff, Fiona Fidler, and David L. Vaux. ["Error bars in experimental biology."](https://dx.doi.org/10.1083%2Fjcb.200611141) The Journal of cell biology 177.1 (2007): 7-11.
 [^belia]: Belia, Sarah, et al. ["Researchers misunderstand confidence intervals and standard error bars."](https://doi.org/10.1037/1082-989X.10.4.389) Psychological methods 10.4 (2005): 389. [PDF](https://pdfs.semanticscholar.org/1102/df06d8372cdceaa98ad835c72efcf6748f36.pdf?_ga=2.165963518.1548441697.1595549721-2010748498.1595549721)
 

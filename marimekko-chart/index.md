@@ -59,12 +59,10 @@ The area of a tile is known as the *bin size* which is a concept derived from hi
 2. [*Proportional area chart*](/proportional-area-chart) uses proportionally sized shapes without the axes to represent one variable. A Marimekko chart can be redesigned as a series of proportional area charts when the data set is small.
 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Mosaic plot](https://en.wikipedia.org/wiki/Mosaic_plot) article on Wikipedia.
 
-### References
+## References
 [^wilkinson]: Wilkinson, Leland. [*The Grammar of Graphics.*]((https://books.google.com/books?hl=en&lr=&id=_kRX4LoFfGQC)) Springer Science & Business Media, 2005. p. 342 [PDF](https://cds.cern.ch/record/1250322/files/9780387245447_TOC.pdf)
 [^friendly]:  Friendly, Michael. ["Mosaic displays for multi-way contingency tables."](https://www.researchgate.net/publication/243765611_Mosaic_Displays_for_Multi-Way_Contingency_Tables) *Journal of the American Statistical Association* 89.425 (1994): 190-200, pp.190-200.
 [^hartigan]: Hartigan, John A., and Beat Kleiner. ["A mosaic of television ratings."](https://www.jstor.org/stable/2683556) *The American Statistician* 38.1 (1984): 32-35.

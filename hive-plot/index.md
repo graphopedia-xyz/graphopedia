@@ -41,5 +41,5 @@ Hive plots are useful for revealing patterns and clusters. They are less useful 
 
 The hive plot was first introduced in 2011 by bioinformatics data scientist Martin Krzywinski.
 
-## Sources
+## References
 [^krzywinski]: Krzywinski, Martin, et al. ["Hive plots—rational approach to visualizing networks."](https://academic.oup.com/bib/article/13/5/627/412507) *Briefings in bioinformatics* 13.5 (2011): 627-644.

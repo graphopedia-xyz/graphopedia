@@ -39,7 +39,5 @@ Tallies are often used in scoring for games and sports.
 2. [*Tape diagram*](/tape-diagram) represents relationships of quantities as corresponding numbers of repeating symbols.
 3. [*Pictogram chart*](/pictogram-chart) represents groups of quantities as repreating symbols, often semantically associated with the counted objects. 
 
-## Sources
-
-### Further reading
+## Further reading
 1. [Tally marks](https://en.wikipedia.org/wiki/Tally_marks) article on Wikipedia.

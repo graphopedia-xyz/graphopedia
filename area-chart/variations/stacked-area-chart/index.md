@@ -24,7 +24,6 @@ Stacked area chart shows multiple data curves and fills the area between them. T
 
 <!--more-->
 
-## Sources
-
+## References
 [^thud]: Thudt, Alice, et al. ["Assessing the Readability of Stacked Graphs."](https://dx.doi.org/10.20380/GI2016.21) 2016. [PDF](https://hal.inria.fr/hal-01587962/document)
 [^koponen]: Koponen, Juuso, and Jonatan Hildén. [*Data visualization handbook.*](https://shop.aalto.fi/p/971-data-visualization-handbook/) Aalto korkeakoulusäätiö, 2019 p. 210 

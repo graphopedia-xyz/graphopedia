@@ -25,5 +25,5 @@ The tree structure in information graphics is used as a metaphor to depict the h
 
 <!--more-->
 
-## Sources
+## References
 [^lima]: Lima, Manuel. [*The book of trees: Visualizing branches of knowledge.*] Princeton Architectural Press, 2014. This historical overview gives numerous examples of illustrated tree diagrams.
