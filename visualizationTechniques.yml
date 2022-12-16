@@ -4,48 +4,64 @@
 
 - name: picturing
   description: shows configuration and visual appearance of entities or scenes in the physical world (existing or imagined), using methods such as perspective projection.
+  type: arranging
 
 - name: mapping
   description: shows locations within the two-dimensional layout (typically horizontal) of physical configurations (existing or imagined), using methods such as cartographic projection.
+  type: arranging
 
 - name: positioning on a coordinate axis
   description: shows quantities or points in time by arrangement along an axis with a measurement scale.
+  type: arranging
 
 - name: proportional space-filling
   description: shows proportions of a total by sizing and arranging partitions (or repeating and arranging blocks) into a contiguous total surface area.
+  type: arranging
 
 - name: ordering
   description: shows order by arrangement into a sequential spatial order, or into spatially ordered levels of indenting.
+  type: arranging
 
 - name: grouping by position
   description: shows category membership by spatial proximity or alignment.
+  type: arranging
 
 - name: coupling by adjacency
   description: shows the presence of a given relationship between two entities by placing one visual component next to another visual component (from the same set1). In the case of a linear non-branching sequence of components, we speak of ordering rather than coupling by adjacency.
+  type: arranging
 
 - name: nesting
   description: shows the presence of a given hierarchical (or sequential) relationship between two entities by spatial containment of one visual component within another (from the same set1). Usually, nesting comes with grouping by boundary and it is the boundaries (around components) that are nested (creating levels of containment).
+  type: arranging
 
 - name: connecting
   description: shows the presence of a given relationship between two entities through the use of a configurator component that establishes a pathway between two visual components (from the same set1), e.g. two symbols connected with a line or arrow.
+  type: linking
 
 - name: grouping by boundary
   description: shows category membership (or the presence of a given relationship between two entities) by grouping visual components using a configurator component such as a demarcating line, enclosure or shared background.
+  type: linking
 
 - name: sizing
   description: shows quantities or order by varying the surface area of visual components.
+  type: varying
 
 - name: repeating
   description: shows quantities or order by the use of multiples of visual components.
+  type: varying
 
 - name: gradient coding
   description: shows order by the use of gradated differences in brightness or saturation, transparency, fuzziness, etc.
+  type: varying
 
 - name: colour coding
   description: shows category membership by the use of colour.
+  type: varying
 
 - name: shape coding
   description: shows category membership by the use of shape.
+  type: varying
 
 - name: positioning in an array of dimensions
   description: (in parallel coordinates and radar charts)
+  type: varying
