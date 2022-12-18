@@ -20,6 +20,9 @@ examples:
      note:   Comet chart representing flights data, where each comet represents one destination airport. The colour of the comet is encoded to show the change in the mean delay for each airport.
      link:   https://medium.com/de-dataverbinders/comet-charts-in-python-visualizing-statistical-mix-effects-and-simpsons-paradox-with-altair-6cd51fb58b7c
      image:  20000-flights-data-for-59-airports.png
+
+   - title:  example
+     image:  change-in-national-indebtedness-2000-14.png
    
 synonyms:
 
