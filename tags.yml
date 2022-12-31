@@ -1,0 +1,16 @@
+# Description of every tag category with optional link
+
+- name: function
+  description: Data visualization functions or what should be communicated to an audience.
+
+- name: information type
+  description: Types of information from VisDNA framework by Y. Engelhardt and C. Richards.
+  link: http://dx.doi.org/10.1007/978-3-030-54249-8_51
+
+- name: visualization technique
+  description: Visualization techniques from VisDNA framework by Y. Engelhardt and C. Richards.
+  link: http://dx.doi.org/10.1007/978-3-030-54249-8_51
+
+- name: axis direction
+  description: Axis direction from VisDNA framework by Y. Engelhardt and C. Richards.
+  link: http://dx.doi.org/10.1007/978-3-030-54249-8_51
