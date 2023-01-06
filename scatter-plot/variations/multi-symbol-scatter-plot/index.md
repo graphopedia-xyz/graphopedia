@@ -1,5 +1,5 @@
 ---
-title: multi symbol scatter plot
+title: multi-symbol scatter plot
 
 functions:
 - correlation
