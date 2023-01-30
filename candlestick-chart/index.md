@@ -23,7 +23,7 @@ examples:
   - title:  Zoomable Candlestick Chart
     link:   https://bl.ocks.org/tompiler/6045b80d2164077faaf96e0304531bba
 
-order: 240
+order: 1130
 
 ---
 

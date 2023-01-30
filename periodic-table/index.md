@@ -28,6 +28,8 @@ examples:
 
 synonyms: 
 
+order: 950
+
 ---
 is a tabular arrangement of elements ordered by one or more of their properties. The most well-known periodic table visualization is the periodic table of chemical elements ordered by their atomic number and electron configuration.
 

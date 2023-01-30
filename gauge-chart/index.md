@@ -34,6 +34,7 @@ examples:
     link:  http://jsfiddle.net/vizwiz/qna1us46/4/embedded/result/
     image:  what-characteristics-most-important-to-british-men-women.png
 
+order: 255
 
 ---
 Gauge charts use a semi-circle divided into sectors to represent ranges of a single variable. The needle points to the current value.

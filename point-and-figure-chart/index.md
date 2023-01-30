@@ -15,6 +15,8 @@ examples:
 synonyms:
   - P&F chart
 
+order: 1140
+
 ---
 
 is a type of chart used in technical analysis to track the price movements of a security or financial instrument. It is a graphical representation of price movements that is used to identify trends and patterns in the data.

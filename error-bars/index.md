@@ -24,6 +24,8 @@ examples:
 synonyms:
 - error-bar chart
 
+order: 1250
+
 ---
 show variability and uncertainty. In a chart, the error bars may represent the standard deviation (SD) of the data,
 the standard error of the mean (SE), a confidence interval, the data range, or percentiles.

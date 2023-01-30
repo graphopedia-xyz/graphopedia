@@ -15,6 +15,8 @@ examples:
 synonyms:
   - OHLC chart
 
+order: 1120
+
 ---
 
 is a type of financial chart that displays the prices of a security or asset over a specific time period

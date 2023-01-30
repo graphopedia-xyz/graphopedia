@@ -23,6 +23,8 @@ synonyms:
   - perspective map
   - bird’s-eye view map
 
+order: 435
+
 ---
 
 is a type of maps that depicts a given territory with a more artistic rather than technical style

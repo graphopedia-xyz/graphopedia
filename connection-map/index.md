@@ -20,6 +20,8 @@ examples:
 synonyms:
   - link map
 
+order: 425
+
 ---
 
 is a graphical representation of connections or relationships between different entities or elements on the map.

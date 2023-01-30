@@ -19,6 +19,8 @@ examples:
 synonyms:
   - blobbogram
 
+order: 1230
+
 ---
 
  is a graphical display of estimated results from a number of scientific studies addressing the same question, along with the overall results <!-- from Wikipedia -->

@@ -58,6 +58,8 @@ synonyms:
   - de Finetti diagram
   - Gibbs triangle
 
+order: 1200
+
 ---
 is a triangular diagram where every points is defined using three coordinates. Most ternary plots are drawn on equilateral triangles. 
 

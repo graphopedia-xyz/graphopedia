@@ -17,7 +17,7 @@ examples:
     link:   http://www.sssscomic.com/comic.php?page=196
     image:  world-languages-tree.jpg
 
-order: 2
+order: 3
 
 ---
 

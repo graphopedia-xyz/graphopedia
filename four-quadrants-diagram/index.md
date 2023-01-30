@@ -17,6 +17,8 @@ synonyms:
   - business matrix
   - quadrant analysis chart
 
+order: 605
+
 ---
 
 is a graphical representation that divides a two-dimensional space into four quadrants. Each quadrant represents a distinct category or group, and the data or elements being plotted are placed in the appropriate quadrant based on their characteristics or attributes.

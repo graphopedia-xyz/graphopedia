@@ -27,6 +27,8 @@ examples:
     link:  http://www.vizwiz.com/2016/03/makeover-monday-womens-rights-around.html
     image:  womens-right-around-the-world.png
 
+order: 455
+
 ---
 
 shows ratios that are represented as a group of separate graphic elements totaling one hundred percent with a sub-group distinguished with color or represented by another icon.

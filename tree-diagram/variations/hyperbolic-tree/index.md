@@ -22,6 +22,7 @@ examples:
     author: Valerio Pellegrini
     link:   https://www.behance.net/gallery/2984617/CHARLES-DICKENS-La-Lettura-10-Corriere-della-Sera
 
+order: 2
 ---
 
 is a method of visualizing a hierarchy as a tree positioned on a hyperbolic plane and mapping this plane onto a circular display region. The hyperbolic tree has its root initially in the center, but the display can be transformed to bring other nodes into focus. Hyperbolic trees are often used to display webinformation.

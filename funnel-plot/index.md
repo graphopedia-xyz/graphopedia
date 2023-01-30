@@ -14,6 +14,8 @@ examples:
 
 synonyms:
 
+order: 1210
+
 ---
 
 is a graphical tool used in statistical analysis to display the relationship between the precision of a study and its effect size. It is often used to assess the risk of bias in a meta-analysis, which is a statistical technique that combines the results of multiple studies on a particular topic.

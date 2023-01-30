@@ -21,7 +21,7 @@ examples:
   - title:  2-Hour Kagi Chart
     link:   https://www.flickr.com/photos/90790980@N02/10865647303/in/photolist-dRqmZN-hyahoB-9UXxeJ-fMUESf-Smfq2p-dS5PKT
 
-order: 230
+order: 1100
 
 ---
 
