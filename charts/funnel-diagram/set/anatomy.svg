@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1115" style="enable-background:new 0 0 1200 1115;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C9C9C9;}
+	.st1{fill:#EFEFEF;}
+	.st2{fill:#DDDDDD;}
+	.st3{fill:#EAEAEA;}
+	.st4{fill:#514361;}
+	.st5{font-family:'RobotoMono-Regular';}
+	.st6{font-size:39.7027px;}
+	.st7{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+	.st8{fill:#9B9B9B;}
+	.st9{font-family:'Roboto-Medium';}
+	.st10{font-size:65.1941px;}
+</style>
+<g>
+	<polygon class="st0" points="353.7,150.7 429.5,330 1119.8,330 1195.6,150.7 	"/>
+	<polygon class="st1" points="621.3,787.3 928,787.3 774.6,1015.5 	"/>
+	<polygon class="st2" points="542.1,584.1 1007.1,584.1 1102.3,362.9 447,362.9 	"/>
+	<polygon class="st3" points="616.1,754.4 933.1,754.4 992.2,617 556.4,617 	"/>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 26.4585 698.3668)" class="st4 st5 st6">Total=100%</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 11.5859 223.4392)"><tspan x="0" y="0" class="st4 st5 st6">100% of </tspan><tspan x="0" y="47.6" class="st4 st5 st6">the sample</tspan></text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 618.6348 70.2146)" class="st4 st5 st6">Initial Stage</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 631.6843 1100.0172)" class="st4 st5 st6">Ending Stage</text>
+		</g>
+	</g>
+	<polyline class="st7" points="354,127 354,96 1194,96 1194,127 	"/>
+	<polyline class="st7" points="896,1011 896,1040 651,1040 651,1011 	"/>
+	<polyline class="st7" points="403,330 321,330 321,151 342,151 	"/>
+	<polyline class="st7" points="632,991 390,991 390,362.9 411,362.9 	"/>
+	<line class="st7" x1="390" y1="685.7" x2="258" y2="685.7"/>
+	<line class="st7" x1="321" y1="240" x2="258" y2="240"/>
+	<g>
+		<text transform="matrix(1 0 0 1 752.9258 265.9316)" class="st8 st9 st10">a</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 752.9258 497.6035)" class="st8 st9 st10">b</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 752.9258 708.3203)" class="st8 st9 st10">c</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 752.9258 902.7383)" class="st8 st9 st10">d</text>
+	</g>
+</g>
+</svg>

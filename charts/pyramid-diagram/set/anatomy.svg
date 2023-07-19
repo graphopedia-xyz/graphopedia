@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1122" style="enable-background:new 0 0 1200 1122;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EBEBEB;}
+	.st1{fill:#E3E3E3;}
+	.st2{fill:#BABABA;}
+	.st3{fill:#D5D5D5;}
+	.st4{fill:#514361;}
+	.st5{font-family:'RobotoMono-Regular';}
+	.st6{font-size:50px;}
+	.st7{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+	.st8{enable-background:new    ;}
+	.st9{fill:#AFAFAF;}
+</style>
+<g>
+	<polygon class="st0" points="509.1,368.5 879.5,368.5 798.6,206.6 590,206.6 	"/>
+	<polygon class="st1" points="404.8,577 983.8,577 902.9,415.1 485.7,415.1 	"/>
+	<polygon class="st2" points="196.2,994.1 1192.4,994.1 1111.4,832.3 277.2,832.3 	"/>
+	<polygon class="st3" points="300.5,785.6 1088.1,785.6 1007.1,623.7 381.5,623.7 	"/>
+	<polygon class="st0" points="613.4,159.9 775.2,159.9 694.3,-2 	"/>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 516.4805 1105.1787)" class="st4 st5 st6">largest group</text>
+		</g>
+	</g>
+	<polyline class="st7" points="1192,1012 1192,1042 193,1042 193,1012 	"/>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 57.0057 125.8488)" class="st4 st5 st6">smallest group</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 30.0056 528.8488)" class="st8"><tspan x="0" y="0" class="st4 st5 st6">decreasing</tspan><tspan x="0" y="60" class="st4 st5 st6">pattern</tspan></text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 673.2891 125.8486)" class="st4 st5 st6">a</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 673.2891 312.7334)" class="st4 st5 st6">b</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 673.2891 519.3486)" class="st4 st5 st6">c</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 673.2891 729.4482)" class="st4 st5 st6">d</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 673.2891 934.9033)" class="st4 st5 st6">e</text>
+		</g>
+	</g>
+</g>
+<line class="st7" x1="652" y1="115.8" x2="502.5" y2="115.8"/>
+<g>
+	<g>
+		<line class="st7" x1="377.2" y1="474.4" x2="273.7" y2="670"/>
+		<g>
+			<polygon class="st9" points="358.8,477.4 374.9,478.8 385,491.2 388.3,453.3 			"/>
+		</g>
+	</g>
+</g>
+</svg>

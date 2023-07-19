@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EBEBEB;}
+	.st1{fill:#E3E3E3;}
+	.st2{fill:#D5D5D5;}
+	.st3{fill:#514361;}
+	.st4{font-family:'RobotoMono-Regular';}
+	.st5{font-size:37.9788px;}
+	.st6{enable-background:new    ;}
+	.st7{font-family:'Roboto-Italic';}
+	.st8{font-size:35.3026px;}
+	.st9{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,12.0297;}
+</style>
+<g>
+	<circle class="st0" cx="600" cy="600" r="454.2"/>
+	<circle class="st1" cx="600" cy="598.7" r="303.4"/>
+	<circle class="st2" cx="600" cy="598.7" r="150.8"/>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 487.0493 609.707)" class="st3 st4 st5">category A</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 487.0493 402.6863)" class="st3 st4 st5">category B</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 487.0493 234.6695)" class="st3 st4 st5">category C</text>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 930.5059 210.7778)" class="st6"><tspan x="0" y="0" class="st3 st7 st8">includes all other</tspan><tspan x="0" y="42.4" class="st3 st7 st8">categories</tspan></text>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st9" x1="912.2" y1="226.8" x2="912.2" y2="226.8"/>
+		<line class="st10" x1="900.2" y1="226.8" x2="761.8" y2="226.8"/>
+		<line class="st9" x1="755.8" y1="226.8" x2="755.8" y2="226.8"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 847" style="enable-background:new 0 0 800 847;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A5A5B9;}
+	.st1{font-family:'RobotoMono-Regular';}
+	.st2{font-size:18.7619px;}
+	.st3{fill:none;stroke:#A8A8A8;stroke-width:1.1052;stroke-miterlimit:10;}
+	.st4{fill:#E5E5E5;}
+	
+		.st5{opacity:0.8;fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3156;enable-background:new    ;}
+	.st6{fill:#514361;}
+	.st7{font-size:32.8333px;}
+	.st8{font-family:'Roboto-Italic';}
+	.st9{font-size:21.1071px;}
+	.st10{fill:none;}
+	.st11{opacity:0.8;enable-background:new    ;}
+	.st12{fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.1833;}
+	.st14{fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3355;}
+	.st15{fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3909;}
+	.st16{fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3933;}
+</style>
+<text transform="matrix(1 0 0 1 33.0229 745.5283)" class="st0 st1 st2">0</text>
+<text transform="matrix(1 0 0 1 162.6831 745.5283)" class="st0 st1 st2">A</text>
+<text transform="matrix(1 0 0 1 303.812 745.5283)" class="st0 st1 st2">B</text>
+<text transform="matrix(1 0 0 1 444.9424 745.5283)" class="st0 st1 st2">C</text>
+<text transform="matrix(1 0 0 1 586.0693 745.5283)" class="st0 st1 st2">D</text>
+<text transform="matrix(1 0 0 1 729.7139 745.5283)" class="st0 st1 st2">E</text>
+<path class="st3" d="M51.3,719.1H800"/>
+<rect x="117.2" y="441.2" class="st4" width="103.3" height="276.9"/>
+<rect x="258.2" y="295.4" class="st4" width="103.3" height="422.7"/>
+<rect x="400" y="566" class="st4" width="103.3" height="152.1"/>
+<rect x="541.2" y="528.4" class="st4" width="103.3" height="189.7"/>
+<rect x="682.3" y="481.2" class="st4" width="103.3" height="236.9"/>
+<path class="st3" d="M51.3,719.1v-17.6"/>
+<path class="st3" d="M169.5,719.1v-17.6"/>
+<path class="st3" d="M310.5,719.1v-17.6"/>
+<path class="st3" d="M451.7,719.1v-17.6"/>
+<path class="st3" d="M592.9,719.1v-17.6"/>
+<path class="st3" d="M734,719.1v-17.6"/>
+<text transform="matrix(1 0 0 1 18.1152 583.3154)" class="st0 st1 st2">20</text>
+<text transform="matrix(1 0 0 1 18.1152 442.1885)" class="st0 st1 st2">40</text>
+<text transform="matrix(1 0 0 1 18.1152 301.0596)" class="st0 st1 st2">60</text>
+<text transform="matrix(1 0 0 1 18.1152 159.9307)" class="st0 st1 st2">80</text>
+<text transform="matrix(1 0 0 1 4.665 18.8027)" class="st0 st1 st2">100</text>
+<path class="st3" d="M51.3,719.1V13.4"/>
+<path class="st3" d="M51.3,436.9v282.2H69"/>
+<path class="st3" d="M51.3,577.9H69"/>
+<path class="st3" d="M51.3,295.6H69"/>
+<path class="st3" d="M51.3,154.6H69"/>
+<path class="st3" d="M51.3,13.4H69"/>
+<path class="st5" d="M311,695.6v-399"/>
+<path class="st5" d="M451.7,538.6v-37.4"/>
+<path class="st5" d="M662.7,541.6v-83.7"/>
+<path class="st5" d="M311,295.4H63.2"/>
+<text transform="matrix(1 0 0 1 77.3384 27.2817)" class="st6 st1 st7">Y axis</text>
+<text transform="matrix(1 0 0 1 262.5422 241.9059)" class="st6 st1 st7">value</text>
+<text transform="matrix(1 0 0 1 9.5757 805.0002)" class="st6 st1 st7">baseline</text>
+<text transform="matrix(1 0 0 1 261.1135 270.6666)" class="st6 st8 st9"> bar height</text>
+<text transform="matrix(1 0 0 1 583.9103 415.7393)" class="st6 st1 st7">distance</text>
+<text transform="matrix(1 0 0 1 611.3456 444.5)" class="st6 st8 st9">equidistant</text>
+<text transform="matrix(1 0 0 1 422.8672 410.1002)" class="st6 st1 st7">bar</text>
+<text transform="matrix(1 0 0 1 401.464 449.5002)" class="st6 st1 st7">width</text>
+<text transform="matrix(1 0 0 1 373.8017 487.474)" class="st6 st8 st9">equal for all bars</text>
+<path class="st10" d="M54.3,345.6h175.9v64.5H54.3V345.6z"/>
+<text transform="matrix(1 0 0 1 71.999 55.2314)" class="st6 st8 st9"> number scale</text>
+<text transform="matrix(1 0 0 1 651.8995 801.9758)" class="st6 st1 st7">X axis</text>
+<text transform="matrix(1 0 0 1 651.8994 829.927)" class="st6 st8 st9">category scale</text>
+<text transform="matrix(1 0 0 1 9.5758 829.9263)" class="st6 st8 st9">starts with zero</text>
+<circle class="st6" cx="311.8" cy="297.3" r="6.4"/>
+<g class="st11">
+	<g>
+		<line class="st12" x1="400" y1="561.2" x2="400" y2="561.2"/>
+		<line class="st13" x1="400" y1="558" x2="400" y2="543.7"/>
+		<line class="st12" x1="400" y1="542.1" x2="400" y2="542.1"/>
+		<line class="st14" x1="403.3" y1="542.1" x2="501.7" y2="542.1"/>
+		<line class="st12" x1="503.4" y1="542.1" x2="503.4" y2="542.1"/>
+		<line class="st13" x1="503.4" y1="545.3" x2="503.4" y2="559.6"/>
+		<line class="st12" x1="503.4" y1="561.2" x2="503.4" y2="561.2"/>
+	</g>
+</g>
+<g class="st11">
+	<g>
+		<line class="st12" x1="50.3" y1="719.1" x2="50.3" y2="719.1"/>
+		<line class="st15" x1="46.9" y1="719.1" x2="14.7" y2="719.1"/>
+		<line class="st12" x1="13" y1="719.1" x2="13" y2="719.1"/>
+		<line class="st16" x1="13" y1="722.5" x2="13" y2="768.3"/>
+		<line class="st12" x1="13" y1="770" x2="13" y2="770"/>
+	</g>
+</g>
+</svg>

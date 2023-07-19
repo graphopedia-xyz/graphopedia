@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 826.6" style="enable-background:new 0 0 800 826.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A5A5B9;}
+	.st1{font-family:'RobotoMono-Regular';}
+	.st2{font-size:18.7619px;}
+	.st3{fill:none;stroke:#A8A8A8;stroke-width:1.1052;stroke-miterlimit:10;}
+	.st4{fill:#E5E5E5;}
+	
+		.st5{opacity:0.8;fill:none;stroke:#A8A8A8;stroke-width:1.6578;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,3.3156;enable-background:new    ;}
+	.st6{fill:#514361;}
+	.st7{font-size:32.8333px;}
+	.st8{fill:none;}
+	.st9{font-family:'Roboto-Italic';}
+	.st10{font-size:21.1071px;}
+</style>
+<text transform="matrix(1 0 0 1 33.0229 745.5283)" class="st0 st1 st2">0</text>
+<text transform="matrix(1 0 0 1 176.6831 745.5283)" class="st0 st1 st2">20</text>
+<text transform="matrix(1 0 0 1 317.812 745.5283)" class="st0 st1 st2">40</text>
+<text transform="matrix(1 0 0 1 458.9424 745.5283)" class="st0 st1 st2">60</text>
+<text transform="matrix(1 0 0 1 600.0693 745.5283)" class="st0 st1 st2">80</text>
+<text transform="matrix(1 0 0 1 732.7139 745.5283)" class="st0 st1 st2">100</text>
+<path class="st3" d="M51.3,719.1H757"/>
+<path class="st3" d="M51.3,719.1v-17.6"/>
+<path class="st3" d="M192.5,719.1v-17.6"/>
+<path class="st3" d="M333.5,719.1v-17.6"/>
+<path class="st3" d="M474.7,719.1v-17.6"/>
+<path class="st3" d="M615.9,719.1v-17.6"/>
+<text transform="matrix(1 0 0 1 18.1152 583.3154)" class="st0 st1 st2">20</text>
+<text transform="matrix(1 0 0 1 18.1152 442.1885)" class="st0 st1 st2">40</text>
+<text transform="matrix(1 0 0 1 18.1152 301.0596)" class="st0 st1 st2">60</text>
+<text transform="matrix(1 0 0 1 18.1152 159.9307)" class="st0 st1 st2">80</text>
+<text transform="matrix(1 0 0 1 4.665 18.8027)" class="st0 st1 st2">100</text>
+<path class="st3" d="M51.3,719.1V13.4"/>
+<path class="st3" d="M51.3,436.9v282.2H69"/>
+<path class="st3" d="M51.3,577.9H69"/>
+<path class="st4" d="M757,719.1V351l-141-92.3l-141.2,56.2l-141.5-17.7L192.5,430.6L51.3,501.3v217.8H757z"/>
+<path class="st3" d="M51.3,295.6H69"/>
+<path class="st3" d="M51.3,154.6H69"/>
+<path class="st3" d="M51.3,13.4H69"/>
+<path class="st5" d="M334,295.4v-44.7"/>
+<text transform="matrix(1 0 0 1 215.0051 233.0898)" class="st6 st1 st7">value marker</text>
+<text transform="matrix(1 0 0 1 77.3384 34.2817)" class="st6 st1 st7">Y axis</text>
+<path class="st8" d="M350.2,520.4h156.3v79.8H350.2V520.4z"/>
+<path class="st8" d="M77.3,345.6h175.9v64.5H77.3V345.6z"/>
+<text transform="matrix(1 0 0 1 77.3 62.2313)" class="st6 st9 st10">typically numeric</text>
+<text transform="matrix(1 0 0 1 654.6699 787.001)" class="st6 st1 st7">X axis</text>
+<text transform="matrix(1 0 0 1 547.1223 814.9512)" class="st6 st9 st10">(categorical or numeric) </text>
+<circle class="st6" cx="334" cy="296.6" r="6.4"/>
+<circle class="st6" cx="475.5" cy="314.3" r="6.4"/>
+<circle class="st6" cx="192.5" cy="430.5" r="6.4"/>
+<circle class="st6" cx="615.5" cy="259" r="6.4"/>
+<circle class="st6" cx="756.5" cy="351.3" r="6.4"/>
+</svg>

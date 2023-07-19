@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1118 1218" style="enable-background:new 0 0 1118 1218;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6D6D6D;}
+	.st1{font-family:'RobotoMono-Medium';}
+	.st2{font-size:21.4788px;}
+	.st3{fill:#EBEBEB;}
+	.st4{fill:#E3E3E3;}
+	.st5{fill:#D5D5D5;}
+	.st6{fill:#514361;}
+	.st7{font-family:'RobotoMono-Regular';}
+	.st8{font-size:46px;}
+	.st9{fill:#8E8E8E;}
+	.st10{fill:#898989;}
+	.st11{font-size:45.6815px;}
+	.st12{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.8985;}
+	.st14{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.8913;}
+	.st15{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.9323;}
+	.st16{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.0064;}
+	.st17{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+	.st18{fill:url(#SVGID_1_);}
+	.st19{fill:#F2F2F2;}
+	.st20{fill:#BABABA;}
+	.st21{fill:none;stroke:#909090;stroke-width:4;stroke-miterlimit:10;}
+	.st22{font-family:'Roboto-Italic';}
+	.st23{font-size:29px;}
+</style>
+<g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 272.014 1207.344)" class="st0 st1 st2">low</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 387.0863 1207.344)" class="st0 st1 st2">medium</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 539.3988 1207.344)" class="st0 st1 st2">high</text>
+		</g>
+	</g>
+	<rect x="267.3" y="1123" class="st3" width="44.5" height="44.5"/>
+	<rect x="403.3" y="1123" class="st4" width="44.5" height="44.5"/>
+	<rect x="539.2" y="1123" class="st5" width="44.5" height="44.5"/>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 5.7746 442.3174)" class="st6 st7 st8">rows</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 997.7745 613.8818)" class="st6 st7 st8">cell</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 504.2342 41.709)" class="st6 st7 st8">columns</text>
+		</g>
+	</g>
+	<rect x="252.5" y="165.9" class="st3" width="173.4" height="173.4"/>
+	<rect x="425.8" y="165.9" class="st5" width="173.4" height="173.4"/>
+	<rect x="599.2" y="165.9" class="st3" width="173.4" height="173.4"/>
+	<rect x="252.5" y="339.3" class="st5" width="173.4" height="173.4"/>
+	<rect x="425.8" y="339.3" class="st4" width="173.4" height="173.4"/>
+	<rect x="599.2" y="339.3" class="st9" width="173.4" height="173.4"/>
+	<rect x="252.5" y="512.6" class="st0" width="173.4" height="173.4"/>
+	<rect x="425.8" y="512.6" class="st3" width="173.4" height="173.4"/>
+	<rect x="599.2" y="512.6" class="st5" width="173.4" height="173.4"/>
+	<rect x="772.5" y="165.9" class="st9" width="173.4" height="173.4"/>
+	<rect x="772.5" y="339.3" class="st5" width="173.4" height="173.4"/>
+	<rect x="772.5" y="512.6" class="st4" width="173.4" height="173.4"/>
+	<g>
+		<text transform="matrix(1 0 0 1 208.4849 264.0586)" class="st10 st7 st11">1</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 208.4849 443.9004)" class="st10 st7 st11">2</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 208.4849 613.8818)" class="st10 st7 st11">3</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 321.335 146.2104)" class="st10 st7 st11">A</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 501.0918 146.2104)" class="st10 st7 st11">B</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 669.3691 146.2104)" class="st10 st7 st11">C</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 845.3691 146.2104)" class="st10 st7 st11">D</text>
+	</g>
+	<g>
+		<g>
+			<line class="st12" x1="335" y1="98.3" x2="335" y2="98.3"/>
+			<line class="st13" x1="335" y1="87.4" x2="335" y2="81.9"/>
+			<line class="st12" x1="335" y1="76.5" x2="335" y2="76.5"/>
+			<line class="st14" x1="344.9" y1="76.5" x2="854.3" y2="76.5"/>
+			<line class="st12" x1="859.2" y1="76.5" x2="859.2" y2="76.5"/>
+			<line class="st13" x1="859.2" y1="87.4" x2="859.2" y2="92.8"/>
+			<line class="st12" x1="859.2" y1="98.3" x2="859.2" y2="98.3"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st12" x1="181.8" y1="601.7" x2="181.8" y2="601.7"/>
+			<line class="st15" x1="170.9" y1="601.7" x2="154.5" y2="601.7"/>
+			<line class="st12" x1="149" y1="601.7" x2="149" y2="601.7"/>
+			<line class="st16" x1="149" y1="591.7" x2="149" y2="256.4"/>
+			<line class="st12" x1="149" y1="251.4" x2="149" y2="251.4"/>
+			<line class="st15" x1="159.9" y1="251.4" x2="176.3" y2="251.4"/>
+			<line class="st12" x1="181.8" y1="251.4" x2="181.8" y2="251.4"/>
+		</g>
+	</g>
+	<line class="st17" x1="149" y1="428.3" x2="124.5" y2="428.3"/>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 37.4202 800.8658)" class="st6 st7 st8">color value scales </text>
+		</g>
+	</g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="35.4332" y1="1762.4315" x2="813.8239" y2="1762.4315" gradientTransform="matrix(1 0 0 -1 0 2706)">
+		<stop  offset="0" style="stop-color:#EBEBEB"/>
+		<stop  offset="1" style="stop-color:#BABABA"/>
+	</linearGradient>
+	<rect x="35.4" y="919.3" class="st18" width="778.4" height="48.5"/>
+	<rect x="518.1" y="1047.5" class="st5" width="136.5" height="48.5"/>
+	<rect x="196.4" y="1047.5" class="st3" width="136.5" height="48.5"/>
+	<rect x="32.9" y="1047.5" class="st19" width="136.5" height="48.5"/>
+	<rect x="680.9" y="1047.5" class="st20" width="136.5" height="48.5"/>
+	<rect x="357.3" y="1047.5" class="st4" width="136.5" height="48.5"/>
+	<g>
+		<text transform="matrix(1 0 0 1 63.0878 1078.0891)" class="st0 st1 st2">0 - 20</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 27.9179 1018.4826)" class="st0 st1 st2">0</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 401.6351 1018.4826)" class="st0 st1 st2">50</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 784.7972 1018.4826)" class="st0 st1 st2">100</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 218.1869 1078.0891)" class="st0 st1 st2">21 - 40</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 377.7767 1078.0891)" class="st0 st1 st2">41 - 60</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 539.3988 1078.0891)" class="st0 st1 st2">61 - 80</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 695.7787 1078.0891)" class="st0 st1 st2">81 - 100</text>
+	</g>
+	<polyline class="st21" points="36.7,986.2 36.7,969.2 812.5,969.2 812.5,986.2 	"/>
+	<line class="st21" x1="418.1" y1="986.2" x2="418.1" y2="969.8"/>
+</g>
+<path class="st17" d="M600.9,77V53"/>
+<g>
+	<text transform="matrix(1 0 0 1 38.8074 850.5629)" class="st6 st22 st23">the scale can show colors as a gradient from lowest to highest values</text>
+	<text transform="matrix(1 0 0 1 38.8074 885.3629)" class="st6 st22 st23">or as ranges </text>
+</g>
+<line class="st17" x1="878" y1="601.7" x2="988" y2="601.7"/>
+</svg>

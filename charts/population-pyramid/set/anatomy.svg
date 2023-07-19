@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1154 1293" style="enable-background:new 0 0 1154 1293;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#514361;}
+	.st1{font-family:'RobotoMono-Regular';}
+	.st2{font-size:40px;}
+	.st3{font-family:'Roboto-Italic';}
+	.st4{font-size:25.0272px;}
+	.st5{fill:none;stroke:#C6C6C6;stroke-width:6;stroke-miterlimit:10;}
+	.st6{fill:#C6C6C6;}
+	.st7{fill:#ADADAD;}
+	.st8{font-size:30px;}
+	.st9{fill:none;stroke:#C6C6C6;stroke-width:4;stroke-miterlimit:10;}
+	.st10{fill:#B3B1BA;}
+	.st11{fill:#C9C9C9;}
+</style>
+<text transform="matrix(1 0 0 1 179.0568 201.5894)" class="st0 st1 st2">category A</text>
+<text transform="matrix(1 0 0 1 128.0001 53.5894)" class="st0 st1 st2">numeric axis</text>
+<text transform="matrix(1 0 0 1 128 89.9951)" class="st0 st3 st4">showing age</text>
+<text transform="matrix(1 0 0 1 714.9149 1263.9955)" class="st0 st3 st4">showing quantities or percentages</text>
+<text transform="matrix(1 0 0 1 744.5454 201.5896)" class="st0 st1 st2">category B</text>
+<text transform="matrix(1 0 0 1 797.9232 1227.3003)" class="st0 st1 st2">numeric axis</text>
+<path class="st5" d="M104,110.4v990.2h1004.3"/>
+<path class="st6" d="M89,114.7l15-25.9l14.9,25.9H89z"/>
+<path class="st6" d="M1103.9,1115.5l25.9-14.9l-25.9-15V1115.5z"/>
+<text transform="matrix(1 0 0 1 1.256 173.1826)" class="st7 st1 st8">100</text>
+<text transform="matrix(1 0 0 1 19.259 362.4111)" class="st7 st1 st8">80</text>
+<text transform="matrix(1 0 0 1 19.259 545.8174)" class="st7 st1 st8">60</text>
+<text transform="matrix(1 0 0 1 19.259 732.7178)" class="st7 st1 st8">40</text>
+<text transform="matrix(1 0 0 1 19.259 917.8701)" class="st7 st1 st8">20</text>
+<text transform="matrix(1 0 0 1 474.6506 1164.6396)" class="st7 st1 st8">2</text>
+<text transform="matrix(1 0 0 1 382 1164.6396)" class="st7 st1 st8">4</text>
+<text transform="matrix(1 0 0 1 289 1164.6396)" class="st7 st1 st8">6</text>
+<text transform="matrix(1 0 0 1 196 1164.6396)" class="st7 st1 st8">8</text>
+<text transform="matrix(1 0 0 1 83 1164.6396)" class="st7 st1 st8">10</text>
+<text transform="matrix(1 0 0 1 661.545 1164.6396)" class="st7 st1 st8">2</text>
+<text transform="matrix(1 0 0 1 755.545 1164.6396)" class="st7 st1 st8">4</text>
+<text transform="matrix(1 0 0 1 849 1164.6396)" class="st7 st1 st8">6</text>
+<text transform="matrix(1 0 0 1 943 1164.6396)" class="st7 st1 st8">8</text>
+<text transform="matrix(1 0 0 1 570.545 1164.6396)" class="st7 st1 st8">0</text>
+<text transform="matrix(1 0 0 1 1028.3699 1164.6396)" class="st7 st1 st8">10</text>
+<text transform="matrix(1 0 0 1 1092.8107 1163.6396)" class="st7 st1 st8">mil</text>
+<g>
+	<path class="st9" d="M83,998h21"/>
+	<path class="st9" d="M83,905h21"/>
+	<path class="st9" d="M83,812h21"/>
+	<path class="st9" d="M83,719h21"/>
+	<path class="st9" d="M83,625h21"/>
+	<path class="st9" d="M83,532h21"/>
+	<path class="st9" d="M83,439h21"/>
+	<path class="st9" d="M83,346h21"/>
+	<path class="st9" d="M83,253h21"/>
+	<path class="st9" d="M83,160h21"/>
+	<path class="st9" d="M207,1114v-15"/>
+	<path class="st9" d="M300,1116v-15"/>
+	<path class="st9" d="M393,1116v-15"/>
+	<path class="st9" d="M486,1114v-15"/>
+	<path class="st9" d="M580,1114v-15"/>
+	<path class="st9" d="M673,1114v-15"/>
+	<path class="st9" d="M766,1114v-15"/>
+	<path class="st9" d="M859,1114v-15"/>
+	<path class="st9" d="M952,1114v-15"/>
+	<path class="st9" d="M1046,1114v-15"/>
+</g>
+<g>
+	<rect x="286.3" y="1052.6" class="st10" width="294.7" height="46.4"/>
+	<rect x="264.6" y="1006.2" class="st10" width="316.4" height="46.4"/>
+	<rect x="245.6" y="959.7" class="st10" width="335.3" height="46.4"/>
+	<rect x="215.4" y="913.3" class="st10" width="365.6" height="46.4"/>
+	<rect x="198.9" y="866.9" class="st10" width="382.1" height="46.4"/>
+	<rect x="190.1" y="820.5" class="st10" width="390.9" height="46.4"/>
+	<rect x="207.2" y="774" class="st10" width="373.8" height="46.4"/>
+	<rect x="295.4" y="727.6" class="st10" width="285.6" height="46.4"/>
+	<rect x="340" y="681.2" class="st10" width="241" height="46.4"/>
+	<rect x="358.6" y="634.8" class="st10" width="222.3" height="46.4"/>
+	<rect x="374.8" y="588.3" class="st10" width="206.2" height="46.4"/>
+	<rect x="406" y="541.9" class="st10" width="175" height="46.4"/>
+	<rect x="436.5" y="495.5" class="st10" width="144.5" height="46.4"/>
+	<rect x="448.1" y="449.1" class="st10" width="132.9" height="46.4"/>
+	<rect x="474.4" y="402.6" class="st10" width="106.6" height="46.4"/>
+	<rect x="486.6" y="356.2" class="st10" width="94.4" height="46.4"/>
+	<rect x="498.5" y="309.8" class="st10" width="82.5" height="46.4"/>
+	<rect x="523.6" y="263.4" class="st10" width="57.4" height="46.4"/>
+	<rect x="548" y="217" class="st10" width="33" height="46.4"/>
+	<rect x="557.8" y="170.5" class="st10" width="23.2" height="46.4"/>
+	<rect x="580.9" y="1052.6" class="st11" width="294.7" height="46.4"/>
+	<rect x="580.9" y="1006.2" class="st11" width="316.4" height="46.4"/>
+	<rect x="580.8" y="959.7" class="st11" width="335.3" height="46.4"/>
+	<rect x="580.9" y="913.3" class="st11" width="365.6" height="46.4"/>
+	<rect x="581" y="866.9" class="st11" width="382.1" height="46.4"/>
+	<rect x="580.9" y="820.5" class="st11" width="390.9" height="46.4"/>
+	<rect x="581" y="774" class="st11" width="373.8" height="46.4"/>
+	<rect x="580.8" y="727.6" class="st11" width="285.6" height="46.4"/>
+	<rect x="580.9" y="681.2" class="st11" width="241" height="46.4"/>
+	<rect x="581" y="634.8" class="st11" width="222.3" height="46.4"/>
+	<rect x="580.9" y="588.3" class="st11" width="206.2" height="46.4"/>
+	<rect x="581" y="541.9" class="st11" width="175" height="46.4"/>
+	<rect x="581" y="495.5" class="st11" width="144.5" height="46.4"/>
+	<rect x="580.8" y="449.1" class="st11" width="132.9" height="46.4"/>
+	<rect x="581" y="402.6" class="st11" width="106.6" height="46.4"/>
+	<rect x="581" y="356.2" class="st11" width="94.4" height="46.4"/>
+	<rect x="580.9" y="309.8" class="st11" width="82.5" height="46.4"/>
+	<rect x="580.8" y="263.4" class="st11" width="57.4" height="46.4"/>
+	<rect x="580.8" y="217" class="st11" width="33" height="46.4"/>
+	<rect x="580.9" y="170.5" class="st11" width="23.2" height="46.4"/>
+</g>
+</svg>

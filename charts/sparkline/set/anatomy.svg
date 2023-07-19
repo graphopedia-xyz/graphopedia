@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1176 902" style="enable-background:new 0 0 1176 902;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F0F0F0;}
+	.st1{fill:#848484;}
+	.st2{opacity:0.4;}
+	.st3{fill:#919191;}
+	.st4{fill:#514361;}
+	.st5{font-family:'RobotoMono-Regular';}
+	.st6{font-size:35px;}
+	.st7{enable-background:new    ;}
+	.st8{font-size:40px;}
+	.st9{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+</style>
+<polyline class="st0" points="22.4,397.6 356.3,397.6 356.3,467.1 22.4,467.1 "/>
+<g>
+	<rect x="982.4" y="397.6" class="st0" width="83.9" height="69.5"/>
+</g>
+<polyline class="st0" points="787.7,269.5 1066.2,269.5 1066.2,339 787.7,339 "/>
+<polyline class="st0" points="314.7,269.5 728.2,269.5 728.2,339 314.7,339 "/>
+<polyline class="st0" points="26.9,269.5 270.3,269.5 270.3,339 26.9,339 "/>
+<polyline class="st0" points="22.4,524.9 203.3,524.9 203.3,594.4 22.4,594.4 "/>
+<g>
+	<rect x="247" y="524.9" class="st0" width="218.7" height="69.5"/>
+</g>
+<g>
+	<rect x="516.7" y="524.9" class="st0" width="549.5" height="69.5"/>
+</g>
+<polyline class="st0" points="22.4,656.3 556.4,656.3 556.4,725.8 22.4,725.8 "/>
+<g>
+	<rect x="606.4" y="656.3" class="st0" width="459.9" height="69.5"/>
+</g>
+<g>
+	<circle class="st1" cx="758.7" cy="407" r="10"/>
+</g>
+<g class="st2">
+	<polygon class="st3" points="758.7,467.1 400.2,467.1 400.2,416.5 437.8,422.7 471.3,443.8 506.6,419.7 540.2,434.4 588.2,407 
+		619.5,428.5 638,417.1 667.7,443.8 713.5,407 736,427.1 758.7,407 	"/>
+</g>
+<g>
+	<polygon class="st1" points="756.7,404.8 736,423.1 713.5,403 667.9,439.8 638.4,413.5 619.5,425.1 588.4,403.4 540,430.9 
+		506.2,416.1 471.3,440.2 438.6,419.1 400.2,413.1 400.2,419.1 436.3,424.9 471.5,447.2 506.8,423.1 540.4,437.8 588,410.5 
+		619.5,432.2 637.8,420.9 667.5,447.6 713.3,410.9 736,431.1 760.7,409.3 	"/>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 490.3931 855.9049)" class="st4 st5 st6">text</text>
+	</g>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 686.3929 152.8149)" class="st4 st5 st6">direction</text>
+	</g>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 978.3671 152.8147)" class="st7"><tspan x="0" y="0" class="st4 st5 st6">last </tspan><tspan x="0" y="42" class="st4 st5 st6">datapoint</tspan></text>
+	</g>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 791.3168 447.6163)" class="st1 st5 st8">fat 1.7</text>
+	</g>
+</g>
+<line class="st9" x1="758.8" y1="380" x2="758.8" y2="218"/>
+<polyline class="st9" points="1076.2,735 1076.2,794 14.4,794 14.4,735 "/>
+<line class="st9" x1="927" y1="407" x2="1066.2" y2="218"/>
+</svg>

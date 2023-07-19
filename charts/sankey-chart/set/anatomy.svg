@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1356 1028" style="enable-background:new 0 0 1356 1028;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D5D5D5;}
+	.st1{fill:#514361;}
+	.st2{font-family:'RobotoMono-Bold';}
+	.st3{font-size:35px;}
+	.st4{font-family:'RobotoMono-Regular';}
+	.st5{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+	.st6{font-family:'Roboto-Italic';}
+	.st7{font-size:29px;}
+	.st8{fill:url(#SVGID_1_);}
+	.st9{fill:url(#SVGID_2_);}
+</style>
+<g>
+	<path class="st0" d="M1099.9,622l98.1-112.1l-98.1-112.1H618.7c72.1,0,130.8-58.7,130.8-130.8v-74.8H637.4V267
+		c0,10.3-8.4,18.7-18.7,18.7H451h-89.3H2v485.9h373.8h74.8v112.1h149.5V771.5c0-82.3-66.8-149.2-149-149.5l0,0H1099.9z"/>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 147.6682 147.026)" class="st1 st2 st3">direction of flow</text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 722.4301 840.1271)" class="st1 st4 st3">flow line</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 1225.0002 478.2747)" class="st1 st2 st3">sum of</text>
+			<text transform="matrix(1 0 0 1 1225.0002 520.2747)" class="st1 st2 st3">flows</text>
+			<text transform="matrix(1 0 0 1 1225.0002 562.2747)" class="st1 st4 st3">=100%</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 264.209 720.2148)" class="st1 st4 st3">flow C = 35%</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 806.1465 528.668)" class="st1 st4 st3">flow B = 40%</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 399.6934 351.1367)" class="st1 st4 st3">flow A = 25%</text>
+		</g>
+	</g>
+	<line class="st5" x1="757.6" y1="798.1" x2="757.6" y2="522.1"/>
+</g>
+<polyline class="st5" points="1175.6,1002 1215,1002 1214,94.1 1156,94.1 "/>
+<text transform="matrix(1 0 0 1 722.4302 888.0843)" class="st1 st6 st7">the weight of the line</text>
+<text transform="matrix(1 0 0 1 722.4302 922.8843)" class="st1 st6 st7">represents the amount of flow</text>
+<text transform="matrix(1 0 0 1 147.6677 186.0843)" class="st1 st6 st7">shown with arrow or gradient</text>
+<line class="st5" x1="610" y1="131.8" x2="516.5" y2="131.8"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="693.65" y1="966" x2="693.65" y2="1126" gradientTransform="matrix(1 0 0 -1 0 1168)">
+	<stop  offset="0" style="stop-color:#D5D5D5"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<rect x="637.8" y="42" class="st8" width="111.7" height="160"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1722.0684" y1="349.3" x2="1722.0684" y2="450.2" gradientTransform="matrix(-1 0 0 1 2247.3184 534)">
+	<stop  offset="0" style="stop-color:#D5D5D5"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st9" points="450.5,883.3 600,883.3 600,984.2 450.5,984.2 "/>
+</svg>

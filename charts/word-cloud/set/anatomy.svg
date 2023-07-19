@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 746.1 453" style="enable-background:new 0 0 746.1 453;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BABABA;}
+	.st1{font-family:'Montserrat-Bold';}
+	.st2{font-size:196.3403px;}
+	.st3{fill:#514361;}
+	.st4{font-family:'RobotoMono-Regular';}
+	.st5{font-size:40px;}
+	.st6{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,10.6135;}
+	.st8{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9971;}
+	.st9{font-size:53.1267px;}
+	.st10{font-size:63.5236px;}
+	.st11{font-size:34.7465px;}
+	.st12{font-size:23.4998px;}
+	.st13{font-size:48.4874px;}
+	.st14{font-size:80.9658px;}
+	.st15{font-size:32.5543px;}
+	.st16{font-size:18.913px;}
+	.st17{fill:none;stroke:#AFAFAF;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,9.9536;}
+</style>
+<text transform="matrix(1 0 0 1 161.8101 281.6126)" class="st0 st1 st2">Sun</text>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 37.9295 414.3115)" class="st3 st4 st5">font size = word frequency</text>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st6" x1="177.2" y1="303.8" x2="177.2" y2="303.8"/>
+		<line class="st7" x1="177.2" y1="314.4" x2="177.2" y2="319.7"/>
+		<line class="st6" x1="177.2" y1="325" x2="177.2" y2="325"/>
+		<line class="st8" x1="187.2" y1="325" x2="522.1" y2="325"/>
+		<line class="st6" x1="527.1" y1="325" x2="527.1" y2="325"/>
+		<line class="st7" x1="527.1" y1="314.4" x2="527.1" y2="309.1"/>
+		<line class="st6" x1="527.1" y1="303.8" x2="527.1" y2="303.8"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 420.3268 105.5723)" class="st0 st1 st9">Jupiter</text>
+<text transform="matrix(1 0 0 1 516.2108 182.8967)" class="st0 st1 st10">Saturn</text>
+<text transform="matrix(1 0 0 1 531.1528 271.0879)" class="st0 st1 st11">Uranus</text>
+<text transform="matrix(1 0 0 1 543.8319 303.773)" class="st0 st1 st12">Pluto</text>
+<text transform="matrix(1 0 0 1 287.3447 146.7617)" class="st0 st1 st13">Mars</text>
+<text transform="matrix(1 0 0 1 37.9316 118.854)" class="st0 st1 st14">Earth</text>
+<text transform="matrix(1 0 0 1 74.5723 225.4517)" class="st0 st1 st15">Venus</text>
+<text transform="matrix(1 0 0 1 84.0435 250.5469)" class="st0 st1 st16">Mercury</text>
+<line class="st17" x1="350" y1="331" x2="350" y2="366.1"/>
+</svg>
