@@ -5,6 +5,14 @@ functions:
     - comparison
     - change over time
 
+visualizationTechniques:
+  - sizing
+  - positioning along a coordinate axis
+
+informationTypes:
+  - time
+  - quantity
+
 tools:
     - name:   Charticulator (generator for spiral bar chart)
       link:   https://charticulator.com/gallery/fitbit_spiral.html

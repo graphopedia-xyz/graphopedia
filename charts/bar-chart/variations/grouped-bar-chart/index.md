@@ -5,6 +5,15 @@ functions:
 - comparison
 - change over time
 
+visualizationTechniques:
+  - sizing
+  - positioning along a coordinate axis
+  - grouping by position
+
+informationTypes:
+  - quantity
+  - category
+
 examples:
 
 synonyms:

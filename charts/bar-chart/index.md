@@ -7,6 +7,10 @@ functions:
 
 visualizationTechniques:
   - sizing
+  - positioning along a coordinate axis
+
+informationTypes:
+  - quantity
 
 related:
   - histogram
