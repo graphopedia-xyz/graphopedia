@@ -10,7 +10,7 @@
   description: shows locations within the two-dimensional layout (typically horizontal) of physical configurations (existing or imagined), using methods such as cartographic projection.
   type: arranging
 
-- name: positioning on a coordinate axis
+- name: positioning along a coordinate axis
   description: shows quantities or points in time by arrangement along an axis with a measurement scale.
   type: arranging
 
