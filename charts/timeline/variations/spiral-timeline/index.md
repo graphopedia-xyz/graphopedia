@@ -5,7 +5,7 @@ functions:
   - change over time
 
 visualizationTechniques:
-  - positioning on a coordinate axis
+  - positioning along a coordinate axis
 
 axisDirections:
   - spiral

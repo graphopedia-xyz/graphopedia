@@ -5,7 +5,7 @@ functions:
 - correlation
 
 visualizationTechniques:
-  - positioning on a coordinate axis
+  - positioning along a coordinate axis
 
 axisDirections:
   - radial
