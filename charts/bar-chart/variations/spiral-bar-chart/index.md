@@ -10,7 +10,7 @@ visualizationTechniques:
   - positioning along a coordinate axis
 
 informationTypes:
-  - time
+  - point in time
   - quantity
 
 tools:

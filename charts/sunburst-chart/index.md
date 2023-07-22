@@ -9,7 +9,7 @@ visualizationTechniques:
   - coupling by adjacency
 
 informationTypes:
-  - relationship
+  - relationships between entities
 
 related:
   - tree-diagram
