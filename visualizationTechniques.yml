@@ -5,63 +5,133 @@
 - name: picturing
   description: shows configuration and visual appearance of entities or scenes in the physical world (existing or imagined), using methods such as perspective projection.
   type: arranging
+  id: PIC
 
 - name: mapping
   description: shows locations within the two-dimensional layout (typically horizontal) of physical configurations (existing or imagined), using methods such as cartographic projection.
   type: arranging
+  id: MAP
 
 - name: positioning along a coordinate axis
   description: shows quantities or points in time by arrangement along an axis with a measurement scale.
   type: arranging
+  hasDirection: true
+  id: AXI
+
+- name: extending along a coordinate axis
+  description: (showing ranges)
+  type: arranging
+  variantOf: AXI
+  hasDirection: true
+  id: EXT
+
+- name: diverging along a coordinate axis
+  description: (in opposite dir.)
+  type: arranging
+  variantOf: AXI
+  hasDirection: true
+  id: DIV
+
+- name: ranging along a coordinate axis
+  description: (spanning 2 values)
+  type: arranging
+  variantOf: AXI
+  hasDirection: true
+  id: RAN
+
+- name: ternary positioning along three axes
+  description: (in ternary plots)
+  type: arranging
+  variantOf: AXI
+  hasDirection: true
+  id: TER
 
 - name: proportional space-filling
   description: shows proportions of a total by sizing and arranging partitions (or repeating and arranging blocks) into a contiguous total surface area.
   type: arranging
+  hasDirection: true
+  id: PSF
 
 - name: ordering
   description: shows order by arrangement into a sequential spatial order, or into spatially ordered levels of indenting.
   type: arranging
+  hasDirection: true
+  id: ORG
 
 - name: grouping by position
   description: shows category membership by spatial proximity or alignment.
   type: arranging
+  hasDirection: true
+  id: GRP
 
 - name: coupling by adjacency
   description: shows the presence of a given relationship between two entities by placing one visual component next to another visual component (from the same set1). In the case of a linear non-branching sequence of components, we speak of ordering rather than coupling by adjacency.
   type: arranging
+  id: ADJ
 
 - name: nesting
   description: shows the presence of a given hierarchical (or sequential) relationship between two entities by spatial containment of one visual component within another (from the same set1). Usually, nesting comes with grouping by boundary and it is the boundaries (around components) that are nested (creating levels of containment).
   type: arranging
+  id: NES
 
 - name: connecting
   description: shows the presence of a given relationship between two entities through the use of a configurator component that establishes a pathway between two visual components (from the same set1), e.g. two symbols connected with a line or arrow.
   type: linking
+  id: CON
 
 - name: grouping by boundary
   description: shows category membership (or the presence of a given relationship between two entities) by grouping visual components using a configurator component such as a demarcating line, enclosure or shared background.
   type: linking
+  id: BOU
 
 - name: sizing
   description: shows quantities or order by varying the surface area of visual components.
   type: varying
+  hasDirection: true
+  id: SIZ
+
+- name: sizing of bars
+  type: varying
+  variantOf: SIZ
+  id: SBA
+
+- name: sizing of partitions
+  type: varying
+  variantOf: SIZ
+  id: SPA
+
+- name: sizing band width
+  type: varying
+  variantOf: SIZ
+  id: SBW
 
 - name: repeating
   description: shows quantities or order by the use of multiples of visual components.
   type: varying
+  id: REP
 
 - name: gradient coding
   description: shows order by the use of gradated differences in brightness or saturation, transparency, fuzziness, etc.
   type: varying
+  id: GRA
 
 - name: colour coding
   description: shows category membership by the use of colour.
   type: varying
+  id: COL
 
 - name: shape coding
   description: shows category membership by the use of shape.
   type: varying
+  id: SHA
+
+# below are layout principles (not a visualization techniques)
 
 - name: positioning in an array of dimensions
   description: (in parallel coordinates and radar charts)
-  type: varying
+  type: layout principle
+
+- name: placement in a grid
+  description: 
+  type: layout principle
+  
