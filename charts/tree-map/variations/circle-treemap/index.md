@@ -9,7 +9,7 @@ visualizationTechniques:
   - nesting
 
 informationTypes:
-  - relationship
+  - relationships between entities
 
 tools:
 
