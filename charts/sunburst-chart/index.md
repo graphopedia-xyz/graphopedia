@@ -6,7 +6,9 @@ functions:
 - network of relationships
 
 visualizationTechniques:
-  - coupling by adjacency
+  - techniqueId: ADJ
+    informationType: relationships between entities
+
 
 informationTypes:
   - relationships between entities

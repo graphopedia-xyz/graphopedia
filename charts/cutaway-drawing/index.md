@@ -4,7 +4,9 @@ title:  cutaway drawing
 functions:
 
 visualizationTechniques:
- - picturing
+  - techniqueId: PIC
+    informationType: visual appearance
+
 
 tools:
 

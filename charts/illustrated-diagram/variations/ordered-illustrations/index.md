@@ -4,7 +4,8 @@ title: ordered illustrations
 functions:
 
 visualizationTechniques:
-  - picturing
+  - techniqueId: PIC
+     informationType: visual appearance
 
 tools:
 

@@ -4,7 +4,8 @@ title:  pictogram
 functions:
 
 visualizationTechniques:
- - picturing
+  - techniqueId: PIC
+    informationType: visual appearance
 
 tools:
   - name:   Adobe Illustrator

@@ -4,7 +4,8 @@ title:  multiple exposure diagram
 functions:
 
 visualizationTechniques:
- - picturing
+  - techniqueId: PIC
+    informationType: visual appearancesss
 
 tools:
   - name:   Adobe Illustrator

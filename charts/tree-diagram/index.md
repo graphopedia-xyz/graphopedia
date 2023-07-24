@@ -6,7 +6,8 @@ functions:
   - hierarchy
 
 visualizationTechniques:
-  - connecting
+  - techniqueId: CON
+    informationType: relationships between entities
 
 related:
   - flow-map

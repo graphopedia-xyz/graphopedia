@@ -5,13 +5,13 @@ functions:
   - comparison
   - change over time
 
-visualizationTechniques2:
+visualizationTechniques:
   - techniqueId: AXI
     informationType: quantity
     axisDirection: vertical
 
-  - techniqueId: SBA
-    informationType: quantity
+  - techniqueId: CON
+    informationType: relationship
 
 
 related:

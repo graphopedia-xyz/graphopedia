@@ -6,7 +6,9 @@ functions:
   - correlation
 
 visualizationTechniques:
-  - positioning along a coordinate axis
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
 
 informationTypes:
   - point in time

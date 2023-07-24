@@ -6,7 +6,8 @@ functions:
   - network of relationships
 
 visualizationTechniques:
-  - repeating
+  - techniqueId: REP
+    informationType: quantity
 
 related:
   - dendrogram

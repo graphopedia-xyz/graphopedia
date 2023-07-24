@@ -5,7 +5,9 @@ functions:
   - comparison
 
 visualizationTechniques:
-  - sizing
+  - techniqueId: SIZ
+    informationType: quantity
+
 
 related:
   - bubble-chart

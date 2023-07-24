@@ -5,7 +5,7 @@ functions:
 - comparison
 - change over time
 
-visualizationTechniques2:
+visualizationTechniques:
   - techniqueId: AXI
     informationType: quantity
     axisDirection: angular

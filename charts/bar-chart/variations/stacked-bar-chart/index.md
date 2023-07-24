@@ -5,7 +5,7 @@ functions:
 - comparison
 - change over time
 
-visualizationTechniques2:
+visualizationTechniques:
   - techniqueId: AXI
     informationType: quantity
     axisDirection: vertical
@@ -20,15 +20,6 @@ visualizationTechniques2:
   - techniqueId: COL
     informationType: category
 
-
-visualizationTechniques:
-  - sizing
-  - positioning along a coordinate axis
-  - colour coding
-
-informationTypes:
-  - quantity
-  - category
 
 examples:
   - title: The Space Race Is Dominated By New Contenders

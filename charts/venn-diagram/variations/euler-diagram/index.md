@@ -5,7 +5,9 @@ functions:
 - part-to-whole relationship
 
 visualizationTechniques:
-  - grouping by boundary
+  - techniqueId: CON
+    informationType: relationships between entities
+
 
 tools:
 

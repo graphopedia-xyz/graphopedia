@@ -5,7 +5,7 @@ functions:
   - distribution
   - correlation
 
-visualizationTechniques2:
+visualizationTechniques:
   - techniqueId: AXI
     informationType: quantity
     axisDirection: horizontal

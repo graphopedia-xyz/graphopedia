@@ -5,7 +5,9 @@ functions:
 - geospatial data
 
 visualizationTechniques:
-  - mapping
+  - techniqueId: MAP
+    informationType: spatial location
+
 
 related:
   - bubble-map

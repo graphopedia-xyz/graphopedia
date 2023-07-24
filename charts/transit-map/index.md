@@ -5,7 +5,9 @@ functions:
   - concept visualization
 
 visualizationTechniques:
-  - colour coding
+  - techniqueId: COL
+    informationType: category
+
 
 related:
 

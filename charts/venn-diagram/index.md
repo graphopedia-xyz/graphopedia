@@ -5,7 +5,8 @@ functions:
 - part-to-whole relationship
 
 visualizationTechniques:
-  - grouping by boundary
+  - techniqueId: BOU
+    informationType: category
 
 
 related:

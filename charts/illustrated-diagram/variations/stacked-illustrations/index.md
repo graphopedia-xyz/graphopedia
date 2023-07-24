@@ -4,7 +4,8 @@ title: stacked illustrations
 functions:
 
 visualizationTechniques:
-  - picturing
+  - techniqueId: PIC
+    informationType: visual appearance
 
 tools:
 

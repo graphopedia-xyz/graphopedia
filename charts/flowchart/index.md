@@ -6,7 +6,8 @@ functions:
   - part-to-whole relationship
 
 visualizationTechniques:
-  - connecting
+  - techniqueId: CON
+    informationType: relationships between entities
 
 tools:
   - name:   Drawio

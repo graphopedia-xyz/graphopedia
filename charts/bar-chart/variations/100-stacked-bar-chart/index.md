@@ -3,7 +3,7 @@ title: 100% stacked bar chart
   
 functions:
 
-visualizationTechniques2:
+visualizationTechniques:
   - techniqueId: AXI
     informationType: quantity
     axisDirection: vertical

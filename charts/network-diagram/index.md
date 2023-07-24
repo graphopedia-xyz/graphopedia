@@ -5,7 +5,9 @@ functions:
 - network of relationships
 
 visualizationTechniques:
-  - connecting
+  - techniqueId: CON
+    informationType: relationships between entities
+
 
 related:
 
