@@ -6,11 +6,14 @@ functions:
   - correlation
 
 visualizationTechniques:
-  - positioning along a coordinate axis
-  - connecting
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
+  
+  - techniqueId: CON
+    infoTypeDerived: order
+    informationType: relationships between entities
 
-axisDirections:
-  - vertical
 
 related:
 

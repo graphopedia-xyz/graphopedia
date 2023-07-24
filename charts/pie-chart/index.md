@@ -5,10 +5,10 @@ functions:
   - part-to-whole relationship
 
 visualizationTechniques:
-  - proportional space-filling
+  - techniqueId: PSF
+    informationType: proportion
+    axisDirections: angular
 
-axisDirections:
-  - angular
 
 related:
   - bar-chart

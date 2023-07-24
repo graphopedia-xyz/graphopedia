@@ -6,10 +6,9 @@ functions:
   - hierarchy
 
 visualizationTechniques:
-  - nesting
+  - techniqueId: CON
+    informationType: relationships between entities
 
-informationTypes:
-  - relationships between entities
 
 tools:
 

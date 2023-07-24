@@ -6,7 +6,8 @@ functions:
 - comparison
 
 visualizationTechniques:
-  - repeating
+  - techniqueId: REP
+     informationType: quantity
 
 related:
   - tape-diagram

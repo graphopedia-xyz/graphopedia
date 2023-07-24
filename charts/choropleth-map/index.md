@@ -5,8 +5,10 @@ functions:
 - geospatial data
 
 visualizationTechniques:
-  - gradient coding
-  - mapping
+  - techniqueId: MAP
+    informationType: spatial location
+  - techniqueId: GRA
+    informationType: order
 
 related:
   - dot-distribution-map

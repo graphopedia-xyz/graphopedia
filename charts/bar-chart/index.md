@@ -6,11 +6,13 @@ functions:
   - change over time
 
 visualizationTechniques:
-  - sizing
-  - positioning along a coordinate axis
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
 
-informationTypes:
-  - quantity
+  - techniqueId: CON
+    informationType: relationship
+
 
 related:
   - histogram

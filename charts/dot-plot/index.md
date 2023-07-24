@@ -5,7 +5,9 @@ functions:
   - distribution
 
 visualizationTechniques:
-  - repeating
+  - techniqueId: REP
+    informationType: quantity
+
 
 related:
   - bar-chart

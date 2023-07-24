@@ -6,10 +6,9 @@ functions:
   - hierarchy
 
 visualizationTechniques:
-  - proportional space-filling
+  - techniqueId: PSF
+    informationType: proportion
 
-informationTypes:
-  - proportion
 
 related:
   - sunburst-chart

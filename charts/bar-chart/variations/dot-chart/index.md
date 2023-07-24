@@ -5,6 +5,14 @@ functions:
 - comparison
 - change over time
 
+visualizationTechniques:
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
+
+  - techniqueId: SBA
+    informationType: quantity
+
 examples:
 
 synonyms:

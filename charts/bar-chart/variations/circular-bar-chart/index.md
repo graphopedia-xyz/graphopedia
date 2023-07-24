@@ -6,8 +6,12 @@ functions:
 - change over time
 
 visualizationTechniques:
-  - sizing
-  - positioning along a coordinate axis
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: radial
+  
+  - techniqueId: SBA
+    informationType: quantity
 
 informationTypes:
   - quantity

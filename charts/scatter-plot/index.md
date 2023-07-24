@@ -6,11 +6,14 @@ functions:
   - correlation
 
 visualizationTechniques:
-  - positioning along a coordinate axis
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: horizontal
 
-axisDirections:
-  - horizontal
-  - vertical
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
+
 
 related:
   - bubble-chart

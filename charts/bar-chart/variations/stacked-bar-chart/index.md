@@ -6,13 +6,20 @@ functions:
 - change over time
 
 visualizationTechniques:
-  - sizing
-  - positioning along a coordinate axis
-  - colour coding
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
 
-informationTypes:
-  - quantity
-  - category
+  - techniqueId: PSF
+    informationType: proportion
+    axisDirection: vertical
+
+  - techniqueId: SBA
+    informationType: quantity
+
+  - techniqueId: COL
+    informationType: category
+
 
 examples:
   - title: The Space Race Is Dominated By New Contenders

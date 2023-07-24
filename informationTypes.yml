@@ -3,75 +3,74 @@
 # Description is used on a tag page and in SEO meta tag. Name is used in lists
 
 - name: visual appearance
+  id: VAP
   questionAnswered: what does it look like?
   description: "examples: 🍏 or 🍐; as shown in: e.g. pictures"
-  id: VAP
 
 - name: spatial location
+  id: LOC
   questionAnswered: where?
   description: "examples: longitudes and latitudes of geographic positions; as shown in: e.g. in maps"
   atributeType: quantitative
-  id: LOC
 
 - name: point in time
+  id: TIM
   questionAnswered: when?
   description: "examples: at 9:30 am or at 4:12 pm; in the year 1066 or in the year 1812; as shown in: e.g. in timelines"
   atributeType: quantitative
-  id: TIM
 
 - name: pair of points in time
+  id: PPT
   questionAnswered: which time range?
   description: "examples: from 9:00 am to 5:00 pm; as shown in: e.g. in Gantt charts"
   atributeType: quantitative
   variantOf: TIM
-  id: PPT
 
 - name: quantity
+  id: QUA
   questionAnswered: how much or how many?
   description: "examples: 50 or 100 kilograms of coffee beans; 12.000 or 17.000 euro; as shown in: e.g. in bar charts"
   atributeType: quantitative
-  id: QUA
 
 - name: pair of quantities
-  questionAnswered: Which pair of quantities?
+  id: PQU
+  questionAnswered: which pair of quantities?
   description: "examples: 12.000 euro and 17.000 euro; as shown in: e.g. in dumbbell charts"
   atributeType: quantitative
   variantOf: QUA
-  id: PQU
 
 - name: proportion
+  id: PRO
   questionAnswered: what proportion?
   description: "examples: a third, a quarter, a half x; as shown in: e.g. in pie charts"
   atributeType: quantitative
-  id: PRO
 
 - name: two proportions of a total
   questionAnswered: which two proportions?
   description: "examples: 40% + 60% (= 100%); as shown in: e.g. in diverging 100% bars"
   atributeType: quantitative
   variantOf: PRO
-  id: 2PR
 
 - name: three proportions of a total
+  id: 3PR
   questionAnswered: which three proportions?
   description: "examples: 10% + 30% + 60% (= 100%); as shown in: e.g. in ternary plots"
   atributeType: quantitative
   variantOf: PRO
-  id: 3PR
 
 - name: order
-  questionAnswered: Which order or ranking?
+  id: ORD
+  questionAnswered: which order or ranking?
   description: "examples: best, second best, third best; cold, warm or hot; as shown in: e.g. in bump charts"
   atributeType: ordinal
-  id: ORD
 
 - name: category
+  id: CAT
   questionAnswered: which group or category?
   description: "examples: cat or dog; Republican or Democrat; as shown in: e.g. in tables"
   atributeType: nominal
-  id: CAT
 
-- name: relationships between entities 
+- name: relationships between entities
+  id: REL 
   questionAnswered: does a given relationship hold (between 2 entities)?
   description: "examples: symmetrical relationship, e.g. A ‘is friends with’ B; C ‘is connected to’ D; as shown in: e.g. in network graphs | asymmetrical relationship, e.g. A ‘is causing’ B; C ‘is a child of’ D; as shown in: e.g. in flow charts"
-  id: REL

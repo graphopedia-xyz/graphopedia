@@ -4,7 +4,8 @@ title: unordered illustrations
 functions:
 
 visualizationTechniques:
-  - picturing
+  - techniqueId: PIC
+     informationType: visual appearance
 
 tools:
 

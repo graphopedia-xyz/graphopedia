@@ -6,11 +6,13 @@ functions:
   - part-to-whole relationship
 
 visualizationTechniques:
-  - proportional space-filling
-  - connecting
+  - techniqueId: PSF
+    informationType: proportion
+    axisDirection: angular
 
-axisDirections:
-  - angular
+  - techniqueId: CON
+    informationType: relationships between entities
+
 
 related:
   - sankey-chart

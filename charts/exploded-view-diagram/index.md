@@ -4,7 +4,8 @@ title: exploded view diagram
 functions:
 
 visualizationTechniques:
- - picturing
+  - techniqueId: PIC
+    informationType: visual appearance
 
 tools:
 

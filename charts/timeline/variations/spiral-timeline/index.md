@@ -5,7 +5,9 @@ functions:
   - change over time
 
 visualizationTechniques:
-  - positioning along a coordinate axis
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
 
 axisDirections:
   - spiral

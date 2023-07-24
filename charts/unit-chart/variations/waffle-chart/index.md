@@ -5,7 +5,8 @@ functions:
   - comparison
 
 visualizationTechniques:
-  - repeating
+  - techniqueId: REP
+     informationType: quantity
 
 tools:
 

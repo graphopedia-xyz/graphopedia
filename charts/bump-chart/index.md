@@ -5,7 +5,12 @@ functions:
 - change over time
 
 visualizationTechniques:
-  - ordering
+  - techniqueID: ORG
+    informationType: order
+    axisDirection: vertical
+  
+  - techniqueID: COL
+    informationType: category
 
 related:
 

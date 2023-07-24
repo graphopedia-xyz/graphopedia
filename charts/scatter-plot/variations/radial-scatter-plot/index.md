@@ -5,11 +5,14 @@ functions:
 - correlation
 
 visualizationTechniques:
-  - positioning along a coordinate axis
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: radial
 
-axisDirections:
-  - radial
-  - angular
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: angular
+
 
 tools:
 
