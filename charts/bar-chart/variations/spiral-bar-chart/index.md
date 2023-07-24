@@ -5,13 +5,13 @@ functions:
     - comparison
     - change over time
 
-visualizationTechniques:
-  - sizing
-  - positioning along a coordinate axis
-
-informationTypes:
-  - point in time
-  - quantity
+visualizationTechniques2:
+  - techniqueId: AXI
+    informationType: point in time
+    axisDirection: spiral
+  
+  - techniqueId: SBA
+    informationType: quantity
 
 tools:
     - name:   Charticulator (generator for spiral bar chart)

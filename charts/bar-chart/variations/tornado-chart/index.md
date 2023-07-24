@@ -5,13 +5,18 @@ functions:
 - comparison
 - change over time
 
-visualizationTechniques:
-  - sizing
-  - positioning along a coordinate axis
-  - ordering
+visualizationTechniques2:
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: horizontals
 
-informationTypes:
-  - quantity
+  - techniqueId: ORG
+    infoTypeDerived: quantity
+    informationType: order
+    axisDirection: vertical
+
+  - techniqueId: SBA
+    informationType: quantity
 
 examples:
 

@@ -5,6 +5,22 @@ functions:
 - comparison
 - change over time
 
+visualizationTechniques2:
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
+
+  - techniqueId: PSF
+    informationType: proportion
+    axisDirection: vertical
+
+  - techniqueId: SBA
+    informationType: quantity
+
+  - techniqueId: COL
+    informationType: category
+
+
 visualizationTechniques:
   - sizing
   - positioning along a coordinate axis

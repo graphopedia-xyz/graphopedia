@@ -5,12 +5,15 @@ functions:
   - distribution
   - correlation
 
-visualizationTechniques:
-  - positioning along a coordinate axis
+visualizationTechniques2:
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: horizontal
 
-axisDirections:
-  - horizontal
-  - vertical
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: vertical
+
 
 related:
   - bubble-chart

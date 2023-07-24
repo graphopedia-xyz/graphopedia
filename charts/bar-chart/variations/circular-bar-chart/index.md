@@ -5,9 +5,13 @@ functions:
 - comparison
 - change over time
 
-visualizationTechniques:
-  - sizing
-  - positioning along a coordinate axis
+visualizationTechniques2:
+  - techniqueId: AXI
+    informationType: quantity
+    axisDirection: radial
+  
+  - techniqueId: SBA
+    informationType: quantity
 
 informationTypes:
   - quantity
