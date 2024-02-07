@@ -6,7 +6,7 @@ functions:
 
 visualizationTechniques:
   - techniqueId: REP
-     informationType: quantity
+    informationType: quantity
 
 tools:
 

@@ -7,7 +7,7 @@ functions:
 
 visualizationTechniques:
   - techniqueId: REP
-     informationType: quantity
+    informationType: quantity
 
 related:
   - tape-diagram

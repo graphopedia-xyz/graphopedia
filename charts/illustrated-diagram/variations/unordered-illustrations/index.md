@@ -5,7 +5,7 @@ functions:
 
 visualizationTechniques:
   - techniqueId: PIC
-     informationType: visual appearance
+    informationType: visual appearance
 
 tools:
 
